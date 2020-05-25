@@ -25,6 +25,7 @@ jobs:
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
       with:
+        commit_message: Save origin images
         target_branch: origin
         build_dir: origin
       env:
