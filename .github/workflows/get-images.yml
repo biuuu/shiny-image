@@ -1,0 +1,31 @@
+name: Get Images
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'image-info.json'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Download Image
+      run: |
+        yarn --frozen-lockfile
+        yarn get
+    - name: Deploy
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        target_branch: origin
+        build_dir: origin
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

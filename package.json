@@ -1,0 +1,16 @@
+{
+  "name": "shiny-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "get": "node ./src/get-image.js",
+    "replace": "node ./src/replace.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.4",
+    "sharp": "^0.25.3"
+  }
+}
