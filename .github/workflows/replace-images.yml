@@ -1,6 +1,8 @@
 name: Replace Images
 
 on:
+  repository_dispatch:
+    types: [ update-image ]
   push:
     branches:
       - master
