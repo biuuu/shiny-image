@@ -41,7 +41,7 @@ const start = async () => {
   const files = await glob.promise('./images/*/*.png')
   const imageMap = new Map()
   for (let file of files) {
-    let rs = file.match(/trans\/(.+)\/(.+\.png)/)
+    let rs = file.match(/images\/(.+)\/(.+\.png)/)
     const name1 = rs[1]
     const name2 = rs[2]
     if (!imageMap.has(name1)) {
