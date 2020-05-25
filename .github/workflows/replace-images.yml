@@ -31,6 +31,7 @@ jobs:
         node-version: '12.x'
     - name: Replace Image
       run: |
+        cd repoMaster
         yarn --frozen-lockfile
         yarn replace
     - name: Deploy
@@ -39,6 +40,6 @@ jobs:
       with:
         commit_message: Save transed images
         target_branch: transed
-        build_dir: dist
+        build_dir: repoMaster/dist
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
