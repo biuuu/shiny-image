@@ -1,0 +1,44 @@
+name: Replace Images
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'images/**'
+      - 'src/**'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+        path: repoMaster
+    - name: Checkout origin images
+      uses: actions/checkout@v2
+      with:
+        ref: origin
+        path: origin
+    - name: Move files
+      run: |
+        cp -r origin/ repoMaster/
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Replace Image
+      run: |
+        yarn --frozen-lockfile
+        yarn replace
+    - name: Deploy
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        commit_message: Save transed images
+        target_branch: transed
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

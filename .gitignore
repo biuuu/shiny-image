@@ -2,6 +2,7 @@
 local/
 node_modules/
 dist/
+origin/
 temp/
 yarn-error.log
 npm-debug.log
