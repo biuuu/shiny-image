@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'image-info.json'
+      - 'image-list.json'
 
 jobs:
   main:
