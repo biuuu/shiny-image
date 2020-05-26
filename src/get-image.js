@@ -11,13 +11,13 @@ const extract = async (name, frames) => {
       width = frames[key].frame.h
       height = frames[key].frame.w
     }
-    await fs.ensureDir(`./origin/${name.replace('.webp', '')}/`)
+    await fs.ensureDir(`./origin/${name.replace('.png', '')}/`)
     let temp =  sharp(`./origin/${name}`).extract({ left, top, width, height })
     if (frames[key].rotated) {
       temp = temp.rotate(-90)
     }
     await temp.png()
-    .toFile(`./origin/${name.replace('.webp', '')}/${key}`)
+    .toFile(`./origin/${name.replace('.png', '')}/${key}`)
     .catch(err => {
       console.error(err)
     })
@@ -30,7 +30,7 @@ const start = async () => {
     let key = name.replace(/\.json_image$/, '')
     if (info[key]) {
       let url = `https://shinycolors.enza.fun${info[key].url}`
-      let imageName = key.replace('images/ui/', '').replace(/\//g, '_') + '.webp'
+      let imageName = key.replace('images/ui/', '').replace(/\//g, '_') + '.png'
       console.log('download', imageName)
       await downloadImage(url, './origin/', imageName)
       await extract(imageName, info[key].frames)

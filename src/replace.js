@@ -53,7 +53,7 @@ const start = async () => {
   for (let [key, list] of imageMap) {
     let frames = info[key].frames
     let paramsOver = []
-    const imageBuffer = await sharp(`./origin/${key}.webp`).raw().toBuffer({ resolveWithObject: true })
+    const imageBuffer = await sharp(`./origin/${key}.png`).raw().toBuffer({ resolveWithObject: true })
     for (let name of list) {
       let frame = frames[name].frame
       let { x: left, y: top, w: width, h: height } = frame
