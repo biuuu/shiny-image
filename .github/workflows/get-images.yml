@@ -1,6 +1,8 @@
 name: Get Images
 
 on:
+  repository_dispatch:
+    types: [ get-image ]
   push:
     branches:
       - master
