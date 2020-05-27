@@ -24,9 +24,28 @@ jobs:
       with:
         ref: origin
         path: origin
+    - name: Checkout group images
+      uses: actions/checkout@v2
+      with:
+        repository: ShinyGroup/ShinyImage
+        path: repoGroup
     - name: Move files
       run: |
         cp -r origin/ repoMaster/
+        cp -r repoGroup/images/ repoMaster/
+    - name: Commit changes
+      run: |
+        cd repoMaster
+        git add --a
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "tenka"
+        echo "::set-env name=commit_state::$(git commit -m 'Update image' | tr '\n' ' ')"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: master
+        directory: repoMaster
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
