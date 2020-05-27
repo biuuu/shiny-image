@@ -34,5 +34,6 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         branch: master
+        repository: ShinyGroup/SCTranslationData
         directory: repoData
         github_token: ${{ secrets.DISPATCH_TOKEN }}
