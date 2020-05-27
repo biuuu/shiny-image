@@ -3,9 +3,9 @@ const fs = require('fs-extra')
 const imageminPngquant = require('imagemin-pngquant')
 
 const start = async () => {
-  await fs.emptyDir('./temp/')
-	await imagemin(['./dist/*.png'], {
-		destination: './temp/',
+	console.log('compressing...')
+	await imagemin(['./temp/*.png'], {
+		destination: './dist/image/',
 		plugins: [
 			imageminPngquant({
 				quality: [0.5, 0.6]
@@ -14,4 +14,4 @@ const start = async () => {
 	})
 }
 
-start()
+module.exports = start

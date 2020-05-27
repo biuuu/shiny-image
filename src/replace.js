@@ -3,8 +3,9 @@ const info = require('../image-info.json')
 const sharp = require('sharp')
 const fs = require('fs-extra')
 const md5 = require('md5-file')
-const CSV = require('papaparse'
-)
+const CSV = require('papaparse')
+const compress = require('./compress')
+
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
   return new Promise(function (resolve, reject) {
@@ -85,11 +86,11 @@ const start = async () => {
     })
     .composite(paramsOver)
     .png()
-    .toFile(`./dist/${key}.png`)
+    .toFile(`./temp/${key}.png`)
 
     console.log('save:', key)
 
-    let md5Value = await md5(`./dist/${key}.png`)
+    let md5Value = await md5(`./temp/${key}.png`)
     imageMd5[key] = md5Value
     csvList.push({
       name: info[key].name + '.json_image',
@@ -97,6 +98,7 @@ const start = async () => {
       version: info[key].v
     })
   }
+  await compress()
   await fs.outputJSON(`./dist/image-md5.json`, imageMd5)
   await fs.outputFile('./dist/image.csv', CSV.unparse(csvList))
 }

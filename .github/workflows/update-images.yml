@@ -1,0 +1,38 @@
+name: Update Images
+
+on:
+  repository_dispatch:
+    types: [ update-image ]
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        path: repoImage
+    - name: Checkout data repo
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.DISPATCH_TOKEN }}
+        repository: ShinyGroup/SCTranslationData
+        path: repoData
+    - name: Move files
+      run: |
+        cp -r repoImage/image/ repoData/data/
+        cp repoImage/image.csv repoData/data/etc/image.csv
+    - name: Commit changes
+      run: |
+        cd repoData
+        git add --a
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "tenka"
+        echo "::set-env name=commit_state::$(git commit -m 'Update image' | tr '\n' ' ')"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: master
+        directory: repoData
+        github_token: ${{ secrets.DISPATCH_TOKEN }}

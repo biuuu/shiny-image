@@ -2,7 +2,7 @@ name: Replace Images
 
 on:
   repository_dispatch:
-    types: [ update-image ]
+    types: [ replace-image ]
   push:
     branches:
       - master
@@ -44,3 +44,9 @@ jobs:
         build_dir: repoMaster/dist
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Repository Dispatch
+      if: success()
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.DISPATCH_TOKEN }}
+        event-type: update-image
