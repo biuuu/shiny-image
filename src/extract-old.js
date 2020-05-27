@@ -9,7 +9,7 @@ glob.promise = function (pattern, options) {
     var g = new Glob(pattern, options)
     g.once('end', resolve)
     g.once('error', reject)
-  })   
+  })
 }
 
 const infoName = () => {
@@ -42,4 +42,4 @@ const extract = async (name) => {
   }
 }
 
-extract('produce_ability_parts')
+extract('produce_block_parts')
