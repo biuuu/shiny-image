@@ -9245,8 +9245,8 @@
   "images/ui/option/parts": {
     "name": "images/ui/option/parts",
     "ext": ".png",
-    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=15",
-    "v": 15,
+    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=16",
+    "v": 16,
     "frames": {
       "bar_base.png": {
         "frame": {
@@ -9322,8 +9322,8 @@
       },
       "btn_enter_setting.png": {
         "frame": {
-          "x": 311,
-          "y": 454,
+          "x": 469,
+          "y": 572,
           "w": 148,
           "h": 70
         },
@@ -9332,7 +9332,7 @@
       "btn_home_setting.png": {
         "frame": {
           "x": 159,
-          "y": 591,
+          "y": 707,
           "w": 148,
           "h": 60
         },
@@ -9340,8 +9340,8 @@
       },
       "btn_home_setting_on.png": {
         "frame": {
-          "x": 463,
-          "y": 572,
+          "x": 311,
+          "y": 591,
           "w": 148,
           "h": 60
         },
@@ -9349,8 +9349,8 @@
       },
       "btn_produce_setting.png": {
         "frame": {
-          "x": 311,
-          "y": 602,
+          "x": 159,
+          "y": 591,
           "w": 148,
           "h": 60
         },
@@ -9358,8 +9358,8 @@
       },
       "btn_produce_setting_on.png": {
         "frame": {
-          "x": 159,
-          "y": 655,
+          "x": 463,
+          "y": 646,
           "w": 148,
           "h": 60
         },
@@ -9367,8 +9367,8 @@
       },
       "btn_push_notification.png": {
         "frame": {
-          "x": 159,
-          "y": 719,
+          "x": 311,
+          "y": 655,
           "w": 148,
           "h": 60
         },
@@ -9377,7 +9377,7 @@
       "btn_push_notification_on.png": {
         "frame": {
           "x": 159,
-          "y": 783,
+          "y": 771,
           "w": 148,
           "h": 60
         },
@@ -9403,8 +9403,8 @@
       },
       "btn_sound_setting.png": {
         "frame": {
-          "x": 615,
-          "y": 633,
+          "x": 311,
+          "y": 719,
           "w": 148,
           "h": 60
         },
@@ -9412,8 +9412,8 @@
       },
       "btn_sound_setting_on.png": {
         "frame": {
-          "x": 463,
-          "y": 636,
+          "x": 311,
+          "y": 783,
           "w": 148,
           "h": 60
         },
@@ -9421,8 +9421,8 @@
       },
       "btn_twitter_profile.png": {
         "frame": {
-          "x": 311,
-          "y": 666,
+          "x": 463,
+          "y": 710,
           "w": 148,
           "h": 60
         },
@@ -9430,8 +9430,8 @@
       },
       "btn_twitter_profile_on.png": {
         "frame": {
-          "x": 311,
-          "y": 730,
+          "x": 463,
+          "y": 774,
           "w": 148,
           "h": 60
         },
@@ -9457,8 +9457,8 @@
       },
       "favorite_idol_change_button.png": {
         "frame": {
-          "x": 311,
-          "y": 528,
+          "x": 621,
+          "y": 633,
           "w": 148,
           "h": 70
         },
@@ -9500,7 +9500,7 @@
         },
         "rotated": false
       },
-      "icon_hint.png": {
+      "icon_conversation.png": {
         "frame": {
           "x": 473,
           "y": 469,
@@ -9509,7 +9509,7 @@
         },
         "rotated": false
       },
-      "icon_new_event_speed.png": {
+      "icon_hint.png": {
         "frame": {
           "x": 631,
           "y": 530,
@@ -9518,7 +9518,7 @@
         },
         "rotated": false
       },
-      "icon_prank.png": {
+      "icon_new_event_speed.png": {
         "frame": {
           "x": 1,
           "y": 633,
@@ -9527,7 +9527,7 @@
         },
         "rotated": false
       },
-      "icon_rest_confirm.png": {
+      "icon_prank.png": {
         "frame": {
           "x": 1,
           "y": 736,
@@ -9536,9 +9536,18 @@
         },
         "rotated": false
       },
-      "icon_touch.png": {
+      "icon_rest_confirm.png": {
         "frame": {
           "x": 153,
+          "y": 488,
+          "w": 154,
+          "h": 99
+        },
+        "rotated": false
+      },
+      "icon_touch.png": {
+        "frame": {
+          "x": 311,
           "y": 488,
           "w": 154,
           "h": 99
