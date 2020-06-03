@@ -17,7 +17,7 @@ glob.promise = function (pattern, options) {
 
 const infoName = () => {
   for (let name in info) {
-    let key = name.replace('images/ui/', '').replace(/\//g, '_')
+    let key = name.replace('images/ui/', '').replace('images/tips/', '').replace(/\//g, '_')
     info[key] = info[name]
   }
 }
@@ -41,10 +41,10 @@ const removePixel = (data, imageInfo, rectInfo) => {
 const start = async () => {
   await fs.emptyDir('./dist/')
   await fs.emptyDir('./temp/')
-  const files = await glob.promise('./images/*/*.png')
+  const files = await glob.promise('./images/*/*.{png,jpg}')
   const imageMap = new Map()
   for (let file of files) {
-    let rs = file.match(/images\/(.+)\/(.+\.png)/)
+    let rs = file.match(/images\/(.+)\/(.+\.(png|jpg))/)
     const name1 = rs[1]
     const name2 = rs[2]
     if (!imageMap.has(name1)) {
@@ -56,47 +56,62 @@ const start = async () => {
   const imageMd5 = {}
   const csvList = []
   for (let [key, list] of imageMap) {
-    let frames = info[key].frames
-    let paramsOver = []
-    const imageBuffer = await sharp(`./origin/${key}.png`).raw().toBuffer({ resolveWithObject: true })
-    for (let name of list) {
-      let frame = frames[name].frame
-      let { x: left, y: top, w: width, h: height } = frame
-      let inputOver = `./images/${key}/${name}`
-      if (frames[name].rotated) {
-        [ width, height] = [height, width]
-        inputOver = await sharp(inputOver).rotate(90).toBuffer()
+    if (key === 'tips') {
+      for (let name of list) {
+        const filePath = `./images/tips/${name}`
+        const fileName = name.replace(/\.jpg$/, '')
+        let md5Value = await md5(filePath)
+        imageMd5[fileName] = md5Value
+        await fs.copy(filePath, `./dist/image/tips/${name}`)
+        csvList.push({
+          name: info[fileName].name + info[fileName].ext,
+          url: `tips/${name}`,
+          version: info[fileName].v
+        })
       }
-      removePixel(imageBuffer.data, imageBuffer.info, { left, top, width, height } )
-      paramsOver.push({
-        input: inputOver,
-        top: frame.y,
-        left: frame.x,
-        blend: 'over'
+    } else {
+      let frames = info[key].frames
+      let paramsOver = []
+      const imageBuffer = await sharp(`./origin/${key}.png`).raw().toBuffer({ resolveWithObject: true })
+      for (let name of list) {
+        let frame = frames[name].frame
+        let { x: left, y: top, w: width, h: height } = frame
+        let inputOver = `./images/${key}/${name}`
+        if (frames[name].rotated) {
+          [ width, height] = [height, width]
+          inputOver = await sharp(inputOver).rotate(90).toBuffer()
+        }
+        removePixel(imageBuffer.data, imageBuffer.info, { left, top, width, height } )
+        paramsOver.push({
+          input: inputOver,
+          top: frame.y,
+          left: frame.x,
+          blend: 'over'
+        })
+      }
+  
+      // draw image
+      await sharp(imageBuffer.data, {
+        raw: {
+          width: imageBuffer.info.width,
+          height: imageBuffer.info.height,
+          channels: imageBuffer.info.channels
+        }
+      })
+      .composite(paramsOver)
+      .png()
+      .toFile(`./temp/${key}.png`)
+  
+      console.log('save:', key)
+  
+      let md5Value = await md5(`./temp/${key}.png`)
+      imageMd5[key] = md5Value
+      csvList.push({
+        name: info[key].name + '.json_image',
+        url: key + '.png',
+        version: info[key].v
       })
     }
-
-    // draw image
-    await sharp(imageBuffer.data, {
-      raw: {
-        width: imageBuffer.info.width,
-        height: imageBuffer.info.height,
-        channels: imageBuffer.info.channels
-      }
-    })
-    .composite(paramsOver)
-    .png()
-    .toFile(`./temp/${key}.png`)
-
-    console.log('save:', key)
-
-    let md5Value = await md5(`./temp/${key}.png`)
-    imageMd5[key] = md5Value
-    csvList.push({
-      name: info[key].name + '.json_image',
-      url: key + '.png',
-      version: info[key].v
-    })
   }
   await compress()
   await fs.outputJSON(`./dist/image-md5.json`, imageMd5)

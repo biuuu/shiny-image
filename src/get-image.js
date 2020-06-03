@@ -3,6 +3,7 @@ const imageList = require('../image-list.json')
 const { downloadImage } = require('./utils')
 const sharp = require('sharp')
 const fs = require('fs-extra')
+const { glob } = require('./utils')
 
 const extract = async (name, frames) => {
   for (let key in frames) {
@@ -25,7 +26,7 @@ const extract = async (name, frames) => {
 }
 
 const start = async () => {
-  await fs.emptyDir('./origin/')
+  await fs.ensureDir('./origin/')
   for (let name of imageList) {
     let key = name.replace(/\.json_image$/, '')
     if (info[key]) {
@@ -38,4 +39,29 @@ const start = async () => {
   }
 }
 
-start()
+const downloadTipsImage = async () => {
+  await fs.ensureDir('./origin/tips/')
+  for (let key in info) {
+    if (key.startsWith('images/tips/') && !key.includes('/game_event/')) {
+      let url = `https://shinycolors.enza.fun${info[key].url}`
+      let imageName = key.replace('images/tips/', '').replace(/\//g, '_') + info[key].ext
+      const tips = await glob.promise('*.*', { cwd: './origin/tips/' })
+      if (tips.includes(imageName)) {
+        console.info('skip', imageName)
+      } else {
+        console.log('download', imageName)
+        try {
+          await downloadImage(url, './origin/tips/', imageName)
+        } catch (e) {
+          console.error(e)
+        }
+      }
+    }
+  }
+}
+
+if (process.argv[2] === '-T') {
+  downloadTipsImage()
+} else {
+  start()
+}
