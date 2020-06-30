@@ -9245,8 +9245,8 @@
   "images/ui/option/parts": {
     "name": "images/ui/option/parts",
     "ext": ".png",
-    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=16",
-    "v": 16,
+    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=17",
+    "v": 17,
     "frames": {
       "bar_base.png": {
         "frame": {
@@ -9322,8 +9322,8 @@
       },
       "btn_enter_setting.png": {
         "frame": {
-          "x": 469,
-          "y": 572,
+          "x": 627,
+          "y": 633,
           "w": 148,
           "h": 70
         },
@@ -9331,8 +9331,8 @@
       },
       "btn_home_setting.png": {
         "frame": {
-          "x": 159,
-          "y": 707,
+          "x": 311,
+          "y": 591,
           "w": 148,
           "h": 60
         },
@@ -9340,7 +9340,7 @@
       },
       "btn_home_setting_on.png": {
         "frame": {
-          "x": 311,
+          "x": 159,
           "y": 591,
           "w": 148,
           "h": 60
@@ -9349,8 +9349,8 @@
       },
       "btn_produce_setting.png": {
         "frame": {
-          "x": 159,
-          "y": 591,
+          "x": 311,
+          "y": 655,
           "w": 148,
           "h": 60
         },
@@ -9359,7 +9359,7 @@
       "btn_produce_setting_on.png": {
         "frame": {
           "x": 463,
-          "y": 646,
+          "y": 675,
           "w": 148,
           "h": 60
         },
@@ -9368,7 +9368,7 @@
       "btn_push_notification.png": {
         "frame": {
           "x": 311,
-          "y": 655,
+          "y": 719,
           "w": 148,
           "h": 60
         },
@@ -9377,7 +9377,7 @@
       "btn_push_notification_on.png": {
         "frame": {
           "x": 159,
-          "y": 771,
+          "y": 781,
           "w": 148,
           "h": 60
         },
@@ -9404,7 +9404,7 @@
       "btn_sound_setting.png": {
         "frame": {
           "x": 311,
-          "y": 719,
+          "y": 783,
           "w": 148,
           "h": 60
         },
@@ -9412,8 +9412,8 @@
       },
       "btn_sound_setting_on.png": {
         "frame": {
-          "x": 311,
-          "y": 783,
+          "x": 463,
+          "y": 739,
           "w": 148,
           "h": 60
         },
@@ -9422,7 +9422,7 @@
       "btn_twitter_profile.png": {
         "frame": {
           "x": 463,
-          "y": 710,
+          "y": 803,
           "w": 148,
           "h": 60
         },
@@ -9430,8 +9430,8 @@
       },
       "btn_twitter_profile_on.png": {
         "frame": {
-          "x": 463,
-          "y": 774,
+          "x": 615,
+          "y": 707,
           "w": 148,
           "h": 60
         },
@@ -9457,8 +9457,8 @@
       },
       "favorite_idol_change_button.png": {
         "frame": {
-          "x": 621,
-          "y": 633,
+          "x": 159,
+          "y": 707,
           "w": 148,
           "h": 70
         },
@@ -9509,7 +9509,7 @@
         },
         "rotated": false
       },
-      "icon_hint.png": {
+      "icon_cut_in_event_speed.png": {
         "frame": {
           "x": 631,
           "y": 530,
@@ -9518,7 +9518,7 @@
         },
         "rotated": false
       },
-      "icon_new_event_speed.png": {
+      "icon_hint.png": {
         "frame": {
           "x": 1,
           "y": 633,
@@ -9527,7 +9527,7 @@
         },
         "rotated": false
       },
-      "icon_prank.png": {
+      "icon_new_event_speed.png": {
         "frame": {
           "x": 1,
           "y": 736,
@@ -9536,7 +9536,7 @@
         },
         "rotated": false
       },
-      "icon_rest_confirm.png": {
+      "icon_prank.png": {
         "frame": {
           "x": 153,
           "y": 488,
@@ -9545,10 +9545,19 @@
         },
         "rotated": false
       },
-      "icon_touch.png": {
+      "icon_rest_confirm.png": {
         "frame": {
           "x": 311,
           "y": 488,
+          "w": 154,
+          "h": 99
+        },
+        "rotated": false
+      },
+      "icon_touch.png": {
+        "frame": {
+          "x": 469,
+          "y": 572,
           "w": 154,
           "h": 99
         },
@@ -37908,6 +37917,48 @@
     "name": "images/tips/game_event/80004/012",
     "ext": ".jpg",
     "url": "/assets/c7f6b7667c5ae4a16a9f6d26dd637bb7130806b6ac2c410c2c618be544df5c32?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/34/001": {
+    "name": "images/tips/game_event/34/001",
+    "ext": ".jpg",
+    "url": "/assets/f757d4c774d26201c0e73201a9283a283be70fbfa5be7f20aea254b79a74aef4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/34/002": {
+    "name": "images/tips/game_event/34/002",
+    "ext": ".jpg",
+    "url": "/assets/0cd447349808b9568885cf952f811bb04d14b7fcef3059d155f271b6be9f3cfe?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/34/003": {
+    "name": "images/tips/game_event/34/003",
+    "ext": ".jpg",
+    "url": "/assets/da068f26d8722e151701a5c4dafc2f0603ce510a8bb4d3d57f15f0a9147dee8c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/34/005": {
+    "name": "images/tips/game_event/34/005",
+    "ext": ".jpg",
+    "url": "/assets/6a5d162ebd46e3ba3e5dcbad458f50ca8764d998a57857b0257285effe404387?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50006/001": {
+    "name": "images/tips/game_event/50006/001",
+    "ext": ".jpg",
+    "url": "/assets/0f3bf660ad3adf4921f8c269f3415491ba5e7dedb67691bd78bae8c475f9cd5b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50006/002": {
+    "name": "images/tips/game_event/50006/002",
+    "ext": ".jpg",
+    "url": "/assets/41eb5f88eb118ead65e509f1f75fd96c09e14d46fcc1fed2529804fa861b57fc?v=1",
     "v": 1,
     "frames": null
   }
