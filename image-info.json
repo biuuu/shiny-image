@@ -607,13 +607,22 @@
   "images/ui/idol_detail/parts_support": {
     "name": "images/ui/idol_detail/parts_support",
     "ext": ".png",
-    "url": "/assets/448c16db2f7569dcf733a476588cae79a4b5238a2d9ee52c24a8472dd074127e?v=7",
-    "v": 7,
+    "url": "/assets/448c16db2f7569dcf733a476588cae79a4b5238a2d9ee52c24a8472dd074127e?v=8",
+    "v": 8,
     "frames": {
+      "skill_lock_panel_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 35,
+          "w": 320,
+          "h": 32
+        },
+        "rotated": false
+      },
       "support_idol_detail_exp_gauge.png": {
         "frame": {
           "x": 173,
-          "y": 35,
+          "y": 71,
           "w": 164,
           "h": 18
         },
@@ -622,7 +631,7 @@
       "support_idol_detail_exp_gauge_base.png": {
         "frame": {
           "x": 1,
-          "y": 35,
+          "y": 71,
           "w": 168,
           "h": 22
         },
@@ -631,7 +640,7 @@
       "support_idol_detail_parameter_level_line.png": {
         "frame": {
           "x": 133,
-          "y": 106,
+          "y": 142,
           "w": 94,
           "h": 2
         },
@@ -649,7 +658,7 @@
       "unique_skill_off.png": {
         "frame": {
           "x": 173,
-          "y": 57,
+          "y": 93,
           "w": 130,
           "h": 45
         },
@@ -658,7 +667,7 @@
       "unique_skill_on.png": {
         "frame": {
           "x": 1,
-          "y": 61,
+          "y": 97,
           "w": 128,
           "h": 44
         },
@@ -11982,13 +11991,13 @@
   "images/ui/common/parts_icons": {
     "name": "images/ui/common/parts_icons",
     "ext": ".png",
-    "url": "/assets/380326a29d35f0bd8968cf36916290c37f6aa380729c262121f0813e9107b4a7?v=18",
-    "v": 18,
+    "url": "/assets/380326a29d35f0bd8968cf36916290c37f6aa380729c262121f0813e9107b4a7?v=19",
+    "v": 19,
     "frames": {
       "fes_idol_mark_icon_1001.png": {
         "frame": {
-          "x": 919,
-          "y": 91,
+          "x": 784,
+          "y": 921,
           "w": 44,
           "h": 44
         },
@@ -11996,8 +12005,8 @@
       },
       "fes_idol_mark_icon_1002.png": {
         "frame": {
-          "x": 967,
-          "y": 91,
+          "x": 846,
+          "y": 633,
           "w": 44,
           "h": 44
         },
@@ -12005,8 +12014,8 @@
       },
       "fes_idol_mark_icon_1003.png": {
         "frame": {
-          "x": 518,
-          "y": 539,
+          "x": 846,
+          "y": 681,
           "w": 44,
           "h": 44
         },
@@ -12014,8 +12023,8 @@
       },
       "fes_idol_mark_icon_1004.png": {
         "frame": {
-          "x": 566,
-          "y": 535,
+          "x": 842,
+          "y": 729,
           "w": 44,
           "h": 44
         },
@@ -12023,8 +12032,8 @@
       },
       "fes_idol_mark_icon_1005.png": {
         "frame": {
-          "x": 356,
-          "y": 962,
+          "x": 832,
+          "y": 777,
           "w": 44,
           "h": 44
         },
@@ -12032,8 +12041,8 @@
       },
       "fes_idol_mark_icon_2001.png": {
         "frame": {
-          "x": 960,
-          "y": 349,
+          "x": 832,
+          "y": 825,
           "w": 44,
           "h": 44
         },
@@ -12041,8 +12050,8 @@
       },
       "fes_idol_mark_icon_2002.png": {
         "frame": {
-          "x": 927,
-          "y": 418,
+          "x": 827,
+          "y": 873,
           "w": 44,
           "h": 44
         },
@@ -12050,8 +12059,8 @@
       },
       "fes_idol_mark_icon_2003.png": {
         "frame": {
-          "x": 927,
-          "y": 466,
+          "x": 832,
+          "y": 921,
           "w": 44,
           "h": 44
         },
@@ -12059,8 +12068,8 @@
       },
       "fes_idol_mark_icon_2004.png": {
         "frame": {
-          "x": 814,
-          "y": 495,
+          "x": 894,
+          "y": 630,
           "w": 44,
           "h": 44
         },
@@ -12068,8 +12077,8 @@
       },
       "fes_idol_mark_icon_2005.png": {
         "frame": {
-          "x": 862,
-          "y": 514,
+          "x": 894,
+          "y": 678,
           "w": 44,
           "h": 44
         },
@@ -12077,8 +12086,8 @@
       },
       "fes_idol_mark_icon_2006.png": {
         "frame": {
-          "x": 910,
-          "y": 514,
+          "x": 880,
+          "y": 777,
           "w": 44,
           "h": 44
         },
@@ -12086,8 +12095,8 @@
       },
       "fes_idol_mark_icon_2007.png": {
         "frame": {
-          "x": 958,
-          "y": 514,
+          "x": 880,
+          "y": 825,
           "w": 44,
           "h": 44
         },
@@ -12095,8 +12104,8 @@
       },
       "fes_idol_mark_icon_2008.png": {
         "frame": {
-          "x": 832,
-          "y": 579,
+          "x": 875,
+          "y": 873,
           "w": 44,
           "h": 44
         },
@@ -12104,8 +12113,8 @@
       },
       "fes_idol_mark_icon_2009.png": {
         "frame": {
-          "x": 832,
-          "y": 627,
+          "x": 880,
+          "y": 921,
           "w": 44,
           "h": 44
         },
@@ -12113,8 +12122,8 @@
       },
       "fes_idol_mark_icon_3001.png": {
         "frame": {
-          "x": 832,
-          "y": 675,
+          "x": 890,
+          "y": 729,
           "w": 44,
           "h": 44
         },
@@ -12122,8 +12131,8 @@
       },
       "fes_idol_mark_icon_3002.png": {
         "frame": {
-          "x": 880,
-          "y": 562,
+          "x": 923,
+          "y": 873,
           "w": 44,
           "h": 44
         },
@@ -12131,8 +12140,8 @@
       },
       "fes_idol_mark_icon_3003.png": {
         "frame": {
-          "x": 880,
-          "y": 610,
+          "x": 928,
+          "y": 921,
           "w": 44,
           "h": 44
         },
@@ -12140,8 +12149,8 @@
       },
       "fes_idol_mark_icon_3004.png": {
         "frame": {
-          "x": 928,
-          "y": 562,
+          "x": 971,
+          "y": 397,
           "w": 44,
           "h": 44
         },
@@ -12149,8 +12158,8 @@
       },
       "fes_idol_mark_icon_3005.png": {
         "frame": {
-          "x": 880,
-          "y": 658,
+          "x": 971,
+          "y": 445,
           "w": 44,
           "h": 44
         },
@@ -12158,8 +12167,8 @@
       },
       "fes_idol_mark_icon_3006.png": {
         "frame": {
-          "x": 928,
-          "y": 610,
+          "x": 971,
+          "y": 493,
           "w": 44,
           "h": 44
         },
@@ -12167,8 +12176,8 @@
       },
       "fes_idol_mark_icon_3007.png": {
         "frame": {
-          "x": 928,
-          "y": 658,
+          "x": 971,
+          "y": 541,
           "w": 44,
           "h": 44
         },
@@ -12176,8 +12185,8 @@
       },
       "fes_idol_mark_icon_3008.png": {
         "frame": {
-          "x": 880,
-          "y": 706,
+          "x": 971,
+          "y": 589,
           "w": 44,
           "h": 44
         },
@@ -12185,8 +12194,8 @@
       },
       "fes_idol_mark_icon_3009.png": {
         "frame": {
-          "x": 928,
-          "y": 706,
+          "x": 971,
+          "y": 637,
           "w": 44,
           "h": 44
         },
@@ -12194,8 +12203,8 @@
       },
       "fes_idol_mark_icon_4001.png": {
         "frame": {
-          "x": 832,
-          "y": 723,
+          "x": 971,
+          "y": 685,
           "w": 44,
           "h": 44
         },
@@ -12203,8 +12212,8 @@
       },
       "fes_idol_mark_icon_4002.png": {
         "frame": {
-          "x": 828,
-          "y": 771,
+          "x": 971,
+          "y": 733,
           "w": 44,
           "h": 44
         },
@@ -12212,8 +12221,8 @@
       },
       "fes_idol_mark_icon_4003.png": {
         "frame": {
-          "x": 880,
-          "y": 754,
+          "x": 971,
+          "y": 781,
           "w": 44,
           "h": 44
         },
@@ -12221,8 +12230,8 @@
       },
       "icon_ability.png": {
         "frame": {
-          "x": 616,
-          "y": 976,
+          "x": 146,
+          "y": 984,
           "w": 26,
           "h": 26
         },
@@ -12230,8 +12239,8 @@
       },
       "icon_ability_l.png": {
         "frame": {
-          "x": 660,
-          "y": 769,
+          "x": 552,
+          "y": 979,
           "w": 36,
           "h": 36
         },
@@ -12248,8 +12257,8 @@
       },
       "icon_box_event_point_s.png": {
         "frame": {
-          "x": 975,
-          "y": 437,
+          "x": 976,
+          "y": 957,
           "w": 32,
           "h": 32
         },
@@ -12275,8 +12284,8 @@
       },
       "icon_fes_event_point_s.png": {
         "frame": {
-          "x": 975,
-          "y": 473,
+          "x": 905,
+          "y": 359,
           "w": 32,
           "h": 32
         },
@@ -12293,8 +12302,8 @@
       },
       "icon_fes_idol_rank_l_b.png": {
         "frame": {
-          "x": 308,
-          "y": 649,
+          "x": 460,
+          "y": 381,
           "w": 89,
           "h": 78
         },
@@ -12302,7 +12311,7 @@
       },
       "icon_fes_idol_rank_l_c.png": {
         "frame": {
-          "x": 460,
+          "x": 553,
           "y": 381,
           "w": 89,
           "h": 78
@@ -12311,8 +12320,8 @@
       },
       "icon_fes_idol_rank_l_d.png": {
         "frame": {
-          "x": 553,
-          "y": 381,
+          "x": 156,
+          "y": 823,
           "w": 89,
           "h": 78
         },
@@ -12329,8 +12338,8 @@
       },
       "icon_fes_idol_rank_l_f.png": {
         "frame": {
-          "x": 246,
-          "y": 815,
+          "x": 321,
+          "y": 729,
           "w": 71,
           "h": 78
         },
@@ -12347,8 +12356,8 @@
       },
       "icon_fes_idol_rank_s_a.png": {
         "frame": {
-          "x": 928,
-          "y": 754,
+          "x": 971,
+          "y": 829,
           "w": 44,
           "h": 44
         },
@@ -12356,8 +12365,8 @@
       },
       "icon_fes_idol_rank_s_b.png": {
         "frame": {
-          "x": 876,
-          "y": 802,
+          "x": 784,
+          "y": 969,
           "w": 44,
           "h": 44
         },
@@ -12365,8 +12374,8 @@
       },
       "icon_fes_idol_rank_s_c.png": {
         "frame": {
-          "x": 924,
-          "y": 802,
+          "x": 832,
+          "y": 969,
           "w": 44,
           "h": 44
         },
@@ -12374,8 +12383,8 @@
       },
       "icon_fes_idol_rank_s_d.png": {
         "frame": {
-          "x": 867,
-          "y": 850,
+          "x": 880,
+          "y": 969,
           "w": 44,
           "h": 44
         },
@@ -12383,8 +12392,8 @@
       },
       "icon_fes_idol_rank_s_e.png": {
         "frame": {
-          "x": 915,
-          "y": 850,
+          "x": 928,
+          "y": 969,
           "w": 44,
           "h": 44
         },
@@ -12392,8 +12401,8 @@
       },
       "icon_fes_idol_rank_s_f.png": {
         "frame": {
-          "x": 867,
-          "y": 898,
+          "x": 809,
+          "y": 354,
           "w": 44,
           "h": 44
         },
@@ -12401,8 +12410,8 @@
       },
       "icon_fes_idol_rank_s_s.png": {
         "frame": {
-          "x": 915,
-          "y": 898,
+          "x": 857,
+          "y": 359,
           "w": 44,
           "h": 44
         },
@@ -12419,8 +12428,8 @@
       },
       "icon_idea_mark_dance_empty.png": {
         "frame": {
-          "x": 404,
-          "y": 773,
+          "x": 398,
+          "y": 658,
           "w": 60,
           "h": 68
         },
@@ -12428,8 +12437,8 @@
       },
       "icon_idea_mark_dance_lv_1.png": {
         "frame": {
-          "x": 468,
-          "y": 773,
+          "x": 396,
+          "y": 730,
           "w": 60,
           "h": 68
         },
@@ -12437,8 +12446,8 @@
       },
       "icon_idea_mark_dance_lv_2.png": {
         "frame": {
-          "x": 424,
-          "y": 845,
+          "x": 622,
+          "y": 505,
           "w": 60,
           "h": 68
         },
@@ -12446,8 +12455,8 @@
       },
       "icon_idea_mark_dance_lv_3.png": {
         "frame": {
-          "x": 488,
-          "y": 845,
+          "x": 462,
+          "y": 658,
           "w": 60,
           "h": 68
         },
@@ -12455,8 +12464,8 @@
       },
       "icon_idea_mark_mask.png": {
         "frame": {
-          "x": 424,
-          "y": 917,
+          "x": 460,
+          "y": 730,
           "w": 60,
           "h": 68
         },
@@ -12464,8 +12473,8 @@
       },
       "icon_idea_mark_mental_empty.png": {
         "frame": {
-          "x": 488,
-          "y": 917,
+          "x": 411,
+          "y": 802,
           "w": 60,
           "h": 68
         },
@@ -12473,8 +12482,8 @@
       },
       "icon_idea_mark_mental_lv_1.png": {
         "frame": {
-          "x": 750,
-          "y": 436,
+          "x": 475,
+          "y": 802,
           "w": 60,
           "h": 68
         },
@@ -12482,8 +12491,8 @@
       },
       "icon_idea_mark_mental_lv_2.png": {
         "frame": {
-          "x": 748,
-          "y": 508,
+          "x": 424,
+          "y": 874,
           "w": 60,
           "h": 68
         },
@@ -12491,8 +12500,8 @@
       },
       "icon_idea_mark_mental_lv_3.png": {
         "frame": {
-          "x": 885,
-          "y": 278,
+          "x": 488,
+          "y": 874,
           "w": 60,
           "h": 68
         },
@@ -12500,8 +12509,8 @@
       },
       "icon_idea_mark_skill_point_empty.png": {
         "frame": {
-          "x": 949,
-          "y": 277,
+          "x": 686,
+          "y": 506,
           "w": 60,
           "h": 68
         },
@@ -12509,8 +12518,8 @@
       },
       "icon_idea_mark_skill_point_lv_1.png": {
         "frame": {
-          "x": 512,
-          "y": 587,
+          "x": 750,
+          "y": 506,
           "w": 60,
           "h": 68
         },
@@ -12518,8 +12527,8 @@
       },
       "icon_idea_mark_skill_point_lv_2.png": {
         "frame": {
-          "x": 576,
-          "y": 583,
+          "x": 814,
+          "y": 506,
           "w": 60,
           "h": 68
         },
@@ -12527,8 +12536,8 @@
       },
       "icon_idea_mark_skill_point_lv_3.png": {
         "frame": {
-          "x": 640,
-          "y": 553,
+          "x": 526,
+          "y": 619,
           "w": 60,
           "h": 68
         },
@@ -12536,8 +12545,8 @@
       },
       "icon_idea_mark_special_empty.png": {
         "frame": {
-          "x": 508,
-          "y": 659,
+          "x": 526,
+          "y": 691,
           "w": 60,
           "h": 68
         },
@@ -12545,8 +12554,8 @@
       },
       "icon_idea_mark_special_lv_1.png": {
         "frame": {
-          "x": 532,
-          "y": 773,
+          "x": 885,
+          "y": 287,
           "w": 60,
           "h": 68
         },
@@ -12554,8 +12563,8 @@
       },
       "icon_idea_mark_special_lv_2.png": {
         "frame": {
-          "x": 552,
-          "y": 845,
+          "x": 949,
+          "y": 253,
           "w": 60,
           "h": 68
         },
@@ -12563,8 +12572,8 @@
       },
       "icon_idea_mark_special_lv_3.png": {
         "frame": {
-          "x": 552,
-          "y": 917,
+          "x": 949,
+          "y": 325,
           "w": 60,
           "h": 68
         },
@@ -12572,8 +12581,8 @@
       },
       "icon_idea_mark_visual_empty.png": {
         "frame": {
-          "x": 572,
-          "y": 659,
+          "x": 590,
+          "y": 619,
           "w": 60,
           "h": 68
         },
@@ -12581,8 +12590,8 @@
       },
       "icon_idea_mark_visual_lv_1.png": {
         "frame": {
-          "x": 640,
-          "y": 625,
+          "x": 590,
+          "y": 691,
           "w": 60,
           "h": 68
         },
@@ -12590,8 +12599,8 @@
       },
       "icon_idea_mark_visual_lv_2.png": {
         "frame": {
-          "x": 636,
-          "y": 697,
+          "x": 539,
+          "y": 763,
           "w": 60,
           "h": 68
         },
@@ -12599,8 +12608,8 @@
       },
       "icon_idea_mark_visual_lv_3.png": {
         "frame": {
-          "x": 704,
-          "y": 580,
+          "x": 603,
+          "y": 763,
           "w": 60,
           "h": 68
         },
@@ -12608,8 +12617,8 @@
       },
       "icon_idea_mark_vocal_empty.png": {
         "frame": {
-          "x": 768,
-          "y": 580,
+          "x": 552,
+          "y": 835,
           "w": 60,
           "h": 68
         },
@@ -12617,8 +12626,8 @@
       },
       "icon_idea_mark_vocal_lv_1.png": {
         "frame": {
-          "x": 704,
-          "y": 652,
+          "x": 616,
+          "y": 835,
           "w": 60,
           "h": 68
         },
@@ -12626,8 +12635,8 @@
       },
       "icon_idea_mark_vocal_lv_2.png": {
         "frame": {
-          "x": 768,
-          "y": 652,
+          "x": 552,
+          "y": 907,
           "w": 60,
           "h": 68
         },
@@ -12635,8 +12644,8 @@
       },
       "icon_idea_mark_vocal_lv_3.png": {
         "frame": {
-          "x": 700,
-          "y": 724,
+          "x": 616,
+          "y": 907,
           "w": 60,
           "h": 68
         },
@@ -12671,8 +12680,8 @@
       },
       "icon_idol_piece_s_1.png": {
         "frame": {
-          "x": 404,
-          "y": 845,
+          "x": 728,
+          "y": 975,
           "w": 16,
           "h": 18
         },
@@ -12680,8 +12689,8 @@
       },
       "icon_idol_piece_s_2.png": {
         "frame": {
-          "x": 614,
-          "y": 561,
+          "x": 728,
+          "y": 997,
           "w": 19,
           "h": 18
         },
@@ -12689,8 +12698,8 @@
       },
       "icon_idol_piece_s_3.png": {
         "frame": {
-          "x": 114,
-          "y": 992,
+          "x": 929,
+          "y": 543,
           "w": 19,
           "h": 19
         },
@@ -12761,8 +12770,8 @@
       },
       "icon_idol_type_produce.png": {
         "frame": {
-          "x": 863,
-          "y": 946,
+          "x": 853,
+          "y": 407,
           "w": 44,
           "h": 44
         },
@@ -12770,8 +12779,8 @@
       },
       "icon_idol_type_support.png": {
         "frame": {
-          "x": 853,
-          "y": 229,
+          "x": 272,
+          "y": 970,
           "w": 46,
           "h": 45
         },
@@ -12788,8 +12797,8 @@
       },
       "icon_jewel_s.png": {
         "frame": {
-          "x": 911,
-          "y": 946,
+          "x": 853,
+          "y": 455,
           "w": 44,
           "h": 44
         },
@@ -12797,8 +12806,8 @@
       },
       "icon_l_rarity_1.png": {
         "frame": {
-          "x": 943,
-          "y": 139,
+          "x": 724,
+          "y": 436,
           "w": 66,
           "h": 66
         },
@@ -12806,8 +12815,8 @@
       },
       "icon_l_rarity_2.png": {
         "frame": {
-          "x": 566,
-          "y": 463,
+          "x": 646,
+          "y": 433,
           "w": 74,
           "h": 68
         },
@@ -12815,8 +12824,8 @@
       },
       "icon_l_rarity_3.png": {
         "frame": {
-          "x": 321,
-          "y": 810,
+          "x": 646,
+          "y": 357,
           "w": 79,
           "h": 72
         },
@@ -12824,8 +12833,8 @@
       },
       "icon_l_rarity_4.png": {
         "frame": {
-          "x": 321,
-          "y": 731,
+          "x": 249,
+          "y": 815,
           "w": 79,
           "h": 75
         },
@@ -12833,8 +12842,8 @@
       },
       "icon_live_ticket.png": {
         "frame": {
-          "x": 308,
-          "y": 549,
+          "x": 919,
+          "y": 1,
           "w": 96,
           "h": 96
         },
@@ -12842,8 +12851,8 @@
       },
       "icon_memory_Lv0.png": {
         "frame": {
-          "x": 700,
-          "y": 796,
+          "x": 424,
+          "y": 946,
           "w": 60,
           "h": 51
         },
@@ -12851,8 +12860,8 @@
       },
       "icon_memory_Lv1.png": {
         "frame": {
-          "x": 675,
-          "y": 851,
+          "x": 488,
+          "y": 946,
           "w": 60,
           "h": 51
         },
@@ -12860,8 +12869,8 @@
       },
       "icon_memory_Lv2.png": {
         "frame": {
-          "x": 739,
-          "y": 860,
+          "x": 664,
+          "y": 578,
           "w": 60,
           "h": 51
         },
@@ -12869,8 +12878,8 @@
       },
       "icon_memory_Lv3.png": {
         "frame": {
-          "x": 735,
-          "y": 915,
+          "x": 728,
+          "y": 578,
           "w": 60,
           "h": 51
         },
@@ -12878,8 +12887,8 @@
       },
       "icon_memory_Lv4.png": {
         "frame": {
-          "x": 803,
-          "y": 860,
+          "x": 654,
+          "y": 701,
           "w": 60,
           "h": 51
         },
@@ -12887,8 +12896,8 @@
       },
       "icon_memory_Lv5.png": {
         "frame": {
-          "x": 799,
-          "y": 915,
+          "x": 792,
+          "y": 578,
           "w": 60,
           "h": 51
         },
@@ -12905,8 +12914,8 @@
       },
       "icon_money_s.png": {
         "frame": {
-          "x": 963,
-          "y": 850,
+          "x": 878,
+          "y": 503,
           "w": 44,
           "h": 44
         },
@@ -12914,8 +12923,8 @@
       },
       "icon_notice.png": {
         "frame": {
-          "x": 646,
-          "y": 976,
+          "x": 775,
+          "y": 890,
           "w": 26,
           "h": 27
         },
@@ -12923,8 +12932,8 @@
       },
       "icon_notice_green.png": {
         "frame": {
-          "x": 614,
-          "y": 535,
+          "x": 976,
+          "y": 993,
           "w": 22,
           "h": 22
         },
@@ -12932,8 +12941,8 @@
       },
       "icon_notice_red.png": {
         "frame": {
-          "x": 404,
-          "y": 989,
+          "x": 878,
+          "y": 551,
           "w": 22,
           "h": 22
         },
@@ -12941,8 +12950,8 @@
       },
       "icon_notice_red_l.png": {
         "frame": {
-          "x": 976,
-          "y": 634,
+          "x": 938,
+          "y": 726,
           "w": 29,
           "h": 30
         },
@@ -12950,8 +12959,8 @@
       },
       "icon_notice_special.png": {
         "frame": {
-          "x": 903,
-          "y": 229,
+          "x": 322,
+          "y": 970,
           "w": 40,
           "h": 45
         },
@@ -12959,8 +12968,8 @@
       },
       "icon_notice_white.png": {
         "frame": {
-          "x": 812,
-          "y": 543,
+          "x": 901,
+          "y": 455,
           "w": 32,
           "h": 32
         },
@@ -12968,8 +12977,8 @@
       },
       "icon_produce_block_1.png": {
         "frame": {
-          "x": 947,
-          "y": 209,
+          "x": 654,
+          "y": 633,
           "w": 60,
           "h": 64
         },
@@ -12977,8 +12986,8 @@
       },
       "icon_produce_block_2.png": {
         "frame": {
-          "x": 764,
-          "y": 724,
+          "x": 718,
+          "y": 633,
           "w": 60,
           "h": 64
         },
@@ -12986,8 +12995,8 @@
       },
       "icon_produce_block_3.png": {
         "frame": {
-          "x": 596,
-          "y": 769,
+          "x": 782,
+          "y": 633,
           "w": 60,
           "h": 64
         },
@@ -12995,8 +13004,8 @@
       },
       "icon_produce_block_4.png": {
         "frame": {
-          "x": 764,
-          "y": 792,
+          "x": 718,
+          "y": 701,
           "w": 60,
           "h": 64
         },
@@ -13013,8 +13022,8 @@
       },
       "icon_promise_s.png": {
         "frame": {
-          "x": 869,
-          "y": 422,
+          "x": 885,
+          "y": 229,
           "w": 54,
           "h": 54
         },
@@ -13031,8 +13040,8 @@
       },
       "icon_ranking_event_point_s.png": {
         "frame": {
-          "x": 976,
-          "y": 562,
+          "x": 928,
+          "y": 792,
           "w": 32,
           "h": 32
         },
@@ -13049,8 +13058,8 @@
       },
       "icon_scenario_event_point_s.png": {
         "frame": {
-          "x": 976,
-          "y": 598,
+          "x": 928,
+          "y": 828,
           "w": 32,
           "h": 32
         },
@@ -13067,8 +13076,8 @@
       },
       "icon_select_idea_mark_mental.png": {
         "frame": {
-          "x": 646,
-          "y": 436,
+          "x": 414,
+          "y": 463,
           "w": 100,
           "h": 35
         },
@@ -13076,8 +13085,8 @@
       },
       "icon_select_idea_mark_skill_point.png": {
         "frame": {
-          "x": 644,
-          "y": 475,
+          "x": 414,
+          "y": 502,
           "w": 100,
           "h": 35
         },
@@ -13085,8 +13094,8 @@
       },
       "icon_select_idea_mark_special.png": {
         "frame": {
-          "x": 644,
-          "y": 514,
+          "x": 518,
+          "y": 463,
           "w": 100,
           "h": 35
         },
@@ -13094,8 +13103,8 @@
       },
       "icon_select_idea_mark_visual.png": {
         "frame": {
-          "x": 414,
-          "y": 539,
+          "x": 518,
+          "y": 502,
           "w": 100,
           "h": 35
         },
@@ -13103,8 +13112,8 @@
       },
       "icon_select_idea_mark_vocal.png": {
         "frame": {
-          "x": 408,
-          "y": 578,
+          "x": 414,
+          "y": 541,
           "w": 100,
           "h": 35
         },
@@ -13112,8 +13121,8 @@
       },
       "icon_select_inspiration_mark_dance.png": {
         "frame": {
-          "x": 408,
-          "y": 617,
+          "x": 518,
+          "y": 541,
           "w": 100,
           "h": 35
         },
@@ -13121,8 +13130,8 @@
       },
       "icon_select_inspiration_mark_mental.png": {
         "frame": {
-          "x": 401,
-          "y": 656,
+          "x": 398,
+          "y": 580,
           "w": 100,
           "h": 35
         },
@@ -13130,8 +13139,8 @@
       },
       "icon_select_inspiration_mark_visual.png": {
         "frame": {
-          "x": 404,
-          "y": 695,
+          "x": 398,
+          "y": 619,
           "w": 100,
           "h": 35
         },
@@ -13139,8 +13148,8 @@
       },
       "icon_select_inspiration_mark_vocal.png": {
         "frame": {
-          "x": 404,
-          "y": 734,
+          "x": 502,
+          "y": 580,
           "w": 100,
           "h": 35
         },
@@ -13148,8 +13157,8 @@
       },
       "icon_skin.png": {
         "frame": {
-          "x": 869,
-          "y": 480,
+          "x": 632,
+          "y": 979,
           "w": 50,
           "h": 30
         },
@@ -13166,8 +13175,8 @@
       },
       "icon_staff_item_point_s.png": {
         "frame": {
-          "x": 963,
-          "y": 898,
+          "x": 901,
+          "y": 407,
           "w": 44,
           "h": 44
         },
@@ -13184,8 +13193,8 @@
       },
       "icon_status_dance.png": {
         "frame": {
-          "x": 976,
-          "y": 668,
+          "x": 853,
+          "y": 229,
           "w": 28,
           "h": 28
         },
@@ -13193,8 +13202,8 @@
       },
       "icon_status_fan.png": {
         "frame": {
-          "x": 660,
-          "y": 809,
+          "x": 937,
+          "y": 485,
           "w": 26,
           "h": 24
         },
@@ -13202,8 +13211,8 @@
       },
       "icon_status_l_dance.png": {
         "frame": {
-          "x": 272,
-          "y": 973,
+          "x": 622,
+          "y": 577,
           "w": 38,
           "h": 38
         },
@@ -13211,8 +13220,8 @@
       },
       "icon_status_l_fan.png": {
         "frame": {
-          "x": 592,
-          "y": 731,
+          "x": 976,
+          "y": 919,
           "w": 36,
           "h": 34
         },
@@ -13220,8 +13229,8 @@
       },
       "icon_status_l_mental.png": {
         "frame": {
-          "x": 314,
-          "y": 973,
+          "x": 733,
+          "y": 837,
           "w": 38,
           "h": 38
         },
@@ -13229,8 +13238,8 @@
       },
       "icon_status_l_skill_point.png": {
         "frame": {
-          "x": 508,
-          "y": 731,
+          "x": 733,
+          "y": 879,
           "w": 38,
           "h": 38
         },
@@ -13238,8 +13247,8 @@
       },
       "icon_status_l_sp.png": {
         "frame": {
-          "x": 508,
-          "y": 731,
+          "x": 733,
+          "y": 879,
           "w": 38,
           "h": 38
         },
@@ -13247,8 +13256,8 @@
       },
       "icon_status_l_visual.png": {
         "frame": {
-          "x": 550,
-          "y": 731,
+          "x": 686,
+          "y": 975,
           "w": 38,
           "h": 38
         },
@@ -13256,8 +13265,8 @@
       },
       "icon_status_l_vocal.png": {
         "frame": {
-          "x": 959,
-          "y": 946,
+          "x": 971,
+          "y": 877,
           "w": 38,
           "h": 38
         },
@@ -13265,8 +13274,8 @@
       },
       "icon_status_mental.png": {
         "frame": {
-          "x": 828,
-          "y": 819,
+          "x": 808,
+          "y": 402,
           "w": 28,
           "h": 28
         },
@@ -13274,8 +13283,8 @@
       },
       "icon_status_rank_l_a.png": {
         "frame": {
-          "x": 616,
-          "y": 907,
+          "x": 782,
+          "y": 701,
           "w": 56,
           "h": 65
         },
@@ -13283,8 +13292,8 @@
       },
       "icon_status_rank_l_b.png": {
         "frame": {
-          "x": 814,
-          "y": 427,
+          "x": 777,
+          "y": 770,
           "w": 51,
           "h": 64
         },
@@ -13292,8 +13301,8 @@
       },
       "icon_status_rank_l_c.png": {
         "frame": {
-          "x": 616,
-          "y": 837,
+          "x": 794,
+          "y": 436,
           "w": 55,
           "h": 66
         },
@@ -13301,8 +13310,8 @@
       },
       "icon_status_rank_l_d.png": {
         "frame": {
-          "x": 676,
-          "y": 906,
+          "x": 718,
+          "y": 769,
           "w": 55,
           "h": 64
         },
@@ -13310,8 +13319,8 @@
       },
       "icon_status_rank_l_e.png": {
         "frame": {
-          "x": 857,
-          "y": 354,
+          "x": 680,
+          "y": 907,
           "w": 48,
           "h": 64
         },
@@ -13319,8 +13328,8 @@
       },
       "icon_status_rank_l_f.png": {
         "frame": {
-          "x": 909,
-          "y": 350,
+          "x": 667,
+          "y": 756,
           "w": 47,
           "h": 64
         },
@@ -13328,14 +13337,23 @@
       },
       "icon_status_rank_l_mask_a.png": {
         "frame": {
-          "x": 919,
-          "y": 1,
+          "x": 308,
+          "y": 549,
           "w": 86,
           "h": 86
         },
         "rotated": false
       },
       "icon_status_rank_l_mask_b.png": {
+        "frame": {
+          "x": 308,
+          "y": 639,
+          "w": 86,
+          "h": 86
+        },
+        "rotated": false
+      },
+      "icon_status_rank_l_mask_c.png": {
         "frame": {
           "x": 460,
           "y": 291,
@@ -13344,7 +13362,7 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_c.png": {
+      "icon_status_rank_l_mask_d.png": {
         "frame": {
           "x": 853,
           "y": 139,
@@ -13353,7 +13371,7 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_d.png": {
+      "icon_status_rank_l_mask_e.png": {
         "frame": {
           "x": 550,
           "y": 291,
@@ -13362,7 +13380,7 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_e.png": {
+      "icon_status_rank_l_mask_f.png": {
         "frame": {
           "x": 640,
           "y": 267,
@@ -13371,7 +13389,7 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_f.png": {
+      "icon_status_rank_l_mask_s.png": {
         "frame": {
           "x": 156,
           "y": 733,
@@ -13380,19 +13398,10 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_s.png": {
-        "frame": {
-          "x": 156,
-          "y": 823,
-          "w": 86,
-          "h": 86
-        },
-        "rotated": false
-      },
       "icon_status_rank_l_s.png": {
         "frame": {
-          "x": 804,
-          "y": 357,
+          "x": 680,
+          "y": 837,
           "w": 49,
           "h": 66
         },
@@ -13400,8 +13409,8 @@
       },
       "icon_status_rank_s_a.png": {
         "frame": {
-          "x": 430,
-          "y": 989,
+          "x": 904,
+          "y": 551,
           "w": 21,
           "h": 22
         },
@@ -13409,8 +13418,8 @@
       },
       "icon_status_rank_s_b.png": {
         "frame": {
-          "x": 503,
-          "y": 989,
+          "x": 502,
+          "y": 619,
           "w": 19,
           "h": 22
         },
@@ -13418,8 +13427,8 @@
       },
       "icon_status_rank_s_c.png": {
         "frame": {
-          "x": 455,
-          "y": 989,
+          "x": 919,
+          "y": 101,
           "w": 20,
           "h": 22
         },
@@ -13427,8 +13436,8 @@
       },
       "icon_status_rank_s_d.png": {
         "frame": {
-          "x": 479,
-          "y": 989,
+          "x": 622,
+          "y": 463,
           "w": 20,
           "h": 22
         },
@@ -13436,8 +13445,8 @@
       },
       "icon_status_rank_s_e.png": {
         "frame": {
-          "x": 526,
-          "y": 989,
+          "x": 805,
+          "y": 890,
           "w": 18,
           "h": 22
         },
@@ -13445,8 +13454,8 @@
       },
       "icon_status_rank_s_f.png": {
         "frame": {
-          "x": 548,
-          "y": 989,
+          "x": 949,
+          "y": 397,
           "w": 18,
           "h": 22
         },
@@ -13454,8 +13463,8 @@
       },
       "icon_status_rank_s_s.png": {
         "frame": {
-          "x": 570,
-          "y": 989,
+          "x": 949,
+          "y": 423,
           "w": 18,
           "h": 22
         },
@@ -13463,8 +13472,8 @@
       },
       "icon_status_skill_point.png": {
         "frame": {
-          "x": 976,
-          "y": 700,
+          "x": 938,
+          "y": 760,
           "w": 28,
           "h": 28
         },
@@ -13472,8 +13481,8 @@
       },
       "icon_status_sp.png": {
         "frame": {
-          "x": 976,
-          "y": 700,
+          "x": 938,
+          "y": 760,
           "w": 28,
           "h": 28
         },
@@ -13481,8 +13490,8 @@
       },
       "icon_status_visual.png": {
         "frame": {
-          "x": 976,
-          "y": 732,
+          "x": 908,
+          "y": 577,
           "w": 28,
           "h": 28
         },
@@ -13490,8 +13499,8 @@
       },
       "icon_status_vocal.png": {
         "frame": {
-          "x": 976,
-          "y": 764,
+          "x": 114,
+          "y": 984,
           "w": 28,
           "h": 28
         },
@@ -13499,8 +13508,8 @@
       },
       "icon_status_xl_dance.png": {
         "frame": {
-          "x": 809,
-          "y": 278,
+          "x": 943,
+          "y": 101,
           "w": 72,
           "h": 72
         },
@@ -13508,8 +13517,8 @@
       },
       "icon_status_xl_mental.png": {
         "frame": {
-          "x": 272,
-          "y": 897,
+          "x": 943,
+          "y": 177,
           "w": 72,
           "h": 72
         },
@@ -13517,8 +13526,8 @@
       },
       "icon_status_xl_visual.png": {
         "frame": {
-          "x": 348,
-          "y": 886,
+          "x": 272,
+          "y": 894,
           "w": 72,
           "h": 72
         },
@@ -13526,8 +13535,8 @@
       },
       "icon_status_xl_vocal.png": {
         "frame": {
-          "x": 414,
-          "y": 463,
+          "x": 348,
+          "y": 890,
           "w": 72,
           "h": 72
         },
@@ -13535,8 +13544,8 @@
       },
       "icon_tension_1.png": {
         "frame": {
-          "x": 646,
-          "y": 357,
+          "x": 332,
+          "y": 811,
           "w": 75,
           "h": 75
         },
@@ -13553,7 +13562,7 @@
       },
       "icon_tension_3.png": {
         "frame": {
-          "x": 725,
+          "x": 729,
           "y": 357,
           "w": 75,
           "h": 75
@@ -13563,7 +13572,7 @@
       "icon_tension_4.png": {
         "frame": {
           "x": 114,
-          "y": 913,
+          "y": 905,
           "w": 75,
           "h": 75
         },
@@ -13572,7 +13581,7 @@
       "icon_tension_5.png": {
         "frame": {
           "x": 193,
-          "y": 913,
+          "y": 905,
           "w": 75,
           "h": 75
         },
@@ -13580,8 +13589,8 @@
       },
       "icon_tension_s_1.png": {
         "frame": {
-          "x": 676,
-          "y": 974,
+          "x": 176,
+          "y": 984,
           "w": 26,
           "h": 26
         },
@@ -13589,8 +13598,8 @@
       },
       "icon_tension_s_2.png": {
         "frame": {
-          "x": 706,
-          "y": 974,
+          "x": 206,
+          "y": 984,
           "w": 26,
           "h": 26
         },
@@ -13598,8 +13607,8 @@
       },
       "icon_tension_s_3.png": {
         "frame": {
-          "x": 736,
-          "y": 970,
+          "x": 236,
+          "y": 984,
           "w": 26,
           "h": 26
         },
@@ -13607,8 +13616,8 @@
       },
       "icon_tension_s_4.png": {
         "frame": {
-          "x": 766,
-          "y": 970,
+          "x": 937,
+          "y": 455,
           "w": 26,
           "h": 26
         },
@@ -13616,17 +13625,53 @@
       },
       "icon_tension_s_5.png": {
         "frame": {
-          "x": 796,
-          "y": 970,
+          "x": 926,
+          "y": 513,
           "w": 26,
           "h": 26
         },
         "rotated": false
       },
+      "produce_inspiration_m_dance.png": {
+        "frame": {
+          "x": 366,
+          "y": 966,
+          "w": 48,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "produce_inspiration_m_mental.png": {
+        "frame": {
+          "x": 775,
+          "y": 838,
+          "w": 48,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "produce_inspiration_m_visual.png": {
+        "frame": {
+          "x": 732,
+          "y": 921,
+          "w": 48,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "produce_inspiration_m_vocal.png": {
+        "frame": {
+          "x": 856,
+          "y": 578,
+          "w": 48,
+          "h": 48
+        },
+        "rotated": false
+      },
       "support_skill_icon.png": {
         "frame": {
-          "x": 490,
-          "y": 463,
+          "x": 809,
+          "y": 278,
           "w": 72,
           "h": 72
         },
@@ -13634,8 +13679,8 @@
       },
       "tsubasa_icon.png": {
         "frame": {
-          "x": 975,
-          "y": 397,
+          "x": 592,
+          "y": 979,
           "w": 36,
           "h": 36
         },
@@ -31058,12 +31103,12 @@
   "images/ui/gasha/parts_step_up": {
     "name": "images/ui/gasha/parts_step_up",
     "ext": ".png",
-    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=8",
-    "v": 8,
+    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=9",
+    "v": 9,
     "frames": {
       "4step_2_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 180,
+          "x": 406,
           "y": 145,
           "w": 172,
           "h": 88
@@ -31072,8 +31117,8 @@
       },
       "4step_3_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 356,
-          "y": 145,
+          "x": 406,
+          "y": 237,
           "w": 172,
           "h": 88
         },
@@ -31081,8 +31126,8 @@
       },
       "4step_4_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 532,
-          "y": 149,
+          "x": 1,
+          "y": 211,
           "w": 172,
           "h": 88
         },
@@ -31090,8 +31135,8 @@
       },
       "4step_4_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 180,
-          "y": 237,
+          "x": 177,
+          "y": 238,
           "w": 170,
           "h": 88
         },
@@ -31108,8 +31153,8 @@
       },
       "last_sr_step_1_balloon.png": {
         "frame": {
-          "x": 354,
-          "y": 237,
+          "x": 582,
+          "y": 149,
           "w": 159,
           "h": 61
         },
@@ -31118,7 +31163,7 @@
       "p_ssr_step_1_balloon.png": {
         "frame": {
           "x": 490,
-          "y": 436,
+          "y": 474,
           "w": 158,
           "h": 61
         },
@@ -31126,8 +31171,8 @@
       },
       "p_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 238,
+          "x": 582,
+          "y": 214,
           "w": 159,
           "h": 61
         },
@@ -31136,7 +31181,7 @@
       "p_ssr_step_3_balloon.png": {
         "frame": {
           "x": 327,
-          "y": 432,
+          "y": 459,
           "w": 159,
           "h": 60
         },
@@ -31145,7 +31190,7 @@
       "s_ssr_step_1_balloon.png": {
         "frame": {
           "x": 490,
-          "y": 436,
+          "y": 474,
           "w": 158,
           "h": 61
         },
@@ -31153,8 +31198,8 @@
       },
       "s_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 303,
+          "x": 582,
+          "y": 279,
           "w": 159,
           "h": 61
         },
@@ -31163,7 +31208,7 @@
       "s_ssr_step_3_balloon.png": {
         "frame": {
           "x": 164,
-          "y": 459,
+          "y": 460,
           "w": 159,
           "h": 60
         },
@@ -31172,7 +31217,7 @@
       "step_1_balloon.png": {
         "frame": {
           "x": 490,
-          "y": 436,
+          "y": 474,
           "w": 158,
           "h": 61
         },
@@ -31198,8 +31243,8 @@
       },
       "step_2_balloon.png": {
         "frame": {
-          "x": 517,
-          "y": 241,
+          "x": 1,
+          "y": 303,
           "w": 159,
           "h": 61
         },
@@ -31208,7 +31253,7 @@
       "step_2_button_off.png": {
         "frame": {
           "x": 327,
-          "y": 496,
+          "y": 523,
           "w": 148,
           "h": 70
         },
@@ -31217,7 +31262,7 @@
       "step_2_button_on.png": {
         "frame": {
           "x": 164,
-          "y": 523,
+          "y": 524,
           "w": 148,
           "h": 70
         },
@@ -31235,7 +31280,7 @@
       "step_3_button_off.png": {
         "frame": {
           "x": 141,
-          "y": 597,
+          "y": 598,
           "w": 148,
           "h": 70
         },
@@ -31244,7 +31289,7 @@
       "step_3_button_on.png": {
         "frame": {
           "x": 141,
-          "y": 671,
+          "y": 672,
           "w": 148,
           "h": 70
         },
@@ -31252,8 +31297,8 @@
       },
       "step_3_last_sr_balloon.png": {
         "frame": {
-          "x": 354,
-          "y": 302,
+          "x": 351,
+          "y": 329,
           "w": 159,
           "h": 61
         },
@@ -31262,7 +31307,7 @@
       "step_4_button_off.png": {
         "frame": {
           "x": 293,
-          "y": 597,
+          "y": 598,
           "w": 148,
           "h": 70
         },
@@ -31271,7 +31316,7 @@
       "step_4_button_on.png": {
         "frame": {
           "x": 293,
-          "y": 671,
+          "y": 672,
           "w": 148,
           "h": 70
         },
@@ -31280,9 +31325,18 @@
       "step_4_last_limited_ssr_balloon.png": {
         "frame": {
           "x": 164,
-          "y": 329,
+          "y": 330,
           "w": 159,
           "h": 61
+        },
+        "rotated": false
+      },
+      "step_4_last_pickup_balloon.png": {
+        "frame": {
+          "x": 1,
+          "y": 145,
+          "w": 222,
+          "h": 62
         },
         "rotated": false
       },
@@ -31297,8 +31351,8 @@
       },
       "step_4_last_ssr_balloon.png": {
         "frame": {
-          "x": 517,
-          "y": 306,
+          "x": 514,
+          "y": 344,
           "w": 159,
           "h": 61
         },
@@ -31307,7 +31361,7 @@
       "step_4_p_ssr_stuff_balloon.png": {
         "frame": {
           "x": 327,
-          "y": 367,
+          "y": 394,
           "w": 159,
           "h": 61
         },
@@ -31316,7 +31370,7 @@
       "step_4_s_ssr_stuff_balloon.png": {
         "frame": {
           "x": 164,
-          "y": 394,
+          "y": 395,
           "w": 159,
           "h": 61
         },
@@ -31324,7 +31378,7 @@
       },
       "step_4_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 1,
+          "x": 227,
           "y": 145,
           "w": 175,
           "h": 89
@@ -31334,7 +31388,7 @@
       "step_5_button_off.png": {
         "frame": {
           "x": 445,
-          "y": 570,
+          "y": 597,
           "w": 148,
           "h": 70
         },
@@ -31343,7 +31397,7 @@
       "step_5_button_on.png": {
         "frame": {
           "x": 445,
-          "y": 644,
+          "y": 671,
           "w": 148,
           "h": 70
         },
@@ -31361,7 +31415,7 @@
       "step_5_last_ssr_balloon.png": {
         "frame": {
           "x": 490,
-          "y": 371,
+          "y": 409,
           "w": 159,
           "h": 61
         },
@@ -31424,7 +31478,7 @@
       "time_left_balloon.png": {
         "frame": {
           "x": 479,
-          "y": 501,
+          "y": 539,
           "w": 120,
           "h": 45
         },
@@ -32023,8 +32077,8 @@
   "images/ui/produce_common/parts_inspiration": {
     "name": "images/ui/produce_common/parts_inspiration",
     "ext": ".png",
-    "url": "/assets/41dbe16bf3c51d2478eac08f2b95d9cb88a5c7f7354eb283131319c0aff15199?v=1",
-    "v": 1,
+    "url": "/assets/41dbe16bf3c51d2478eac08f2b95d9cb88a5c7f7354eb283131319c0aff15199?v=2",
+    "v": 2,
     "frames": {
       "produce_inspiration_l_base.png": {
         "frame": {
@@ -32037,8 +32091,8 @@
       },
       "produce_inspiration_l_dance_base.png": {
         "frame": {
-          "x": 145,
-          "y": 142,
+          "x": 215,
+          "y": 71,
           "w": 52,
           "h": 52
         },
@@ -32046,50 +32100,14 @@
       },
       "produce_inspiration_l_dance_cover.png": {
         "frame": {
-          "x": 1,
-          "y": 220,
+          "x": 75,
+          "y": 1,
           "w": 66,
           "h": 66
         },
         "rotated": false
       },
       "produce_inspiration_l_dance_mask.png": {
-        "frame": {
-          "x": 75,
-          "y": 1,
-          "w": 66,
-          "h": 67
-        },
-        "rotated": false
-      },
-      "produce_inspiration_l_double.png": {
-        "frame": {
-          "x": 183,
-          "y": 246,
-          "w": 24,
-          "h": 19
-        },
-        "rotated": false
-      },
-      "produce_inspiration_l_mental_base.png": {
-        "frame": {
-          "x": 71,
-          "y": 213,
-          "w": 52,
-          "h": 52
-        },
-        "rotated": false
-      },
-      "produce_inspiration_l_mental_cover.png": {
-        "frame": {
-          "x": 145,
-          "y": 72,
-          "w": 66,
-          "h": 66
-        },
-        "rotated": false
-      },
-      "produce_inspiration_l_mental_mask.png": {
         "frame": {
           "x": 1,
           "y": 149,
@@ -32098,9 +32116,45 @@
         },
         "rotated": false
       },
-      "produce_inspiration_l_special.png": {
+      "produce_inspiration_l_double.png": {
+        "frame": {
+          "x": 268,
+          "y": 271,
+          "w": 24,
+          "h": 19
+        },
+        "rotated": false
+      },
+      "produce_inspiration_l_mental_base.png": {
         "frame": {
           "x": 215,
+          "y": 127,
+          "w": 52,
+          "h": 52
+        },
+        "rotated": false
+      },
+      "produce_inspiration_l_mental_cover.png": {
+        "frame": {
+          "x": 75,
+          "y": 71,
+          "w": 66,
+          "h": 66
+        },
+        "rotated": false
+      },
+      "produce_inspiration_l_mental_mask.png": {
+        "frame": {
+          "x": 1,
+          "y": 220,
+          "w": 66,
+          "h": 67
+        },
+        "rotated": false
+      },
+      "produce_inspiration_l_special.png": {
+        "frame": {
+          "x": 145,
           "y": 1,
           "w": 66,
           "h": 66
@@ -32118,8 +32172,8 @@
       },
       "produce_inspiration_l_visual_base.png": {
         "frame": {
-          "x": 71,
-          "y": 269,
+          "x": 141,
+          "y": 141,
           "w": 52,
           "h": 52
         },
@@ -32128,7 +32182,7 @@
       "produce_inspiration_l_visual_cover.png": {
         "frame": {
           "x": 215,
-          "y": 71,
+          "y": 1,
           "w": 66,
           "h": 66
         },
@@ -32136,8 +32190,8 @@
       },
       "produce_inspiration_l_visual_mask.png": {
         "frame": {
-          "x": 75,
-          "y": 72,
+          "x": 71,
+          "y": 149,
           "w": 66,
           "h": 67
         },
@@ -32145,8 +32199,8 @@
       },
       "produce_inspiration_l_vocal_base.png": {
         "frame": {
-          "x": 127,
-          "y": 213,
+          "x": 197,
+          "y": 183,
           "w": 52,
           "h": 52
         },
@@ -32154,8 +32208,8 @@
       },
       "produce_inspiration_l_vocal_cover.png": {
         "frame": {
-          "x": 75,
-          "y": 143,
+          "x": 145,
+          "y": 71,
           "w": 66,
           "h": 66
         },
@@ -32163,62 +32217,17 @@
       },
       "produce_inspiration_l_vocal_mask.png": {
         "frame": {
-          "x": 145,
-          "y": 1,
+          "x": 71,
+          "y": 220,
           "w": 66,
           "h": 67
         },
         "rotated": false
       },
-      "produce_inspiration_m_dance.png": {
-        "frame": {
-          "x": 127,
-          "y": 269,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "produce_inspiration_m_mental.png": {
-        "frame": {
-          "x": 201,
-          "y": 142,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "produce_inspiration_m_special.png": {
-        "frame": {
-          "x": 253,
-          "y": 141,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "produce_inspiration_m_visual.png": {
-        "frame": {
-          "x": 179,
-          "y": 269,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "produce_inspiration_m_vocal.png": {
-        "frame": {
-          "x": 201,
-          "y": 194,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
       "produce_inspiration_s_base.png": {
         "frame": {
-          "x": 290,
-          "y": 193,
+          "x": 271,
+          "y": 85,
           "w": 34,
           "h": 34
         },
@@ -32226,8 +32235,8 @@
       },
       "produce_inspiration_s_cover_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 290,
+          "x": 271,
+          "y": 123,
           "w": 33,
           "h": 36
         },
@@ -32235,8 +32244,8 @@
       },
       "produce_inspiration_s_dance_base.png": {
         "frame": {
-          "x": 305,
-          "y": 121,
+          "x": 285,
+          "y": 1,
           "w": 24,
           "h": 24
         },
@@ -32244,8 +32253,8 @@
       },
       "produce_inspiration_s_dance_cover.png": {
         "frame": {
-          "x": 285,
-          "y": 1,
+          "x": 271,
+          "y": 163,
           "w": 33,
           "h": 36
         },
@@ -32253,8 +32262,8 @@
       },
       "produce_inspiration_s_double.png": {
         "frame": {
-          "x": 231,
-          "y": 246,
+          "x": 1,
+          "y": 291,
           "w": 18,
           "h": 14
         },
@@ -32262,8 +32271,8 @@
       },
       "produce_inspiration_s_mental_base.png": {
         "frame": {
-          "x": 305,
-          "y": 149,
+          "x": 285,
+          "y": 29,
           "w": 24,
           "h": 24
         },
@@ -32271,8 +32280,8 @@
       },
       "produce_inspiration_s_mental_cover.png": {
         "frame": {
-          "x": 285,
-          "y": 41,
+          "x": 141,
+          "y": 197,
           "w": 33,
           "h": 36
         },
@@ -32280,8 +32289,8 @@
       },
       "produce_inspiration_s_special.png": {
         "frame": {
-          "x": 253,
-          "y": 233,
+          "x": 141,
+          "y": 277,
           "w": 33,
           "h": 32
         },
@@ -32289,8 +32298,8 @@
       },
       "produce_inspiration_s_visual_base.png": {
         "frame": {
-          "x": 291,
-          "y": 261,
+          "x": 285,
+          "y": 57,
           "w": 24,
           "h": 24
         },
@@ -32298,8 +32307,8 @@
       },
       "produce_inspiration_s_visual_cover.png": {
         "frame": {
-          "x": 285,
-          "y": 81,
+          "x": 141,
+          "y": 237,
           "w": 33,
           "h": 36
         },
@@ -32307,8 +32316,8 @@
       },
       "produce_inspiration_s_vocal_base.png": {
         "frame": {
-          "x": 291,
-          "y": 289,
+          "x": 268,
+          "y": 243,
           "w": 24,
           "h": 24
         },
@@ -32317,7 +32326,7 @@
       "produce_inspiration_s_vocal_cover.png": {
         "frame": {
           "x": 253,
-          "y": 193,
+          "y": 203,
           "w": 33,
           "h": 36
         },
@@ -32325,8 +32334,8 @@
       },
       "produce_inspiration_xs_any.png": {
         "frame": {
-          "x": 38,
-          "y": 290,
+          "x": 178,
+          "y": 243,
           "w": 26,
           "h": 26
         },
@@ -32334,8 +32343,8 @@
       },
       "produce_inspiration_xs_dance.png": {
         "frame": {
-          "x": 290,
-          "y": 231,
+          "x": 178,
+          "y": 273,
           "w": 26,
           "h": 26
         },
@@ -32343,8 +32352,8 @@
       },
       "produce_inspiration_xs_mental.png": {
         "frame": {
-          "x": 231,
-          "y": 269,
+          "x": 208,
+          "y": 239,
           "w": 26,
           "h": 26
         },
@@ -32352,7 +32361,7 @@
       },
       "produce_inspiration_xs_special.png": {
         "frame": {
-          "x": 261,
+          "x": 208,
           "y": 269,
           "w": 26,
           "h": 26
@@ -32361,8 +32370,8 @@
       },
       "produce_inspiration_xs_visual.png": {
         "frame": {
-          "x": 231,
-          "y": 299,
+          "x": 238,
+          "y": 243,
           "w": 26,
           "h": 26
         },
@@ -32370,8 +32379,8 @@
       },
       "produce_inspiration_xs_vocal.png": {
         "frame": {
-          "x": 261,
-          "y": 299,
+          "x": 238,
+          "y": 273,
           "w": 26,
           "h": 26
         },
@@ -37961,5 +37970,167 @@
     "url": "/assets/41eb5f88eb118ead65e509f1f75fd96c09e14d46fcc1fed2529804fa861b57fc?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/60012/001": {
+    "name": "images/tips/game_event/60012/001",
+    "ext": ".jpg",
+    "url": "/assets/3d692a321784de2a6a0080f38461a9ee1ec45e44d46d905d2f0a61089d0a4450?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60012/002": {
+    "name": "images/tips/game_event/60012/002",
+    "ext": ".jpg",
+    "url": "/assets/64e5a5a35c0abfd84a10e2ef025bd8f6b881a80ee63eb5237120e39a592adb4a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60012/003": {
+    "name": "images/tips/game_event/60012/003",
+    "ext": ".jpg",
+    "url": "/assets/edbd08668bdb0a5f69fabffc5d5f1c99d3bd299658757c8d5cd0cbff33e9641c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60012/005": {
+    "name": "images/tips/game_event/60012/005",
+    "ext": ".jpg",
+    "url": "/assets/76f09df51566e689f27998bc5052e87beec5b8bd2665a1c425fdcdca742588a5?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/common/parts_filter_category": {
+    "name": "images/ui/common/parts_filter_category",
+    "ext": ".png",
+    "url": "/assets/084db42669ccf44fc262db18a303695746d1811e28e5f75d94a2b2b61f7b5f0d?v=1",
+    "v": 1,
+    "frames": {
+      "attribute_select_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 182,
+          "w": 250,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "button_help_live_skill.png": {
+        "frame": {
+          "x": 255,
+          "y": 186,
+          "w": 198,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "button_help_support_skill.png": {
+        "frame": {
+          "x": 1,
+          "y": 226,
+          "w": 198,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "effect_select_base.png": {
+        "frame": {
+          "x": 433,
+          "y": 54,
+          "w": 400,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "filter_box_title_label.png": {
+        "frame": {
+          "x": 433,
+          "y": 98,
+          "w": 294,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "filter_category_box.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 838,
+          "h": 44
+        },
+        "rotated": false
+      },
+      "filter_check_box_off.png": {
+        "frame": {
+          "x": 731,
+          "y": 98,
+          "w": 40,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "filter_check_box_on.png": {
+        "frame": {
+          "x": 775,
+          "y": 98,
+          "w": 40,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "filter_help_live_skill_button.png": {
+        "frame": {
+          "x": 255,
+          "y": 186,
+          "w": 198,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "filter_help_produce_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 226,
+          "w": 198,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "idol_count_base.png": {
+        "frame": {
+          "x": 433,
+          "y": 142,
+          "w": 270,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "skill_content_line.png": {
+        "frame": {
+          "x": 1,
+          "y": 49,
+          "w": 838,
+          "h": 1
+        },
+        "rotated": false
+      },
+      "support_skill_off_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 54,
+          "w": 428,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "support_skill_on_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 118,
+          "w": 428,
+          "h": 60
+        },
+        "rotated": false
+      }
+    }
   }
 }
