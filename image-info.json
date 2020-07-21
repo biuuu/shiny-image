@@ -17631,62 +17631,89 @@
   "images/ui/gasha/parts_scout_ticket": {
     "name": "images/ui/gasha/parts_scout_ticket",
     "ext": ".png",
-    "url": "/assets/419c0227c5b451af7f9f13139cb0ada94cf07c3bd9096d29f7220620eba6fec8?v=3",
-    "v": 3,
+    "url": "/assets/419c0227c5b451af7f9f13139cb0ada94cf07c3bd9096d29f7220620eba6fec8?v=4",
+    "v": 4,
     "frames": {
       "buy_package_text.png": {
         "frame": {
-          "x": 80,
-          "y": 195,
+          "x": 202,
+          "y": 1,
           "w": 127,
           "h": 69
         },
-        "rotated": true
+        "rotated": false
       },
       "buy_ticket_button.png": {
         "frame": {
-          "x": 202,
-          "y": 1,
+          "x": 1,
+          "y": 195,
           "w": 148,
           "h": 70
         },
-        "rotated": true
+        "rotated": false
       },
       "draw_ticket_text.png": {
         "frame": {
-          "x": 1,
-          "y": 195,
+          "x": 200,
+          "y": 116,
           "w": 128,
           "h": 75
         },
-        "rotated": true
+        "rotated": false
+      },
+      "evolution_stage_icon.png": {
+        "frame": {
+          "x": 73,
+          "y": 311,
+          "w": 16,
+          "h": 16
+        },
+        "rotated": false
+      },
+      "evolution_stage_icon_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 311,
+          "w": 68,
+          "h": 16
+        },
+        "rotated": false
+      },
+      "evolution_stage_max_icon.png": {
+        "frame": {
+          "x": 305,
+          "y": 195,
+          "w": 22,
+          "h": 22
+        },
+        "rotated": false
       },
       "possession_ticket_label.png": {
         "frame": {
-          "x": 274,
-          "y": 153,
+          "x": 153,
+          "y": 269,
           "w": 146,
           "h": 24
         },
-        "rotated": true
+        "rotated": false
       },
       "scout_idol_detail_button.png": {
         "frame": {
-          "x": 276,
-          "y": 1,
+          "x": 1,
+          "y": 269,
           "w": 148,
           "h": 38
         },
-        "rotated": true
+        "rotated": false
       },
       "scout_notice_button.png": {
         "frame": {
-          "x": 153,
-          "y": 195,
+          "x": 202,
+          "y": 74,
           "w": 108,
           "h": 38
         },
-        "rotated": true
+        "rotated": false
       },
       "selection_idol_tabs_left_off.png": {
         "frame": {
@@ -17726,12 +17753,12 @@
       },
       "use_ticket_button.png": {
         "frame": {
-          "x": 200,
-          "y": 153,
+          "x": 153,
+          "y": 195,
           "w": 148,
           "h": 70
         },
-        "rotated": true
+        "rotated": false
       }
     }
   },
@@ -25717,13 +25744,13 @@
   "images/ui/gasha/parts": {
     "name": "images/ui/gasha/parts",
     "ext": ".png",
-    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=12",
-    "v": 12,
+    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=13",
+    "v": 13,
     "frames": {
       "act_on_settlement_long_button.png": {
         "frame": {
           "x": 346,
-          "y": 686,
+          "y": 698,
           "w": 146,
           "h": 38
         },
@@ -25777,7 +25804,7 @@
       "base_deadline.png": {
         "frame": {
           "x": 834,
-          "y": 512,
+          "y": 547,
           "w": 76,
           "h": 24
         },
@@ -25786,7 +25813,7 @@
       "base_required_ticket_num.png": {
         "frame": {
           "x": 834,
-          "y": 540,
+          "y": 575,
           "w": 76,
           "h": 24
         },
@@ -25819,19 +25846,10 @@
         },
         "rotated": false
       },
-      "costume_balloon.png": {
-        "frame": {
-          "x": 496,
-          "y": 699,
-          "w": 142,
-          "h": 57
-        },
-        "rotated": false
-      },
       "costume_info_button.png": {
         "frame": {
-          "x": 663,
-          "y": 595,
+          "x": 194,
+          "y": 651,
           "w": 148,
           "h": 38
         },
@@ -25857,8 +25875,8 @@
       },
       "free_balloon.png": {
         "frame": {
-          "x": 642,
-          "y": 708,
+          "x": 145,
+          "y": 777,
           "w": 140,
           "h": 46
         },
@@ -25866,8 +25884,8 @@
       },
       "free_gift_button.png": {
         "frame": {
-          "x": 803,
-          "y": 679,
+          "x": 800,
+          "y": 672,
           "w": 108,
           "h": 38
         },
@@ -25875,8 +25893,8 @@
       },
       "free_gift_count_balloon.png": {
         "frame": {
-          "x": 344,
-          "y": 728,
+          "x": 1,
+          "y": 771,
           "w": 140,
           "h": 53
         },
@@ -25884,8 +25902,8 @@
       },
       "free_gift_done_balloon.png": {
         "frame": {
-          "x": 642,
-          "y": 758,
+          "x": 145,
+          "y": 827,
           "w": 140,
           "h": 46
         },
@@ -25930,7 +25948,7 @@
       "gasha_button_txt_done.png": {
         "frame": {
           "x": 670,
-          "y": 512,
+          "y": 547,
           "w": 160,
           "h": 53
         },
@@ -25945,10 +25963,19 @@
         },
         "rotated": false
       },
+      "gasha_costume_text.png": {
+        "frame": {
+          "x": 671,
+          "y": 477,
+          "w": 168,
+          "h": 31
+        },
+        "rotated": false
+      },
       "gasha_detail_button.png": {
         "frame": {
-          "x": 786,
-          "y": 750,
+          "x": 800,
+          "y": 714,
           "w": 108,
           "h": 38
         },
@@ -25965,8 +25992,8 @@
       },
       "gasha_info_button.png": {
         "frame": {
-          "x": 657,
-          "y": 637,
+          "x": 194,
+          "y": 693,
           "w": 148,
           "h": 38
         },
@@ -26001,8 +26028,8 @@
       },
       "gasha_sr_text.png": {
         "frame": {
-          "x": 671,
-          "y": 477,
+          "x": 670,
+          "y": 512,
           "w": 168,
           "h": 31
         },
@@ -26019,8 +26046,8 @@
       },
       "idol_info_button.png": {
         "frame": {
-          "x": 194,
-          "y": 651,
+          "x": 657,
+          "y": 630,
           "w": 148,
           "h": 38
         },
@@ -26065,7 +26092,7 @@
       "jewel_set_badge.png": {
         "frame": {
           "x": 834,
-          "y": 568,
+          "y": 603,
           "w": 75,
           "h": 22
         },
@@ -26073,8 +26100,8 @@
       },
       "kuji_balloon.png": {
         "frame": {
-          "x": 488,
-          "y": 760,
+          "x": 289,
+          "y": 777,
           "w": 140,
           "h": 46
         },
@@ -26091,8 +26118,8 @@
       },
       "limited_count_balloon.png": {
         "frame": {
-          "x": 194,
-          "y": 735,
+          "x": 1,
+          "y": 828,
           "w": 140,
           "h": 53
         },
@@ -26113,6 +26140,15 @@
           "y": 554,
           "w": 108,
           "h": 27
+        },
+        "rotated": false
+      },
+      "one_time_only_balloon.png": {
+        "frame": {
+          "x": 289,
+          "y": 827,
+          "w": 140,
+          "h": 46
         },
         "rotated": false
       },
@@ -26155,7 +26191,7 @@
       "specified_commercial_transactions_law_long_button.png": {
         "frame": {
           "x": 194,
-          "y": 693,
+          "y": 735,
           "w": 146,
           "h": 38
         },
@@ -26172,8 +26208,8 @@
       },
       "ssr_fix_ticket_balloon.png": {
         "frame": {
-          "x": 338,
-          "y": 785,
+          "x": 656,
+          "y": 672,
           "w": 140,
           "h": 46
         },
@@ -26191,7 +26227,7 @@
       "text_1_round.png": {
         "frame": {
           "x": 823,
-          "y": 594,
+          "y": 629,
           "w": 90,
           "h": 29
         },
@@ -26244,8 +26280,8 @@
       },
       "text_7_round.png": {
         "frame": {
-          "x": 815,
-          "y": 627,
+          "x": 346,
+          "y": 665,
           "w": 90,
           "h": 29
         },
@@ -26253,8 +26289,8 @@
       },
       "text_10_round.png": {
         "frame": {
-          "x": 786,
-          "y": 792,
+          "x": 145,
+          "y": 877,
           "w": 108,
           "h": 29
         },
@@ -26262,8 +26298,8 @@
       },
       "text_bana_coin.png": {
         "frame": {
-          "x": 656,
-          "y": 679,
+          "x": 1,
+          "y": 742,
           "w": 143,
           "h": 25
         },
@@ -26272,7 +26308,7 @@
       "text_enza.png": {
         "frame": {
           "x": 663,
-          "y": 569,
+          "y": 604,
           "w": 156,
           "h": 22
         },
@@ -26280,8 +26316,8 @@
       },
       "text_gasha_ticket.png": {
         "frame": {
-          "x": 786,
-          "y": 721,
+          "x": 1,
+          "y": 885,
           "w": 122,
           "h": 25
         },
@@ -38132,5 +38168,68 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/20021/001": {
+    "name": "images/tips/game_event/20021/001",
+    "ext": ".jpg",
+    "url": "/assets/b0510d98a800e9f93c53c645d4caa4ddb9e38fb61d4c1f6dfa937f947b61133f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20021/002": {
+    "name": "images/tips/game_event/20021/002",
+    "ext": ".jpg",
+    "url": "/assets/aae1846b923ac453250d1673fb849e47e4f244435110dca2f01fffb3e516eacc?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20021/003": {
+    "name": "images/tips/game_event/20021/003",
+    "ext": ".jpg",
+    "url": "/assets/8f78b2217acf69026ea7aebeced96434b8ac35f400358e8036756a15b39921a6?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20021/008": {
+    "name": "images/tips/game_event/20021/008",
+    "ext": ".jpg",
+    "url": "/assets/225477bbf3440e6cee29cbd75bdd2b11dc037fc1a8ededd46602875b1c49c813?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/35/001": {
+    "name": "images/tips/game_event/35/001",
+    "ext": ".jpg",
+    "url": "/assets/cee269f3f63a9112d363ea2627703babf0811a852f2a3b82e3beb8277836cd36?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/35/002": {
+    "name": "images/tips/game_event/35/002",
+    "ext": ".jpg",
+    "url": "/assets/f2925ff634b3dee2ddefdfdf1d0a6093d70162a3ef6082a8f7e65d5101e61fb4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/35/003": {
+    "name": "images/tips/game_event/35/003",
+    "ext": ".jpg",
+    "url": "/assets/2ad976db420e7d0da3b5eeb6c08a600bf45f919eeda7d518b447924b1b9d3d0a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/35/005": {
+    "name": "images/tips/game_event/35/005",
+    "ext": ".jpg",
+    "url": "/assets/9a4fe0a631ba1ededd0759cf683eeef40dcf7307104de4a33154cead360f4303?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20021/005": {
+    "name": "images/tips/game_event/20021/005",
+    "ext": ".jpg",
+    "url": "/assets/9b722d27c163339a556e53d8748bb60e2403f3e2bb47715dd256c237205564ac?v=1",
+    "v": 1,
+    "frames": null
   }
 }
