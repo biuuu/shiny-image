@@ -9,6 +9,7 @@ on:
     paths:
       - 'image-info.json'
       - 'image-list.json'
+      - 'icon-info.json'
 
 jobs:
   main:
