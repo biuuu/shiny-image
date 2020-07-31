@@ -9013,12 +9013,12 @@
   "images/ui/concert/parts_effect": {
     "name": "images/ui/concert/parts_effect",
     "ext": ".png",
-    "url": "/assets/69f5b8da3196c137e5390e6cfee80fb1c624feafa75ed5e4cb6783f77756ea4a?v=10",
-    "v": 10,
+    "url": "/assets/69f5b8da3196c137e5390e6cfee80fb1c624feafa75ed5e4cb6783f77756ea4a?v=11",
+    "v": 11,
     "frames": {
       "concert_light_circle.png": {
         "frame": {
-          "x": 623,
+          "x": 622,
           "y": 197,
           "w": 150,
           "h": 150
@@ -9036,7 +9036,7 @@
       },
       "light_flare_closs_blue.png": {
         "frame": {
-          "x": 853,
+          "x": 852,
           "y": 265,
           "w": 62,
           "h": 64
@@ -9110,7 +9110,7 @@
         "frame": {
           "x": 1,
           "y": 197,
-          "w": 618,
+          "w": 617,
           "h": 114
         },
         "rotated": false
@@ -9135,7 +9135,7 @@
       },
       "recover_skill_icon.png": {
         "frame": {
-          "x": 777,
+          "x": 776,
           "y": 265,
           "w": 72,
           "h": 72
@@ -14999,13 +14999,13 @@
   "images/ui/skill_board/parts": {
     "name": "images/ui/skill_board/parts",
     "ext": ".png",
-    "url": "/assets/4c9673ae1a217fdd2bf26f92c27232c7a782c59705ef0890ed1c8abe9bd40347?v=13",
-    "v": 13,
+    "url": "/assets/4c9673ae1a217fdd2bf26f92c27232c7a782c59705ef0890ed1c8abe9bd40347?v=14",
+    "v": 14,
     "frames": {
       "confirm_skill_item_base.png": {
         "frame": {
           "x": 1,
-          "y": 403,
+          "y": 525,
           "w": 494,
           "h": 114
         },
@@ -15013,8 +15013,8 @@
       },
       "consumed_sp_base.png": {
         "frame": {
-          "x": 1,
-          "y": 729,
+          "x": 436,
+          "y": 763,
           "w": 370,
           "h": 27
         },
@@ -15032,7 +15032,7 @@
       "layer_skill_panel_gray.png": {
         "frame": {
           "x": 292,
-          "y": 589,
+          "y": 711,
           "w": 140,
           "h": 120
         },
@@ -15058,8 +15058,8 @@
       },
       "produce_idol_detail_button.png": {
         "frame": {
-          "x": 550,
-          "y": 695,
+          "x": 613,
+          "y": 721,
           "w": 148,
           "h": 38
         },
@@ -15068,7 +15068,7 @@
       "produce_idol_overview_base.png": {
         "frame": {
           "x": 1,
-          "y": 589,
+          "y": 711,
           "w": 287,
           "h": 136
         },
@@ -15076,8 +15076,8 @@
       },
       "rarity_frame_1.png": {
         "frame": {
-          "x": 550,
-          "y": 591,
+          "x": 613,
+          "y": 617,
           "w": 101,
           "h": 100
         },
@@ -15085,8 +15085,8 @@
       },
       "rarity_frame_2.png": {
         "frame": {
-          "x": 655,
-          "y": 591,
+          "x": 718,
+          "y": 617,
           "w": 101,
           "h": 100
         },
@@ -15094,17 +15094,35 @@
       },
       "rarity_frame_3.png": {
         "frame": {
-          "x": 436,
-          "y": 591,
+          "x": 499,
+          "y": 617,
           "w": 110,
           "h": 110
+        },
+        "rotated": false
+      },
+      "skill_attention_comment_base.png": {
+        "frame": {
+          "x": 499,
+          "y": 467,
+          "w": 324,
+          "h": 22
+        },
+        "rotated": false
+      },
+      "skill_inneer_base_confirmation.png": {
+        "frame": {
+          "x": 1,
+          "y": 403,
+          "w": 494,
+          "h": 118
         },
         "rotated": false
       },
       "skill_panel_base.png": {
         "frame": {
           "x": 499,
-          "y": 467,
+          "y": 493,
           "w": 140,
           "h": 120
         },
@@ -15113,7 +15131,7 @@
       "skill_panel_base_gold.png": {
         "frame": {
           "x": 643,
-          "y": 467,
+          "y": 493,
           "w": 140,
           "h": 120
         },
@@ -15139,8 +15157,8 @@
       },
       "skill_point_diff_base.png": {
         "frame": {
-          "x": 1,
-          "y": 760,
+          "x": 436,
+          "y": 794,
           "w": 379,
           "h": 25
         },
@@ -15157,8 +15175,8 @@
       },
       "text_lacking_sp.png": {
         "frame": {
-          "x": 542,
-          "y": 737,
+          "x": 745,
+          "y": 325,
           "w": 91,
           "h": 29
         },
@@ -15166,8 +15184,8 @@
       },
       "text_learned.png": {
         "frame": {
-          "x": 436,
-          "y": 705,
+          "x": 745,
+          "y": 291,
           "w": 102,
           "h": 30
         },
@@ -15175,8 +15193,8 @@
       },
       "text_locked.png": {
         "frame": {
-          "x": 701,
-          "y": 759,
+          "x": 745,
+          "y": 358,
           "w": 77,
           "h": 30
         },
@@ -15185,7 +15203,7 @@
       "title_acquire_skill.png": {
         "frame": {
           "x": 1,
-          "y": 521,
+          "y": 643,
           "w": 494,
           "h": 30
         },
@@ -15194,7 +15212,7 @@
       "title_delete_skill.png": {
         "frame": {
           "x": 1,
-          "y": 555,
+          "y": 677,
           "w": 494,
           "h": 30
         },
@@ -15211,8 +15229,8 @@
       },
       "zoom_in_button.png": {
         "frame": {
-          "x": 702,
-          "y": 695,
+          "x": 761,
+          "y": 163,
           "w": 60,
           "h": 60
         },
@@ -15220,8 +15238,8 @@
       },
       "zoom_out_button.png": {
         "frame": {
-          "x": 637,
-          "y": 737,
+          "x": 761,
+          "y": 227,
           "w": 60,
           "h": 60
         },
@@ -17425,13 +17443,13 @@
   "images/ui/box_gasha/parts": {
     "name": "images/ui/box_gasha/parts",
     "ext": ".png",
-    "url": "/assets/7d104c2e7aed5406dc0cfbf25c83c9ff74b4a0f0b08c75c3673f4bae7863c86c?v=8",
-    "v": 8,
+    "url": "/assets/7d104c2e7aed5406dc0cfbf25c83c9ff74b4a0f0b08c75c3673f4bae7863c86c?v=9",
+    "v": 9,
     "frames": {
       "badge_get.png": {
         "frame": {
-          "x": 719,
-          "y": 409,
+          "x": 595,
+          "y": 457,
           "w": 66,
           "h": 25
         },
@@ -17441,8 +17459,8 @@
         "frame": {
           "x": 389,
           "y": 361,
-          "w": 148,
-          "h": 38
+          "w": 120,
+          "h": 120
         },
         "rotated": false
       },
@@ -17466,7 +17484,7 @@
       },
       "box_detail_tab_left_off.png": {
         "frame": {
-          "x": 541,
+          "x": 513,
           "y": 361,
           "w": 80,
           "h": 44
@@ -17475,8 +17493,8 @@
       },
       "box_detail_tab_left_on.png": {
         "frame": {
-          "x": 389,
-          "y": 403,
+          "x": 597,
+          "y": 361,
           "w": 80,
           "h": 44
         },
@@ -17484,7 +17502,7 @@
       },
       "box_detail_tab_middle_off.png": {
         "frame": {
-          "x": 625,
+          "x": 681,
           "y": 361,
           "w": 80,
           "h": 44
@@ -17493,8 +17511,8 @@
       },
       "box_detail_tab_middle_on.png": {
         "frame": {
-          "x": 709,
-          "y": 361,
+          "x": 513,
+          "y": 409,
           "w": 80,
           "h": 44
         },
@@ -17502,7 +17520,7 @@
       },
       "box_detail_tab_right_off.png": {
         "frame": {
-          "x": 473,
+          "x": 597,
           "y": 409,
           "w": 80,
           "h": 44
@@ -17511,8 +17529,8 @@
       },
       "box_detail_tab_right_on.png": {
         "frame": {
-          "x": 389,
-          "y": 451,
+          "x": 681,
+          "y": 409,
           "w": 80,
           "h": 44
         },
@@ -17547,8 +17565,8 @@
       },
       "btn_check_item_change.png": {
         "frame": {
-          "x": 557,
-          "y": 409,
+          "x": 513,
+          "y": 457,
           "w": 78,
           "h": 38
         },
@@ -17592,8 +17610,8 @@
       },
       "item_number_title.png": {
         "frame": {
-          "x": 639,
-          "y": 409,
+          "x": 389,
+          "y": 485,
           "w": 76,
           "h": 24
         },
@@ -21882,13 +21900,13 @@
   "images/ui/game_event/parts_button": {
     "name": "images/ui/game_event/parts_button",
     "ext": ".png",
-    "url": "/assets/94ced74c33858296a1b01d6a68791239cb82e5d47897713dfbc6540ddf97bd0f?v=2",
-    "v": 2,
+    "url": "/assets/94ced74c33858296a1b01d6a68791239cb82e5d47897713dfbc6540ddf97bd0f?v=3",
+    "v": 3,
     "frames": {
       "event_detail_button.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 43,
           "w": 120,
           "h": 120
         },
@@ -21897,7 +21915,7 @@
       "event_mission_button.png": {
         "frame": {
           "x": 1,
-          "y": 125,
+          "y": 167,
           "w": 120,
           "h": 120
         },
@@ -21905,17 +21923,35 @@
       },
       "event_reward_button.png": {
         "frame": {
-          "x": 1,
-          "y": 249,
+          "x": 125,
+          "y": 43,
           "w": 120,
           "h": 120
+        },
+        "rotated": false
+      },
+      "event_reward_idol_detail_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "event_reward_idol_info_button.png": {
+        "frame": {
+          "x": 153,
+          "y": 1,
+          "w": 128,
+          "h": 38
         },
         "rotated": false
       },
       "event_shop_button.png": {
         "frame": {
           "x": 125,
-          "y": 1,
+          "y": 167,
           "w": 120,
           "h": 120
         },
@@ -21923,17 +21959,17 @@
       },
       "how_to_play_button.png": {
         "frame": {
-          "x": 249,
-          "y": 1,
-          "w": 120,
-          "h": 120
+          "x": 1,
+          "y": 291,
+          "w": 128,
+          "h": 38
         },
         "rotated": false
       },
       "ranking_reward_button.png": {
         "frame": {
-          "x": 125,
-          "y": 125,
+          "x": 249,
+          "y": 43,
           "w": 120,
           "h": 120
         },
@@ -24650,13 +24686,13 @@
   "images/ui/raid_top/parts": {
     "name": "images/ui/raid_top/parts",
     "ext": ".png",
-    "url": "/assets/aaf43828b1fa7915ebef1ebaf1803e128400d3410e8e1d6bbe13653306ccce8a?v=3",
-    "v": 3,
+    "url": "/assets/aaf43828b1fa7915ebef1ebaf1803e128400d3410e8e1d6bbe13653306ccce8a?v=4",
+    "v": 4,
     "frames": {
       "collabo_fes_all_hall.png": {
         "frame": {
           "x": 1,
-          "y": 517,
+          "y": 255,
           "w": 406,
           "h": 205
         },
@@ -24664,7 +24700,7 @@
       },
       "collabo_fes_all_hall_title.png": {
         "frame": {
-          "x": 1064,
+          "x": 635,
           "y": 620,
           "w": 101,
           "h": 68
@@ -24673,8 +24709,8 @@
       },
       "collabo_fes_all_stage_title.png": {
         "frame": {
-          "x": 411,
-          "y": 705,
+          "x": 299,
+          "y": 819,
           "w": 258,
           "h": 58
         },
@@ -24683,7 +24719,7 @@
       "collabo_fes_announce_base.png": {
         "frame": {
           "x": 1,
-          "y": 321,
+          "y": 1031,
           "w": 748,
           "h": 64
         },
@@ -24691,8 +24727,8 @@
       },
       "collabo_fes_dance_hall.png": {
         "frame": {
-          "x": 1,
-          "y": 726,
+          "x": 823,
+          "y": 130,
           "w": 345,
           "h": 190
         },
@@ -24700,8 +24736,8 @@
       },
       "collabo_fes_dance_hall_title.png": {
         "frame": {
-          "x": 907,
-          "y": 1041,
+          "x": 666,
+          "y": 475,
           "w": 91,
           "h": 69
         },
@@ -24709,8 +24745,8 @@
       },
       "collabo_fes_dance_stage_title.png": {
         "frame": {
-          "x": 921,
-          "y": 542,
+          "x": 595,
+          "y": 925,
           "w": 226,
           "h": 54
         },
@@ -24718,8 +24754,8 @@
       },
       "collabo_fes_deck_edit_button.png": {
         "frame": {
-          "x": 642,
-          "y": 999,
+          "x": 753,
+          "y": 1052,
           "w": 240,
           "h": 38
         },
@@ -24727,8 +24763,8 @@
       },
       "collabo_fes_difficulty_base_easy.png": {
         "frame": {
-          "x": 987,
-          "y": 294,
+          "x": 1025,
+          "y": 473,
           "w": 130,
           "h": 130
         },
@@ -24736,8 +24772,8 @@
       },
       "collabo_fes_difficulty_base_hard.png": {
         "frame": {
-          "x": 930,
-          "y": 620,
+          "x": 1025,
+          "y": 607,
           "w": 130,
           "h": 130
         },
@@ -24745,8 +24781,8 @@
       },
       "collabo_fes_difficulty_base_normal.png": {
         "frame": {
-          "x": 887,
-          "y": 755,
+          "x": 267,
+          "y": 464,
           "w": 130,
           "h": 130
         },
@@ -24763,8 +24799,8 @@
       },
       "collabo_fes_difficulty_easy_ok_button.png": {
         "frame": {
-          "x": 823,
-          "y": 196,
+          "x": 401,
+          "y": 589,
           "w": 160,
           "h": 160
         },
@@ -24772,8 +24808,8 @@
       },
       "collabo_fes_difficulty_hard_ok_button.png": {
         "frame": {
-          "x": 723,
-          "y": 755,
+          "x": 565,
+          "y": 692,
           "w": 160,
           "h": 160
         },
@@ -24781,8 +24817,8 @@
       },
       "collabo_fes_difficulty_mark_easy.png": {
         "frame": {
-          "x": 1021,
-          "y": 843,
+          "x": 784,
+          "y": 255,
           "w": 34,
           "h": 42
         },
@@ -24790,8 +24826,8 @@
       },
       "collabo_fes_difficulty_mark_hard.png": {
         "frame": {
-          "x": 753,
-          "y": 321,
+          "x": 565,
+          "y": 589,
           "w": 66,
           "h": 42
         },
@@ -24799,8 +24835,8 @@
       },
       "collabo_fes_difficulty_mark_normal.png": {
         "frame": {
-          "x": 1021,
-          "y": 797,
+          "x": 565,
+          "y": 635,
           "w": 56,
           "h": 42
         },
@@ -24808,8 +24844,8 @@
       },
       "collabo_fes_difficulty_normal_ok_button.png": {
         "frame": {
-          "x": 987,
-          "y": 130,
+          "x": 729,
+          "y": 761,
           "w": 160,
           "h": 160
         },
@@ -24817,8 +24853,8 @@
       },
       "collabo_fes_difficulty_title_easy.png": {
         "frame": {
-          "x": 673,
-          "y": 675,
+          "x": 893,
+          "y": 876,
           "w": 253,
           "h": 76
         },
@@ -24826,8 +24862,8 @@
       },
       "collabo_fes_difficulty_title_hard.png": {
         "frame": {
-          "x": 642,
-          "y": 919,
+          "x": 1,
+          "y": 582,
           "w": 253,
           "h": 76
         },
@@ -24835,8 +24871,8 @@
       },
       "collabo_fes_difficulty_title_normal.png": {
         "frame": {
-          "x": 650,
-          "y": 1041,
+          "x": 1,
+          "y": 662,
           "w": 253,
           "h": 76
         },
@@ -24844,8 +24880,8 @@
       },
       "collabo_fes_event_close_info.png": {
         "frame": {
-          "x": 350,
-          "y": 1043,
+          "x": 825,
+          "y": 956,
           "w": 296,
           "h": 40
         },
@@ -24854,7 +24890,7 @@
       "collabo_fes_footer_base.png": {
         "frame": {
           "x": 1,
-          "y": 389,
+          "y": 902,
           "w": 590,
           "h": 124
         },
@@ -24862,8 +24898,8 @@
       },
       "collabo_fes_guested_concert_history_stage_title_all.png": {
         "frame": {
-          "x": 886,
-          "y": 1008,
+          "x": 258,
+          "y": 633,
           "w": 129,
           "h": 29
         },
@@ -24871,8 +24907,8 @@
       },
       "collabo_fes_guested_concert_history_stage_title_dance.png": {
         "frame": {
-          "x": 1021,
-          "y": 766,
+          "x": 258,
+          "y": 666,
           "w": 113,
           "h": 27
         },
@@ -24880,8 +24916,8 @@
       },
       "collabo_fes_guested_concert_history_stage_title_visual.png": {
         "frame": {
-          "x": 1029,
-          "y": 990,
+          "x": 893,
+          "y": 761,
           "w": 122,
           "h": 29
         },
@@ -24889,8 +24925,8 @@
       },
       "collabo_fes_guested_concert_history_stage_title_vocal.png": {
         "frame": {
-          "x": 1029,
-          "y": 955,
+          "x": 258,
+          "y": 598,
           "w": 129,
           "h": 31
         },
@@ -24898,8 +24934,8 @@
       },
       "collabo_fes_hall_close.png": {
         "frame": {
-          "x": 284,
-          "y": 1087,
+          "x": 893,
+          "y": 794,
           "w": 258,
           "h": 78
         },
@@ -24907,8 +24943,8 @@
       },
       "collabo_fes_hall_voltage_gauge.png": {
         "frame": {
-          "x": 921,
-          "y": 600,
+          "x": 959,
+          "y": 1094,
           "w": 204,
           "h": 16
         },
@@ -24916,8 +24952,8 @@
       },
       "collabo_fes_hall_voltage_gauge_anime.png": {
         "frame": {
-          "x": 546,
-          "y": 1121,
+          "x": 249,
+          "y": 881,
           "w": 408,
           "h": 16
         },
@@ -24925,8 +24961,8 @@
       },
       "collabo_fes_hall_voltage_gauge_base.png": {
         "frame": {
-          "x": 546,
-          "y": 1141,
+          "x": 595,
+          "y": 983,
           "w": 210,
           "h": 22
         },
@@ -24934,8 +24970,8 @@
       },
       "collabo_fes_hall_voltage_gauge_frame.png": {
         "frame": {
-          "x": 760,
-          "y": 1141,
+          "x": 595,
+          "y": 1009,
           "w": 206,
           "h": 18
         },
@@ -24943,8 +24979,8 @@
       },
       "collabo_fes_lap_base.png": {
         "frame": {
-          "x": 921,
-          "y": 490,
+          "x": 809,
+          "y": 1000,
           "w": 235,
           "h": 48
         },
@@ -24953,7 +24989,7 @@
       "collabo_fes_stage_ranking_base.png": {
         "frame": {
           "x": 1,
-          "y": 130,
+          "y": 1099,
           "w": 954,
           "h": 62
         },
@@ -24962,7 +24998,7 @@
       "collabo_fes_stage_ranking_detail_record_base.png": {
         "frame": {
           "x": 1,
-          "y": 196,
+          "y": 130,
           "w": 818,
           "h": 121
         },
@@ -24970,17 +25006,17 @@
       },
       "collabo_fes_title_logo.png": {
         "frame": {
-          "x": 350,
-          "y": 913,
-          "w": 288,
-          "h": 126
+          "x": 1,
+          "y": 464,
+          "w": 262,
+          "h": 114
         },
         "rotated": false
       },
       "collabo_fes_top_bg_frame_left.png": {
         "frame": {
           "x": 411,
-          "y": 517,
+          "y": 401,
           "w": 251,
           "h": 184
         },
@@ -24988,8 +25024,8 @@
       },
       "collabo_fes_top_bg_frame_right.png": {
         "frame": {
-          "x": 666,
-          "y": 487,
+          "x": 770,
+          "y": 473,
           "w": 251,
           "h": 184
         },
@@ -24997,8 +25033,8 @@
       },
       "collabo_fes_visual_hall.png": {
         "frame": {
-          "x": 1,
-          "y": 920,
+          "x": 784,
+          "y": 324,
           "w": 345,
           "h": 145
         },
@@ -25006,8 +25042,8 @@
       },
       "collabo_fes_visual_hall_title.png": {
         "frame": {
-          "x": 1002,
-          "y": 1049,
+          "x": 666,
+          "y": 548,
           "w": 92,
           "h": 68
         },
@@ -25015,8 +25051,8 @@
       },
       "collabo_fes_visual_stage_title.png": {
         "frame": {
-          "x": 921,
-          "y": 428,
+          "x": 1,
+          "y": 840,
           "w": 244,
           "h": 58
         },
@@ -25024,8 +25060,8 @@
       },
       "collabo_fes_vocal_hall.png": {
         "frame": {
-          "x": 350,
-          "y": 767,
+          "x": 411,
+          "y": 255,
           "w": 369,
           "h": 142
         },
@@ -25033,8 +25069,8 @@
       },
       "collabo_fes_vocal_hall_title.png": {
         "frame": {
-          "x": 1064,
-          "y": 692,
+          "x": 666,
+          "y": 401,
           "w": 100,
           "h": 70
         },
@@ -25042,8 +25078,8 @@
       },
       "collabo_fes_vocal_stage_title.png": {
         "frame": {
-          "x": 907,
-          "y": 889,
+          "x": 299,
+          "y": 753,
           "w": 258,
           "h": 62
         },
@@ -25051,8 +25087,8 @@
       },
       "collabo_fes_voltage_label.png": {
         "frame": {
-          "x": 1019,
-          "y": 1023,
+          "x": 258,
+          "y": 697,
           "w": 116,
           "h": 22
         },
@@ -25060,8 +25096,8 @@
       },
       "enhancement_item_base.png": {
         "frame": {
-          "x": 899,
-          "y": 955,
+          "x": 1023,
+          "y": 741,
           "w": 126,
           "h": 49
         },
@@ -25069,8 +25105,8 @@
       },
       "hall_close_title_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 1069,
+          "x": 740,
+          "y": 661,
           "w": 279,
           "h": 96
         },
@@ -25078,8 +25114,8 @@
       },
       "hall_restart_title_mask.png": {
         "frame": {
-          "x": 595,
-          "y": 389,
+          "x": 1,
+          "y": 742,
           "w": 294,
           "h": 94
         },
@@ -29549,8 +29585,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=37",
-    "v": 37,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=38",
+    "v": 38,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -29617,8 +29653,8 @@
       },
       "back_button.png": {
         "frame": {
-          "x": 1132,
-          "y": 85,
+          "x": 1190,
+          "y": 159,
           "w": 70,
           "h": 70
         },
@@ -29671,8 +29707,8 @@
       },
       "btn_detail.png": {
         "frame": {
-          "x": 1178,
-          "y": 1083,
+          "x": 1213,
+          "y": 233,
           "w": 68,
           "h": 38
         },
@@ -29680,8 +29716,8 @@
       },
       "btn_unlock.png": {
         "frame": {
-          "x": 1178,
-          "y": 1125,
+          "x": 1213,
+          "y": 275,
           "w": 68,
           "h": 38
         },
@@ -29752,8 +29788,8 @@
       },
       "check_box_off_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 324,
+          "x": 1228,
+          "y": 901,
           "w": 48,
           "h": 48
         },
@@ -29761,8 +29797,8 @@
       },
       "check_box_on_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 376,
+          "x": 1138,
+          "y": 531,
           "w": 48,
           "h": 48
         },
@@ -29788,8 +29824,8 @@
       },
       "close_circle_button.png": {
         "frame": {
-          "x": 1206,
-          "y": 474,
+          "x": 722,
+          "y": 933,
           "w": 36,
           "h": 35
         },
@@ -29797,8 +29833,8 @@
       },
       "close_icon_button.png": {
         "frame": {
-          "x": 1228,
-          "y": 901,
+          "x": 1210,
+          "y": 551,
           "w": 42,
           "h": 42
         },
@@ -29815,8 +29851,8 @@
       },
       "common_menu_button.png": {
         "frame": {
-          "x": 1206,
-          "y": 85,
+          "x": 1140,
+          "y": 393,
           "w": 64,
           "h": 64
         },
@@ -29887,8 +29923,8 @@
       },
       "ex_skill_change_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1167,
+          "x": 1213,
+          "y": 317,
           "w": 68,
           "h": 38
         },
@@ -29896,8 +29932,8 @@
       },
       "ex_skill_confirm_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1209,
+          "x": 1213,
+          "y": 359,
           "w": 68,
           "h": 38
         },
@@ -29905,8 +29941,8 @@
       },
       "ex_skill_setting_button.png": {
         "frame": {
-          "x": 1140,
-          "y": 518,
+          "x": 1178,
+          "y": 1203,
           "w": 68,
           "h": 38
         },
@@ -29968,8 +30004,8 @@
       },
       "info_circle_button.png": {
         "frame": {
-          "x": 1212,
-          "y": 513,
+          "x": 1218,
+          "y": 1245,
           "w": 32,
           "h": 32
         },
@@ -30004,8 +30040,8 @@
       },
       "link_skill_button.png": {
         "frame": {
-          "x": 1138,
-          "y": 560,
+          "x": 1208,
+          "y": 509,
           "w": 68,
           "h": 38
         },
@@ -30022,8 +30058,8 @@
       },
       "max_button.png": {
         "frame": {
-          "x": 1140,
-          "y": 461,
+          "x": 1178,
+          "y": 975,
           "w": 62,
           "h": 53
         },
@@ -30031,8 +30067,8 @@
       },
       "max_button_s.png": {
         "frame": {
-          "x": 1212,
-          "y": 549,
+          "x": 418,
+          "y": 1249,
           "w": 36,
           "h": 32
         },
@@ -30058,8 +30094,8 @@
       },
       "menu_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 975,
+          "x": 1208,
+          "y": 401,
           "w": 70,
           "h": 50
         },
@@ -30067,8 +30103,8 @@
       },
       "menu_close_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1029,
+          "x": 1208,
+          "y": 455,
           "w": 70,
           "h": 50
         },
@@ -30202,8 +30238,8 @@
       },
       "min_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 153,
+          "x": 1178,
+          "y": 1032,
           "w": 62,
           "h": 53
         },
@@ -30211,8 +30247,8 @@
       },
       "minus_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 210,
+          "x": 1178,
+          "y": 1089,
           "w": 62,
           "h": 53
         },
@@ -30220,8 +30256,8 @@
       },
       "minus_button_s.png": {
         "frame": {
-          "x": 1210,
-          "y": 585,
+          "x": 458,
+          "y": 1249,
           "w": 36,
           "h": 32
         },
@@ -30229,8 +30265,8 @@
       },
       "more_button.png": {
         "frame": {
-          "x": 1208,
-          "y": 428,
+          "x": 1210,
+          "y": 597,
           "w": 42,
           "h": 42
         },
@@ -30248,7 +30284,7 @@
       "my_page_button.png": {
         "frame": {
           "x": 1140,
-          "y": 393,
+          "y": 461,
           "w": 64,
           "h": 64
         },
@@ -30320,7 +30356,7 @@
       "open_button.png": {
         "frame": {
           "x": 1138,
-          "y": 602,
+          "y": 583,
           "w": 68,
           "h": 38
         },
@@ -30338,7 +30374,7 @@
       "play_button.png": {
         "frame": {
           "x": 1138,
-          "y": 644,
+          "y": 625,
           "w": 68,
           "h": 38
         },
@@ -30346,8 +30382,8 @@
       },
       "play_circle_button.png": {
         "frame": {
-          "x": 1210,
-          "y": 657,
+          "x": 1138,
+          "y": 709,
           "w": 32,
           "h": 32
         },
@@ -30373,8 +30409,8 @@
       },
       "plus_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 267,
+          "x": 1178,
+          "y": 1146,
           "w": 62,
           "h": 53
         },
@@ -30382,8 +30418,8 @@
       },
       "plus_button_s.png": {
         "frame": {
-          "x": 1210,
-          "y": 621,
+          "x": 498,
+          "y": 1249,
           "w": 36,
           "h": 32
         },
@@ -30409,8 +30445,8 @@
       },
       "question_circle_button.png": {
         "frame": {
-          "x": 722,
-          "y": 933,
+          "x": 1178,
+          "y": 1245,
           "w": 36,
           "h": 36
         },
@@ -30419,7 +30455,7 @@
       "ranking_detail_button.png": {
         "frame": {
           "x": 1138,
-          "y": 686,
+          "y": 667,
           "w": 68,
           "h": 38
         },
@@ -30454,8 +30490,8 @@
       },
       "resume_button.png": {
         "frame": {
-          "x": 468,
-          "y": 805,
+          "x": 1132,
+          "y": 85,
           "w": 148,
           "h": 70
         },
@@ -30463,8 +30499,8 @@
       },
       "retire_button.png": {
         "frame": {
-          "x": 418,
-          "y": 879,
+          "x": 468,
+          "y": 805,
           "w": 148,
           "h": 70
         },
@@ -30472,8 +30508,8 @@
       },
       "right_circle_button.png": {
         "frame": {
-          "x": 1210,
-          "y": 693,
+          "x": 1174,
+          "y": 709,
           "w": 32,
           "h": 32
         },
@@ -30482,7 +30518,7 @@
       "save_button.png": {
         "frame": {
           "x": 418,
-          "y": 953,
+          "y": 879,
           "w": 148,
           "h": 70
         },
@@ -30491,7 +30527,7 @@
       "save_simple_button.png": {
         "frame": {
           "x": 418,
-          "y": 1027,
+          "y": 953,
           "w": 148,
           "h": 70
         },
@@ -30500,7 +30536,7 @@
       "select_button.png": {
         "frame": {
           "x": 418,
-          "y": 1101,
+          "y": 1027,
           "w": 148,
           "h": 70
         },
@@ -30509,7 +30545,7 @@
       "setting_button.png": {
         "frame": {
           "x": 418,
-          "y": 1175,
+          "y": 1101,
           "w": 148,
           "h": 70
         },
@@ -30553,8 +30589,8 @@
       },
       "skill_board_button.png": {
         "frame": {
-          "x": 620,
-          "y": 859,
+          "x": 418,
+          "y": 1175,
           "w": 148,
           "h": 70
         },
@@ -30571,8 +30607,8 @@
       },
       "skip_text_button.png": {
         "frame": {
-          "x": 570,
-          "y": 933,
+          "x": 620,
+          "y": 859,
           "w": 148,
           "h": 70
         },
@@ -30581,7 +30617,7 @@
       "start_button.png": {
         "frame": {
           "x": 570,
-          "y": 1007,
+          "y": 933,
           "w": 148,
           "h": 70
         },
@@ -30590,7 +30626,7 @@
       "start_ja_button.png": {
         "frame": {
           "x": 570,
-          "y": 1081,
+          "y": 1007,
           "w": 148,
           "h": 70
         },
@@ -30608,7 +30644,7 @@
       "terminate_cancel_button.png": {
         "frame": {
           "x": 570,
-          "y": 1155,
+          "y": 1081,
           "w": 148,
           "h": 70
         },
@@ -30616,8 +30652,8 @@
       },
       "terminate_ok_button.png": {
         "frame": {
-          "x": 772,
-          "y": 901,
+          "x": 570,
+          "y": 1155,
           "w": 148,
           "h": 70
         },
@@ -30634,7 +30670,7 @@
       },
       "to_audition_button.png": {
         "frame": {
-          "x": 924,
+          "x": 772,
           "y": 901,
           "w": 148,
           "h": 70
@@ -30643,8 +30679,8 @@
       },
       "to_beginner_mission_button.png": {
         "frame": {
-          "x": 722,
-          "y": 975,
+          "x": 924,
+          "y": 901,
           "w": 148,
           "h": 70
         },
@@ -30653,13 +30689,22 @@
       "to_home_button.png": {
         "frame": {
           "x": 722,
-          "y": 1049,
+          "y": 975,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
       "to_item_button.png": {
+        "frame": {
+          "x": 722,
+          "y": 1049,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_live_button.png": {
         "frame": {
           "x": 874,
           "y": 975,
@@ -30668,7 +30713,7 @@
         },
         "rotated": false
       },
-      "to_live_button.png": {
+      "to_mission_button.png": {
         "frame": {
           "x": 722,
           "y": 1123,
@@ -30677,7 +30722,7 @@
         },
         "rotated": false
       },
-      "to_mission_button.png": {
+      "to_personal_information_input_button.png": {
         "frame": {
           "x": 874,
           "y": 1049,
@@ -30686,19 +30731,10 @@
         },
         "rotated": false
       },
-      "to_personal_information_input_button.png": {
+      "to_personal_information_input_outer_site_button.png": {
         "frame": {
           "x": 722,
           "y": 1197,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "to_personal_information_input_outer_site_button.png": {
-        "frame": {
-          "x": 874,
-          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -30707,7 +30743,7 @@
       "to_present_button.png": {
         "frame": {
           "x": 874,
-          "y": 1197,
+          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -30715,8 +30751,8 @@
       },
       "to_produce_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 975,
+          "x": 874,
+          "y": 1197,
           "w": 148,
           "h": 70
         },
@@ -30734,13 +30770,22 @@
       "to_special_announce_button.png": {
         "frame": {
           "x": 1026,
-          "y": 1049,
+          "y": 975,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
       "to_special_page_button.png": {
+        "frame": {
+          "x": 1026,
+          "y": 1049,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_trade_shop_button.png": {
         "frame": {
           "x": 1026,
           "y": 1123,
@@ -31139,13 +31184,13 @@
   "images/ui/gasha/parts_step_up": {
     "name": "images/ui/gasha/parts_step_up",
     "ext": ".png",
-    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=9",
-    "v": 9,
+    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=10",
+    "v": 10,
     "frames": {
       "4step_2_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 406,
-          "y": 145,
+          "x": 180,
+          "y": 211,
           "w": 172,
           "h": 88
         },
@@ -31153,8 +31198,8 @@
       },
       "4step_3_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 406,
-          "y": 237,
+          "x": 356,
+          "y": 285,
           "w": 172,
           "h": 88
         },
@@ -31162,8 +31207,8 @@
       },
       "4step_4_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 211,
+          "x": 180,
+          "y": 303,
           "w": 172,
           "h": 88
         },
@@ -31171,8 +31216,8 @@
       },
       "4step_4_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 177,
-          "y": 238,
+          "x": 1,
+          "y": 304,
           "w": 170,
           "h": 88
         },
@@ -31180,8 +31225,8 @@
       },
       "hanamaru_stamp.png": {
         "frame": {
-          "x": 1,
-          "y": 562,
+          "x": 453,
+          "y": 145,
           "w": 136,
           "h": 136
         },
@@ -31189,8 +31234,8 @@
       },
       "last_sr_step_1_balloon.png": {
         "frame": {
-          "x": 582,
-          "y": 149,
+          "x": 532,
+          "y": 297,
           "w": 159,
           "h": 61
         },
@@ -31198,8 +31243,8 @@
       },
       "p_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 490,
-          "y": 474,
+          "x": 457,
+          "y": 621,
           "w": 158,
           "h": 61
         },
@@ -31207,8 +31252,8 @@
       },
       "p_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 582,
-          "y": 214,
+          "x": 532,
+          "y": 362,
           "w": 159,
           "h": 61
         },
@@ -31216,8 +31261,8 @@
       },
       "p_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 327,
-          "y": 459,
+          "x": 1,
+          "y": 526,
           "w": 159,
           "h": 60
         },
@@ -31225,8 +31270,8 @@
       },
       "s_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 490,
-          "y": 474,
+          "x": 457,
+          "y": 621,
           "w": 158,
           "h": 61
         },
@@ -31234,8 +31279,8 @@
       },
       "s_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 582,
-          "y": 279,
+          "x": 356,
+          "y": 377,
           "w": 159,
           "h": 61
         },
@@ -31243,8 +31288,8 @@
       },
       "s_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 460,
+          "x": 490,
+          "y": 557,
           "w": 159,
           "h": 60
         },
@@ -31252,8 +31297,8 @@
       },
       "step_1_balloon.png": {
         "frame": {
-          "x": 490,
-          "y": 474,
+          "x": 457,
+          "y": 621,
           "w": 158,
           "h": 61
         },
@@ -31279,8 +31324,8 @@
       },
       "step_2_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 303,
+          "x": 175,
+          "y": 395,
           "w": 159,
           "h": 61
         },
@@ -31288,8 +31333,8 @@
       },
       "step_2_button_off.png": {
         "frame": {
-          "x": 327,
-          "y": 523,
+          "x": 593,
+          "y": 149,
           "w": 148,
           "h": 70
         },
@@ -31297,8 +31342,8 @@
       },
       "step_2_button_on.png": {
         "frame": {
-          "x": 164,
-          "y": 524,
+          "x": 593,
+          "y": 223,
           "w": 148,
           "h": 70
         },
@@ -31306,8 +31351,8 @@
       },
       "step_3_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 498,
+          "x": 457,
+          "y": 686,
           "w": 159,
           "h": 60
         },
@@ -31315,8 +31360,8 @@
       },
       "step_3_button_off.png": {
         "frame": {
-          "x": 141,
-          "y": 598,
+          "x": 1,
+          "y": 590,
           "w": 148,
           "h": 70
         },
@@ -31324,50 +31369,14 @@
       },
       "step_3_button_on.png": {
         "frame": {
-          "x": 141,
-          "y": 672,
+          "x": 1,
+          "y": 664,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
-      "step_3_last_sr_balloon.png": {
-        "frame": {
-          "x": 351,
-          "y": 329,
-          "w": 159,
-          "h": 61
-        },
-        "rotated": false
-      },
-      "step_4_button_off.png": {
-        "frame": {
-          "x": 293,
-          "y": 598,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "step_4_button_on.png": {
-        "frame": {
-          "x": 293,
-          "y": 672,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "step_4_last_limited_ssr_balloon.png": {
-        "frame": {
-          "x": 164,
-          "y": 330,
-          "w": 159,
-          "h": 61
-        },
-        "rotated": false
-      },
-      "step_4_last_pickup_balloon.png": {
+      "step_3_last_pickup_ssr_balloon.png": {
         "frame": {
           "x": 1,
           "y": 145,
@@ -31376,10 +31385,55 @@
         },
         "rotated": false
       },
-      "step_4_last_sr_balloon.png": {
+      "step_3_last_sr_balloon.png": {
         "frame": {
           "x": 1,
-          "y": 368,
+          "y": 396,
+          "w": 159,
+          "h": 61
+        },
+        "rotated": false
+      },
+      "step_4_button_off.png": {
+        "frame": {
+          "x": 153,
+          "y": 590,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "step_4_button_on.png": {
+        "frame": {
+          "x": 153,
+          "y": 664,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "step_4_last_limited_ssr_balloon.png": {
+        "frame": {
+          "x": 519,
+          "y": 427,
+          "w": 159,
+          "h": 61
+        },
+        "rotated": false
+      },
+      "step_4_last_pickup_balloon.png": {
+        "frame": {
+          "x": 227,
+          "y": 145,
+          "w": 222,
+          "h": 62
+        },
+        "rotated": false
+      },
+      "step_4_last_sr_balloon.png": {
+        "frame": {
+          "x": 338,
+          "y": 442,
           "w": 159,
           "h": 61
         },
@@ -31387,8 +31441,8 @@
       },
       "step_4_last_ssr_balloon.png": {
         "frame": {
-          "x": 514,
-          "y": 344,
+          "x": 164,
+          "y": 460,
           "w": 159,
           "h": 61
         },
@@ -31396,8 +31450,8 @@
       },
       "step_4_p_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 327,
-          "y": 394,
+          "x": 1,
+          "y": 461,
           "w": 159,
           "h": 61
         },
@@ -31405,8 +31459,8 @@
       },
       "step_4_s_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 395,
+          "x": 501,
+          "y": 492,
           "w": 159,
           "h": 61
         },
@@ -31414,8 +31468,8 @@
       },
       "step_4_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 145,
+          "x": 1,
+          "y": 211,
           "w": 175,
           "h": 89
         },
@@ -31423,8 +31477,8 @@
       },
       "step_5_button_off.png": {
         "frame": {
-          "x": 445,
-          "y": 597,
+          "x": 305,
+          "y": 590,
           "w": 148,
           "h": 70
         },
@@ -31432,8 +31486,8 @@
       },
       "step_5_button_on.png": {
         "frame": {
-          "x": 445,
-          "y": 671,
+          "x": 305,
+          "y": 664,
           "w": 148,
           "h": 70
         },
@@ -31441,8 +31495,8 @@
       },
       "step_5_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 433,
+          "x": 327,
+          "y": 507,
           "w": 159,
           "h": 61
         },
@@ -31450,8 +31504,8 @@
       },
       "step_5_last_ssr_balloon.png": {
         "frame": {
-          "x": 490,
-          "y": 409,
+          "x": 164,
+          "y": 525,
           "w": 159,
           "h": 61
         },
@@ -31513,8 +31567,8 @@
       },
       "time_left_balloon.png": {
         "frame": {
-          "x": 479,
-          "y": 539,
+          "x": 620,
+          "y": 621,
           "w": 120,
           "h": 45
         },
@@ -33152,8 +33206,8 @@
   "images/tips/concert/004": {
     "name": "images/tips/concert/004",
     "ext": ".jpg",
-    "url": "/assets/6e40f0fcfa75c87a36562c2d6bc996aac21d56a1a2891e4a0cbc1dd1f98db80a?v=8",
-    "v": 8,
+    "url": "/assets/6e40f0fcfa75c87a36562c2d6bc996aac21d56a1a2891e4a0cbc1dd1f98db80a?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/concert/005": {
@@ -35168,8 +35222,8 @@
   "images/tips/produce_skill_board/001": {
     "name": "images/tips/produce_skill_board/001",
     "ext": ".jpg",
-    "url": "/assets/c901273cec2829d20f28ebcfef47d87f8fd5e34ceb622c20fe3cd04182d1a48f?v=8",
-    "v": 8,
+    "url": "/assets/c901273cec2829d20f28ebcfef47d87f8fd5e34ceb622c20fe3cd04182d1a48f?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/game_event/40002/001": {
@@ -38229,6 +38283,34 @@
     "name": "images/tips/game_event/20021/005",
     "ext": ".jpg",
     "url": "/assets/9b722d27c163339a556e53d8748bb60e2403f3e2bb47715dd256c237205564ac?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/36/001": {
+    "name": "images/tips/game_event/36/001",
+    "ext": ".jpg",
+    "url": "/assets/ffa72507326f92bb39e8f7b039942c54f2d664b0a1959be46437d141b6617d71?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/36/002": {
+    "name": "images/tips/game_event/36/002",
+    "ext": ".jpg",
+    "url": "/assets/33426b073630f77ce8c6673c1542c921c20e44d553e97199ddf78408a465d2af?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/36/003": {
+    "name": "images/tips/game_event/36/003",
+    "ext": ".jpg",
+    "url": "/assets/d84179c16496b19f96efa35674064bb4a9f2a06ca821ea63c68bddcbc146b118?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/produce_skill_board/002": {
+    "name": "images/tips/produce_skill_board/002",
+    "ext": ".jpg",
+    "url": "/assets/d6a97e217b9fc39e41113cf65a65b3aeae999395828369acbecd83e70d435b94?v=1",
     "v": 1,
     "frames": null
   }
