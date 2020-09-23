@@ -74,6 +74,7 @@ const start = async () => {
       let paramsOver = []
       const imageBuffer = await sharp(`./origin/${key}.png`).raw().toBuffer({ resolveWithObject: true })
       for (let name of list) {
+        if (!frames[name]) continue
         let frame = frames[name].frame
         let { x: left, y: top, w: width, h: height } = frame
         let inputOver = `./images/${key}/${name}`
@@ -89,7 +90,7 @@ const start = async () => {
           blend: 'over'
         })
       }
-  
+
       // draw image
       await sharp(imageBuffer.data, {
         raw: {
@@ -101,9 +102,9 @@ const start = async () => {
       .composite(paramsOver)
       .png()
       .toFile(`./temp/${key}.png`)
-  
+
       console.log('save:', key)
-  
+
       let md5Value = await md5(`./temp/${key}.png`)
       imageMd5[key] = md5Value
       csvList.push({
