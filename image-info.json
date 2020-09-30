@@ -11955,23 +11955,32 @@
   "images/ui/shop/parts_shop_category_tab": {
     "name": "images/ui/shop/parts_shop_category_tab",
     "ext": ".png",
-    "url": "/assets/5cc29eda1ba19a43d55e6d3237940e7a7915647d5a8c0b3edfd2d2a33a17e3f9?v=2",
-    "v": 2,
+    "url": "/assets/5cc29eda1ba19a43d55e6d3237940e7a7915647d5a8c0b3edfd2d2a33a17e3f9?v=3",
+    "v": 3,
     "frames": {
+      "shop_283pass_icon.png": {
+        "frame": {
+          "x": 1,
+          "y": 181,
+          "w": 30,
+          "h": 38
+        },
+        "rotated": false
+      },
       "shop_category_tab_center_off.png": {
         "frame": {
           "x": 1,
           "y": 1,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
       },
       "shop_category_tab_center_on.png": {
         "frame": {
-          "x": 163,
+          "x": 143,
           "y": 1,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
@@ -11980,16 +11989,16 @@
         "frame": {
           "x": 1,
           "y": 61,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
       },
       "shop_category_tab_left_on.png": {
         "frame": {
-          "x": 163,
+          "x": 143,
           "y": 61,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
@@ -11998,24 +12007,24 @@
         "frame": {
           "x": 1,
           "y": 121,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
       },
       "shop_category_tab_right_on.png": {
         "frame": {
-          "x": 163,
+          "x": 143,
           "y": 121,
-          "w": 158,
+          "w": 138,
           "h": 56
         },
         "rotated": false
       },
       "shop_event_point_icon.png": {
         "frame": {
-          "x": 1,
-          "y": 290,
+          "x": 75,
+          "y": 216,
           "w": 31,
           "h": 30
         },
@@ -12024,7 +12033,7 @@
       "shop_exchange_item_icon.png": {
         "frame": {
           "x": 1,
-          "y": 181,
+          "y": 223,
           "w": 28,
           "h": 34
         },
@@ -12032,8 +12041,8 @@
       },
       "shop_idol_piece_icon.png": {
         "frame": {
-          "x": 36,
-          "y": 255,
+          "x": 108,
+          "y": 181,
           "w": 29,
           "h": 29
         },
@@ -12041,8 +12050,8 @@
       },
       "shop_money_icon.png": {
         "frame": {
-          "x": 1,
-          "y": 255,
+          "x": 73,
+          "y": 181,
           "w": 31,
           "h": 31
         },
@@ -12050,8 +12059,8 @@
       },
       "shop_premium_icon.png": {
         "frame": {
-          "x": 43,
-          "y": 216,
+          "x": 75,
+          "y": 250,
           "w": 28,
           "h": 28
         },
@@ -12059,7 +12068,7 @@
       },
       "shop_staff_item_point_icon.png": {
         "frame": {
-          "x": 33,
+          "x": 35,
           "y": 181,
           "w": 34,
           "h": 31
@@ -12068,8 +12077,8 @@
       },
       "shop_trade_icon.png": {
         "frame": {
-          "x": 1,
-          "y": 219,
+          "x": 33,
+          "y": 223,
           "w": 38,
           "h": 32
         },
@@ -13283,31 +13292,31 @@
   "images/ui/produce_item/parts": {
     "name": "images/ui/produce_item/parts",
     "ext": ".png",
-    "url": "/assets/95c6ce67039b1fd1a05b5148817ff5c9fa084efba71cd5abdd8dbdf2bca90c8f?v=12",
-    "v": 12,
+    "url": "/assets/95c6ce67039b1fd1a05b5148817ff5c9fa084efba71cd5abdd8dbdf2bca90c8f?v=13",
+    "v": 13,
     "frames": {
       "btn_remove.png": {
         "frame": {
-          "x": 679,
-          "y": 684,
+          "x": 595,
+          "y": 823,
           "w": 68,
           "h": 38
         },
-        "rotated": true
+        "rotated": false
       },
       "favorite_default.png": {
         "frame": {
-          "x": 713,
-          "y": 865,
+          "x": 695,
+          "y": 723,
           "w": 70,
           "h": 77
         },
-        "rotated": true
+        "rotated": false
       },
       "favorite_icon.png": {
         "frame": {
-          "x": 679,
-          "y": 904,
+          "x": 733,
+          "y": 1047,
           "w": 30,
           "h": 30
         },
@@ -13315,53 +13324,89 @@
       },
       "favorite_off.png": {
         "frame": {
-          "x": 888,
-          "y": 750,
+          "x": 598,
+          "y": 893,
           "w": 70,
           "h": 77
         },
-        "rotated": true
+        "rotated": false
       },
       "favorite_off_button.png": {
         "frame": {
-          "x": 679,
-          "y": 476,
+          "x": 489,
+          "y": 1009,
           "w": 100,
           "h": 38
         },
-        "rotated": true
+        "rotated": false
       },
       "favorite_on.png": {
         "frame": {
-          "x": 888,
-          "y": 824,
+          "x": 769,
+          "y": 723,
           "w": 70,
           "h": 77
         },
-        "rotated": true
+        "rotated": false
       },
       "favorite_on_button.png": {
         "frame": {
-          "x": 679,
-          "y": 580,
+          "x": 593,
+          "y": 1009,
           "w": 100,
           "h": 38
         },
-        "rotated": true
+        "rotated": false
+      },
+      "monthly_passport_label.png": {
+        "frame": {
+          "x": 595,
+          "y": 865,
+          "w": 88,
+          "h": 24
+        },
+        "rotated": false
+      },
+      "monthly_passport_memo_icon.png": {
+        "frame": {
+          "x": 657,
+          "y": 1051,
+          "w": 72,
+          "h": 82
+        },
+        "rotated": false
+      },
+      "monthly_passport_memo_off_button.png": {
+        "frame": {
+          "x": 667,
+          "y": 823,
+          "w": 68,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "monthly_passport_memo_on_button.png": {
+        "frame": {
+          "x": 739,
+          "y": 804,
+          "w": 68,
+          "h": 38
+        },
+        "rotated": false
       },
       "produce_item_description_base.png": {
         "frame": {
-          "x": 495,
-          "y": 476,
-          "w": 464,
-          "h": 180
+          "x": 1,
+          "y": 900,
+          "w": 484,
+          "h": 158
         },
-        "rotated": true
+        "rotated": false
       },
       "produce_item_empty_icon.png": {
         "frame": {
-          "x": 521,
-          "y": 944,
+          "x": 697,
+          "y": 865,
           "w": 201,
           "h": 178
         },
@@ -13369,17 +13414,17 @@
       },
       "produce_item_list_base.png": {
         "frame": {
-          "x": 71,
+          "x": 1,
           "y": 476,
           "w": 590,
           "h": 420
         },
-        "rotated": true
+        "rotated": false
       },
       "produce_item_list_content_check_frame.png": {
         "frame": {
-          "x": 679,
-          "y": 756,
+          "x": 489,
+          "y": 900,
           "w": 105,
           "h": 105
         },
@@ -13387,12 +13432,12 @@
       },
       "produce_item_list_content_num_base.png": {
         "frame": {
-          "x": 495,
-          "y": 944,
+          "x": 598,
+          "y": 974,
           "w": 91,
           "h": 20
         },
-        "rotated": true
+        "rotated": false
       },
       "produce_item_preparation_base.png": {
         "frame": {
@@ -13405,26 +13450,35 @@
       },
       "produce_item_preparation_circle.png": {
         "frame": {
-          "x": 726,
+          "x": 595,
           "y": 476,
-          "w": 271,
-          "h": 270
+          "w": 244,
+          "h": 243
         },
         "rotated": false
       },
-      "restriction_base.png": {
+      "produce_item_selected_base.png": {
         "frame": {
-          "x": 71,
-          "y": 1070,
-          "w": 446,
-          "h": 56
+          "x": 843,
+          "y": 476,
+          "w": 180,
+          "h": 256
+        },
+        "rotated": false
+      },
+      "produce_item_selected_base_monthly_passport_locked.png": {
+        "frame": {
+          "x": 902,
+          "y": 736,
+          "w": 180,
+          "h": 256
         },
         "rotated": false
       },
       "restriction_cover.png": {
         "frame": {
-          "x": 788,
-          "y": 750,
+          "x": 595,
+          "y": 723,
           "w": 96,
           "h": 96
         },
@@ -13432,48 +13486,30 @@
       },
       "restriction_label.png": {
         "frame": {
-          "x": 1111,
-          "y": 554,
+          "x": 811,
+          "y": 832,
           "w": 54,
           "h": 24
         },
-        "rotated": true
+        "rotated": false
       },
       "restriction_limited_label.png": {
         "frame": {
-          "x": 1111,
-          "y": 476,
+          "x": 811,
+          "y": 804,
           "w": 74,
           "h": 24
         },
-        "rotated": true
-      },
-      "select_item_1_base.png": {
-        "frame": {
-          "x": 1001,
-          "y": 476,
-          "w": 210,
-          "h": 106
-        },
-        "rotated": true
-      },
-      "select_item_2_base.png": {
-        "frame": {
-          "x": 1001,
-          "y": 690,
-          "w": 210,
-          "h": 106
-        },
-        "rotated": true
+        "rotated": false
       },
       "staff_tips.png": {
         "frame": {
           "x": 1,
-          "y": 476,
+          "y": 1062,
           "w": 652,
           "h": 66
         },
-        "rotated": true
+        "rotated": false
       }
     }
   },
@@ -20864,13 +20900,13 @@
   "images/ui/my_page/parts": {
     "name": "images/ui/my_page/parts",
     "ext": ".png",
-    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=29",
-    "v": 29,
+    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=30",
+    "v": 30,
     "frames": {
       "banner_list_base_bottom.png": {
         "frame": {
-          "x": 558,
-          "y": 694,
+          "x": 467,
+          "y": 93,
           "w": 301,
           "h": 15
         },
@@ -20878,8 +20914,8 @@
       },
       "banner_list_base_middle.png": {
         "frame": {
-          "x": 558,
-          "y": 713,
+          "x": 1,
+          "y": 846,
           "w": 301,
           "h": 2
         },
@@ -20887,8 +20923,8 @@
       },
       "banner_list_base_top.png": {
         "frame": {
-          "x": 369,
-          "y": 555,
+          "x": 1,
+          "y": 632,
           "w": 301,
           "h": 50
         },
@@ -20896,8 +20932,8 @@
       },
       "banner_slide_base.png": {
         "frame": {
-          "x": 467,
-          "y": 421,
+          "x": 1,
+          "y": 498,
           "w": 310,
           "h": 130
         },
@@ -20906,7 +20942,7 @@
       "base_daily_lottery.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 364,
           "w": 628,
           "h": 130
         },
@@ -20914,8 +20950,8 @@
       },
       "common_menu_button_stamina_gauge.png": {
         "frame": {
-          "x": 467,
-          "y": 397,
+          "x": 1,
+          "y": 852,
           "w": 90,
           "h": 14
         },
@@ -20923,8 +20959,8 @@
       },
       "common_menu_button_stamina_gauge_base.png": {
         "frame": {
-          "x": 249,
-          "y": 570,
+          "x": 467,
+          "y": 324,
           "w": 114,
           "h": 24
         },
@@ -20932,8 +20968,8 @@
       },
       "common_menu_campaign_badge_commu_open.png": {
         "frame": {
-          "x": 467,
-          "y": 347,
+          "x": 633,
+          "y": 460,
           "w": 120,
           "h": 46
         },
@@ -20941,8 +20977,8 @@
       },
       "common_menu_campaign_badge_default.png": {
         "frame": {
-          "x": 512,
-          "y": 609,
+          "x": 608,
+          "y": 510,
           "w": 120,
           "h": 46
         },
@@ -20950,8 +20986,8 @@
       },
       "common_menu_campaign_badge_drop_and_helper_staff_appearance_rate_up.png": {
         "frame": {
-          "x": 294,
-          "y": 818,
+          "x": 315,
+          "y": 548,
           "w": 260,
           "h": 46
         },
@@ -20959,8 +20995,8 @@
       },
       "common_menu_campaign_badge_drop_and_trust_point_up.png": {
         "frame": {
-          "x": 633,
-          "y": 1,
+          "x": 627,
+          "y": 236,
           "w": 200,
           "h": 46
         },
@@ -20968,8 +21004,8 @@
       },
       "common_menu_campaign_badge_drop_up.png": {
         "frame": {
-          "x": 373,
-          "y": 719,
+          "x": 579,
+          "y": 560,
           "w": 120,
           "h": 46
         },
@@ -20977,8 +21013,8 @@
       },
       "common_menu_campaign_badge_fes_event.png": {
         "frame": {
-          "x": 373,
-          "y": 659,
+          "x": 578,
+          "y": 610,
           "w": 120,
           "h": 46
         },
@@ -20986,8 +21022,8 @@
       },
       "common_menu_campaign_badge_free_gasha.png": {
         "frame": {
-          "x": 373,
-          "y": 769,
+          "x": 569,
+          "y": 760,
           "w": 120,
           "h": 45
         },
@@ -20995,8 +21031,8 @@
       },
       "common_menu_campaign_badge_helper_staff_appearance_rate_up.png": {
         "frame": {
-          "x": 633,
-          "y": 51,
+          "x": 627,
+          "y": 286,
           "w": 200,
           "h": 46
         },
@@ -21004,8 +21040,8 @@
       },
       "common_menu_campaign_badge_higher_training_success_rate.png": {
         "frame": {
-          "x": 497,
-          "y": 719,
+          "x": 569,
+          "y": 660,
           "w": 120,
           "h": 46
         },
@@ -21013,8 +21049,8 @@
       },
       "common_menu_campaign_badge_idea_note.png": {
         "frame": {
-          "x": 249,
-          "y": 609,
+          "x": 315,
+          "y": 598,
           "w": 259,
           "h": 46
         },
@@ -21022,8 +21058,8 @@
       },
       "common_menu_campaign_badge_limited_time_gasha.png": {
         "frame": {
-          "x": 497,
-          "y": 769,
+          "x": 732,
+          "y": 513,
           "w": 120,
           "h": 45
         },
@@ -21031,8 +21067,8 @@
       },
       "common_menu_campaign_badge_money_up.png": {
         "frame": {
-          "x": 558,
-          "y": 818,
+          "x": 569,
+          "y": 710,
           "w": 120,
           "h": 46
         },
@@ -21040,8 +21076,8 @@
       },
       "common_menu_campaign_badge_produce_audition.png": {
         "frame": {
-          "x": 1,
-          "y": 818,
+          "x": 315,
+          "y": 498,
           "w": 289,
           "h": 46
         },
@@ -21049,8 +21085,8 @@
       },
       "common_menu_campaign_badge_ssr_rate.png": {
         "frame": {
-          "x": 621,
-          "y": 769,
+          "x": 703,
+          "y": 562,
           "w": 120,
           "h": 45
         },
@@ -21058,8 +21094,8 @@
       },
       "common_menu_campaign_badge_stamina_halving.png": {
         "frame": {
-          "x": 621,
-          "y": 719,
+          "x": 538,
+          "y": 809,
           "w": 120,
           "h": 46
         },
@@ -21067,8 +21103,8 @@
       },
       "common_menu_campaign_badge_training_success_rate.png": {
         "frame": {
-          "x": 745,
-          "y": 719,
+          "x": 702,
+          "y": 611,
           "w": 120,
           "h": 46
         },
@@ -21076,8 +21112,8 @@
       },
       "common_menu_campaign_badge_trust_point_up.png": {
         "frame": {
-          "x": 745,
-          "y": 769,
+          "x": 693,
+          "y": 661,
           "w": 120,
           "h": 46
         },
@@ -21085,8 +21121,8 @@
       },
       "common_menu_commu_open_label.png": {
         "frame": {
-          "x": 781,
-          "y": 552,
+          "x": 773,
+          "y": 761,
           "w": 62,
           "h": 40
         },
@@ -21095,7 +21131,7 @@
       "common_menu_extra_campaign_badge_ticket_receivable.png": {
         "frame": {
           "x": 467,
-          "y": 295,
+          "y": 272,
           "w": 156,
           "h": 48
         },
@@ -21103,8 +21139,8 @@
       },
       "common_menu_fes_button.png": {
         "frame": {
-          "x": 633,
-          "y": 101,
+          "x": 1,
+          "y": 686,
           "w": 156,
           "h": 156
         },
@@ -21112,8 +21148,8 @@
       },
       "common_menu_fes_ticket.png": {
         "frame": {
-          "x": 837,
-          "y": 1,
+          "x": 772,
+          "y": 93,
           "w": 7,
           "h": 14
         },
@@ -21121,8 +21157,8 @@
       },
       "common_menu_gasha_button.png": {
         "frame": {
-          "x": 1,
-          "y": 694,
+          "x": 627,
+          "y": 112,
           "w": 120,
           "h": 120
         },
@@ -21130,8 +21166,8 @@
       },
       "common_menu_idol_button.png": {
         "frame": {
-          "x": 1,
-          "y": 570,
+          "x": 751,
+          "y": 112,
           "w": 120,
           "h": 120
         },
@@ -21139,8 +21175,8 @@
       },
       "common_menu_item_button.png": {
         "frame": {
-          "x": 793,
-          "y": 142,
+          "x": 757,
+          "y": 336,
           "w": 64,
           "h": 64
         },
@@ -21148,8 +21184,8 @@
       },
       "common_menu_jewel_plus_button.png": {
         "frame": {
-          "x": 409,
-          "y": 478,
+          "x": 662,
+          "y": 809,
           "w": 42,
           "h": 42
         },
@@ -21157,8 +21193,8 @@
       },
       "common_menu_jewel_sale_text.png": {
         "frame": {
-          "x": 793,
-          "y": 101,
+          "x": 757,
+          "y": 472,
           "w": 71,
           "h": 37
         },
@@ -21166,8 +21202,8 @@
       },
       "common_menu_jewel_set_text.png": {
         "frame": {
-          "x": 787,
-          "y": 278,
+          "x": 693,
+          "y": 761,
           "w": 76,
           "h": 39
         },
@@ -21175,17 +21211,26 @@
       },
       "common_menu_mission_button.png": {
         "frame": {
-          "x": 125,
-          "y": 694,
+          "x": 633,
+          "y": 336,
           "w": 120,
           "h": 120
         },
         "rotated": false
       },
+      "common_menu_monthly_passport_icon.png": {
+        "frame": {
+          "x": 835,
+          "y": 47,
+          "w": 28,
+          "h": 34
+        },
+        "rotated": false
+      },
       "common_menu_nickname_base.png": {
         "frame": {
-          "x": 1,
-          "y": 524,
+          "x": 467,
+          "y": 47,
           "w": 364,
           "h": 42
         },
@@ -21193,8 +21238,8 @@
       },
       "common_menu_notice_button.png": {
         "frame": {
-          "x": 793,
-          "y": 210,
+          "x": 757,
+          "y": 404,
           "w": 64,
           "h": 64
         },
@@ -21202,8 +21247,8 @@
       },
       "common_menu_present_button.png": {
         "frame": {
-          "x": 787,
-          "y": 321,
+          "x": 708,
+          "y": 805,
           "w": 64,
           "h": 64
         },
@@ -21212,7 +21257,7 @@
       "common_menu_produce_resume_button.png": {
         "frame": {
           "x": 467,
-          "y": 135,
+          "y": 112,
           "w": 156,
           "h": 156
         },
@@ -21220,8 +21265,8 @@
       },
       "common_menu_produce_start_button.png": {
         "frame": {
-          "x": 627,
-          "y": 261,
+          "x": 161,
+          "y": 686,
           "w": 156,
           "h": 156
         },
@@ -21229,8 +21274,8 @@
       },
       "common_menu_shop_button.png": {
         "frame": {
-          "x": 787,
-          "y": 389,
+          "x": 776,
+          "y": 805,
           "w": 64,
           "h": 64
         },
@@ -21238,8 +21283,8 @@
       },
       "common_menu_status_base.png": {
         "frame": {
-          "x": 1,
-          "y": 478,
+          "x": 467,
+          "y": 1,
           "w": 404,
           "h": 42
         },
@@ -21247,8 +21292,8 @@
       },
       "common_menu_work_activity_bonus_up.png": {
         "frame": {
-          "x": 682,
-          "y": 819,
+          "x": 693,
+          "y": 711,
           "w": 120,
           "h": 46
         },
@@ -21256,8 +21301,8 @@
       },
       "common_menu_work_activity_button.png": {
         "frame": {
-          "x": 125,
-          "y": 570,
+          "x": 321,
+          "y": 648,
           "w": 120,
           "h": 120
         },
@@ -21265,8 +21310,8 @@
       },
       "common_menu_work_activity_button_active.png": {
         "frame": {
-          "x": 249,
-          "y": 694,
+          "x": 445,
+          "y": 648,
           "w": 120,
           "h": 120
         },
@@ -21274,8 +21319,8 @@
       },
       "drawer_btn_default_logo.png": {
         "frame": {
-          "x": 781,
-          "y": 457,
+          "x": 454,
+          "y": 772,
           "w": 80,
           "h": 91
         },
@@ -21283,8 +21328,8 @@
       },
       "pickup_banner_icon.png": {
         "frame": {
-          "x": 674,
-          "y": 596,
+          "x": 321,
+          "y": 772,
           "w": 129,
           "h": 94
         },
@@ -21293,9 +21338,9 @@
       "produce_resume_pop_content_base.png": {
         "frame": {
           "x": 1,
-          "y": 135,
+          "y": 1,
           "w": 462,
-          "h": 339
+          "h": 359
         },
         "rotated": false
       }
@@ -29076,13 +29121,13 @@
   "images/ui/gasha/parts": {
     "name": "images/ui/gasha/parts",
     "ext": ".png",
-    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=13",
-    "v": 13,
+    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=14",
+    "v": 14,
     "frames": {
       "act_on_settlement_long_button.png": {
         "frame": {
-          "x": 346,
-          "y": 698,
+          "x": 656,
+          "y": 670,
           "w": 146,
           "h": 38
         },
@@ -29207,8 +29252,8 @@
       },
       "free_balloon.png": {
         "frame": {
-          "x": 145,
-          "y": 777,
+          "x": 1,
+          "y": 856,
           "w": 140,
           "h": 46
         },
@@ -29216,8 +29261,8 @@
       },
       "free_gift_button.png": {
         "frame": {
-          "x": 800,
-          "y": 672,
+          "x": 289,
+          "y": 814,
           "w": 108,
           "h": 38
         },
@@ -29226,7 +29271,7 @@
       "free_gift_count_balloon.png": {
         "frame": {
           "x": 1,
-          "y": 771,
+          "y": 742,
           "w": 140,
           "h": 53
         },
@@ -29235,7 +29280,7 @@
       "free_gift_done_balloon.png": {
         "frame": {
           "x": 145,
-          "y": 827,
+          "y": 764,
           "w": 140,
           "h": 46
         },
@@ -29282,7 +29327,7 @@
           "x": 670,
           "y": 547,
           "w": 160,
-          "h": 53
+          "h": 51
         },
         "rotated": false
       },
@@ -29306,8 +29351,8 @@
       },
       "gasha_detail_button.png": {
         "frame": {
-          "x": 800,
-          "y": 714,
+          "x": 289,
+          "y": 856,
           "w": 108,
           "h": 38
         },
@@ -29379,7 +29424,7 @@
       "idol_info_button.png": {
         "frame": {
           "x": 657,
-          "y": 630,
+          "y": 628,
           "w": 148,
           "h": 38
         },
@@ -29423,8 +29468,8 @@
       },
       "jewel_set_badge.png": {
         "frame": {
-          "x": 834,
-          "y": 603,
+          "x": 440,
+          "y": 686,
           "w": 75,
           "h": 22
         },
@@ -29432,8 +29477,8 @@
       },
       "kuji_balloon.png": {
         "frame": {
-          "x": 289,
-          "y": 777,
+          "x": 145,
+          "y": 814,
           "w": 140,
           "h": 46
         },
@@ -29451,7 +29496,7 @@
       "limited_count_balloon.png": {
         "frame": {
           "x": 1,
-          "y": 828,
+          "y": 799,
           "w": 140,
           "h": 53
         },
@@ -29477,8 +29522,8 @@
       },
       "one_time_only_balloon.png": {
         "frame": {
-          "x": 289,
-          "y": 827,
+          "x": 145,
+          "y": 864,
           "w": 140,
           "h": 46
         },
@@ -29522,8 +29567,8 @@
       },
       "specified_commercial_transactions_law_long_button.png": {
         "frame": {
-          "x": 194,
-          "y": 735,
+          "x": 346,
+          "y": 712,
           "w": 146,
           "h": 38
         },
@@ -29540,8 +29585,8 @@
       },
       "ssr_fix_ticket_balloon.png": {
         "frame": {
-          "x": 656,
-          "y": 672,
+          "x": 289,
+          "y": 764,
           "w": 140,
           "h": 46
         },
@@ -29559,7 +29604,7 @@
       "text_1_round.png": {
         "frame": {
           "x": 823,
-          "y": 629,
+          "y": 603,
           "w": 90,
           "h": 29
         },
@@ -29621,8 +29666,8 @@
       },
       "text_10_round.png": {
         "frame": {
-          "x": 145,
-          "y": 877,
+          "x": 401,
+          "y": 814,
           "w": 108,
           "h": 29
         },
@@ -29630,8 +29675,8 @@
       },
       "text_bana_coin.png": {
         "frame": {
-          "x": 1,
-          "y": 742,
+          "x": 194,
+          "y": 735,
           "w": 143,
           "h": 25
         },
@@ -29640,7 +29685,7 @@
       "text_enza.png": {
         "frame": {
           "x": 663,
-          "y": 604,
+          "y": 602,
           "w": 156,
           "h": 22
         },
@@ -29648,8 +29693,8 @@
       },
       "text_gasha_ticket.png": {
         "frame": {
-          "x": 1,
-          "y": 885,
+          "x": 519,
+          "y": 699,
           "w": 122,
           "h": 25
         },
@@ -32134,13 +32179,13 @@
   "images/ui/common/parts_icons": {
     "name": "images/ui/common/parts_icons",
     "ext": ".png",
-    "url": "/assets/380326a29d35f0bd8968cf36916290c37f6aa380729c262121f0813e9107b4a7?v=20",
-    "v": 20,
+    "url": "/assets/380326a29d35f0bd8968cf36916290c37f6aa380729c262121f0813e9107b4a7?v=21",
+    "v": 21,
     "frames": {
       "fes_idol_mark_icon_1001.png": {
         "frame": {
-          "x": 998,
-          "y": 140,
+          "x": 429,
+          "y": 904,
           "w": 44,
           "h": 44
         },
@@ -32148,8 +32193,8 @@
       },
       "fes_idol_mark_icon_1002.png": {
         "frame": {
-          "x": 998,
-          "y": 188,
+          "x": 909,
+          "y": 406,
           "w": 44,
           "h": 44
         },
@@ -32157,8 +32202,8 @@
       },
       "fes_idol_mark_icon_1003.png": {
         "frame": {
-          "x": 855,
-          "y": 428,
+          "x": 957,
+          "y": 406,
           "w": 44,
           "h": 44
         },
@@ -32166,8 +32211,8 @@
       },
       "fes_idol_mark_icon_1004.png": {
         "frame": {
-          "x": 903,
-          "y": 477,
+          "x": 877,
+          "y": 571,
           "w": 44,
           "h": 44
         },
@@ -32175,8 +32220,8 @@
       },
       "fes_idol_mark_icon_1005.png": {
         "frame": {
-          "x": 935,
-          "y": 629,
+          "x": 877,
+          "y": 619,
           "w": 44,
           "h": 44
         },
@@ -32184,8 +32229,8 @@
       },
       "fes_idol_mark_icon_2001.png": {
         "frame": {
-          "x": 935,
-          "y": 677,
+          "x": 877,
+          "y": 667,
           "w": 44,
           "h": 44
         },
@@ -32193,8 +32238,8 @@
       },
       "fes_idol_mark_icon_2002.png": {
         "frame": {
-          "x": 983,
-          "y": 629,
+          "x": 877,
+          "y": 715,
           "w": 44,
           "h": 44
         },
@@ -32202,8 +32247,8 @@
       },
       "fes_idol_mark_icon_2003.png": {
         "frame": {
-          "x": 983,
-          "y": 677,
+          "x": 877,
+          "y": 763,
           "w": 44,
           "h": 44
         },
@@ -32211,8 +32256,8 @@
       },
       "fes_idol_mark_icon_2004.png": {
         "frame": {
-          "x": 404,
-          "y": 901,
+          "x": 877,
+          "y": 811,
           "w": 44,
           "h": 44
         },
@@ -32220,8 +32265,8 @@
       },
       "fes_idol_mark_icon_2005.png": {
         "frame": {
-          "x": 401,
-          "y": 949,
+          "x": 885,
+          "y": 859,
           "w": 44,
           "h": 44
         },
@@ -32229,8 +32274,8 @@
       },
       "fes_idol_mark_icon_2006.png": {
         "frame": {
-          "x": 452,
-          "y": 901,
+          "x": 886,
+          "y": 907,
           "w": 44,
           "h": 44
         },
@@ -32238,8 +32283,8 @@
       },
       "fes_idol_mark_icon_2007.png": {
         "frame": {
-          "x": 449,
-          "y": 949,
+          "x": 888,
+          "y": 955,
           "w": 44,
           "h": 44
         },
@@ -32247,8 +32292,8 @@
       },
       "fes_idol_mark_icon_2008.png": {
         "frame": {
-          "x": 500,
-          "y": 895,
+          "x": 914,
+          "y": 454,
           "w": 44,
           "h": 44
         },
@@ -32256,8 +32301,8 @@
       },
       "fes_idol_mark_icon_2009.png": {
         "frame": {
-          "x": 548,
-          "y": 895,
+          "x": 962,
+          "y": 454,
           "w": 44,
           "h": 44
         },
@@ -32265,8 +32310,8 @@
       },
       "fes_idol_mark_icon_3001.png": {
         "frame": {
-          "x": 500,
-          "y": 943,
+          "x": 946,
+          "y": 502,
           "w": 44,
           "h": 44
         },
@@ -32274,8 +32319,8 @@
       },
       "fes_idol_mark_icon_3002.png": {
         "frame": {
-          "x": 548,
-          "y": 943,
+          "x": 994,
+          "y": 502,
           "w": 44,
           "h": 44
         },
@@ -32283,8 +32328,8 @@
       },
       "fes_idol_mark_icon_3003.png": {
         "frame": {
-          "x": 596,
-          "y": 934,
+          "x": 925,
+          "y": 571,
           "w": 44,
           "h": 44
         },
@@ -32292,8 +32337,8 @@
       },
       "fes_idol_mark_icon_3004.png": {
         "frame": {
-          "x": 644,
-          "y": 937,
+          "x": 925,
+          "y": 619,
           "w": 44,
           "h": 44
         },
@@ -32301,8 +32346,8 @@
       },
       "fes_idol_mark_icon_3005.png": {
         "frame": {
-          "x": 692,
-          "y": 937,
+          "x": 925,
+          "y": 667,
           "w": 44,
           "h": 44
         },
@@ -32310,8 +32355,8 @@
       },
       "fes_idol_mark_icon_3006.png": {
         "frame": {
-          "x": 740,
-          "y": 937,
+          "x": 925,
+          "y": 715,
           "w": 44,
           "h": 44
         },
@@ -32319,8 +32364,8 @@
       },
       "fes_idol_mark_icon_3007.png": {
         "frame": {
-          "x": 788,
-          "y": 944,
+          "x": 925,
+          "y": 763,
           "w": 44,
           "h": 44
         },
@@ -32328,8 +32373,8 @@
       },
       "fes_idol_mark_icon_3008.png": {
         "frame": {
-          "x": 836,
-          "y": 944,
+          "x": 925,
+          "y": 811,
           "w": 44,
           "h": 44
         },
@@ -32337,8 +32382,8 @@
       },
       "fes_idol_mark_icon_3009.png": {
         "frame": {
-          "x": 884,
-          "y": 940,
+          "x": 933,
+          "y": 859,
           "w": 44,
           "h": 44
         },
@@ -32346,8 +32391,8 @@
       },
       "fes_idol_mark_icon_4001.png": {
         "frame": {
-          "x": 932,
-          "y": 940,
+          "x": 934,
+          "y": 907,
           "w": 44,
           "h": 44
         },
@@ -32355,8 +32400,8 @@
       },
       "fes_idol_mark_icon_4002.png": {
         "frame": {
-          "x": 596,
-          "y": 982,
+          "x": 936,
+          "y": 955,
           "w": 44,
           "h": 44
         },
@@ -32364,8 +32409,8 @@
       },
       "fes_idol_mark_icon_4003.png": {
         "frame": {
-          "x": 644,
-          "y": 985,
+          "x": 973,
+          "y": 550,
           "w": 44,
           "h": 44
         },
@@ -32373,8 +32418,8 @@
       },
       "icon_ability.png": {
         "frame": {
-          "x": 1013,
-          "y": 554,
+          "x": 426,
+          "y": 952,
           "w": 26,
           "h": 26
         },
@@ -32382,8 +32427,8 @@
       },
       "icon_ability_l.png": {
         "frame": {
-          "x": 863,
-          "y": 476,
+          "x": 1010,
+          "y": 279,
           "w": 36,
           "h": 36
         },
@@ -32400,8 +32445,8 @@
       },
       "icon_box_event_point_s.png": {
         "frame": {
-          "x": 1008,
-          "y": 445,
+          "x": 1011,
+          "y": 129,
           "w": 32,
           "h": 32
         },
@@ -32409,8 +32454,8 @@
       },
       "icon_commu_lock_mark.png": {
         "frame": {
-          "x": 809,
-          "y": 383,
+          "x": 653,
+          "y": 1026,
           "w": 18,
           "h": 20
         },
@@ -32427,68 +32472,14 @@
       },
       "icon_fes_event_point_s.png": {
         "frame": {
-          "x": 449,
-          "y": 601,
+          "x": 1011,
+          "y": 165,
           "w": 32,
           "h": 32
         },
         "rotated": false
       },
       "icon_fes_idol_rank_l_a.png": {
-        "frame": {
-          "x": 919,
-          "y": 1,
-          "w": 109,
-          "h": 96
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_b.png": {
-        "frame": {
-          "x": 612,
-          "y": 345,
-          "w": 89,
-          "h": 78
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_c.png": {
-        "frame": {
-          "x": 460,
-          "y": 519,
-          "w": 89,
-          "h": 78
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_d.png": {
-        "frame": {
-          "x": 553,
-          "y": 519,
-          "w": 89,
-          "h": 78
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_e.png": {
-        "frame": {
-          "x": 640,
-          "y": 427,
-          "w": 71,
-          "h": 78
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_f.png": {
-        "frame": {
-          "x": 646,
-          "y": 509,
-          "w": 71,
-          "h": 78
-        },
-        "rotated": false
-      },
-      "icon_fes_idol_rank_l_s.png": {
         "frame": {
           "x": 612,
           "y": 139,
@@ -32497,10 +32488,64 @@
         },
         "rotated": false
       },
+      "icon_fes_idol_rank_l_b.png": {
+        "frame": {
+          "x": 702,
+          "y": 345,
+          "w": 89,
+          "h": 78
+        },
+        "rotated": false
+      },
+      "icon_fes_idol_rank_l_c.png": {
+        "frame": {
+          "x": 550,
+          "y": 429,
+          "w": 89,
+          "h": 78
+        },
+        "rotated": false
+      },
+      "icon_fes_idol_rank_l_d.png": {
+        "frame": {
+          "x": 460,
+          "y": 519,
+          "w": 89,
+          "h": 78
+        },
+        "rotated": false
+      },
+      "icon_fes_idol_rank_l_e.png": {
+        "frame": {
+          "x": 643,
+          "y": 429,
+          "w": 71,
+          "h": 78
+        },
+        "rotated": false
+      },
+      "icon_fes_idol_rank_l_f.png": {
+        "frame": {
+          "x": 718,
+          "y": 427,
+          "w": 71,
+          "h": 78
+        },
+        "rotated": false
+      },
+      "icon_fes_idol_rank_l_s.png": {
+        "frame": {
+          "x": 612,
+          "y": 239,
+          "w": 109,
+          "h": 96
+        },
+        "rotated": false
+      },
       "icon_fes_idol_rank_s_a.png": {
         "frame": {
-          "x": 692,
-          "y": 985,
+          "x": 973,
+          "y": 598,
           "w": 44,
           "h": 44
         },
@@ -32508,8 +32553,8 @@
       },
       "icon_fes_idol_rank_s_b.png": {
         "frame": {
-          "x": 740,
-          "y": 985,
+          "x": 973,
+          "y": 646,
           "w": 44,
           "h": 44
         },
@@ -32517,8 +32562,8 @@
       },
       "icon_fes_idol_rank_s_c.png": {
         "frame": {
-          "x": 788,
-          "y": 992,
+          "x": 973,
+          "y": 694,
           "w": 44,
           "h": 44
         },
@@ -32526,8 +32571,8 @@
       },
       "icon_fes_idol_rank_s_d.png": {
         "frame": {
-          "x": 836,
-          "y": 992,
+          "x": 973,
+          "y": 742,
           "w": 44,
           "h": 44
         },
@@ -32535,8 +32580,8 @@
       },
       "icon_fes_idol_rank_s_e.png": {
         "frame": {
-          "x": 884,
-          "y": 988,
+          "x": 973,
+          "y": 790,
           "w": 44,
           "h": 44
         },
@@ -32544,8 +32589,8 @@
       },
       "icon_fes_idol_rank_s_f.png": {
         "frame": {
-          "x": 932,
-          "y": 988,
+          "x": 981,
+          "y": 838,
           "w": 44,
           "h": 44
         },
@@ -32553,8 +32598,8 @@
       },
       "icon_fes_idol_rank_s_s.png": {
         "frame": {
-          "x": 923,
-          "y": 729,
+          "x": 982,
+          "y": 886,
           "w": 44,
           "h": 44
         },
@@ -32589,8 +32634,8 @@
       },
       "icon_idea_mark_dance_empty.png": {
         "frame": {
-          "x": 510,
-          "y": 640,
+          "x": 795,
+          "y": 345,
           "w": 60,
           "h": 68
         },
@@ -32598,8 +32643,8 @@
       },
       "icon_idea_mark_dance_lv_1.png": {
         "frame": {
-          "x": 480,
-          "y": 751,
+          "x": 429,
+          "y": 633,
           "w": 60,
           "h": 68
         },
@@ -32607,8 +32652,8 @@
       },
       "icon_idea_mark_dance_lv_2.png": {
         "frame": {
-          "x": 480,
-          "y": 823,
+          "x": 493,
+          "y": 601,
           "w": 60,
           "h": 68
         },
@@ -32616,8 +32661,8 @@
       },
       "icon_idea_mark_dance_lv_3.png": {
         "frame": {
-          "x": 544,
-          "y": 751,
+          "x": 557,
+          "y": 590,
           "w": 60,
           "h": 68
         },
@@ -32625,8 +32670,8 @@
       },
       "icon_idea_mark_mask.png": {
         "frame": {
-          "x": 544,
-          "y": 823,
+          "x": 493,
+          "y": 673,
           "w": 60,
           "h": 68
         },
@@ -32634,8 +32679,8 @@
       },
       "icon_idea_mark_mental_empty.png": {
         "frame": {
-          "x": 574,
-          "y": 640,
+          "x": 557,
+          "y": 662,
           "w": 60,
           "h": 68
         },
@@ -32643,8 +32688,8 @@
       },
       "icon_idea_mark_mental_lv_1.png": {
         "frame": {
-          "x": 791,
-          "y": 407,
+          "x": 621,
+          "y": 590,
           "w": 60,
           "h": 68
         },
@@ -32652,8 +32697,8 @@
       },
       "icon_idea_mark_mental_lv_2.png": {
         "frame": {
-          "x": 799,
-          "y": 479,
+          "x": 621,
+          "y": 662,
           "w": 60,
           "h": 68
         },
@@ -32661,8 +32706,8 @@
       },
       "icon_idea_mark_mental_lv_3.png": {
         "frame": {
-          "x": 808,
-          "y": 239,
+          "x": 685,
+          "y": 588,
           "w": 60,
           "h": 68
         },
@@ -32670,8 +32715,8 @@
       },
       "icon_idea_mark_skill_point_empty.png": {
         "frame": {
-          "x": 872,
-          "y": 229,
+          "x": 685,
+          "y": 660,
           "w": 60,
           "h": 68
         },
@@ -32679,8 +32724,8 @@
       },
       "icon_idea_mark_skill_point_lv_1.png": {
         "frame": {
-          "x": 822,
-          "y": 311,
+          "x": 749,
+          "y": 588,
           "w": 60,
           "h": 68
         },
@@ -32688,8 +32733,8 @@
       },
       "icon_idea_mark_skill_point_lv_2.png": {
         "frame": {
-          "x": 886,
-          "y": 301,
+          "x": 749,
+          "y": 660,
           "w": 60,
           "h": 68
         },
@@ -32697,8 +32742,8 @@
       },
       "icon_idea_mark_skill_point_lv_3.png": {
         "frame": {
-          "x": 950,
-          "y": 288,
+          "x": 557,
+          "y": 734,
           "w": 60,
           "h": 68
         },
@@ -32706,8 +32751,8 @@
       },
       "icon_idea_mark_special_empty.png": {
         "frame": {
-          "x": 647,
-          "y": 591,
+          "x": 621,
+          "y": 734,
           "w": 60,
           "h": 68
         },
@@ -32715,8 +32760,8 @@
       },
       "icon_idea_mark_special_lv_1.png": {
         "frame": {
-          "x": 711,
-          "y": 594,
+          "x": 685,
+          "y": 732,
           "w": 60,
           "h": 68
         },
@@ -32724,8 +32769,8 @@
       },
       "icon_idea_mark_special_lv_2.png": {
         "frame": {
-          "x": 775,
-          "y": 594,
+          "x": 749,
+          "y": 732,
           "w": 60,
           "h": 68
         },
@@ -32733,8 +32778,8 @@
       },
       "icon_idea_mark_special_lv_3.png": {
         "frame": {
-          "x": 638,
-          "y": 663,
+          "x": 793,
+          "y": 427,
           "w": 60,
           "h": 68
         },
@@ -32742,8 +32787,8 @@
       },
       "icon_idea_mark_visual_empty.png": {
         "frame": {
-          "x": 702,
-          "y": 666,
+          "x": 798,
+          "y": 499,
           "w": 60,
           "h": 68
         },
@@ -32751,8 +32796,8 @@
       },
       "icon_idea_mark_visual_lv_1.png": {
         "frame": {
-          "x": 766,
-          "y": 666,
+          "x": 813,
+          "y": 571,
           "w": 60,
           "h": 68
         },
@@ -32760,8 +32805,8 @@
       },
       "icon_idea_mark_visual_lv_2.png": {
         "frame": {
-          "x": 608,
-          "y": 735,
+          "x": 813,
+          "y": 643,
           "w": 60,
           "h": 68
         },
@@ -32769,8 +32814,8 @@
       },
       "icon_idea_mark_visual_lv_3.png": {
         "frame": {
-          "x": 608,
-          "y": 807,
+          "x": 813,
+          "y": 715,
           "w": 60,
           "h": 68
         },
@@ -32778,8 +32823,8 @@
       },
       "icon_idea_mark_vocal_empty.png": {
         "frame": {
-          "x": 672,
-          "y": 738,
+          "x": 813,
+          "y": 787,
           "w": 60,
           "h": 68
         },
@@ -32787,8 +32832,8 @@
       },
       "icon_idea_mark_vocal_lv_1.png": {
         "frame": {
-          "x": 736,
-          "y": 738,
+          "x": 477,
+          "y": 752,
           "w": 60,
           "h": 68
         },
@@ -32796,8 +32841,8 @@
       },
       "icon_idea_mark_vocal_lv_2.png": {
         "frame": {
-          "x": 672,
-          "y": 810,
+          "x": 477,
+          "y": 824,
           "w": 60,
           "h": 68
         },
@@ -32805,8 +32850,8 @@
       },
       "icon_idea_mark_vocal_lv_3.png": {
         "frame": {
-          "x": 736,
-          "y": 810,
+          "x": 541,
+          "y": 806,
           "w": 60,
           "h": 68
         },
@@ -32841,8 +32886,8 @@
       },
       "icon_idol_piece_s_1.png": {
         "frame": {
-          "x": 831,
-          "y": 383,
+          "x": 685,
+          "y": 994,
           "w": 16,
           "h": 18
         },
@@ -32850,8 +32895,8 @@
       },
       "icon_idol_piece_s_2.png": {
         "frame": {
-          "x": 281,
-          "y": 609,
+          "x": 1021,
+          "y": 732,
           "w": 19,
           "h": 18
         },
@@ -32859,8 +32904,8 @@
       },
       "icon_idol_piece_s_3.png": {
         "frame": {
-          "x": 593,
-          "y": 712,
+          "x": 271,
+          "y": 609,
           "w": 19,
           "h": 19
         },
@@ -32931,8 +32976,8 @@
       },
       "icon_idol_type_produce.png": {
         "frame": {
-          "x": 971,
-          "y": 725,
+          "x": 984,
+          "y": 934,
           "w": 44,
           "h": 44
         },
@@ -32940,8 +32985,8 @@
       },
       "icon_idol_type_support.png": {
         "frame": {
-          "x": 996,
-          "y": 236,
+          "x": 822,
+          "y": 1000,
           "w": 46,
           "h": 45
         },
@@ -32958,8 +33003,8 @@
       },
       "icon_jewel_s.png": {
         "frame": {
-          "x": 928,
-          "y": 777,
+          "x": 998,
+          "y": 982,
           "w": 44,
           "h": 44
         },
@@ -32967,8 +33012,8 @@
       },
       "icon_l_rarity_1.png": {
         "frame": {
-          "x": 440,
-          "y": 640,
+          "x": 935,
+          "y": 219,
           "w": 66,
           "h": 66
         },
@@ -32976,8 +33021,8 @@
       },
       "icon_l_rarity_2.png": {
         "frame": {
-          "x": 721,
-          "y": 483,
+          "x": 825,
+          "y": 268,
           "w": 74,
           "h": 68
         },
@@ -32985,8 +33030,8 @@
       },
       "icon_l_rarity_3.png": {
         "frame": {
-          "x": 281,
-          "y": 634,
+          "x": 636,
+          "y": 511,
           "w": 79,
           "h": 72
         },
@@ -32994,8 +33039,8 @@
       },
       "icon_l_rarity_4.png": {
         "frame": {
-          "x": 915,
-          "y": 140,
+          "x": 553,
+          "y": 511,
           "w": 79,
           "h": 75
         },
@@ -33004,7 +33049,7 @@
       "icon_live_ticket.png": {
         "frame": {
           "x": 725,
-          "y": 139,
+          "y": 245,
           "w": 96,
           "h": 96
         },
@@ -33012,8 +33057,8 @@
       },
       "icon_memory_Lv0.png": {
         "frame": {
-          "x": 260,
-          "y": 986,
+          "x": 477,
+          "y": 896,
           "w": 60,
           "h": 51
         },
@@ -33021,8 +33066,8 @@
       },
       "icon_memory_Lv1.png": {
         "frame": {
-          "x": 608,
-          "y": 879,
+          "x": 706,
+          "y": 874,
           "w": 60,
           "h": 51
         },
@@ -33030,8 +33075,8 @@
       },
       "icon_memory_Lv2.png": {
         "frame": {
-          "x": 672,
-          "y": 882,
+          "x": 706,
+          "y": 929,
           "w": 60,
           "h": 51
         },
@@ -33039,8 +33084,8 @@
       },
       "icon_memory_Lv3.png": {
         "frame": {
-          "x": 736,
-          "y": 882,
+          "x": 821,
+          "y": 859,
           "w": 60,
           "h": 51
         },
@@ -33048,8 +33093,8 @@
       },
       "icon_memory_Lv4.png": {
         "frame": {
-          "x": 950,
-          "y": 360,
+          "x": 770,
+          "y": 942,
           "w": 60,
           "h": 51
         },
@@ -33057,8 +33102,8 @@
       },
       "icon_memory_Lv5.png": {
         "frame": {
-          "x": 886,
-          "y": 373,
+          "x": 706,
+          "y": 984,
           "w": 60,
           "h": 51
         },
@@ -33075,17 +33120,26 @@
       },
       "icon_money_s.png": {
         "frame": {
-          "x": 976,
-          "y": 773,
+          "x": 579,
+          "y": 948,
           "w": 44,
           "h": 44
         },
         "rotated": false
       },
+      "icon_monthly_passport.png": {
+        "frame": {
+          "x": 153,
+          "y": 609,
+          "w": 114,
+          "h": 128
+        },
+        "rotated": false
+      },
       "icon_notice.png": {
         "frame": {
-          "x": 1013,
-          "y": 523,
+          "x": 486,
+          "y": 951,
           "w": 26,
           "h": 27
         },
@@ -33093,8 +33147,8 @@
       },
       "icon_notice_green.png": {
         "frame": {
-          "x": 980,
-          "y": 1019,
+          "x": 627,
+          "y": 948,
           "w": 22,
           "h": 22
         },
@@ -33102,8 +33156,8 @@
       },
       "icon_notice_red.png": {
         "frame": {
-          "x": 365,
-          "y": 983,
+          "x": 627,
+          "y": 974,
           "w": 22,
           "h": 22
         },
@@ -33111,8 +33165,8 @@
       },
       "icon_notice_red_l.png": {
         "frame": {
-          "x": 863,
-          "y": 516,
+          "x": 546,
+          "y": 947,
           "w": 29,
           "h": 30
         },
@@ -33120,8 +33174,8 @@
       },
       "icon_notice_special.png": {
         "frame": {
-          "x": 903,
-          "y": 428,
+          "x": 859,
+          "y": 340,
           "w": 40,
           "h": 45
         },
@@ -33129,8 +33183,8 @@
       },
       "icon_notice_white.png": {
         "frame": {
-          "x": 980,
-          "y": 911,
+          "x": 862,
+          "y": 535,
           "w": 32,
           "h": 32
         },
@@ -33138,8 +33192,8 @@
       },
       "icon_produce_block_1.png": {
         "frame": {
-          "x": 800,
-          "y": 808,
+          "x": 322,
+          "y": 982,
           "w": 60,
           "h": 64
         },
@@ -33147,8 +33201,8 @@
       },
       "icon_produce_block_2.png": {
         "frame": {
-          "x": 800,
-          "y": 876,
+          "x": 386,
+          "y": 982,
           "w": 60,
           "h": 64
         },
@@ -33156,8 +33210,8 @@
       },
       "icon_produce_block_3.png": {
         "frame": {
-          "x": 859,
-          "y": 736,
+          "x": 450,
+          "y": 982,
           "w": 60,
           "h": 64
         },
@@ -33165,8 +33219,8 @@
       },
       "icon_produce_block_4.png": {
         "frame": {
-          "x": 864,
-          "y": 804,
+          "x": 605,
+          "y": 806,
           "w": 60,
           "h": 64
         },
@@ -33174,8 +33228,8 @@
       },
       "icon_promise_l.png": {
         "frame": {
-          "x": 153,
-          "y": 609,
+          "x": 919,
+          "y": 1,
           "w": 124,
           "h": 124
         },
@@ -33183,8 +33237,8 @@
       },
       "icon_promise_s.png": {
         "frame": {
-          "x": 950,
-          "y": 415,
+          "x": 260,
+          "y": 986,
           "w": 54,
           "h": 54
         },
@@ -33201,8 +33255,8 @@
       },
       "icon_ranking_event_point_s.png": {
         "frame": {
-          "x": 980,
-          "y": 947,
+          "x": 898,
+          "y": 535,
           "w": 32,
           "h": 32
         },
@@ -33219,8 +33273,8 @@
       },
       "icon_scenario_event_point_s.png": {
         "frame": {
-          "x": 980,
-          "y": 983,
+          "x": 1011,
+          "y": 201,
           "w": 32,
           "h": 32
         },
@@ -33229,22 +33283,13 @@
       "icon_select_idea_mark_dance.png": {
         "frame": {
           "x": 156,
-          "y": 1007,
+          "y": 1011,
           "w": 100,
           "h": 35
         },
         "rotated": false
       },
       "icon_select_idea_mark_mental.png": {
-        "frame": {
-          "x": 919,
-          "y": 101,
-          "w": 100,
-          "h": 35
-        },
-        "rotated": false
-      },
-      "icon_select_idea_mark_skill_point.png": {
         "frame": {
           "x": 305,
           "y": 595,
@@ -33253,10 +33298,19 @@
         },
         "rotated": false
       },
+      "icon_select_idea_mark_skill_point.png": {
+        "frame": {
+          "x": 271,
+          "y": 713,
+          "w": 100,
+          "h": 35
+        },
+        "rotated": false
+      },
       "icon_select_idea_mark_special.png": {
         "frame": {
-          "x": 281,
-          "y": 710,
+          "x": 375,
+          "y": 713,
           "w": 100,
           "h": 35
         },
@@ -33264,8 +33318,8 @@
       },
       "icon_select_idea_mark_visual.png": {
         "frame": {
-          "x": 385,
-          "y": 710,
+          "x": 325,
+          "y": 904,
           "w": 100,
           "h": 35
         },
@@ -33273,8 +33327,8 @@
       },
       "icon_select_idea_mark_vocal.png": {
         "frame": {
-          "x": 718,
-          "y": 329,
+          "x": 322,
+          "y": 943,
           "w": 100,
           "h": 35
         },
@@ -33282,8 +33336,8 @@
       },
       "icon_select_inspiration_mark_dance.png": {
         "frame": {
-          "x": 705,
-          "y": 368,
+          "x": 831,
+          "y": 229,
           "w": 100,
           "h": 35
         },
@@ -33291,8 +33345,8 @@
       },
       "icon_select_inspiration_mark_mental.png": {
         "frame": {
-          "x": 721,
-          "y": 555,
+          "x": 903,
+          "y": 289,
           "w": 100,
           "h": 35
         },
@@ -33300,8 +33354,8 @@
       },
       "icon_select_inspiration_mark_visual.png": {
         "frame": {
-          "x": 489,
-          "y": 601,
+          "x": 903,
+          "y": 328,
           "w": 100,
           "h": 35
         },
@@ -33309,8 +33363,8 @@
       },
       "icon_select_inspiration_mark_vocal.png": {
         "frame": {
-          "x": 489,
-          "y": 712,
+          "x": 903,
+          "y": 367,
           "w": 100,
           "h": 35
         },
@@ -33318,8 +33372,8 @@
       },
       "icon_skin.png": {
         "frame": {
-          "x": 593,
-          "y": 601,
+          "x": 834,
+          "y": 966,
           "w": 50,
           "h": 30
         },
@@ -33336,8 +33390,8 @@
       },
       "icon_staff_item_point_s.png": {
         "frame": {
-          "x": 976,
-          "y": 821,
+          "x": 573,
+          "y": 996,
           "w": 44,
           "h": 44
         },
@@ -33345,8 +33399,8 @@
       },
       "icon_stamp.png": {
         "frame": {
-          "x": 612,
-          "y": 239,
+          "x": 725,
+          "y": 139,
           "w": 102,
           "h": 102
         },
@@ -33354,8 +33408,8 @@
       },
       "icon_status_dance.png": {
         "frame": {
-          "x": 1014,
-          "y": 285,
+          "x": 449,
+          "y": 601,
           "w": 28,
           "h": 28
         },
@@ -33363,8 +33417,8 @@
       },
       "icon_status_fan.png": {
         "frame": {
-          "x": 1016,
-          "y": 989,
+          "x": 1007,
+          "y": 391,
           "w": 26,
           "h": 24
         },
@@ -33372,8 +33426,8 @@
       },
       "icon_status_l_dance.png": {
         "frame": {
-          "x": 825,
-          "y": 551,
+          "x": 859,
+          "y": 389,
           "w": 38,
           "h": 38
         },
@@ -33390,8 +33444,8 @@
       },
       "icon_status_l_mental.png": {
         "frame": {
-          "x": 867,
-          "y": 550,
+          "x": 872,
+          "y": 1003,
           "w": 38,
           "h": 38
         },
@@ -33399,8 +33453,8 @@
       },
       "icon_status_l_skill_point.png": {
         "frame": {
-          "x": 1003,
-          "y": 481,
+          "x": 914,
+          "y": 1003,
           "w": 38,
           "h": 38
         },
@@ -33408,8 +33462,8 @@
       },
       "icon_status_l_sp.png": {
         "frame": {
-          "x": 1003,
-          "y": 481,
+          "x": 914,
+          "y": 1003,
           "w": 38,
           "h": 38
         },
@@ -33417,8 +33471,8 @@
       },
       "icon_status_l_visual.png": {
         "frame": {
-          "x": 928,
-          "y": 825,
+          "x": 956,
+          "y": 1003,
           "w": 38,
           "h": 38
         },
@@ -33426,8 +33480,8 @@
       },
       "icon_status_l_vocal.png": {
         "frame": {
-          "x": 974,
-          "y": 869,
+          "x": 1005,
+          "y": 237,
           "w": 38,
           "h": 38
         },
@@ -33435,8 +33489,8 @@
       },
       "icon_status_mental.png": {
         "frame": {
-          "x": 1014,
-          "y": 317,
+          "x": 914,
+          "y": 502,
           "w": 28,
           "h": 28
         },
@@ -33444,8 +33498,8 @@
       },
       "icon_status_rank_l_a.png": {
         "frame": {
-          "x": 936,
-          "y": 219,
+          "x": 541,
+          "y": 878,
           "w": 56,
           "h": 65
         },
@@ -33453,8 +33507,8 @@
       },
       "icon_status_rank_l_b.png": {
         "frame": {
-          "x": 839,
-          "y": 593,
+          "x": 669,
+          "y": 806,
           "w": 51,
           "h": 64
         },
@@ -33462,8 +33516,8 @@
       },
       "icon_status_rank_l_c.png": {
         "frame": {
-          "x": 800,
-          "y": 738,
+          "x": 724,
+          "y": 804,
           "w": 55,
           "h": 66
         },
@@ -33471,8 +33525,8 @@
       },
       "icon_status_rank_l_d.png": {
         "frame": {
-          "x": 864,
-          "y": 872,
+          "x": 514,
+          "y": 982,
           "w": 55,
           "h": 64
         },
@@ -33480,8 +33534,8 @@
       },
       "icon_status_rank_l_e.png": {
         "frame": {
-          "x": 883,
-          "y": 661,
+          "x": 654,
+          "y": 874,
           "w": 48,
           "h": 64
         },
@@ -33489,8 +33543,8 @@
       },
       "icon_status_rank_l_f.png": {
         "frame": {
-          "x": 923,
-          "y": 872,
+          "x": 770,
+          "y": 874,
           "w": 47,
           "h": 64
         },
@@ -33498,8 +33552,8 @@
       },
       "icon_status_rank_l_mask_a.png": {
         "frame": {
-          "x": 718,
-          "y": 239,
+          "x": 612,
+          "y": 339,
           "w": 86,
           "h": 86
         },
@@ -33507,7 +33561,7 @@
       },
       "icon_status_rank_l_mask_b.png": {
         "frame": {
-          "x": 825,
+          "x": 831,
           "y": 139,
           "w": 86,
           "h": 86
@@ -33516,8 +33570,8 @@
       },
       "icon_status_rank_l_mask_c.png": {
         "frame": {
-          "x": 156,
-          "y": 737,
+          "x": 921,
+          "y": 129,
           "w": 86,
           "h": 86
         },
@@ -33526,7 +33580,7 @@
       "icon_status_rank_l_mask_d.png": {
         "frame": {
           "x": 156,
-          "y": 827,
+          "y": 741,
           "w": 86,
           "h": 86
         },
@@ -33535,13 +33589,22 @@
       "icon_status_rank_l_mask_e.png": {
         "frame": {
           "x": 156,
-          "y": 917,
+          "y": 831,
           "w": 86,
           "h": 86
         },
         "rotated": false
       },
       "icon_status_rank_l_mask_f.png": {
+        "frame": {
+          "x": 156,
+          "y": 921,
+          "w": 86,
+          "h": 86
+        },
+        "rotated": false
+      },
+      "icon_status_rank_l_mask_s.png": {
         "frame": {
           "x": 460,
           "y": 429,
@@ -33550,19 +33613,10 @@
         },
         "rotated": false
       },
-      "icon_status_rank_l_mask_s.png": {
-        "frame": {
-          "x": 550,
-          "y": 429,
-          "w": 86,
-          "h": 86
-        },
-        "rotated": false
-      },
       "icon_status_rank_l_s.png": {
         "frame": {
-          "x": 830,
-          "y": 666,
+          "x": 601,
+          "y": 878,
           "w": 49,
           "h": 66
         },
@@ -33570,8 +33624,8 @@
       },
       "icon_status_rank_s_a.png": {
         "frame": {
-          "x": 365,
-          "y": 1009,
+          "x": 1021,
+          "y": 550,
           "w": 21,
           "h": 22
         },
@@ -33579,8 +33633,8 @@
       },
       "icon_status_rank_s_b.png": {
         "frame": {
-          "x": 1023,
-          "y": 101,
+          "x": 1021,
+          "y": 628,
           "w": 19,
           "h": 22
         },
@@ -33588,8 +33642,8 @@
       },
       "icon_status_rank_s_c.png": {
         "frame": {
-          "x": 1019,
-          "y": 725,
+          "x": 1021,
+          "y": 576,
           "w": 20,
           "h": 22
         },
@@ -33597,8 +33651,8 @@
       },
       "icon_status_rank_s_d.png": {
         "frame": {
-          "x": 1006,
-          "y": 1019,
+          "x": 1021,
+          "y": 602,
           "w": 20,
           "h": 22
         },
@@ -33606,8 +33660,8 @@
       },
       "icon_status_rank_s_e.png": {
         "frame": {
-          "x": 1024,
-          "y": 751,
+          "x": 1021,
+          "y": 654,
           "w": 18,
           "h": 22
         },
@@ -33615,8 +33669,8 @@
       },
       "icon_status_rank_s_f.png": {
         "frame": {
-          "x": 1024,
-          "y": 777,
+          "x": 1021,
+          "y": 680,
           "w": 18,
           "h": 22
         },
@@ -33624,8 +33678,8 @@
       },
       "icon_status_rank_s_s.png": {
         "frame": {
-          "x": 1024,
-          "y": 803,
+          "x": 1021,
+          "y": 706,
           "w": 18,
           "h": 22
         },
@@ -33633,8 +33687,8 @@
       },
       "icon_status_skill_point.png": {
         "frame": {
-          "x": 1014,
-          "y": 349,
+          "x": 1007,
+          "y": 359,
           "w": 28,
           "h": 28
         },
@@ -33642,8 +33696,8 @@
       },
       "icon_status_sp.png": {
         "frame": {
-          "x": 1014,
-          "y": 349,
+          "x": 1007,
+          "y": 359,
           "w": 28,
           "h": 28
         },
@@ -33651,8 +33705,8 @@
       },
       "icon_status_visual.png": {
         "frame": {
-          "x": 1014,
-          "y": 381,
+          "x": 621,
+          "y": 1000,
           "w": 28,
           "h": 28
         },
@@ -33660,8 +33714,8 @@
       },
       "icon_status_vocal.png": {
         "frame": {
-          "x": 1014,
-          "y": 413,
+          "x": 653,
+          "y": 994,
           "w": 28,
           "h": 28
         },
@@ -33669,8 +33723,8 @@
       },
       "icon_status_xl_dance.png": {
         "frame": {
-          "x": 364,
-          "y": 634,
+          "x": 246,
+          "y": 910,
           "w": 72,
           "h": 72
         },
@@ -33679,7 +33733,7 @@
       "icon_status_xl_mental.png": {
         "frame": {
           "x": 325,
-          "y": 907,
+          "y": 752,
           "w": 72,
           "h": 72
         },
@@ -33687,8 +33741,8 @@
       },
       "icon_status_xl_visual.png": {
         "frame": {
-          "x": 404,
-          "y": 749,
+          "x": 325,
+          "y": 828,
           "w": 72,
           "h": 72
         },
@@ -33696,8 +33750,8 @@
       },
       "icon_status_xl_vocal.png": {
         "frame": {
-          "x": 404,
-          "y": 825,
+          "x": 401,
+          "y": 752,
           "w": 72,
           "h": 72
         },
@@ -33705,8 +33759,8 @@
       },
       "icon_tension_1.png": {
         "frame": {
-          "x": 246,
-          "y": 749,
+          "x": 719,
+          "y": 509,
           "w": 75,
           "h": 75
         },
@@ -33714,8 +33768,8 @@
       },
       "icon_tension_2.png": {
         "frame": {
-          "x": 246,
-          "y": 828,
+          "x": 271,
+          "y": 634,
           "w": 75,
           "h": 75
         },
@@ -33723,8 +33777,8 @@
       },
       "icon_tension_3.png": {
         "frame": {
-          "x": 246,
-          "y": 907,
+          "x": 350,
+          "y": 634,
           "w": 75,
           "h": 75
         },
@@ -33732,8 +33786,8 @@
       },
       "icon_tension_4.png": {
         "frame": {
-          "x": 325,
-          "y": 749,
+          "x": 246,
+          "y": 752,
           "w": 75,
           "h": 75
         },
@@ -33741,8 +33795,8 @@
       },
       "icon_tension_5.png": {
         "frame": {
-          "x": 325,
-          "y": 828,
+          "x": 246,
+          "y": 831,
           "w": 75,
           "h": 75
         },
@@ -33750,8 +33804,8 @@
       },
       "icon_tension_s_1.png": {
         "frame": {
-          "x": 1013,
-          "y": 584,
+          "x": 456,
+          "y": 952,
           "w": 26,
           "h": 26
         },
@@ -33759,8 +33813,8 @@
       },
       "icon_tension_s_2.png": {
         "frame": {
-          "x": 1016,
-          "y": 869,
+          "x": 783,
+          "y": 804,
           "w": 26,
           "h": 26
         },
@@ -33768,8 +33822,8 @@
       },
       "icon_tension_s_3.png": {
         "frame": {
-          "x": 1016,
-          "y": 899,
+          "x": 783,
+          "y": 834,
           "w": 26,
           "h": 26
         },
@@ -33777,8 +33831,8 @@
       },
       "icon_tension_s_4.png": {
         "frame": {
-          "x": 1016,
-          "y": 929,
+          "x": 516,
+          "y": 951,
           "w": 26,
           "h": 26
         },
@@ -33786,8 +33840,8 @@
       },
       "icon_tension_s_5.png": {
         "frame": {
-          "x": 1016,
-          "y": 959,
+          "x": 1005,
+          "y": 419,
           "w": 26,
           "h": 26
         },
@@ -33795,8 +33849,8 @@
       },
       "produce_inspiration_m_dance.png": {
         "frame": {
-          "x": 951,
-          "y": 473,
+          "x": 654,
+          "y": 942,
           "w": 48,
           "h": 48
         },
@@ -33804,8 +33858,8 @@
       },
       "produce_inspiration_m_mental.png": {
         "frame": {
-          "x": 909,
-          "y": 525,
+          "x": 770,
+          "y": 997,
           "w": 48,
           "h": 48
         },
@@ -33813,8 +33867,8 @@
       },
       "produce_inspiration_m_special.png": {
         "frame": {
-          "x": 961,
-          "y": 525,
+          "x": 834,
+          "y": 914,
           "w": 48,
           "h": 48
         },
@@ -33822,8 +33876,8 @@
       },
       "produce_inspiration_m_visual.png": {
         "frame": {
-          "x": 909,
-          "y": 577,
+          "x": 857,
+          "y": 431,
           "w": 48,
           "h": 48
         },
@@ -33831,8 +33885,8 @@
       },
       "produce_inspiration_m_vocal.png": {
         "frame": {
-          "x": 961,
-          "y": 577,
+          "x": 862,
+          "y": 483,
           "w": 48,
           "h": 48
         },
@@ -33840,8 +33894,8 @@
       },
       "support_skill_icon.png": {
         "frame": {
-          "x": 715,
-          "y": 407,
+          "x": 401,
+          "y": 828,
           "w": 72,
           "h": 72
         },
@@ -33849,8 +33903,8 @@
       },
       "tsubasa_icon.png": {
         "frame": {
-          "x": 325,
-          "y": 983,
+          "x": 1010,
+          "y": 319,
           "w": 36,
           "h": 36
         },
@@ -34298,8 +34352,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=41",
-    "v": 41,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=42",
+    "v": 42,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -34420,8 +34474,8 @@
       },
       "btn_detail.png": {
         "frame": {
-          "x": 1026,
-          "y": 1252,
+          "x": 1228,
+          "y": 911,
           "w": 68,
           "h": 38
         },
@@ -34429,8 +34483,8 @@
       },
       "btn_unlock.png": {
         "frame": {
-          "x": 1094,
-          "y": 1116,
+          "x": 1228,
+          "y": 953,
           "w": 68,
           "h": 38
         },
@@ -34501,8 +34555,8 @@
       },
       "check_box_off_button.png": {
         "frame": {
-          "x": 1098,
-          "y": 1242,
+          "x": 1166,
+          "y": 1133,
           "w": 48,
           "h": 48
         },
@@ -34510,8 +34564,8 @@
       },
       "check_box_on_button.png": {
         "frame": {
-          "x": 1150,
-          "y": 1242,
+          "x": 1166,
+          "y": 1185,
           "w": 48,
           "h": 48
         },
@@ -34537,8 +34591,8 @@
       },
       "close_circle_button.png": {
         "frame": {
-          "x": 1250,
-          "y": 1025,
+          "x": 266,
+          "y": 1261,
           "w": 36,
           "h": 35
         },
@@ -34546,8 +34600,8 @@
       },
       "close_icon_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 985,
+          "x": 1213,
+          "y": 347,
           "w": 42,
           "h": 42
         },
@@ -34564,8 +34618,8 @@
       },
       "common_menu_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1059,
+          "x": 570,
+          "y": 1229,
           "w": 64,
           "h": 64
         },
@@ -34636,8 +34690,8 @@
       },
       "ex_skill_change_button.png": {
         "frame": {
-          "x": 1094,
-          "y": 1158,
+          "x": 1026,
+          "y": 1241,
           "w": 68,
           "h": 38
         },
@@ -34645,8 +34699,8 @@
       },
       "ex_skill_confirm_button.png": {
         "frame": {
-          "x": 1092,
-          "y": 1200,
+          "x": 1098,
+          "y": 1247,
           "w": 68,
           "h": 38
         },
@@ -34654,8 +34708,8 @@
       },
       "ex_skill_setting_button.png": {
         "frame": {
-          "x": 1164,
-          "y": 1200,
+          "x": 1224,
+          "y": 995,
           "w": 68,
           "h": 38
         },
@@ -34717,8 +34771,8 @@
       },
       "info_circle_button.png": {
         "frame": {
-          "x": 1258,
-          "y": 763,
+          "x": 1264,
+          "y": 159,
           "w": 32,
           "h": 32
         },
@@ -34753,8 +34807,8 @@
       },
       "link_skill_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 233,
+          "x": 1218,
+          "y": 1037,
           "w": 68,
           "h": 38
         },
@@ -34771,8 +34825,8 @@
       },
       "max_button.png": {
         "frame": {
-          "x": 1228,
-          "y": 911,
+          "x": 1100,
+          "y": 1133,
           "w": 62,
           "h": 53
         },
@@ -34780,8 +34834,8 @@
       },
       "max_button_s.png": {
         "frame": {
-          "x": 1160,
-          "y": 1073,
+          "x": 306,
+          "y": 1261,
           "w": 36,
           "h": 32
         },
@@ -34807,8 +34861,8 @@
       },
       "menu_button.png": {
         "frame": {
-          "x": 570,
-          "y": 1229,
+          "x": 1026,
+          "y": 1133,
           "w": 70,
           "h": 50
         },
@@ -34816,8 +34870,8 @@
       },
       "menu_close_button.png": {
         "frame": {
-          "x": 644,
-          "y": 1229,
+          "x": 1026,
+          "y": 1187,
           "w": 70,
           "h": 50
         },
@@ -34951,8 +35005,8 @@
       },
       "min_button.png": {
         "frame": {
-          "x": 1228,
-          "y": 968,
+          "x": 1100,
+          "y": 1190,
           "w": 62,
           "h": 53
         },
@@ -34960,8 +35014,8 @@
       },
       "minus_button.png": {
         "frame": {
-          "x": 1094,
-          "y": 1059,
+          "x": 1213,
+          "y": 233,
           "w": 62,
           "h": 53
         },
@@ -34969,8 +35023,8 @@
       },
       "minus_button_s.png": {
         "frame": {
-          "x": 1200,
-          "y": 1073,
+          "x": 1178,
+          "y": 1031,
           "w": 36,
           "h": 32
         },
@@ -34978,8 +35032,8 @@
       },
       "more_button.png": {
         "frame": {
-          "x": 1202,
-          "y": 1242,
+          "x": 1178,
+          "y": 985,
           "w": 42,
           "h": 42
         },
@@ -34996,8 +35050,8 @@
       },
       "my_page_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1127,
+          "x": 638,
+          "y": 1229,
           "w": 64,
           "h": 64
         },
@@ -35068,8 +35122,8 @@
       },
       "open_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 275,
+          "x": 1218,
+          "y": 1079,
           "w": 68,
           "h": 38
         },
@@ -35086,8 +35140,8 @@
       },
       "play_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 317,
+          "x": 1218,
+          "y": 1121,
           "w": 68,
           "h": 38
         },
@@ -35095,8 +35149,8 @@
       },
       "play_circle_button.png": {
         "frame": {
-          "x": 1258,
-          "y": 799,
+          "x": 1264,
+          "y": 195,
           "w": 32,
           "h": 32
         },
@@ -35122,8 +35176,8 @@
       },
       "plus_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1195,
+          "x": 1213,
+          "y": 290,
           "w": 62,
           "h": 53
         },
@@ -35131,8 +35185,8 @@
       },
       "plus_button_s.png": {
         "frame": {
-          "x": 1166,
-          "y": 1109,
+          "x": 1178,
+          "y": 1067,
           "w": 36,
           "h": 32
         },
@@ -35167,8 +35221,8 @@
       },
       "ranking_detail_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1031,
+          "x": 1218,
+          "y": 1163,
           "w": 68,
           "h": 38
         },
@@ -35221,8 +35275,8 @@
       },
       "right_circle_button.png": {
         "frame": {
-          "x": 1258,
-          "y": 835,
+          "x": 346,
+          "y": 1261,
           "w": 32,
           "h": 32
         },
@@ -35491,6 +35545,15 @@
       },
       "to_shop_button.png": {
         "frame": {
+          "x": 1138,
+          "y": 541,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_shop_button_s.png": {
+        "frame": {
           "x": 494,
           "y": 689,
           "w": 148,
@@ -35501,7 +35564,7 @@
       "to_special_announce_button.png": {
         "frame": {
           "x": 1138,
-          "y": 541,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35510,22 +35573,13 @@
       "to_special_page_button.png": {
         "frame": {
           "x": 1138,
-          "y": 615,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "to_trade_shop_button.png": {
-        "frame": {
-          "x": 1138,
           "y": 689,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
-      "training_button.png": {
+      "to_trade_shop_button.png": {
         "frame": {
           "x": 1106,
           "y": 763,
@@ -35534,10 +35588,19 @@
         },
         "rotated": false
       },
-      "transfer_button.png": {
+      "training_button.png": {
         "frame": {
           "x": 1106,
           "y": 837,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "transfer_button.png": {
+        "frame": {
+          "x": 1076,
+          "y": 911,
           "w": 148,
           "h": 70
         },
@@ -35563,8 +35626,8 @@
       },
       "use_button.png": {
         "frame": {
-          "x": 1076,
-          "y": 911,
+          "x": 1026,
+          "y": 985,
           "w": 148,
           "h": 70
         },
@@ -35582,7 +35645,7 @@
       "yes_button.png": {
         "frame": {
           "x": 1026,
-          "y": 985,
+          "y": 1059,
           "w": 148,
           "h": 70
         },
@@ -35593,8 +35656,8 @@
   "images/ui/fes/parts": {
     "name": "images/ui/fes/parts",
     "ext": ".png",
-    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=26",
-    "v": 26,
+    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=27",
+    "v": 27,
     "frames": {
       "active_skill_select_base.png": {
         "frame": {
@@ -35625,8 +35688,8 @@
       },
       "bonus_arrow_s.png": {
         "frame": {
-          "x": 1141,
-          "y": 441,
+          "x": 191,
+          "y": 1321,
           "w": 16,
           "h": 20
         },
@@ -35634,8 +35697,8 @@
       },
       "campaign_label_2.png": {
         "frame": {
-          "x": 1397,
-          "y": 1421,
+          "x": 1529,
+          "y": 1197,
           "w": 130,
           "h": 130
         },
@@ -35643,8 +35706,8 @@
       },
       "campaign_label_3.png": {
         "frame": {
-          "x": 1397,
-          "y": 1555,
+          "x": 1529,
+          "y": 1331,
           "w": 130,
           "h": 130
         },
@@ -35652,8 +35715,8 @@
       },
       "campaign_label_5.png": {
         "frame": {
-          "x": 1531,
-          "y": 1421,
+          "x": 1529,
+          "y": 1465,
           "w": 130,
           "h": 130
         },
@@ -35661,8 +35724,8 @@
       },
       "campaign_label_7.png": {
         "frame": {
-          "x": 1531,
-          "y": 1555,
+          "x": 1369,
+          "y": 1651,
           "w": 130,
           "h": 130
         },
@@ -35670,8 +35733,8 @@
       },
       "campaign_label_10.png": {
         "frame": {
-          "x": 1447,
-          "y": 1127,
+          "x": 1369,
+          "y": 1517,
           "w": 130,
           "h": 130
         },
@@ -35679,8 +35742,8 @@
       },
       "campaign_label_mask.png": {
         "frame": {
-          "x": 301,
-          "y": 1617,
+          "x": 1225,
+          "y": 791,
           "w": 140,
           "h": 140
         },
@@ -35688,8 +35751,8 @@
       },
       "center_bonus_status_base.png": {
         "frame": {
-          "x": 597,
-          "y": 1349,
+          "x": 1,
+          "y": 1408,
           "w": 210,
           "h": 354
         },
@@ -35697,8 +35760,8 @@
       },
       "change_costume_button.png": {
         "frame": {
-          "x": 1659,
-          "y": 520,
+          "x": 607,
+          "y": 1206,
           "w": 56,
           "h": 56
         },
@@ -35706,8 +35769,8 @@
       },
       "consume_multiple_tickets_button_off.png": {
         "frame": {
-          "x": 1441,
-          "y": 1689,
+          "x": 1183,
+          "y": 737,
           "w": 200,
           "h": 50
         },
@@ -35715,8 +35778,8 @@
       },
       "consume_multiple_tickets_button_on.png": {
         "frame": {
-          "x": 1017,
-          "y": 1185,
+          "x": 1216,
+          "y": 1137,
           "w": 200,
           "h": 50
         },
@@ -35724,8 +35787,8 @@
       },
       "dance_bonus_status_base.png": {
         "frame": {
-          "x": 811,
-          "y": 1349,
+          "x": 515,
+          "y": 1321,
           "w": 210,
           "h": 354
         },
@@ -35733,8 +35796,8 @@
       },
       "deck_member_status_base.png": {
         "frame": {
-          "x": 1237,
-          "y": 1229,
+          "x": 1216,
+          "y": 935,
           "w": 192,
           "h": 134
         },
@@ -35742,8 +35805,8 @@
       },
       "deck_music_settings_base.png": {
         "frame": {
-          "x": 812,
-          "y": 691,
+          "x": 1369,
+          "y": 895,
           "w": 301,
           "h": 36
         },
@@ -35751,8 +35814,8 @@
       },
       "description_base.png": {
         "frame": {
-          "x": 1237,
-          "y": 1127,
+          "x": 1412,
+          "y": 935,
           "w": 206,
           "h": 98
         },
@@ -35760,14 +35823,14 @@
       },
       "difficulty_button_easy.png": {
         "frame": {
-          "x": 301,
-          "y": 1321,
+          "x": 1162,
+          "y": 441,
           "w": 292,
           "h": 292
         },
         "rotated": false
       },
-      "difficulty_button_hard.png": {
+      "difficulty_button_extreme.png": {
         "frame": {
           "x": 1445,
           "y": 1,
@@ -35776,7 +35839,7 @@
         },
         "rotated": false
       },
-      "difficulty_button_normal.png": {
+      "difficulty_button_hard.png": {
         "frame": {
           "x": 689,
           "y": 907,
@@ -35785,10 +35848,19 @@
         },
         "rotated": false
       },
+      "difficulty_button_normal.png": {
+        "frame": {
+          "x": 215,
+          "y": 1321,
+          "w": 296,
+          "h": 296
+        },
+        "rotated": false
+      },
       "difficulty_button_veryhard.png": {
         "frame": {
-          "x": 1,
-          "y": 1408,
+          "x": 1458,
+          "y": 301,
           "w": 296,
           "h": 296
         },
@@ -35796,8 +35868,8 @@
       },
       "fes_2_unit_bonus_base.png": {
         "frame": {
-          "x": 445,
-          "y": 1707,
+          "x": 812,
+          "y": 691,
           "w": 328,
           "h": 50
         },
@@ -35805,8 +35877,8 @@
       },
       "fes_3_unit_bonus_base.png": {
         "frame": {
-          "x": 777,
-          "y": 1707,
+          "x": 851,
+          "y": 745,
           "w": 328,
           "h": 50
         },
@@ -35814,8 +35886,8 @@
       },
       "fes_all_unit_bonus_base.png": {
         "frame": {
-          "x": 1109,
-          "y": 1707,
+          "x": 215,
+          "y": 1706,
           "w": 328,
           "h": 50
         },
@@ -35823,8 +35895,8 @@
       },
       "fes_button_lock.png": {
         "frame": {
-          "x": 1002,
-          "y": 816,
+          "x": 1663,
+          "y": 1169,
           "w": 107,
           "h": 121
         },
@@ -35832,8 +35904,8 @@
       },
       "fes_button_lock_balloon.png": {
         "frame": {
-          "x": 1581,
-          "y": 1187,
+          "x": 1155,
+          "y": 1707,
           "w": 140,
           "h": 54
         },
@@ -35841,8 +35913,8 @@
       },
       "fes_button_lock_base.png": {
         "frame": {
-          "x": 1162,
-          "y": 441,
+          "x": 1458,
+          "y": 601,
           "w": 256,
           "h": 256
         },
@@ -35850,17 +35922,26 @@
       },
       "fes_campaign_badge_event.png": {
         "frame": {
-          "x": 1493,
-          "y": 701,
+          "x": 893,
+          "y": 1707,
           "w": 160,
           "h": 56
         },
         "rotated": false
       },
+      "fes_campaign_badge_limited.png": {
+        "frame": {
+          "x": 1216,
+          "y": 1073,
+          "w": 208,
+          "h": 60
+        },
+        "rotated": false
+      },
       "fes_card_s_none.png": {
         "frame": {
-          "x": 1025,
-          "y": 1349,
+          "x": 943,
+          "y": 1207,
           "w": 208,
           "h": 354
         },
@@ -35868,8 +35949,8 @@
       },
       "fes_deck_button.png": {
         "frame": {
-          "x": 1593,
-          "y": 1245,
+          "x": 407,
+          "y": 1760,
           "w": 148,
           "h": 38
         },
@@ -35877,8 +35958,8 @@
       },
       "fes_deck_button_large.png": {
         "frame": {
-          "x": 445,
-          "y": 1617,
+          "x": 1217,
+          "y": 1549,
           "w": 148,
           "h": 70
         },
@@ -35886,8 +35967,8 @@
       },
       "fes_deck_change_costume_line.png": {
         "frame": {
-          "x": 1659,
-          "y": 580,
+          "x": 1387,
+          "y": 737,
           "w": 56,
           "h": 56
         },
@@ -35895,8 +35976,8 @@
       },
       "fes_deck_deck_move_button_base.png": {
         "frame": {
-          "x": 1017,
-          "y": 1239,
+          "x": 1663,
+          "y": 1590,
           "w": 108,
           "h": 38
         },
@@ -35922,8 +36003,8 @@
       },
       "fes_deck_unit_copy_button.png": {
         "frame": {
-          "x": 1422,
-          "y": 659,
+          "x": 215,
+          "y": 1760,
           "w": 188,
           "h": 38
         },
@@ -35931,8 +36012,8 @@
       },
       "fes_grade_limit_base.png": {
         "frame": {
-          "x": 1119,
-          "y": 701,
+          "x": 851,
+          "y": 799,
           "w": 370,
           "h": 30
         },
@@ -35940,8 +36021,8 @@
       },
       "fes_grade_processing_base.png": {
         "frame": {
-          "x": 1119,
-          "y": 735,
+          "x": 1369,
+          "y": 861,
           "w": 370,
           "h": 30
         },
@@ -35985,8 +36066,8 @@
       },
       "fes_idol_balloon_base.png": {
         "frame": {
-          "x": 851,
-          "y": 731,
+          "x": 215,
+          "y": 1621,
           "w": 264,
           "h": 81
         },
@@ -36003,8 +36084,8 @@
       },
       "fes_idol_rank_line.png": {
         "frame": {
-          "x": 445,
-          "y": 1691,
+          "x": 1,
+          "y": 1790,
           "w": 134,
           "h": 2
         },
@@ -36021,8 +36102,8 @@
       },
       "fes_match_button.png": {
         "frame": {
-          "x": 1237,
-          "y": 1367,
+          "x": 1428,
+          "y": 1037,
           "w": 156,
           "h": 156
         },
@@ -36039,8 +36120,8 @@
       },
       "fes_match_start_button.png": {
         "frame": {
-          "x": 1547,
-          "y": 1015,
+          "x": 547,
+          "y": 1679,
           "w": 148,
           "h": 70
         },
@@ -36048,8 +36129,8 @@
       },
       "fes_rehearsal_button.png": {
         "frame": {
-          "x": 1237,
-          "y": 1527,
+          "x": 1369,
+          "y": 1197,
           "w": 156,
           "h": 156
         },
@@ -36057,8 +36138,8 @@
       },
       "fes_start_button.png": {
         "frame": {
-          "x": 1433,
-          "y": 1261,
+          "x": 1369,
+          "y": 1357,
           "w": 156,
           "h": 156
         },
@@ -36075,8 +36156,8 @@
       },
       "fes_ticket_base.png": {
         "frame": {
-          "x": 1659,
-          "y": 470,
+          "x": 1205,
+          "y": 1765,
           "w": 95,
           "h": 22
         },
@@ -36084,8 +36165,8 @@
       },
       "fes_ticket_consume_base.png": {
         "frame": {
-          "x": 607,
-          "y": 1207,
+          "x": 729,
+          "y": 1633,
           "w": 406,
           "h": 70
         },
@@ -36093,8 +36174,8 @@
       },
       "fes_ticket_icon.png": {
         "frame": {
-          "x": 1441,
-          "y": 1743,
+          "x": 1447,
+          "y": 737,
           "w": 7,
           "h": 14
         },
@@ -36102,8 +36183,8 @@
       },
       "fes_to_shop_button.png": {
         "frame": {
-          "x": 1593,
-          "y": 1287,
+          "x": 1217,
+          "y": 1623,
           "w": 148,
           "h": 38
         },
@@ -36111,8 +36192,8 @@
       },
       "fes_trend_banner_button.png": {
         "frame": {
-          "x": 1397,
-          "y": 1367,
+          "x": 1745,
+          "y": 221,
           "w": 32,
           "h": 34
         },
@@ -36120,8 +36201,8 @@
       },
       "fes_trend_base.png": {
         "frame": {
-          "x": 607,
-          "y": 1281,
+          "x": 729,
+          "y": 1565,
           "w": 484,
           "h": 64
         },
@@ -36129,8 +36210,8 @@
       },
       "fes_trend_icon_dance.png": {
         "frame": {
-          "x": 1129,
-          "y": 1239,
+          "x": 1291,
+          "y": 1665,
           "w": 52,
           "h": 32
         },
@@ -36138,8 +36219,8 @@
       },
       "fes_trend_icon_visual.png": {
         "frame": {
-          "x": 1614,
-          "y": 659,
+          "x": 1155,
+          "y": 1765,
           "w": 46,
           "h": 33
         },
@@ -36147,8 +36228,8 @@
       },
       "fes_trend_icon_vocal.png": {
         "frame": {
-          "x": 1141,
-          "y": 1275,
+          "x": 1631,
+          "y": 1700,
           "w": 51,
           "h": 32
         },
@@ -36156,8 +36237,8 @@
       },
       "grade_evaluation_down_arrow.png": {
         "frame": {
-          "x": 1665,
-          "y": 1473,
+          "x": 1745,
+          "y": 61,
           "w": 50,
           "h": 50
         },
@@ -36165,8 +36246,8 @@
       },
       "grade_evaluation_down_base.png": {
         "frame": {
-          "x": 989,
-          "y": 941,
+          "x": 1674,
+          "y": 895,
           "w": 124,
           "h": 118
         },
@@ -36174,8 +36255,8 @@
       },
       "grade_evaluation_down_text.png": {
         "frame": {
-          "x": 1659,
-          "y": 301,
+          "x": 1663,
+          "y": 1502,
           "w": 91,
           "h": 84
         },
@@ -36183,8 +36264,8 @@
       },
       "grade_evaluation_keep_arrow.png": {
         "frame": {
-          "x": 1665,
-          "y": 1413,
+          "x": 1745,
+          "y": 1,
           "w": 53,
           "h": 56
         },
@@ -36192,8 +36273,8 @@
       },
       "grade_evaluation_keep_base.png": {
         "frame": {
-          "x": 989,
-          "y": 1063,
+          "x": 1503,
+          "y": 1673,
           "w": 124,
           "h": 118
         },
@@ -36201,8 +36282,8 @@
       },
       "grade_evaluation_keep_text.png": {
         "frame": {
-          "x": 1659,
-          "y": 389,
+          "x": 1057,
+          "y": 1707,
           "w": 94,
           "h": 77
         },
@@ -36210,8 +36291,8 @@
       },
       "grade_evaluation_up_arrow.png": {
         "frame": {
-          "x": 1665,
-          "y": 1527,
+          "x": 1745,
+          "y": 115,
           "w": 50,
           "h": 50
         },
@@ -36219,8 +36300,8 @@
       },
       "grade_evaluation_up_base.png": {
         "frame": {
-          "x": 1547,
-          "y": 893,
+          "x": 1663,
+          "y": 1294,
           "w": 124,
           "h": 118
         },
@@ -36228,8 +36309,8 @@
       },
       "grade_evaluation_up_text.png": {
         "frame": {
-          "x": 191,
-          "y": 1321,
+          "x": 1663,
+          "y": 1416,
           "w": 104,
           "h": 82
         },
@@ -36237,8 +36318,8 @@
       },
       "grade_reward_button.png": {
         "frame": {
-          "x": 1593,
-          "y": 1329,
+          "x": 692,
+          "y": 1755,
           "w": 148,
           "h": 38
         },
@@ -36246,8 +36327,8 @@
       },
       "grade_sparkle.png": {
         "frame": {
-          "x": 1185,
-          "y": 1239,
+          "x": 483,
+          "y": 1621,
           "w": 25,
           "h": 22
         },
@@ -36255,8 +36336,8 @@
       },
       "icon_music_disc.png": {
         "frame": {
-          "x": 1719,
-          "y": 600,
+          "x": 699,
+          "y": 1679,
           "w": 26,
           "h": 24
         },
@@ -36264,8 +36345,8 @@
       },
       "info_switch_button.png": {
         "frame": {
-          "x": 1593,
-          "y": 1371,
+          "x": 1139,
+          "y": 1665,
           "w": 148,
           "h": 38
         },
@@ -36273,8 +36354,8 @@
       },
       "leader_bonus_status_base.png": {
         "frame": {
-          "x": 1445,
-          "y": 301,
+          "x": 729,
+          "y": 1207,
           "w": 210,
           "h": 354
         },
@@ -36282,8 +36363,8 @@
       },
       "music_change_button.png": {
         "frame": {
-          "x": 1719,
-          "y": 520,
+          "x": 1718,
+          "y": 601,
           "w": 36,
           "h": 36
         },
@@ -36291,8 +36372,8 @@
       },
       "param_bonus_effect_background.png": {
         "frame": {
-          "x": 1,
-          "y": 1708,
+          "x": 699,
+          "y": 1707,
           "w": 190,
           "h": 44
         },
@@ -36300,8 +36381,8 @@
       },
       "parameter_base_line.png": {
         "frame": {
-          "x": 1237,
-          "y": 1687,
+          "x": 1,
+          "y": 1796,
           "w": 118,
           "h": 2
         },
@@ -36309,8 +36390,8 @@
       },
       "passive_bonus_status_background.png": {
         "frame": {
-          "x": 1547,
-          "y": 1089,
+          "x": 1,
+          "y": 1766,
           "w": 188,
           "h": 20
         },
@@ -36318,8 +36399,8 @@
       },
       "skill_change_button.png": {
         "frame": {
-          "x": 195,
-          "y": 1708,
+          "x": 1655,
+          "y": 1632,
           "w": 86,
           "h": 40
         },
@@ -36327,8 +36408,8 @@
       },
       "skill_none.png": {
         "frame": {
-          "x": 1095,
-          "y": 1281,
+          "x": 1622,
+          "y": 987,
           "w": 42,
           "h": 42
         },
@@ -36336,8 +36417,8 @@
       },
       "skill_select_check_box.png": {
         "frame": {
-          "x": 1665,
-          "y": 1581,
+          "x": 1622,
+          "y": 935,
           "w": 48,
           "h": 48
         },
@@ -36345,8 +36426,8 @@
       },
       "skill_select_check_box_on.png": {
         "frame": {
-          "x": 1665,
-          "y": 1633,
+          "x": 1745,
+          "y": 169,
           "w": 48,
           "h": 48
         },
@@ -36354,8 +36435,8 @@
       },
       "tenshon_check_button.png": {
         "frame": {
-          "x": 1581,
-          "y": 1113,
+          "x": 1503,
+          "y": 1599,
           "w": 148,
           "h": 70
         },
@@ -36363,8 +36444,8 @@
       },
       "tension_icon_effect.png": {
         "frame": {
-          "x": 1547,
-          "y": 761,
+          "x": 1588,
+          "y": 1037,
           "w": 128,
           "h": 128
         },
@@ -36372,8 +36453,8 @@
       },
       "text_acquisition_score.png": {
         "frame": {
-          "x": 1117,
-          "y": 1127,
+          "x": 607,
+          "y": 1266,
           "w": 103,
           "h": 47
         },
@@ -36381,17 +36462,26 @@
       },
       "text_suggested_rank.png": {
         "frame": {
-          "x": 1659,
-          "y": 496,
+          "x": 1631,
+          "y": 1676,
           "w": 94,
           "h": 20
         },
         "rotated": false
       },
+      "text_suggested_rank_s.png": {
+        "frame": {
+          "x": 559,
+          "y": 1753,
+          "w": 129,
+          "h": 36
+        },
+        "rotated": false
+      },
       "title_edit_button.png": {
         "frame": {
-          "x": 1719,
-          "y": 560,
+          "x": 844,
+          "y": 1755,
           "w": 36,
           "h": 36
         },
@@ -36408,8 +36498,8 @@
       },
       "visual_bonus_status_base.png": {
         "frame": {
-          "x": 1119,
-          "y": 769,
+          "x": 1002,
+          "y": 833,
           "w": 210,
           "h": 354
         },
@@ -36417,8 +36507,8 @@
       },
       "vocal_bonus_status_base.png": {
         "frame": {
-          "x": 1333,
-          "y": 769,
+          "x": 1155,
+          "y": 1191,
           "w": 210,
           "h": 354
         },
@@ -38500,8 +38590,8 @@
   "images/ui/shop/parts_shop_content": {
     "name": "images/ui/shop/parts_shop_content",
     "ext": ".png",
-    "url": "/assets/a926c1f195fcb7929c3af5377eaf14b86824e935363541df6cd2eb76942e97dc?v=7",
-    "v": 7,
+    "url": "/assets/a926c1f195fcb7929c3af5377eaf14b86824e935363541df6cd2eb76942e97dc?v=8",
+    "v": 8,
     "frames": {
       "attention_comment_base.png": {
         "frame": {
@@ -38523,8 +38613,8 @@
       },
       "badge_unpossessed.png": {
         "frame": {
-          "x": 597,
-          "y": 442,
+          "x": 441,
+          "y": 483,
           "w": 60,
           "h": 26
         },
@@ -38541,8 +38631,8 @@
       },
       "base_possession.png": {
         "frame": {
-          "x": 503,
-          "y": 420,
+          "x": 195,
+          "y": 458,
           "w": 90,
           "h": 24
         },
@@ -38550,8 +38640,8 @@
       },
       "cloth_category_concert.png": {
         "frame": {
-          "x": 567,
-          "y": 472,
+          "x": 1,
+          "y": 518,
           "w": 82,
           "h": 26
         },
@@ -38559,8 +38649,8 @@
       },
       "cloth_category_plain.png": {
         "frame": {
-          "x": 479,
-          "y": 480,
+          "x": 87,
+          "y": 496,
           "w": 82,
           "h": 26
         },
@@ -38568,8 +38658,8 @@
       },
       "day_limit.png": {
         "frame": {
-          "x": 479,
-          "y": 448,
+          "x": 195,
+          "y": 486,
           "w": 84,
           "h": 28
         },
@@ -38577,8 +38667,8 @@
       },
       "event_category_box_gasha_event.png": {
         "frame": {
-          "x": 565,
-          "y": 502,
+          "x": 46,
+          "y": 618,
           "w": 82,
           "h": 26
         },
@@ -38586,8 +38676,8 @@
       },
       "event_category_character_fan_ranking.png": {
         "frame": {
-          "x": 195,
-          "y": 416,
+          "x": 173,
+          "y": 518,
           "w": 82,
           "h": 26
         },
@@ -38595,8 +38685,8 @@
       },
       "event_category_fes_marathon.png": {
         "frame": {
-          "x": 195,
-          "y": 446,
+          "x": 87,
+          "y": 526,
           "w": 82,
           "h": 26
         },
@@ -38604,8 +38694,8 @@
       },
       "event_category_produce_marathon.png": {
         "frame": {
-          "x": 195,
-          "y": 476,
+          "x": 173,
+          "y": 548,
           "w": 82,
           "h": 26
         },
@@ -38622,8 +38712,8 @@
       },
       "lineup_button.png": {
         "frame": {
-          "x": 521,
-          "y": 378,
+          "x": 195,
+          "y": 416,
           "w": 104,
           "h": 38
         },
@@ -38632,7 +38722,7 @@
       "list_title_arrow.png": {
         "frame": {
           "x": 479,
-          "y": 408,
+          "y": 438,
           "w": 20,
           "h": 29
         },
@@ -38656,10 +38746,19 @@
         },
         "rotated": false
       },
+      "monthly_pass_badge.png": {
+        "frame": {
+          "x": 521,
+          "y": 378,
+          "w": 110,
+          "h": 30
+        },
+        "rotated": false
+      },
       "package_list_item_base.png": {
         "frame": {
-          "x": 629,
-          "y": 412,
+          "x": 479,
+          "y": 408,
           "w": 23,
           "h": 26
         },
@@ -38703,7 +38802,7 @@
       },
       "shop_content_base.png": {
         "frame": {
-          "x": 629,
+          "x": 635,
           "y": 378,
           "w": 25,
           "h": 30
@@ -38721,8 +38820,8 @@
       },
       "to_trade_button.png": {
         "frame": {
-          "x": 1,
-          "y": 571,
+          "x": 289,
+          "y": 483,
           "w": 148,
           "h": 70
         },
@@ -38730,8 +38829,8 @@
       },
       "trade_arrow.png": {
         "frame": {
-          "x": 281,
-          "y": 416,
+          "x": 1,
+          "y": 618,
           "w": 41,
           "h": 43
         },
@@ -38739,8 +38838,8 @@
       },
       "trade_button.png": {
         "frame": {
-          "x": 1,
-          "y": 496,
+          "x": 506,
+          "y": 412,
           "w": 148,
           "h": 71
         },
@@ -38757,8 +38856,8 @@
       },
       "trade_shop_event_badge.png": {
         "frame": {
-          "x": 153,
-          "y": 532,
+          "x": 1,
+          "y": 557,
           "w": 57,
           "h": 57
         },
@@ -38796,6 +38895,151 @@
           "y": 1,
           "w": 256,
           "h": 58
+        },
+        "rotated": false
+      }
+    }
+  },
+  "images/tips/game_event/40/001": {
+    "name": "images/tips/game_event/40/001",
+    "ext": ".jpg",
+    "url": "/assets/88a2b9bef578283778b1319161299c9771bce67172a8886df62841147f7e44d6?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40/002": {
+    "name": "images/tips/game_event/40/002",
+    "ext": ".jpg",
+    "url": "/assets/18288d1b1e73ad260b4fe734f312288685adc6e80f822964d76d430452d11e90?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40/003": {
+    "name": "images/tips/game_event/40/003",
+    "ext": ".jpg",
+    "url": "/assets/cdeda8bd3385d6bfdb34fa02a0031a758506aeeb44efb55dacaeaa8fa8206b05?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/produce_common/parts_monthly_pass_port": {
+    "name": "images/ui/produce_common/parts_monthly_pass_port",
+    "ext": ".png",
+    "url": "/assets/3b9e04c8267475d7d2700bc46b00f5796d012f2025d086105d62b86a6ecb6f2d?v=1",
+    "v": 1,
+    "frames": {
+      "monthly_pass_balloon.png": {
+        "frame": {
+          "x": 1,
+          "y": 133,
+          "w": 110,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "monthly_pass_memo_icon.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 114,
+          "h": 128
+        },
+        "rotated": false
+      }
+    }
+  },
+  "images/ui/shop/parts_monthly_passport": {
+    "name": "images/ui/shop/parts_monthly_passport",
+    "ext": ".png",
+    "url": "/assets/438ecf38b05cb7cf7ebe3bc03d06efaad47658c79eb34b3ab1f69ff9f897a1b6?v=1",
+    "v": 1,
+    "frames": {
+      "balloon_extendable.png": {
+        "frame": {
+          "x": 705,
+          "y": 393,
+          "w": 200,
+          "h": 46
+        },
+        "rotated": false
+      },
+      "balloon_first_time_discount.png": {
+        "frame": {
+          "x": 705,
+          "y": 493,
+          "w": 160,
+          "h": 46
+        },
+        "rotated": false
+      },
+      "balloon_valid_for_30days.png": {
+        "frame": {
+          "x": 705,
+          "y": 443,
+          "w": 200,
+          "h": 46
+        },
+        "rotated": false
+      },
+      "discount_arrow.png": {
+        "frame": {
+          "x": 835,
+          "y": 543,
+          "w": 21,
+          "h": 21
+        },
+        "rotated": false
+      },
+      "monthly_passport_info.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 700,
+          "h": 888
+        },
+        "rotated": false
+      },
+      "monthly_passport_merchandise_base.png": {
+        "frame": {
+          "x": 705,
+          "y": 1,
+          "w": 316,
+          "h": 388
+        },
+        "rotated": false
+      },
+      "monthly_passport_status_expired.png": {
+        "frame": {
+          "x": 705,
+          "y": 543,
+          "w": 126,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "monthly_passport_status_possessed.png": {
+        "frame": {
+          "x": 705,
+          "y": 579,
+          "w": 126,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "monthly_passport_status_unpossessed.png": {
+        "frame": {
+          "x": 705,
+          "y": 615,
+          "w": 126,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "unpurchasable_badge_base.png": {
+        "frame": {
+          "x": 705,
+          "y": 651,
+          "w": 160,
+          "h": 28
         },
         "rotated": false
       }
