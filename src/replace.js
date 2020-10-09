@@ -118,6 +118,7 @@ const start = async () => {
   await fs.outputJSON(`./dist/image-md5.json`, imageMd5)
   await fs.outputFile('./dist/image.csv', CSV.unparse(csvList))
   await fs.copy('./icon-info.json', './dist/icon-info.json')
+  await fs.copy('./idol-info.json', './dist/idol-info.json')
 }
 
 start()

@@ -10,6 +10,7 @@ on:
       - 'image-info.json'
       - 'image-list.json'
       - 'icon-info.json'
+      - 'idol-info.json'
 
 jobs:
   main:
