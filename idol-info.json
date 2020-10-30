@@ -337,6 +337,18 @@
     "id": "1030020030"
   },
   {
+    "hash": "a0c9d54fe6e8ce50b1b699b6a4829805",
+    "name": "【インビジブルタイム】風野 灯織",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/9e983c265121a1d7faa34b25fb3b62201564016cee88f73ed14fcc23364e6be6?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/ad9dcb8fda3a229e00f1c5a39cfa1ab56223da38e3994052b182e129481cba7a?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/41e742b68fcef667ed2b77d360a6349bf1c216f162633d18dca271b81b13e8f7?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/6f7f3184db7016f3bddf9821bc3107dc605ec0e2e5417c0f0cb430f7968b3b13.mp4?v=1",
+    "id": "1030020040"
+  },
+  {
     "hash": "c1ece030659cc24923e687862c38d0a3",
     "name": "【キネマ・リリックで夢見て】八宮 めぐる",
     "type": "p",
@@ -1459,6 +1471,20 @@
     "id": "1040060040"
   },
   {
+    "hash": "01b0a77ec26e4b54c1ba7244a804c867",
+    "name": "【乙女と交わすTrick】白瀬 咲耶",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──さて、食事の時間だ",
+    "card": "https://shinycolors.enza.fun/assets/1a3446af37d5884a1aed8d6da698e8d76ddc60f3e568b9d66a6313e118f19db5?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/6980f802076526f0c309379f1aad4d1d705deb5617ae7c0b2c34d59285133be5?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/ff00bb894889be0dd61b7044b512ddaea152e359260d5620ca09f9b8fba368ed?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/3ffbf41023be70e160e6a095ccad71d605249cdee63b85ad67ff72cb69bab6b7.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/834501da9fa536d29a3ccdeb104f8f79f7e5856b44036735eb3355dc45b2e0b6.mp4?v=1",
+    "id": "1040060050"
+  },
+  {
     "hash": "b8958eb85bae77c360db05bf7596de26",
     "name": "【お試し／みつゴコロ】三峰 結華",
     "type": "p",
@@ -2213,6 +2239,20 @@
     "movie": "https://shinycolors.enza.fun/assets/82c2765a63a7f7a780e0711b0d55f9c678f4f7750b0de37a9f5462d687e0313a.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/da50bdc593425452c97fcd198c5e69b6c5b43b9186c1f4fd7dcbfb5e5b2ea33b.mp4?v=2",
     "id": "1040210010"
+  },
+  {
+    "hash": "b898843c8240a951e1c8cd095f6434bd",
+    "name": "【ギンコ・ビローバ】樋口 円香",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "冷たい、風",
+    "card": "https://shinycolors.enza.fun/assets/79329195e7e96837cb13d16d208315fd8afda53f0c8043fac536f651aac06e8c?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/8f13d785b91fd4a27ac3c80ebaeb842fee7d6c8a71846d955aa075bb9498ffee?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/712cb376fc411f90983e8a28a56aed12f960343e02adac50ddec8ef80292cef7?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/fa0bd8d20d948d8145b612f5e612c4276a57f2655e1f2ac0f9cc54c24fb70e1a.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/8e54d4743ce516150204856009947f02044210a74ea95a86f9fc721936d8748f.mp4?v=1",
+    "id": "1040210020"
   },
   {
     "hash": "d7038fba9f7b2153cb56ba5e24410c81",
@@ -3475,6 +3515,14 @@
     "id": "2030190020"
   },
   {
+    "hash": "dafd99ea27a7dcd744a744ce500d90e6",
+    "name": "【かっとばし党の逆襲】浅倉 透",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/963e3179a837426b958c8d1c6a356e66ec2024c0df5f7c16cec45a0bc3603d6f?v=1",
+    "id": "2030200010"
+  },
+  {
     "hash": "4dcd34f3a25a3394d956019f851509f4",
     "name": "【閑話】樋口 円香",
     "type": "s",
@@ -3545,6 +3593,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/6292790d9e725c8853dbbf84d07b06315ec81337adab15177a0741ad7002b62e?v=1",
     "id": "2040010070"
+  },
+  {
+    "hash": "b8e3f231d588fe27d3781e0829b32daa",
+    "name": "【こころ、えんにならんで】櫻木 真乃",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/c02af083f39bce05d12a5b3aba64d3edaa2247d67dea4f3a31dbbe7102896535?v=1",
+    "id": "2040010080"
   },
   {
     "hash": "ba5e0c844214f1ee75a84476101223b4",
@@ -3825,6 +3881,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/5540c5271e934d74ea2e71632392aa6fc4d64b0b8bb329ace6e506302089ed0b?v=2",
     "id": "2040080040"
+  },
+  {
+    "hash": "6115819aacc2797e8d6726825481518e",
+    "name": "【数・数・娘・娘】幽谷 霧子",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/cc8ad1b716ecc523d1da5259d340b3b40dd42938bdfa37e74d820efd6fb9f1e7?v=1",
+    "id": "2040080050"
   },
   {
     "hash": "7a9febbd06d3ef4cf09ce1b722fc92f0",
