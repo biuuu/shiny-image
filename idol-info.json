@@ -2101,6 +2101,20 @@
     "id": "1040160040"
   },
   {
+    "hash": "328425d11e0250dcb423f3711c810333",
+    "name": "【秋空と紅葉】桑山 千雪",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "絶対、この季節のせい────",
+    "card": "https://shinycolors.enza.fun/assets/a9254c616031e396e6c5f2a27462e37e0688c24229dbd505fa9349252cebb512?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/a160cb57e64d84b136d342ead32eb82de9a812599bf4e40f5fd331931f5bbcd6?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/35d4ac01f0878be741519288250e376aee36d8b56737f47b8373f485953d00f5?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/159c10fa74ce69267557e311061d594525c46fe297953b44ad125cdc9ece9578.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/eb5556866031aa2f3abbbc94864190ba43d652bbb64680155ace5ba097999cdb.mp4?v=1",
+    "id": "1040160050"
+  },
+  {
     "hash": "bf7654cea8730408eaca21656d2b5933",
     "name": "【ジャンプ！スタッグ！！！】芹沢 あさひ",
     "type": "p",
@@ -3643,6 +3657,14 @@
     "id": "2040020050"
   },
   {
+    "hash": "176a44c894fdc6a0e3cb6611ae07a7c2",
+    "name": "【水面を仰いで海の底】風野 灯織",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/7e80b19e3b27f4a6861a6576b8d5ff12045a6bd26a91fb4a9113b0fc7e9443da?v=1",
+    "id": "2040020060"
+  },
+  {
     "hash": "8bb4ca7c14b7463a683e6cef9c4347a9",
     "name": "【スタァライトショウタイム】八宮 めぐる",
     "type": "s",
@@ -4153,6 +4175,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/cb319ff0c41b43eecadbfaf5f9f32aba1d1ca47eed633b6637e76d849f9cc7ee?v=2",
     "id": "2040150050"
+  },
+  {
+    "hash": "713adee805c31087e54030c26764d55f",
+    "name": "【リトル・スターズ】大崎 甜花",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/27bf3f49a8fd4d585f61a90dc54d39c8f9dda78b06087fffb4a06dacca90498b?v=1",
+    "id": "2040150060"
   },
   {
     "hash": "f10de15bb703f2250c76c298bd802e49",
