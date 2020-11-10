@@ -2046,8 +2046,8 @@
   "images/tips/produce_fan_meeting/008": {
     "name": "images/tips/produce_fan_meeting/008",
     "ext": ".jpg",
-    "url": "/assets/22b9e5d381774ef6103c5c356446f19a18d3267212639725c6e4fa66260dc203?v=2",
-    "v": 2,
+    "url": "/assets/22b9e5d381774ef6103c5c356446f19a18d3267212639725c6e4fa66260dc203?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/game_event/14/001": {
@@ -39467,5 +39467,33 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/20023/001": {
+    "name": "images/tips/game_event/20023/001",
+    "ext": ".jpg",
+    "url": "/assets/a46ed65885d44cc1df5103ab976ee30bd38040ed52fe4bc2eed2a6ba9484e80c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20023/002": {
+    "name": "images/tips/game_event/20023/002",
+    "ext": ".jpg",
+    "url": "/assets/b447839468dffa52cba302f0d5cc28cb3be0a141e9d756b3f3b3106eea138c66?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20023/003": {
+    "name": "images/tips/game_event/20023/003",
+    "ext": ".jpg",
+    "url": "/assets/8e502e5a05fccb172e8ad0dad154ae8cc2c78f2a82444669f7e6615cbbd03c1c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20023/005": {
+    "name": "images/tips/game_event/20023/005",
+    "ext": ".jpg",
+    "url": "/assets/0bad7ab1ec3c18d4779c19d5e207680fac0faf7dbca037c613f564945bb773c8?v=1",
+    "v": 1,
+    "frames": null
   }
 }
