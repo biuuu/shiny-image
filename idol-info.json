@@ -1081,6 +1081,18 @@
     "id": "1030190030"
   },
   {
+    "hash": "da67da775a6789dc0703770efdfb441b",
+    "name": "【まわるものについて】浅倉 透",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/985f3ad0d7c777eab9c1a2f0e24a62546a3bcb50a66114c0a406be92bf1ee9ef?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/73f99dd8eba033cd6b673e83937687ba11857172bbd9395271a6ff0d2fd2923a?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/bee6cf3a825c2d639cdc0b70a439310aa43d1d26bc5b5ec7fe96801f173619a5?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/8092264682105cd0503cd4ec1b216a4d3d72c8113ef731e7af29b26e674d4332.mp4?v=1",
+    "id": "1030200010"
+  },
+  {
     "hash": "9073001706267f4a479ebd44e35265c7",
     "name": "【#SS】市川 雛菜",
     "type": "p",
@@ -1539,6 +1551,20 @@
     "movie": "https://shinycolors.enza.fun/assets/778b12efd669d6b45ccf91c7872becbbf1b695f5ca5646c1cadc4d4d113bc898.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/e63c503368c79c1364341c6394d86c3d0c037382bd9620d7734f7af4964320c2.mp4?v=1",
     "id": "1040070040"
+  },
+  {
+    "hash": "5b2dd6d488a1a2e5fc303ac196383b46",
+    "name": "【雨に祝福】三峰 結華",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──……雨、降ってきちゃった",
+    "card": "https://shinycolors.enza.fun/assets/52aad2441cea4e943d6a75c04df37d601dbd30e4ccce6f46b96a0dda433d4e20?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/70003a0caf0978328e4ff384ef9805cf9f79e084c13c86efe5f936f25474cd3a?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/f7f134644522c7387a9fdc03fc545eabc01433d1a5d94c95ace468afb2ed2515?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/7136a3ef106c8daaa6b665f58d7152931a50e0da4bbc0affff5b8273ee34ee14.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/86c2aed0694f0c30c69514debed94fb26f33088e1a90f78838c8060d87491fc6.mp4?v=1",
+    "id": "1040070050"
   },
   {
     "hash": "3d5b0ecdb29adf12c3ab8a1535fb7606",
@@ -4319,6 +4345,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/299f9526e1b0a5043a347f7fc1fdb25bc7e3c4795ff434ee122ea0234c02c412?v=1",
     "id": "2040210010"
+  },
+  {
+    "hash": "7639191017fd658392fd4947f4d5da4c",
+    "name": "【UNTITLED】樋口 円香",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/2f67e7bcef66b4e6b83be2f2ada275b2c4f174f617ace56fc337fc7c2f3f2c5a?v=1",
+    "id": "2040210020"
   },
   {
     "hash": "e4dcbdf86b4216c56c4682f8fd0a1abb",
