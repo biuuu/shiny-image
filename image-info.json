@@ -3453,8 +3453,8 @@
   "images/tips/true_end_teaching/produce_idol_select/001": {
     "name": "images/tips/true_end_teaching/produce_idol_select/001",
     "ext": ".jpg",
-    "url": "/assets/05db240bc2da5f80861ccc0c7f1717bd690b6c32312399b4b3283f4f35256f3c?v=2",
-    "v": 2,
+    "url": "/assets/05db240bc2da5f80861ccc0c7f1717bd690b6c32312399b4b3283f4f35256f3c?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/true_end_teaching/produce_idol_select/002": {
@@ -21913,13 +21913,13 @@
   "images/ui/gasha_result/parts": {
     "name": "images/ui/gasha_result/parts",
     "ext": ".png",
-    "url": "/assets/b66f2a3e3d51666b16489946f2dace26daa49aabf3a0c6c0d31f38e321bfc21b?v=10",
-    "v": 10,
+    "url": "/assets/b66f2a3e3d51666b16489946f2dace26daa49aabf3a0c6c0d31f38e321bfc21b?v=11",
+    "v": 11,
     "frames": {
       "evolution_base_label.png": {
         "frame": {
-          "x": 97,
-          "y": 683,
+          "x": 184,
+          "y": 792,
           "w": 128,
           "h": 28
         },
@@ -21927,8 +21927,8 @@
       },
       "evolution_star.png": {
         "frame": {
-          "x": 97,
-          "y": 650,
+          "x": 153,
+          "y": 792,
           "w": 27,
           "h": 29
         },
@@ -21954,8 +21954,8 @@
       },
       "level_base_label.png": {
         "frame": {
-          "x": 128,
-          "y": 650,
+          "x": 316,
+          "y": 792,
           "w": 128,
           "h": 28
         },
@@ -21967,6 +21967,15 @@
           "y": 354,
           "w": 292,
           "h": 292
+        },
+        "rotated": false
+      },
+      "redraw_gasha_result_back_balloon.png": {
+        "frame": {
+          "x": 153,
+          "y": 752,
+          "w": 194,
+          "h": 36
         },
         "rotated": false
       },
@@ -21982,9 +21991,18 @@
       "skin_exchange_base_possession.png": {
         "frame": {
           "x": 97,
-          "y": 715,
+          "y": 724,
           "w": 90,
           "h": 24
+        },
+        "rotated": false
+      },
+      "to_gasha_top_button.png": {
+        "frame": {
+          "x": 97,
+          "y": 650,
+          "w": 148,
+          "h": 70
         },
         "rotated": false
       },
@@ -25785,8 +25803,8 @@
   "images/ui/common/parts": {
     "name": "images/ui/common/parts",
     "ext": ".png",
-    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=29",
-    "v": 29,
+    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=30",
+    "v": 30,
     "frames": {
       "arrow_decrease.png": {
         "frame": {
@@ -25817,8 +25835,8 @@
       },
       "arrow_prev.png": {
         "frame": {
-          "x": 191,
-          "y": 165,
+          "x": 715,
+          "y": 706,
           "w": 54,
           "h": 69
         },
@@ -25889,8 +25907,8 @@
       },
       "common_header_base_l.png": {
         "frame": {
-          "x": 249,
-          "y": 165,
+          "x": 245,
+          "y": 456,
           "w": 371,
           "h": 56
         },
@@ -25898,7 +25916,7 @@
       },
       "common_header_base_s.png": {
         "frame": {
-          "x": 191,
+          "x": 355,
           "y": 516,
           "w": 292,
           "h": 58
@@ -25917,7 +25935,7 @@
       "common_menu_badge_sale.png": {
         "frame": {
           "x": 191,
-          "y": 238,
+          "y": 590,
           "w": 50,
           "h": 20
         },
@@ -25953,7 +25971,7 @@
       "haduki_base.png": {
         "frame": {
           "x": 191,
-          "y": 270,
+          "y": 344,
           "w": 608,
           "h": 108
         },
@@ -26043,7 +26061,7 @@
       "loading_indicator.png": {
         "frame": {
           "x": 652,
-          "y": 382,
+          "y": 456,
           "w": 126,
           "h": 130
         },
@@ -26094,6 +26112,51 @@
         },
         "rotated": false
       },
+      "page_active_base.png": {
+        "frame": {
+          "x": 652,
+          "y": 270,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "page_first_button.png": {
+        "frame": {
+          "x": 191,
+          "y": 516,
+          "w": 78,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "page_next_button.png": {
+        "frame": {
+          "x": 273,
+          "y": 516,
+          "w": 78,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "page_prev_button.png": {
+        "frame": {
+          "x": 633,
+          "y": 732,
+          "w": 78,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "page_skip_button.png": {
+        "frame": {
+          "x": 685,
+          "y": 806,
+          "w": 78,
+          "h": 70
+        },
+        "rotated": false
+      },
       "reward_base.png": {
         "frame": {
           "x": 1,
@@ -26105,8 +26168,8 @@
       },
       "select_check_box_off.png": {
         "frame": {
-          "x": 487,
-          "y": 516,
+          "x": 191,
+          "y": 456,
           "w": 48,
           "h": 48
         },
@@ -26114,8 +26177,8 @@
       },
       "select_check_box_on.png": {
         "frame": {
-          "x": 487,
-          "y": 568,
+          "x": 633,
+          "y": 806,
           "w": 48,
           "h": 48
         },
@@ -26133,7 +26196,7 @@
       "skill_panel_lock.png": {
         "frame": {
           "x": 661,
-          "y": 516,
+          "y": 590,
           "w": 101,
           "h": 112
         },
@@ -26141,7 +26204,7 @@
       },
       "skill_panel_lock_gold.png": {
         "frame": {
-          "x": 803,
+          "x": 804,
           "y": 332,
           "w": 107,
           "h": 121
@@ -26258,7 +26321,7 @@
       },
       "white_opaque_base_texture.png": {
         "frame": {
-          "x": 803,
+          "x": 804,
           "y": 270,
           "w": 22,
           "h": 21
@@ -34559,8 +34622,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=43",
-    "v": 43,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=44",
+    "v": 44,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -39495,5 +39558,205 @@
     "url": "/assets/0bad7ab1ec3c18d4779c19d5e207680fac0faf7dbca037c613f564945bb773c8?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/60014/001": {
+    "name": "images/tips/game_event/60014/001",
+    "ext": ".jpg",
+    "url": "/assets/bdcde93cb74328d67f6f54b7988651ed16b111ff8aaf63267586f37ca74f1001?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60014/002": {
+    "name": "images/tips/game_event/60014/002",
+    "ext": ".jpg",
+    "url": "/assets/771e38cadd4b6270bfd0b49f1dd1de4f105ec76176a8fb2db3f3b845b2a6789d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60014/003": {
+    "name": "images/tips/game_event/60014/003",
+    "ext": ".jpg",
+    "url": "/assets/912496bbd1c04ac85627579089584fb18a9fcecde7e24ac4e5e0e12b44e15221?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/common/parts_idol": {
+    "name": "images/ui/common/parts_idol",
+    "ext": ".png",
+    "url": "/assets/980449e7248b994b18e208a29ecadd6ec8f3f51d14880c44fcdb59f5e1f1a1a9?v=1",
+    "v": 1,
+    "frames": {
+      "costume_cb_icon_none.png": {
+        "frame": {
+          "x": 1,
+          "y": 599,
+          "w": 99,
+          "h": 177
+        },
+        "rotated": false
+      },
+      "costume_stand_icon_none.png": {
+        "frame": {
+          "x": 104,
+          "y": 599,
+          "w": 98,
+          "h": 98
+        },
+        "rotated": false
+      },
+      "evolution_stage_icon.png": {
+        "frame": {
+          "x": 206,
+          "y": 619,
+          "w": 16,
+          "h": 16
+        },
+        "rotated": false
+      },
+      "evolution_stage_icon_base.png": {
+        "frame": {
+          "x": 206,
+          "y": 599,
+          "w": 68,
+          "h": 16
+        },
+        "rotated": false
+      },
+      "evolution_stage_max_icon.png": {
+        "frame": {
+          "x": 134,
+          "y": 737,
+          "w": 22,
+          "h": 22
+        },
+        "rotated": false
+      },
+      "icon_evolution.png": {
+        "frame": {
+          "x": 104,
+          "y": 737,
+          "w": 26,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "icon_evolution_max.png": {
+        "frame": {
+          "x": 104,
+          "y": 701,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "icon_idol_p.png": {
+        "frame": {
+          "x": 1,
+          "y": 780,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false
+      },
+      "icon_idol_s.png": {
+        "frame": {
+          "x": 1,
+          "y": 884,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false
+      },
+      "icon_raid_unit_number_base.png": {
+        "frame": {
+          "x": 140,
+          "y": 701,
+          "w": 66,
+          "h": 20
+        },
+        "rotated": false
+      },
+      "icon_unit_number_base.png": {
+        "frame": {
+          "x": 160,
+          "y": 725,
+          "w": 66,
+          "h": 20
+        },
+        "rotated": false
+      },
+      "idol_card_frame_1.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 524,
+          "h": 295
+        },
+        "rotated": false
+      },
+      "idol_card_frame_2.png": {
+        "frame": {
+          "x": 529,
+          "y": 1,
+          "w": 524,
+          "h": 295
+        },
+        "rotated": false
+      },
+      "idol_card_frame_3.png": {
+        "frame": {
+          "x": 1,
+          "y": 300,
+          "w": 524,
+          "h": 295
+        },
+        "rotated": false
+      },
+      "idol_card_frame_4.png": {
+        "frame": {
+          "x": 529,
+          "y": 300,
+          "w": 524,
+          "h": 295
+        },
+        "rotated": false
+      },
+      "idol_icon_badge_formation.png": {
+        "frame": {
+          "x": 77,
+          "y": 988,
+          "w": 68,
+          "h": 47
+        },
+        "rotated": false
+      },
+      "idol_icon_badge_helper.png": {
+        "frame": {
+          "x": 1,
+          "y": 988,
+          "w": 72,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "idol_icon_level_base.png": {
+        "frame": {
+          "x": 206,
+          "y": 639,
+          "w": 67,
+          "h": 15
+        },
+        "rotated": false
+      },
+      "idol_icon_none.png": {
+        "frame": {
+          "x": 105,
+          "y": 766,
+          "w": 96,
+          "h": 96
+        },
+        "rotated": false
+      }
+    }
   }
 }
