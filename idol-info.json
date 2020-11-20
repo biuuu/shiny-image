@@ -2169,6 +2169,20 @@
     "id": "1040170020"
   },
   {
+    "hash": "b0a2d07673904ee95e83b163dd1837ce",
+    "name": "【不機嫌なテーマパーク】芹沢 あさひ",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "む～～～～！！！",
+    "card": "https://shinycolors.enza.fun/assets/e8e7defe2f6faa63114314fbe60963483f43e085acdb68db711e703cfc895996?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/67db22a9aedc053c18947a4cd32b85234df28969557ae4e8ebd8a53eafb2c122?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/e13310336e49d2a9071f33f374d45cf422f40bb6286fcf99c27cd735789d3f1b?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/44af9eeef5df804ba15e90f9f915ca19306e905e9ae6d744315cd1c06f77aa97.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/c5044c9c3735786863781577da9599f31a4c99a3c306fcffd078803398bda2de.mp4?v=1",
+    "id": "1040170030"
+  },
+  {
     "hash": "fef3e4ec9ee3fcf88391873022110223",
     "name": "【オ♡フ♡レ♡コ】黛 冬優子",
     "type": "p",
@@ -3355,6 +3369,14 @@
     "id": "2030100010"
   },
   {
+    "hash": "1405e2fcc80dd9f35a637cc8bbac86e2",
+    "name": "【茜色セレンディピティ】園田 智代子",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/22e3f236e52fcd95a5890921b19cf892fd997987285ac1851660f1c26988e41b?v=1",
+    "id": "2030100020"
+  },
+  {
     "hash": "0b7d3d4fa8a05f6d4b621e0068609b72",
     "name": "【Best☆Great☆サマー！】園田 智代子",
     "type": "s",
@@ -3577,6 +3599,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/c8bd13ab213a05b9c34c3c6fac6e957822f3f3052dcdcac9f18c5a3fe3a98112?v=2",
     "id": "2030220010"
+  },
+  {
+    "hash": "3c06b14107f7cf83042e4e047a850767",
+    "name": "【しかえし優等生】福丸 小糸",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/6507f0cdc8759db6a163f072e81b42ef3012dd25e5749e0f8d46acb7e9147755?v=1",
+    "id": "2030220020"
   },
   {
     "hash": "6e3d774843ac8f42bca95d22d13e210a",
