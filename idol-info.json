@@ -301,6 +301,18 @@
     "id": "1030010040"
   },
   {
+    "hash": "044b877795ddcc6c991b5a3e0ebc4f5e",
+    "name": "【一番星の魔法】櫻木 真乃",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/2b4038bcb97d213c6157662aacec8ed2c8e0ae7809cb7f04c44ef6bc94c4c79f?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/c69c1bc9a77d53acbc6e92fe56a0e7b2a1c975d05027542b4eb34d0e2cff3c75?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/6433b0a7ba0f4904514e04a8e0f139ca1e764e113d914cf1c576f9bb05041073?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/27b961228b5cd4cb4d9539985fdeff22979f7f143a9edccb380e6cdd8b8add14.mp4?v=1",
+    "id": "1030010050"
+  },
+  {
     "hash": "a30f3030dd7c8fba656ced1d1edeb2db",
     "name": "【手作りの心遣い】風野 灯織",
     "type": "p",
@@ -1355,6 +1367,20 @@
     "movie": "https://shinycolors.enza.fun/assets/94cf017fe1e35c97fa2fc643409a33e72e10aa9e743bd07c95bd14520632ef57.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/87db04939c26d92055f9df7dffb0e423090f1702284c72c0dc42f37911c29078.mp4?v=2",
     "id": "1040040040"
+  },
+  {
+    "hash": "002f6ed9f670d3846752f23e4e2b9d78",
+    "name": "【心の鐘が鳴っとるけん】月岡 恋鐘",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──鐘が、ご～んって……！",
+    "card": "https://shinycolors.enza.fun/assets/73aac14d95ccb6931fee04bd5f57da9d6154d8f8502b0fd38d3e60910b237d1e?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/9e1535b4b333089c1604aec271a067ec67b7de03b01ddc9d62d0c71dab928742?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/20ea67267cfb4e4b50006d45b1ac4da601a275ce5917591ee438206705b23925?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/450e75e0f0c269b41323a49266827231f4dca12669eb06d63a744ccc3ace2dfd.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/01f0ed92f86daa380ef5948885cbf7b4fbcc526ad5370225d8c636ff5012c843.mp4?v=1",
+    "id": "1040040050"
   },
   {
     "hash": "ef0e0564cc7caa1395643c38af1b2c2b",
@@ -4079,6 +4105,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/3792a9632a962201540b16a18bad4634887e3726d82c1e05a258d4f4b7ec963c?v=1",
     "id": "2040110040"
+  },
+  {
+    "hash": "4790d02ef4a0a3dee54c15e64a2e4e63",
+    "name": "【モーニング・グロウリー？】西城 樹里",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/ab5bf9328c96b37621307625b731607a8aed9386ab92481d2871851c85cbfecf?v=1",
+    "id": "2040110050"
   },
   {
     "hash": "1bd084d1c13091306987e46ead0d33d7",
