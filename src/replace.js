@@ -24,15 +24,17 @@ const infoName = () => {
 
 infoName()
 
+const SPECIAL = ['grad_text_week.png', 'wing_text_week.png', 'text_week_remaining.png']
+
 const removePixel = (data, imageInfo, rectInfo) => {
   let len1 = rectInfo.height + rectInfo.top
   let len2 = rectInfo.width + rectInfo.left
   for (let i = rectInfo.top; i < len1; i++) {
     for (let j = rectInfo.left; j < len2; j++) {
       let index = (i * imageInfo.width + j + 1) * 4
-      data[index] = 255
-      data[index + 1] = 255
-      data[index + 2] = 255
+      data[index] = 0
+      data[index + 1] = 0
+      data[index + 2] = 0
       data[index + 3] = 0
     }
   }
@@ -77,6 +79,9 @@ const start = async () => {
         if (!frames[name]) continue
         let frame = frames[name].frame
         let { x: left, y: top, w: width, h: height } = frame
+        if (SPECIAL.includes(name)) {
+          left -= 2
+        }
         let inputOver = `./images/${key}/${name}`
         if (frames[name].rotated) {
           [ width, height] = [height, width]
