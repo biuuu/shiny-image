@@ -81,6 +81,7 @@ const start = async () => {
         let { x: left, y: top, w: width, h: height } = frame
         if (SPECIAL.includes(name)) {
           left -= 2
+          w += 2
         }
         let inputOver = `./images/${key}/${name}`
         if (frames[name].rotated) {
