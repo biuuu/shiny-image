@@ -1514,8 +1514,8 @@
   "images/tips/workActivity/003": {
     "name": "images/tips/workActivity/003",
     "ext": ".jpg",
-    "url": "/assets/25f66b3c6e0d426e1b994753a9667037c84ae35ae30d055783d7b1e9d68385fe?v=4",
-    "v": 4,
+    "url": "/assets/25f66b3c6e0d426e1b994753a9667037c84ae35ae30d055783d7b1e9d68385fe?v=5",
+    "v": 5,
     "frames": null
   },
   "images/tips/workActivity/004": {
@@ -1724,29 +1724,29 @@
   "images/tips/ex_skill/001": {
     "name": "images/tips/ex_skill/001",
     "ext": ".jpg",
-    "url": "/assets/36d2bd1b5451ac69d5d0fc373810d79d379d959cc98a7f9871b613807356400e?v=4",
-    "v": 4,
+    "url": "/assets/36d2bd1b5451ac69d5d0fc373810d79d379d959cc98a7f9871b613807356400e?v=5",
+    "v": 5,
     "frames": null
   },
   "images/tips/ex_skill/002": {
     "name": "images/tips/ex_skill/002",
     "ext": ".jpg",
-    "url": "/assets/8bd89a0a166983744047d4503eaf6ca794f2584cceeae970f4b46f0e30ec689b?v=4",
-    "v": 4,
+    "url": "/assets/8bd89a0a166983744047d4503eaf6ca794f2584cceeae970f4b46f0e30ec689b?v=5",
+    "v": 5,
     "frames": null
   },
   "images/tips/ex_skill/003": {
     "name": "images/tips/ex_skill/003",
     "ext": ".jpg",
-    "url": "/assets/e4a5c837a0fb4b4b70618bde7da7116ab39a2f08b10618d15a43fc357ed48788?v=4",
-    "v": 4,
+    "url": "/assets/e4a5c837a0fb4b4b70618bde7da7116ab39a2f08b10618d15a43fc357ed48788?v=5",
+    "v": 5,
     "frames": null
   },
   "images/tips/ex_skill/004": {
     "name": "images/tips/ex_skill/004",
     "ext": ".jpg",
-    "url": "/assets/1aa997bdf791d51d5de359340d0ffda04d60016b6dbd6958384fce933ad0e1ae?v=3",
-    "v": 3,
+    "url": "/assets/1aa997bdf791d51d5de359340d0ffda04d60016b6dbd6958384fce933ad0e1ae?v=1",
+    "v": 1,
     "frames": null
   },
   "images/tips/game_event/12/001": {
@@ -9728,8 +9728,8 @@
   "images/ui/ex_skill/parts": {
     "name": "images/ui/ex_skill/parts",
     "ext": ".png",
-    "url": "/assets/0b19160592681ff75c37d324ad5297cd0381e454b1dcb770c8318f14a75af99c?v=4",
-    "v": 4,
+    "url": "/assets/0b19160592681ff75c37d324ad5297cd0381e454b1dcb770c8318f14a75af99c?v=5",
+    "v": 5,
     "frames": {
       "ex_skill_color_circle_yellow_blur.png": {
         "frame": {
@@ -9743,7 +9743,7 @@
       "ex_skill_condition_panel_base.png": {
         "frame": {
           "x": 613,
-          "y": 571,
+          "y": 591,
           "w": 292,
           "h": 162
         },
@@ -9787,8 +9787,8 @@
       },
       "ex_skill_list_label_base.png": {
         "frame": {
-          "x": 613,
-          "y": 737,
+          "x": 169,
+          "y": 805,
           "w": 284,
           "h": 40
         },
@@ -9805,8 +9805,8 @@
       },
       "tab_produce_idol_off.png": {
         "frame": {
-          "x": 679,
-          "y": 475,
+          "x": 1,
+          "y": 757,
           "w": 164,
           "h": 44
         },
@@ -9814,8 +9814,8 @@
       },
       "tab_produce_idol_on.png": {
         "frame": {
-          "x": 679,
-          "y": 523,
+          "x": 1,
+          "y": 805,
           "w": 164,
           "h": 44
         },
@@ -9824,7 +9824,7 @@
       "tab_support_idol_off.png": {
         "frame": {
           "x": 1,
-          "y": 781,
+          "y": 853,
           "w": 164,
           "h": 44
         },
@@ -9832,10 +9832,28 @@
       },
       "tab_support_idol_on.png": {
         "frame": {
-          "x": 1,
-          "y": 829,
+          "x": 169,
+          "y": 757,
           "w": 164,
           "h": 44
+        },
+        "rotated": false
+      },
+      "upgrade_button_black.png": {
+        "frame": {
+          "x": 679,
+          "y": 475,
+          "w": 178,
+          "h": 54
+        },
+        "rotated": false
+      },
+      "upgrade_button_red.png": {
+        "frame": {
+          "x": 679,
+          "y": 533,
+          "w": 178,
+          "h": 54
         },
         "rotated": false
       }
@@ -21608,13 +21626,13 @@
   "images/ui/work_activity_top/parts": {
     "name": "images/ui/work_activity_top/parts",
     "ext": ".png",
-    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=7",
-    "v": 7,
+    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=8",
+    "v": 8,
     "frames": {
       "all_business_button.png": {
         "frame": {
           "x": 839,
-          "y": 1165,
+          "y": 1175,
           "w": 148,
           "h": 70
         },
@@ -21622,8 +21640,8 @@
       },
       "all_finish_button.png": {
         "frame": {
-          "x": 1099,
-          "y": 455,
+          "x": 519,
+          "y": 1249,
           "w": 148,
           "h": 70
         },
@@ -21632,7 +21650,7 @@
       "base_tea_time.png": {
         "frame": {
           "x": 1099,
-          "y": 751,
+          "y": 729,
           "w": 150,
           "h": 24
         },
@@ -21649,8 +21667,8 @@
       },
       "business_finish_button.png": {
         "frame": {
-          "x": 1099,
-          "y": 529,
+          "x": 671,
+          "y": 1249,
           "w": 148,
           "h": 70
         },
@@ -21703,8 +21721,8 @@
       },
       "business_select_button.png": {
         "frame": {
-          "x": 1099,
-          "y": 603,
+          "x": 823,
+          "y": 1249,
           "w": 148,
           "h": 70
         },
@@ -21730,8 +21748,8 @@
       },
       "cooking_button_s.png": {
         "frame": {
-          "x": 489,
-          "y": 1259,
+          "x": 1099,
+          "y": 603,
           "w": 148,
           "h": 38
         },
@@ -21740,7 +21758,7 @@
       "create_button.png": {
         "frame": {
           "x": 1099,
-          "y": 677,
+          "y": 455,
           "w": 148,
           "h": 70
         },
@@ -21784,8 +21802,8 @@
       },
       "level_active_exp.png": {
         "frame": {
-          "x": 641,
-          "y": 1289,
+          "x": 489,
+          "y": 1259,
           "w": 26,
           "h": 30
         },
@@ -21793,8 +21811,8 @@
       },
       "level_active_fan.png": {
         "frame": {
-          "x": 671,
-          "y": 1289,
+          "x": 991,
+          "y": 1175,
           "w": 26,
           "h": 30
         },
@@ -21802,8 +21820,17 @@
       },
       "level_active_item.png": {
         "frame": {
-          "x": 701,
-          "y": 1289,
+          "x": 735,
+          "y": 919,
+          "w": 26,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "level_active_produce_ex_skill.png": {
+        "frame": {
+          "x": 765,
+          "y": 919,
           "w": 26,
           "h": 30
         },
@@ -21814,14 +21841,14 @@
           "x": 645,
           "y": 981,
           "w": 374,
-          "h": 180
+          "h": 190
         },
         "rotated": false
       },
       "level_inactive.png": {
         "frame": {
-          "x": 731,
-          "y": 1289,
+          "x": 1255,
+          "y": 59,
           "w": 26,
           "h": 30
         },
@@ -21839,7 +21866,7 @@
       "motivation_bonus_campaign_balloon_mask.png": {
         "frame": {
           "x": 625,
-          "y": 1165,
+          "y": 1175,
           "w": 210,
           "h": 46
         },
@@ -21874,8 +21901,8 @@
       },
       "teatime_finish_button.png": {
         "frame": {
-          "x": 793,
-          "y": 1239,
+          "x": 1099,
+          "y": 645,
           "w": 148,
           "h": 38
         },
@@ -21892,8 +21919,8 @@
       },
       "unit_check_button.png": {
         "frame": {
-          "x": 793,
-          "y": 1281,
+          "x": 1099,
+          "y": 687,
           "w": 148,
           "h": 38
         },
@@ -21910,8 +21937,8 @@
       },
       "user_business_unlock_button.png": {
         "frame": {
-          "x": 641,
-          "y": 1215,
+          "x": 1099,
+          "y": 529,
           "w": 148,
           "h": 70
         },
@@ -25812,13 +25839,13 @@
   "images/ui/common/parts": {
     "name": "images/ui/common/parts",
     "ext": ".png",
-    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=30",
-    "v": 30,
+    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=31",
+    "v": 31,
     "frames": {
       "arrow_decrease.png": {
         "frame": {
-          "x": 487,
-          "y": 897,
+          "x": 661,
+          "y": 198,
           "w": 20,
           "h": 16
         },
@@ -25826,8 +25853,8 @@
       },
       "arrow_increase.png": {
         "frame": {
-          "x": 511,
-          "y": 897,
+          "x": 685,
+          "y": 198,
           "w": 20,
           "h": 16
         },
@@ -25835,8 +25862,8 @@
       },
       "arrow_next.png": {
         "frame": {
-          "x": 836,
-          "y": 259,
+          "x": 575,
+          "y": 322,
           "w": 54,
           "h": 69
         },
@@ -25844,8 +25871,8 @@
       },
       "arrow_prev.png": {
         "frame": {
-          "x": 715,
-          "y": 706,
+          "x": 834,
+          "y": 471,
           "w": 54,
           "h": 69
         },
@@ -25853,8 +25880,8 @@
       },
       "badge_base.png": {
         "frame": {
-          "x": 91,
-          "y": 869,
+          "x": 873,
+          "y": 126,
           "w": 32,
           "h": 34
         },
@@ -25862,8 +25889,8 @@
       },
       "badge_base_blue.png": {
         "frame": {
-          "x": 127,
-          "y": 869,
+          "x": 371,
+          "y": 463,
           "w": 32,
           "h": 34
         },
@@ -25871,8 +25898,8 @@
       },
       "check_icon.png": {
         "frame": {
-          "x": 476,
-          "y": 869,
+          "x": 191,
+          "y": 490,
           "w": 30,
           "h": 24
         },
@@ -25880,8 +25907,8 @@
       },
       "check_icon_base.png": {
         "frame": {
-          "x": 447,
-          "y": 869,
+          "x": 267,
+          "y": 472,
           "w": 25,
           "h": 25
         },
@@ -25889,8 +25916,8 @@
       },
       "check_icon_base_l.png": {
         "frame": {
-          "x": 51,
-          "y": 869,
+          "x": 763,
+          "y": 825,
           "w": 36,
           "h": 36
         },
@@ -25898,8 +25925,8 @@
       },
       "check_icon_pink.png": {
         "frame": {
-          "x": 277,
-          "y": 869,
+          "x": 873,
+          "y": 164,
           "w": 33,
           "h": 27
         },
@@ -25907,8 +25934,8 @@
       },
       "common_diamond_s.png": {
         "frame": {
-          "x": 553,
-          "y": 896,
+          "x": 895,
+          "y": 735,
           "w": 18,
           "h": 16
         },
@@ -25916,8 +25943,8 @@
       },
       "common_header_base_l.png": {
         "frame": {
-          "x": 245,
-          "y": 456,
+          "x": 191,
+          "y": 360,
           "w": 371,
           "h": 56
         },
@@ -25925,8 +25952,8 @@
       },
       "common_header_base_s.png": {
         "frame": {
-          "x": 355,
-          "y": 516,
+          "x": 191,
+          "y": 298,
           "w": 292,
           "h": 58
         },
@@ -25934,8 +25961,8 @@
       },
       "common_menu_badge_new.png": {
         "frame": {
-          "x": 588,
-          "y": 869,
+          "x": 828,
+          "y": 348,
           "w": 60,
           "h": 21
         },
@@ -25943,8 +25970,8 @@
       },
       "common_menu_badge_sale.png": {
         "frame": {
-          "x": 191,
-          "y": 590,
+          "x": 585,
+          "y": 298,
           "w": 50,
           "h": 20
         },
@@ -25952,8 +25979,8 @@
       },
       "content_group_list_base.png": {
         "frame": {
-          "x": 782,
-          "y": 510,
+          "x": 718,
+          "y": 403,
           "w": 112,
           "h": 112
         },
@@ -25961,8 +25988,8 @@
       },
       "dot_white.png": {
         "frame": {
-          "x": 51,
-          "y": 909,
+          "x": 906,
+          "y": 705,
           "w": 3,
           "h": 2
         },
@@ -25970,8 +25997,8 @@
       },
       "expire_datetime_base.png": {
         "frame": {
-          "x": 314,
-          "y": 869,
+          "x": 763,
+          "y": 872,
           "w": 129,
           "h": 26
         },
@@ -25980,7 +26007,7 @@
       "haduki_base.png": {
         "frame": {
           "x": 191,
-          "y": 344,
+          "y": 1,
           "w": 608,
           "h": 108
         },
@@ -25988,8 +26015,8 @@
       },
       "hexagon_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 869,
+          "x": 371,
+          "y": 420,
           "w": 46,
           "h": 39
         },
@@ -25997,8 +26024,8 @@
       },
       "icol_label_base_l.png": {
         "frame": {
-          "x": 813,
-          "y": 38,
+          "x": 487,
+          "y": 298,
           "w": 94,
           "h": 20
         },
@@ -26006,8 +26033,8 @@
       },
       "icol_label_base_s.png": {
         "frame": {
-          "x": 813,
-          "y": 62,
+          "x": 487,
+          "y": 322,
           "w": 84,
           "h": 20
         },
@@ -26015,8 +26042,8 @@
       },
       "indicator_off.png": {
         "frame": {
-          "x": 468,
-          "y": 898,
+          "x": 750,
+          "y": 198,
           "w": 15,
           "h": 15
         },
@@ -26024,8 +26051,8 @@
       },
       "indicator_on.png": {
         "frame": {
-          "x": 575,
-          "y": 895,
+          "x": 896,
+          "y": 893,
           "w": 16,
           "h": 16
         },
@@ -26034,7 +26061,7 @@
       "invalid_block_base.png": {
         "frame": {
           "x": 191,
-          "y": 626,
+          "y": 113,
           "w": 466,
           "h": 102
         },
@@ -26042,8 +26069,8 @@
       },
       "item_use_count_base.png": {
         "frame": {
-          "x": 782,
-          "y": 457,
+          "x": 661,
+          "y": 113,
           "w": 126,
           "h": 49
         },
@@ -26051,8 +26078,8 @@
       },
       "label_shortage_base.png": {
         "frame": {
-          "x": 163,
-          "y": 869,
+          "x": 661,
+          "y": 166,
           "w": 110,
           "h": 28
         },
@@ -26061,7 +26088,7 @@
       "list_base_texture.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 645,
           "w": 912,
           "h": 33
         },
@@ -26069,8 +26096,8 @@
       },
       "loading_indicator.png": {
         "frame": {
-          "x": 652,
-          "y": 456,
+          "x": 633,
+          "y": 778,
           "w": 126,
           "h": 130
         },
@@ -26078,8 +26105,8 @@
       },
       "loading_indicator_amcgmark.png": {
         "frame": {
-          "x": 836,
-          "y": 91,
+          "x": 191,
+          "y": 420,
           "w": 72,
           "h": 66
         },
@@ -26087,8 +26114,8 @@
       },
       "loading_indicator_base.png": {
         "frame": {
-          "x": 652,
-          "y": 86,
+          "x": 644,
+          "y": 219,
           "w": 180,
           "h": 180
         },
@@ -26097,7 +26124,7 @@
       "loadingbar.png": {
         "frame": {
           "x": 1,
-          "y": 64,
+          "y": 756,
           "w": 804,
           "h": 18
         },
@@ -26106,7 +26133,7 @@
       "loadingbar_base.png": {
         "frame": {
           "x": 1,
-          "y": 38,
+          "y": 682,
           "w": 808,
           "h": 22
         },
@@ -26114,8 +26141,8 @@
       },
       "next_arrow.png": {
         "frame": {
-          "x": 605,
-          "y": 894,
+          "x": 730,
+          "y": 198,
           "w": 16,
           "h": 16
         },
@@ -26123,8 +26150,8 @@
       },
       "page_active_base.png": {
         "frame": {
-          "x": 652,
-          "y": 270,
+          "x": 566,
+          "y": 403,
           "w": 148,
           "h": 70
         },
@@ -26132,8 +26159,8 @@
       },
       "page_first_button.png": {
         "frame": {
-          "x": 191,
-          "y": 516,
+          "x": 813,
+          "y": 682,
           "w": 78,
           "h": 70
         },
@@ -26141,8 +26168,8 @@
       },
       "page_next_button.png": {
         "frame": {
-          "x": 273,
-          "y": 516,
+          "x": 791,
+          "y": 126,
           "w": 78,
           "h": 70
         },
@@ -26150,8 +26177,8 @@
       },
       "page_prev_button.png": {
         "frame": {
-          "x": 633,
-          "y": 732,
+          "x": 828,
+          "y": 200,
           "w": 78,
           "h": 70
         },
@@ -26159,8 +26186,8 @@
       },
       "page_skip_button.png": {
         "frame": {
-          "x": 685,
-          "y": 806,
+          "x": 828,
+          "y": 274,
           "w": 78,
           "h": 70
         },
@@ -26169,7 +26196,7 @@
       "reward_base.png": {
         "frame": {
           "x": 1,
-          "y": 735,
+          "y": 778,
           "w": 628,
           "h": 130
         },
@@ -26177,8 +26204,8 @@
       },
       "select_check_box_off.png": {
         "frame": {
-          "x": 191,
-          "y": 456,
+          "x": 267,
+          "y": 420,
           "w": 48,
           "h": 48
         },
@@ -26186,8 +26213,8 @@
       },
       "select_check_box_on.png": {
         "frame": {
-          "x": 633,
-          "y": 806,
+          "x": 319,
+          "y": 420,
           "w": 48,
           "h": 48
         },
@@ -26195,8 +26222,8 @@
       },
       "setting_badge.png": {
         "frame": {
-          "x": 836,
-          "y": 235,
+          "x": 828,
+          "y": 373,
           "w": 70,
           "h": 20
         },
@@ -26204,8 +26231,8 @@
       },
       "skill_panel_lock.png": {
         "frame": {
-          "x": 661,
-          "y": 590,
+          "x": 809,
+          "y": 756,
           "w": 101,
           "h": 112
         },
@@ -26213,8 +26240,8 @@
       },
       "skill_panel_lock_gold.png": {
         "frame": {
-          "x": 804,
-          "y": 332,
+          "x": 803,
+          "y": 1,
           "w": 107,
           "h": 121
         },
@@ -26222,8 +26249,8 @@
       },
       "speaker.png": {
         "frame": {
-          "x": 535,
-          "y": 896,
+          "x": 896,
+          "y": 872,
           "w": 14,
           "h": 17
         },
@@ -26231,8 +26258,8 @@
       },
       "speaker_volume_1.png": {
         "frame": {
-          "x": 277,
-          "y": 900,
+          "x": 775,
+          "y": 166,
           "w": 5,
           "h": 13
         },
@@ -26240,8 +26267,8 @@
       },
       "speaker_volume_2.png": {
         "frame": {
-          "x": 595,
-          "y": 894,
+          "x": 906,
+          "y": 682,
           "w": 6,
           "h": 19
         },
@@ -26249,8 +26276,8 @@
       },
       "speaker_volume_3.png": {
         "frame": {
-          "x": 901,
-          "y": 62,
+          "x": 895,
+          "y": 682,
           "w": 7,
           "h": 25
         },
@@ -26258,8 +26285,8 @@
       },
       "status_up_arrow_s.png": {
         "frame": {
-          "x": 894,
-          "y": 259,
+          "x": 895,
+          "y": 711,
           "w": 18,
           "h": 20
         },
@@ -26267,8 +26294,8 @@
       },
       "stretch_black_outline.png": {
         "frame": {
-          "x": 535,
-          "y": 869,
+          "x": 225,
+          "y": 490,
           "w": 23,
           "h": 23
         },
@@ -26276,8 +26303,8 @@
       },
       "stretch_text_input_base.png": {
         "frame": {
-          "x": 447,
-          "y": 898,
+          "x": 709,
+          "y": 198,
           "w": 17,
           "h": 15
         },
@@ -26285,8 +26312,8 @@
       },
       "stretch_white_round_10.png": {
         "frame": {
-          "x": 562,
-          "y": 869,
+          "x": 296,
+          "y": 472,
           "w": 22,
           "h": 22
         },
@@ -26295,7 +26322,7 @@
       "tab_base.png": {
         "frame": {
           "x": 1,
-          "y": 91,
+          "y": 1,
           "w": 186,
           "h": 640
         },
@@ -26303,17 +26330,26 @@
       },
       "text_box_base.png": {
         "frame": {
-          "x": 510,
-          "y": 869,
+          "x": 892,
+          "y": 471,
           "w": 21,
           "h": 24
         },
         "rotated": false
       },
+      "trade_arrow.png": {
+        "frame": {
+          "x": 763,
+          "y": 778,
+          "w": 41,
+          "h": 43
+        },
+        "rotated": false
+      },
       "Twitter_Social_Icon_Rounded_Square_Color.png": {
         "frame": {
-          "x": 836,
-          "y": 161,
+          "x": 834,
+          "y": 397,
           "w": 70,
           "h": 70
         },
@@ -26322,7 +26358,7 @@
       "use_exchange_item_inner.png": {
         "frame": {
           "x": 191,
-          "y": 86,
+          "y": 219,
           "w": 449,
           "h": 75
         },
@@ -26330,8 +26366,8 @@
       },
       "white_opaque_base_texture.png": {
         "frame": {
-          "x": 804,
-          "y": 270,
+          "x": 296,
+          "y": 498,
           "w": 22,
           "h": 21
         },
@@ -26339,8 +26375,8 @@
       },
       "white_rect.png": {
         "frame": {
-          "x": 911,
-          "y": 38,
+          "x": 763,
+          "y": 865,
           "w": 1,
           "h": 1
         },
@@ -38878,8 +38914,8 @@
   "images/ui/shop/parts_shop_content": {
     "name": "images/ui/shop/parts_shop_content",
     "ext": ".png",
-    "url": "/assets/a926c1f195fcb7929c3af5377eaf14b86824e935363541df6cd2eb76942e97dc?v=8",
-    "v": 8,
+    "url": "/assets/a926c1f195fcb7929c3af5377eaf14b86824e935363541df6cd2eb76942e97dc?v=9",
+    "v": 9,
     "frames": {
       "attention_comment_base.png": {
         "frame": {
@@ -38955,7 +38991,7 @@
       },
       "event_category_box_gasha_event.png": {
         "frame": {
-          "x": 46,
+          "x": 1,
           "y": 618,
           "w": 82,
           "h": 26
@@ -39112,15 +39148,6 @@
           "y": 483,
           "w": 148,
           "h": 70
-        },
-        "rotated": false
-      },
-      "trade_arrow.png": {
-        "frame": {
-          "x": 1,
-          "y": 618,
-          "w": 41,
-          "h": 43
         },
         "rotated": false
       },
@@ -39850,5 +39877,82 @@
     "url": "/assets/c5a2f0dc29883ec54c5d752808df12e34e517019b18d6dff357f4b36fe8fd40d?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/44/001": {
+    "name": "images/tips/game_event/44/001",
+    "ext": ".jpg",
+    "url": "/assets/27e7d6c42cbacdad9def7256599695f1e8ae0f7886cbb80153067638c1253578?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/44/002": {
+    "name": "images/tips/game_event/44/002",
+    "ext": ".jpg",
+    "url": "/assets/2e30385e31995a0d62256b235e1a2a61b7c36a94413df3cccf31362901b2d5a9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/44/003": {
+    "name": "images/tips/game_event/44/003",
+    "ext": ".jpg",
+    "url": "/assets/ec98231bebad4f3ab3d28e3abaa2ac4ccfb49d8c89ec3356839d2c548b5bcc50?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50011/002": {
+    "name": "images/tips/game_event/50011/002",
+    "ext": ".jpg",
+    "url": "/assets/80aeb5462e19d35e4f192eb89df70cbabafa5200785886958ea149aa1956815a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50011/003": {
+    "name": "images/tips/game_event/50011/003",
+    "ext": ".jpg",
+    "url": "/assets/680a8fd9a193abdef2f9730148c52b3a2c4b73bc050cb9f726fe3a526d4246d9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50011/001": {
+    "name": "images/tips/game_event/50011/001",
+    "ext": ".jpg",
+    "url": "/assets/c17663b900c16d63d28f83424328925a1ddc7059003af86b130e17cf4771f09a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/ex_skill/parts_upgrade": {
+    "name": "images/ui/ex_skill/parts_upgrade",
+    "ext": ".png",
+    "url": "/assets/373554ea68b4d9ece16b0cf045a7757f4d01ede8bd38333c1b2f412ba254c705?v=1",
+    "v": 1,
+    "frames": {
+      "after_skill_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 364,
+          "h": 288
+        },
+        "rotated": false
+      },
+      "before_skill_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 293,
+          "w": 364,
+          "h": 288
+        },
+        "rotated": false
+      },
+      "upgrade_button.png": {
+        "frame": {
+          "x": 369,
+          "y": 1,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      }
+    }
   }
 }
