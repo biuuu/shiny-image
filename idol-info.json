@@ -1761,6 +1761,20 @@
     "id": "1040100040"
   },
   {
+    "hash": "7cbbaeeb6cb5b61febc26555a52df818",
+    "name": "【プリティ・スイート】園田 智代子",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "お菓子が……！\n私を呼んでいるっ……！",
+    "card": "https://shinycolors.enza.fun/assets/c7b14084f649458a2d4bce15ec035b59206b88b698ffa1c246c6bdde13ddfd71?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/9283ddaec780ca9826462d2a845c50d745ddac4569510ccaa7212550bd41ec58?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/ff1ce3f25964ff9aaea199672a5ae9daecf545677fce2391774df75177b07450?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/db5800ef83cc49089c6bdb0b3babace3e0872781860e6e9812bba326390d2e5e.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/b7ab05a1a6a3057898ad35588bbc9d6b03bcef20ebe4e53d41ce58a37e895183.mp4?v=1",
+    "id": "1040100050"
+  },
+  {
     "hash": "d94517472f7f861802525cb40b4b6f53",
     "name": "【ラムネ色の覚悟】西城 樹里",
     "type": "p",
@@ -4147,6 +4161,14 @@
     "id": "2040120040"
   },
   {
+    "hash": "d5fb53ced81c3434658a703d06b34b46",
+    "name": "【日を食んで、夜を啜って】杜野 凛世",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/f4d26c89072bc040b2e60425408b30632390c3b4d52a98918af16f5141d3d5c7?v=1",
+    "id": "2040120050"
+  },
+  {
     "hash": "fd28eafd4313a340ea7ce249f0a8208e",
     "name": "【熱血指導！】有栖川 夏葉",
     "type": "s",
@@ -4401,6 +4423,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/108af30359da04e02985119902243459847ba6de24f3ded41ba23bd243d1d0ee?v=1",
     "id": "2040200010"
+  },
+  {
+    "hash": "c13212de0b73698d83e06e5818aebbde",
+    "name": "【pooool】浅倉 透",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/8ae2b9dc7c0ea324fa89f100503bf69f5914386cfb0e46c4f2234f3c8890dba4?v=1",
+    "id": "2040200020"
   },
   {
     "hash": "4762093afa0b3b78c1ec40ae22ba6043",
