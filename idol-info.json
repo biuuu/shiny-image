@@ -2251,6 +2251,20 @@
     "id": "1040180020"
   },
   {
+    "hash": "c29a7aa9c7ce476b29d703885c88b82f",
+    "name": "【starring F】黛 冬優子",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "～～～～っ、最っ悪……！",
+    "card": "https://shinycolors.enza.fun/assets/2b114792d6f12d7ee5e559029a1a8b59e5caf4f742539273681de35266b5ade1?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/691c1701877f247c3c6197df9b3673b75f0a494b769fcb8600b47c242ba2f5e6?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/7fad3ec88025d535251854045f8a2e9ad6e72be06a6e536e78ce009aa55ed547?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/99c4570b3bd18fd43550bb3c6d5e3de64736645528a69b1aa317e4f25b79d345.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/bbb70c40ea47ae511ac1225a635f1fa7fa6b73e70eeb77fc1a75678035905f47.mp4?v=1",
+    "id": "1040180030"
+  },
+  {
     "hash": "a797a6fa4d9319e4019322883481ca1c",
     "name": "【ちょっとあげる～】和泉 愛依",
     "type": "p",
@@ -3577,6 +3591,14 @@
     "id": "2030160020"
   },
   {
+    "hash": "875d5b68a03ae96895eac84541030ece",
+    "name": "【RELAXIN】桑山 千雪",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/f2451b4a69a8112d1043e3661e18c9a10c31dec3462d260582a2161c392e4246?v=1",
+    "id": "2030160030"
+  },
+  {
     "hash": "7c08eaf1dbb2b186d32833fdf01f2c0c",
     "name": "【腹が減っては遊びはできぬ】芹沢 あさひ",
     "type": "s",
@@ -4415,6 +4437,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/13db36957d1158e9cf7cf58a0867ff7e04b696a22afc261b19d922027bbc293e?v=2",
     "id": "2040190020"
+  },
+  {
+    "hash": "a4e6cc30f53a659d86b195d74a46be34",
+    "name": "【エンジョイ！パーティ】和泉 愛依",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/161baefb535fd6de24b9299440964f065516e58c59fe82674f6106b45aac1670?v=1",
+    "id": "2040190030"
   },
   {
     "hash": "99cb764c84a3b3807616e22db0b393a6",
