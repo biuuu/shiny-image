@@ -2377,6 +2377,20 @@
     "id": "1040220010"
   },
   {
+    "hash": "b674a7f211f61a78912ede1f51102ccd",
+    "name": "【おみくじ結びますか】福丸 小糸",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "鈴を鳴らして……\n二礼二拍手一礼、ですよ……！",
+    "card": "https://shinycolors.enza.fun/assets/14a227d5773a31e33675718967ae5e66e32102a37ff4c53c42ca55cb043df434?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/10d25a0e51fe466267fd975ce0bdb96ee5d9352a3135470d5dff69fc8550239f?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/53bc87224d2f14fa411ee249aa5fc9f7af1777152f3feaa1b45d7cd3879188f1?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/489719077351129742d86fb4c16b36057539ccece75bb72da9464322ae9045a0.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/0abd0fefd7396ae3f0cdcd2a52d6a6cbf95445a6639acf9f074590c56dc77a93.mp4?v=1",
+    "id": "1040220020"
+  },
+  {
     "hash": "30b4a15a104f745429162bc75fec4f3e",
     "name": "【HAPPY-!NG】市川 雛菜",
     "type": "p",
@@ -4191,6 +4205,14 @@
     "id": "2040120050"
   },
   {
+    "hash": "cd0a9efdc8cdf5fe78ce5dff92c37b5c",
+    "name": "【祝唄-hogiuta-】杜野 凛世",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/01f76d6e539d5188565f368232534670b96cbb4cec6c63802269a4d43b3fced0?v=1",
+    "id": "2040120060"
+  },
+  {
     "hash": "fd28eafd4313a340ea7ce249f0a8208e",
     "name": "【熱血指導！】有栖川 夏葉",
     "type": "s",
@@ -4461,6 +4483,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/8ae2b9dc7c0ea324fa89f100503bf69f5914386cfb0e46c4f2234f3c8890dba4?v=1",
     "id": "2040200020"
+  },
+  {
+    "hash": "4fdafd4cc90ffe94be93aae372458f21",
+    "name": "【がんばれ！ ノロマ号】浅倉 透",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/33119fdde54980dcd037689f1fbffa0091e4d22adc14557c54dbf602fa6102c8?v=1",
+    "id": "2040200030"
   },
   {
     "hash": "4762093afa0b3b78c1ec40ae22ba6043",
