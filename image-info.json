@@ -1500,29 +1500,29 @@
   "images/tips/workActivity/001": {
     "name": "images/tips/workActivity/001",
     "ext": ".jpg",
-    "url": "/assets/493ccd7e61bc2f3195824392ce34d3545faadd86d469e3f7332f0c13b2d62cf4?v=3",
-    "v": 3,
+    "url": "/assets/493ccd7e61bc2f3195824392ce34d3545faadd86d469e3f7332f0c13b2d62cf4?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/workActivity/002": {
     "name": "images/tips/workActivity/002",
     "ext": ".jpg",
-    "url": "/assets/8364f263eaa8b06b7c1fb6c8be83278ff8e51a064705450041cb7d864f343f83?v=3",
-    "v": 3,
+    "url": "/assets/8364f263eaa8b06b7c1fb6c8be83278ff8e51a064705450041cb7d864f343f83?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/workActivity/003": {
     "name": "images/tips/workActivity/003",
     "ext": ".jpg",
-    "url": "/assets/25f66b3c6e0d426e1b994753a9667037c84ae35ae30d055783d7b1e9d68385fe?v=5",
-    "v": 5,
+    "url": "/assets/25f66b3c6e0d426e1b994753a9667037c84ae35ae30d055783d7b1e9d68385fe?v=6",
+    "v": 6,
     "frames": null
   },
   "images/tips/workActivity/004": {
     "name": "images/tips/workActivity/004",
     "ext": ".jpg",
-    "url": "/assets/9c5fbe607a8e97e0ede2cb7d708ee6cccfe7c60b3c8e9fd57e8e0c408b53f333?v=3",
-    "v": 3,
+    "url": "/assets/9c5fbe607a8e97e0ede2cb7d708ee6cccfe7c60b3c8e9fd57e8e0c408b53f333?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/game_event/11/001": {
@@ -9382,8 +9382,8 @@
   "images/ui/work_activity_result/parts": {
     "name": "images/ui/work_activity_result/parts",
     "ext": ".png",
-    "url": "/assets/0cf76b02e241faac4da695f3311ecb1ee9753bc398cf2d3bc3fda5d108904e85?v=4",
-    "v": 4,
+    "url": "/assets/0cf76b02e241faac4da695f3311ecb1ee9753bc398cf2d3bc3fda5d108904e85?v=5",
+    "v": 5,
     "frames": {
       "business_present_base.png": {
         "frame": {
@@ -9414,7 +9414,7 @@
       },
       "idol_total_fan_base.png": {
         "frame": {
-          "x": 1249,
+          "x": 1303,
           "y": 119,
           "w": 25,
           "h": 62
@@ -9544,6 +9544,15 @@
           "y": 791,
           "w": 550,
           "h": 74
+        },
+        "rotated": false
+      },
+      "unit_point_level_max.png": {
+        "frame": {
+          "x": 1249,
+          "y": 119,
+          "w": 50,
+          "h": 25
         },
         "rotated": false
       }
@@ -21626,13 +21635,13 @@
   "images/ui/work_activity_top/parts": {
     "name": "images/ui/work_activity_top/parts",
     "ext": ".png",
-    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=8",
-    "v": 8,
+    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=9",
+    "v": 9,
     "frames": {
       "all_business_button.png": {
         "frame": {
-          "x": 839,
-          "y": 1175,
+          "x": 519,
+          "y": 1250,
           "w": 148,
           "h": 70
         },
@@ -21640,8 +21649,8 @@
       },
       "all_finish_button.png": {
         "frame": {
-          "x": 519,
-          "y": 1249,
+          "x": 671,
+          "y": 1250,
           "w": 148,
           "h": 70
         },
@@ -21649,8 +21658,8 @@
       },
       "base_tea_time.png": {
         "frame": {
-          "x": 1099,
-          "y": 729,
+          "x": 839,
+          "y": 1217,
           "w": 150,
           "h": 24
         },
@@ -21667,8 +21676,8 @@
       },
       "business_finish_button.png": {
         "frame": {
-          "x": 671,
-          "y": 1249,
+          "x": 823,
+          "y": 1250,
           "w": 148,
           "h": 70
         },
@@ -21721,8 +21730,8 @@
       },
       "business_select_button.png": {
         "frame": {
-          "x": 823,
-          "y": 1249,
+          "x": 975,
+          "y": 1250,
           "w": 148,
           "h": 70
         },
@@ -21749,7 +21758,7 @@
       "cooking_button_s.png": {
         "frame": {
           "x": 1099,
-          "y": 603,
+          "y": 529,
           "w": 148,
           "h": 38
         },
@@ -21757,8 +21766,8 @@
       },
       "create_button.png": {
         "frame": {
-          "x": 1099,
-          "y": 455,
+          "x": 1127,
+          "y": 1250,
           "w": 148,
           "h": 70
         },
@@ -21811,8 +21820,8 @@
       },
       "level_active_fan.png": {
         "frame": {
-          "x": 991,
-          "y": 1175,
+          "x": 1279,
+          "y": 1250,
           "w": 26,
           "h": 30
         },
@@ -21899,10 +21908,19 @@
         },
         "rotated": false
       },
+      "talk_commu_button.png": {
+        "frame": {
+          "x": 839,
+          "y": 1175,
+          "w": 180,
+          "h": 38
+        },
+        "rotated": false
+      },
       "teatime_finish_button.png": {
         "frame": {
           "x": 1099,
-          "y": 645,
+          "y": 571,
           "w": 148,
           "h": 38
         },
@@ -21920,7 +21938,7 @@
       "unit_check_button.png": {
         "frame": {
           "x": 1099,
-          "y": 687,
+          "y": 613,
           "w": 148,
           "h": 38
         },
@@ -21938,7 +21956,7 @@
       "user_business_unlock_button.png": {
         "frame": {
           "x": 1099,
-          "y": 529,
+          "y": 455,
           "w": 148,
           "h": 70
         },
@@ -40003,5 +40021,147 @@
     "url": "/assets/31f173c370e9f287bd2ecc94728977d6f00ae913e1e58367ef6a964993e2f375?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/60015/001": {
+    "name": "images/tips/game_event/60015/001",
+    "ext": ".jpg",
+    "url": "/assets/dd9abea78a6016f9f6b3b64eb5d006e0df0df264312aa5fed286d76396eaf43b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60015/002": {
+    "name": "images/tips/game_event/60015/002",
+    "ext": ".jpg",
+    "url": "/assets/f6f4c2ad0670dbb935cbef5807999155de21535e9acc1f1337c1378bdb4208ea?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60015/003": {
+    "name": "images/tips/game_event/60015/003",
+    "ext": ".jpg",
+    "url": "/assets/ffe821afd0bd46def701373d2eb8248bdd41741d08bf59fcae42ec7328834b86?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/workActivity/005": {
+    "name": "images/tips/workActivity/005",
+    "ext": ".jpg",
+    "url": "/assets/d2e233d8d5cedfebb503787ce6a5bdfca58a25c0b9747439d717890bb5bae1ef?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/workActivity/006": {
+    "name": "images/tips/workActivity/006",
+    "ext": ".jpg",
+    "url": "/assets/0b53b13d776d4ba95e2d31d402e46089510aff60f9993ac6e1ad258f584df571?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/work_activity_talk_and_commu/parts": {
+    "name": "images/ui/work_activity_talk_and_commu/parts",
+    "ext": ".png",
+    "url": "/assets/ca3b111e28d4098dd0575baa715dcded835f03996287c942c60dcf0dc203ecb1?v=1",
+    "v": 1,
+    "frames": {
+      "base_talk_count.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 244,
+          "h": 40
+        },
+        "rotated": false
+      },
+      "business_unit_commu_button.png": {
+        "frame": {
+          "x": 153,
+          "y": 135,
+          "w": 186,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "commu_button_off.png": {
+        "frame": {
+          "x": 153,
+          "y": 177,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "commu_button_on.png": {
+        "frame": {
+          "x": 1,
+          "y": 209,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "commu_liberation_count.png": {
+        "frame": {
+          "x": 1,
+          "y": 337,
+          "w": 147,
+          "h": 24
+        },
+        "rotated": false
+      },
+      "comp_reward_button.png": {
+        "frame": {
+          "x": 153,
+          "y": 305,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "level_reward_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 135,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "talk_button_off.png": {
+        "frame": {
+          "x": 1,
+          "y": 273,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "talk_button_on.png": {
+        "frame": {
+          "x": 153,
+          "y": 241,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "talk_unit_logo_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 45,
+          "w": 212,
+          "h": 86
+        },
+        "rotated": false
+      },
+      "unit_reward_base.png": {
+        "frame": {
+          "x": 249,
+          "y": 1,
+          "w": 98,
+          "h": 26
+        },
+        "rotated": false
+      }
+    }
   }
 }
