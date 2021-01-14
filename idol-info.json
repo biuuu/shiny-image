@@ -1705,6 +1705,20 @@
     "id": "1040090040"
   },
   {
+    "hash": "007ba0545524a9d8dace3bfb693b7a98",
+    "name": "【日刊ウィズ・ユー！】小宮 果穂",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "ごこーじょーを……えっと……\n今年もよろしくお願いしますっ！",
+    "card": "https://shinycolors.enza.fun/assets/74223cf591d122a67f855b1358fabe7032e92849af2914446a8915f5a21b2a2e?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/4ccc95b8a02fd6a09a86c97f02c7606da6aa797c0f91d6b37947a8ed44eb06e2?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/3afe4ccbc04cbac9e240b02b746ab92d7627776998d5374026d4c199ebeeace6?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/ffc41bc31d6ce51bab8be14197ad2b273e6d062fda329cfc73c570a9364e9297.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/eee098a1208022ef6ad41f5131e4d5585f003ba2d06b845abe59a2c01f1f6182.mp4?v=1",
+    "id": "1040090050"
+  },
+  {
     "hash": "94175920091bef4343c55f2b6350b446",
     "name": "【ちょこ色×きらきらロマン】園田 智代子",
     "type": "p",
@@ -3325,6 +3339,14 @@
     "id": "2030050020"
   },
   {
+    "hash": "d8d0466fe44d3c96a990565c8bafbe87",
+    "name": "【イン・ザ・ピンク】田中 摩美々",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/87f403a91ed71f95ad791a1f7ccb74af6a4e91c167103981d4c8e8bfa7064b36?v=1",
+    "id": "2030050030"
+  },
+  {
     "hash": "295f4f16cc7b9cc2174e1a278823a255",
     "name": "【雲間のモーメント】白瀬 咲耶",
     "type": "s",
@@ -3747,6 +3769,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/c02af083f39bce05d12a5b3aba64d3edaa2247d67dea4f3a31dbbe7102896535?v=1",
     "id": "2040010080"
+  },
+  {
+    "hash": "510a1670850b96349195009261be2d27",
+    "name": "【泡沫の石たちに乾杯】櫻木 真乃",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/a418f20fb5b5735d23d6c13d272d83bd671efbc6b0fdd6143b8f5d7e356275e3?v=1",
+    "id": "2040010090"
   },
   {
     "hash": "ba5e0c844214f1ee75a84476101223b4",
