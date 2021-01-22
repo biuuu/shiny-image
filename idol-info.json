@@ -853,6 +853,18 @@
     "id": "1030130030"
   },
   {
+    "hash": "a9004aa7d9f2489a45b54ac03e0fd0cc",
+    "name": "【風がかけていくように】有栖川 夏葉",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/7a20ff5545e225c8c756d0569f64b402544779240d36beacef84642dc2be8ad5?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/22ee22eeb8f5a0b48afe8118e92860f4c7c4f2667134f51d94d6754fd0e8fd5b?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/d029030b5287ecf6f7dea4c6f653a5d55343a70b316a382c5095292e507478d5?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/9cf74704c1840fdeae5c49083d29245ad11d08538394ba55d843c0137e7a7fef.mp4?v=1",
+    "id": "1030130040"
+  },
+  {
     "hash": "591f545747a716b6edb2024cc4715c85",
     "name": "【似合うかな？】大崎 甘奈",
     "type": "p",
@@ -1241,6 +1253,20 @@
     "movie": "https://shinycolors.enza.fun/assets/c233998d546fbe017be3a77d25de9e36d03a4386833e029b8da1fd37ae655c5a.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/847f12b8ea0aec5099030a7e5a85e7484859ea5956e91b5df80c90b2cb105d33.mp4?v=2",
     "id": "1040020040"
+  },
+  {
+    "hash": "ba89662a317c249b5ec169418ebcc1cb",
+    "name": "【黒百合前で待ち合わせ】風野 灯織",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──みーつけた",
+    "card": "https://shinycolors.enza.fun/assets/9278d5ca9441439a440335c21de01a60b88f08a5a07351e74383bfd958736edb?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/efa2e210e1bb51d4f9edbb4cabcbd26ee51ea45c8f435282e5792e6dbb1d824e?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/579c4765062784e513b884d089361c9fd287999eda4702c8898c632d892e765e?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/61a5644ec303c2f8cadf5f6ad420d8ff963337fc53bf6447855be54f60e1d29f.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/07202dc5dca742d2bd09b17d735d388a39610cc3c913153cdacaf991f1956565.mp4?v=1",
+    "id": "1040020050"
   },
   {
     "hash": "da4298320e1d4023f775870a90330ada",
@@ -3505,6 +3531,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/f63f100feb24cf8c5bf64f04a5673a8b623f6f34c38bf30aa7d2743797de897d?v=2",
     "id": "2030110030"
+  },
+  {
+    "hash": "7055fa8396627b58eeb4600d93f10a47",
+    "name": "【晴れ待ちのひと時】西城 樹里",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/afc06488fb0680c27d07c0878623fa6a41345045adf8b1de87b16665890b4897?v=1",
+    "id": "2030110040"
   },
   {
     "hash": "4bc37ed986d032c518bf0d18a18548e2",
