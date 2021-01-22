@@ -18944,13 +18944,13 @@
   "images/ui/notice/parts": {
     "name": "images/ui/notice/parts",
     "ext": ".png",
-    "url": "/assets/fb1b59e5b237ea115975e6d17adfdebe8d739658292839bdf722201924bfeb48?v=11",
-    "v": 11,
+    "url": "/assets/fb1b59e5b237ea115975e6d17adfdebe8d739658292839bdf722201924bfeb48?v=12",
+    "v": 12,
     "frames": {
       "announce_type_base.png": {
         "frame": {
-          "x": 457,
-          "y": 315,
+          "x": 609,
+          "y": 375,
           "w": 108,
           "h": 26
         },
@@ -18992,7 +18992,7 @@
         },
         "rotated": false
       },
-      "btn_problem_off.png": {
+      "btn_personal_off.png": {
         "frame": {
           "x": 1,
           "y": 543,
@@ -19001,7 +19001,7 @@
         },
         "rotated": false
       },
-      "btn_problem_on.png": {
+      "btn_personal_on.png": {
         "frame": {
           "x": 1,
           "y": 617,
@@ -19010,7 +19010,7 @@
         },
         "rotated": false
       },
-      "btn_topics_off.png": {
+      "btn_problem_off.png": {
         "frame": {
           "x": 1,
           "y": 691,
@@ -19019,7 +19019,7 @@
         },
         "rotated": false
       },
-      "btn_topics_on.png": {
+      "btn_problem_on.png": {
         "frame": {
           "x": 1,
           "y": 765,
@@ -19028,7 +19028,7 @@
         },
         "rotated": false
       },
-      "btn_update_off.png": {
+      "btn_topics_off.png": {
         "frame": {
           "x": 681,
           "y": 247,
@@ -19037,7 +19037,7 @@
         },
         "rotated": false
       },
-      "btn_update_on.png": {
+      "btn_topics_on.png": {
         "frame": {
           "x": 153,
           "y": 315,
@@ -19046,10 +19046,28 @@
         },
         "rotated": false
       },
-      "inquiry_button.png": {
+      "btn_update_off.png": {
         "frame": {
           "x": 305,
           "y": 315,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "btn_update_on.png": {
+        "frame": {
+          "x": 457,
+          "y": 315,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "inquiry_button.png": {
+        "frame": {
+          "x": 677,
+          "y": 321,
           "w": 148,
           "h": 50
         },
@@ -19138,7 +19156,7 @@
       },
       "notice_label_new.png": {
         "frame": {
-          "x": 569,
+          "x": 609,
           "y": 315,
           "w": 64,
           "h": 24
@@ -19147,8 +19165,8 @@
       },
       "notice_label_update.png": {
         "frame": {
-          "x": 637,
-          "y": 321,
+          "x": 609,
+          "y": 343,
           "w": 64,
           "h": 24
         },
@@ -40163,5 +40181,54 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/20024/001": {
+    "name": "images/tips/game_event/20024/001",
+    "ext": ".jpg",
+    "url": "/assets/1d3b606bba669da1e4cced5e6e71ff5e405466913518edfdd16acd9e7d07c397?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20024/002": {
+    "name": "images/tips/game_event/20024/002",
+    "ext": ".jpg",
+    "url": "/assets/a0200fa2d6256436ef843dc16bf04560010baa998674796b2075647cd0e59a64?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20024/003": {
+    "name": "images/tips/game_event/20024/003",
+    "ext": ".jpg",
+    "url": "/assets/8eaca94aee9ff9412cc3cac6dec6ce50f829ad024fa5fa134538edf814f51942?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20024/005": {
+    "name": "images/tips/game_event/20024/005",
+    "ext": ".jpg",
+    "url": "/assets/77adb38b5f300f77e91698564dc1c158efc3297eba877f4682ff0e250ef4f3e8?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/47/001": {
+    "name": "images/tips/game_event/47/001",
+    "ext": ".jpg",
+    "url": "/assets/1b022bbbafdf302f30f1bfc0e687c7be2857321d06d33d16678a439ac67270d3?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/47/002": {
+    "name": "images/tips/game_event/47/002",
+    "ext": ".jpg",
+    "url": "/assets/fdc4ad9fd6a2cc259e8f4ae27c04f288437b8ac79312d96f5debba61efe0d5d7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/47/003": {
+    "name": "images/tips/game_event/47/003",
+    "ext": ".jpg",
+    "url": "/assets/a6c388c210668cb23d31fd5324419d9adcadf9a431d728cd8a3688013d76035e?v=1",
+    "v": 1,
+    "frames": null
   }
 }
