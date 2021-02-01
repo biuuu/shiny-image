@@ -2263,6 +2263,20 @@
     "id": "1040170030"
   },
   {
+    "hash": "95e66f8444125fcfe08a344ddb5f4c52",
+    "name": "【Housekeeping!】芹沢 あさひ",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "タクトから目を離さないで──\n歌って、わたしと……！",
+    "card": "https://shinycolors.enza.fun/assets/6a8b67d4e90aa861a7f371b6bd95858264fb0cdaef3139f0f2a3e17037da000e?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/33da8aff27a3de5b8d389646057e4da3ec39ccc522341b76113a07ff8bd83db4?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/1a1967b5d294248d77f2a75f8d42f9850a2539dba770e8994591affbcfa26732?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/e80a3a06cbcbb604464a8ce5ee39c0fc616e5a1b6286bd4826aade6f3d3ad02d.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/4ad6e6723f4aa5a85ccffd210bacf7c9443715b455407a36e93c145c97f0dc8b.mp4?v=1",
+    "id": "1040170040"
+  },
+  {
     "hash": "fef3e4ec9ee3fcf88391873022110223",
     "name": "【オ♡フ♡レ♡コ】黛 冬優子",
     "type": "p",
@@ -4357,6 +4371,14 @@
     "id": "2040140050"
   },
   {
+    "hash": "5f63b716dc77a91bcc41161651776234",
+    "name": "【スペンサー家の日常】大崎 甘奈",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/37c7d15335ebdf9da016a019d68aac3b002235b9debbfec0e88b740a9b26a9b2?v=1",
+    "id": "2040140060"
+  },
+  {
     "hash": "5383c87f7cf2f1e4f28d107e23005a52",
     "name": "【彩りファッションドール】大崎 甜花",
     "type": "s",
@@ -4531,6 +4553,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/161baefb535fd6de24b9299440964f065516e58c59fe82674f6106b45aac1670?v=1",
     "id": "2040190030"
+  },
+  {
+    "hash": "40bce09ff0f930db8b3d743c178db11b",
+    "name": "【いるっしょ！】和泉 愛依",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/a690a5a65e94e40a9d74ec4bccc1e657a82813e8a2c49779e9d794ee3c7e4ace?v=1",
+    "id": "2040190040"
   },
   {
     "hash": "99cb764c84a3b3807616e22db0b393a6",
