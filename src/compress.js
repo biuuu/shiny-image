@@ -2,6 +2,22 @@ const imagemin = require('imagemin')
 const imageminPngquant = require('imagemin-pngquant')
 const glob = require('glob')
 
+const filterImages = [
+	'common_parts_filter',
+	'produce_common_parts_header'
+]
+
+const needFilter = (name) => {
+	let result = false
+	for (let keyword of filterImages) {
+		if (name.includes(keyword)) {
+			result = true
+			break
+		}
+	}
+	return result
+}
+
 const start = async () => {
 	console.log('compressing...')
 	try {
@@ -9,7 +25,7 @@ const start = async () => {
 		const list = []
 		const uncomp = []
 		files.forEach(file => {
-			if (!file.includes('produce_common_parts_header')) {
+			if (!needFilter(file)) {
 				list.push(file)
 			} else {
 				uncomp.push(file)
