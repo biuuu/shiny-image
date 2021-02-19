@@ -40265,5 +40265,61 @@
     "url": "/assets/9f94bb69c65e768c25926a734bd48f3fb30cda1de6a4d0ff16c23a03f44f76bb?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/30011/001": {
+    "name": "images/tips/game_event/30011/001",
+    "ext": ".jpg",
+    "url": "/assets/d43dd0c8c5d641545705fc7b965bb4778109b494dc6f3dbe2b9f17c65f06f03d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30011/002": {
+    "name": "images/tips/game_event/30011/002",
+    "ext": ".jpg",
+    "url": "/assets/01bd1606a5efaca4be4f4fc95d18ac9325e499d8e40edaa745396966ac2eba7d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30011/003": {
+    "name": "images/tips/game_event/30011/003",
+    "ext": ".jpg",
+    "url": "/assets/f1ff278b6fd0bbff135cc1d98fba88bdec20ced453c4fb6b9735d18f7ed751c6?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30011/006": {
+    "name": "images/tips/game_event/30011/006",
+    "ext": ".jpg",
+    "url": "/assets/005541be398759872390b42ffdca30edc5215485b8fdf2c3c6a1014f27bf0660?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30011/009": {
+    "name": "images/tips/game_event/30011/009",
+    "ext": ".jpg",
+    "url": "/assets/c49ae680e46eefb11a2930e232365099e9b3de48e3cde8be7fbc83838a75c1d7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/49/001": {
+    "name": "images/tips/game_event/49/001",
+    "ext": ".jpg",
+    "url": "/assets/36cf74f1ecdb02419732f0f3bed559e053b8f1afb7e88bb8308130e133cfe112?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/49/002": {
+    "name": "images/tips/game_event/49/002",
+    "ext": ".jpg",
+    "url": "/assets/bd0c101e09c6594bafd6875738790e36903f3622ff7a86c295361c1f8c2fec5a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/49/003": {
+    "name": "images/tips/game_event/49/003",
+    "ext": ".jpg",
+    "url": "/assets/5a925b08be167485fa3a415aa8ad86deab149a61631f0bf322cb5435be6ca085?v=1",
+    "v": 1,
+    "frames": null
   }
 }
