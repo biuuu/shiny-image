@@ -34668,22 +34668,22 @@
   "images/ui/common/parts_beginner_and_true_end_teaching_button": {
     "name": "images/ui/common/parts_beginner_and_true_end_teaching_button",
     "ext": ".png",
-    "url": "/assets/2c6fcf35211e117eb6adbf55d33a2b09fca7913ce12bfceb9473578b8c82f257?v=3",
-    "v": 3,
+    "url": "/assets/2c6fcf35211e117eb6adbf55d33a2b09fca7913ce12bfceb9473578b8c82f257?v=4",
+    "v": 4,
     "frames": {
       "beginner_mission_and_true_end_teaching_button_glow.png": {
         "frame": {
           "x": 1,
           "y": 1,
-          "w": 290,
-          "h": 90
+          "w": 278,
+          "h": 79
         },
         "rotated": false
       },
       "true_end_teaching_button.png": {
         "frame": {
           "x": 1,
-          "y": 95,
+          "y": 84,
           "w": 256,
           "h": 58
         },
@@ -34691,8 +34691,8 @@
       },
       "true_end_teaching_playing_icon.png": {
         "frame": {
-          "x": 261,
-          "y": 95,
+          "x": 1,
+          "y": 146,
           "w": 28,
           "h": 30
         },
@@ -40319,6 +40319,27 @@
     "name": "images/tips/game_event/49/003",
     "ext": ".jpg",
     "url": "/assets/5a925b08be167485fa3a415aa8ad86deab149a61631f0bf322cb5435be6ca085?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50/001": {
+    "name": "images/tips/game_event/50/001",
+    "ext": ".jpg",
+    "url": "/assets/33685173eef9b9edac384da9bea8326cdfcf4a60477b0a078583e116628a8a52?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50/002": {
+    "name": "images/tips/game_event/50/002",
+    "ext": ".jpg",
+    "url": "/assets/cf34c6d11a3c9d18b5ab7e3966e207dc2c48231574572c975b67015ad6635732?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50/003": {
+    "name": "images/tips/game_event/50/003",
+    "ext": ".jpg",
+    "url": "/assets/a883ecded56712441d36219fabf72ce6a08d4eac139467bab2d86e2c3d39323d?v=1",
     "v": 1,
     "frames": null
   }
