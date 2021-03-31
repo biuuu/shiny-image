@@ -989,8 +989,8 @@
   "images/tips/produce_item/001": {
     "name": "images/tips/produce_item/001",
     "ext": ".jpg",
-    "url": "/assets/dd08950e0b45d72c66af89906c6c6bacd8b2cf253a514fb396b410dbeea8f9fa?v=9",
-    "v": 9,
+    "url": "/assets/dd08950e0b45d72c66af89906c6c6bacd8b2cf253a514fb396b410dbeea8f9fa?v=10",
+    "v": 10,
     "frames": null
   },
   "images/tips/produce_item/003": {
@@ -3922,22 +3922,22 @@
   "images/tips/true_end_teaching/deck_edit/tips_produce_item_dance": {
     "name": "images/tips/true_end_teaching/deck_edit/tips_produce_item_dance",
     "ext": ".jpg",
-    "url": "/assets/5348e31093ac11aa08b543ed8009d6115746e4c628eb23018f0844e50df6ed31?v=3",
-    "v": 3,
+    "url": "/assets/5348e31093ac11aa08b543ed8009d6115746e4c628eb23018f0844e50df6ed31?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/true_end_teaching/deck_edit/tips_produce_item_visual": {
     "name": "images/tips/true_end_teaching/deck_edit/tips_produce_item_visual",
     "ext": ".jpg",
-    "url": "/assets/2494d6d370dc3d75b754a5d29e99e05ec0c398a4f7e29589b5e9130e34c0e1d5?v=3",
-    "v": 3,
+    "url": "/assets/2494d6d370dc3d75b754a5d29e99e05ec0c398a4f7e29589b5e9130e34c0e1d5?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/true_end_teaching/deck_edit/tips_produce_item_vocal": {
     "name": "images/tips/true_end_teaching/deck_edit/tips_produce_item_vocal",
     "ext": ".jpg",
-    "url": "/assets/27d91dc9b397d40b557a89ee8b7d4864dcc42a3e5762e41da4d865ab41b7a31b?v=3",
-    "v": 3,
+    "url": "/assets/27d91dc9b397d40b557a89ee8b7d4864dcc42a3e5762e41da4d865ab41b7a31b?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/game_event/50004/001": {
@@ -4013,8 +4013,8 @@
   "images/tips/fes_deck/003": {
     "name": "images/tips/fes_deck/003",
     "ext": ".jpg",
-    "url": "/assets/a4bdddc15b82a1df7eb6c3bfe298cb4d8875c06df271525370f8769fb01c958f?v=2",
-    "v": 2,
+    "url": "/assets/a4bdddc15b82a1df7eb6c3bfe298cb4d8875c06df271525370f8769fb01c958f?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_deck/004": {
@@ -4181,8 +4181,8 @@
   "images/tips/produce_item/002": {
     "name": "images/tips/produce_item/002",
     "ext": ".jpg",
-    "url": "/assets/52da7c1ec5e45b8626bf904b2be5f8b1a322a8be8fe2495bf98c6f203d4089ca?v=9",
-    "v": 9,
+    "url": "/assets/52da7c1ec5e45b8626bf904b2be5f8b1a322a8be8fe2495bf98c6f203d4089ca?v=10",
+    "v": 10,
     "frames": null
   },
   "images/tips/produce_teaching/deck_edit/fes/center/001": {
@@ -4223,8 +4223,8 @@
   "images/tips/produce_teaching/deck_edit/true_end/001": {
     "name": "images/tips/produce_teaching/deck_edit/true_end/001",
     "ext": ".jpg",
-    "url": "/assets/d374c31ea453877eb31f9244f8e164300cd8d9c25239716e479ac0392e162fbc?v=2",
-    "v": 2,
+    "url": "/assets/d374c31ea453877eb31f9244f8e164300cd8d9c25239716e479ac0392e162fbc?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/produce_teaching/deck_edit/true_end/002": {
@@ -4328,8 +4328,8 @@
   "images/tips/produce_teaching/produce_item/true_end/002": {
     "name": "images/tips/produce_teaching/produce_item/true_end/002",
     "ext": ".jpg",
-    "url": "/assets/283fdec27e825962b92721ee3038b726fea80ad6c538a075f0b9293250269599?v=2",
-    "v": 2,
+    "url": "/assets/283fdec27e825962b92721ee3038b726fea80ad6c538a075f0b9293250269599?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/produce_teaching/skill_board/center/001": {
@@ -4398,15 +4398,15 @@
   "images/tips/shop/001": {
     "name": "images/tips/shop/001",
     "ext": ".jpg",
-    "url": "/assets/b99a3140181130bcd5465872c9e339a5790efb65863faaa3778f42584b0831db?v=8",
-    "v": 8,
+    "url": "/assets/b99a3140181130bcd5465872c9e339a5790efb65863faaa3778f42584b0831db?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/shop/002": {
     "name": "images/tips/shop/002",
     "ext": ".jpg",
-    "url": "/assets/052bebb2ac9f3e7897a141e3d7708343b151ff66fa8a55aaebc1d1ebf7626a42?v=8",
-    "v": 8,
+    "url": "/assets/052bebb2ac9f3e7897a141e3d7708343b151ff66fa8a55aaebc1d1ebf7626a42?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/true_end_teaching/skill_board/001": {
@@ -13418,13 +13418,13 @@
   "images/ui/produce_item/parts": {
     "name": "images/ui/produce_item/parts",
     "ext": ".png",
-    "url": "/assets/95c6ce67039b1fd1a05b5148817ff5c9fa084efba71cd5abdd8dbdf2bca90c8f?v=13",
-    "v": 13,
+    "url": "/assets/95c6ce67039b1fd1a05b5148817ff5c9fa084efba71cd5abdd8dbdf2bca90c8f?v=14",
+    "v": 14,
     "frames": {
       "btn_remove.png": {
         "frame": {
-          "x": 595,
-          "y": 823,
+          "x": 697,
+          "y": 1005,
           "w": 68,
           "h": 38
         },
@@ -13432,8 +13432,8 @@
       },
       "favorite_default.png": {
         "frame": {
-          "x": 695,
-          "y": 723,
+          "x": 657,
+          "y": 1051,
           "w": 70,
           "h": 77
         },
@@ -13441,8 +13441,8 @@
       },
       "favorite_icon.png": {
         "frame": {
-          "x": 733,
-          "y": 1047,
+          "x": 598,
+          "y": 925,
           "w": 30,
           "h": 30
         },
@@ -13450,8 +13450,8 @@
       },
       "favorite_off.png": {
         "frame": {
-          "x": 598,
-          "y": 893,
+          "x": 731,
+          "y": 1047,
           "w": 70,
           "h": 77
         },
@@ -13468,8 +13468,8 @@
       },
       "favorite_on.png": {
         "frame": {
-          "x": 769,
-          "y": 723,
+          "x": 805,
+          "y": 1047,
           "w": 70,
           "h": 77
         },
@@ -13486,8 +13486,8 @@
       },
       "monthly_passport_label.png": {
         "frame": {
-          "x": 595,
-          "y": 865,
+          "x": 879,
+          "y": 1047,
           "w": 88,
           "h": 24
         },
@@ -13495,17 +13495,17 @@
       },
       "monthly_passport_memo_icon.png": {
         "frame": {
-          "x": 657,
-          "y": 1051,
-          "w": 72,
-          "h": 82
+          "x": 595,
+          "y": 823,
+          "w": 62,
+          "h": 70
         },
         "rotated": false
       },
       "monthly_passport_memo_off_button.png": {
         "frame": {
-          "x": 667,
-          "y": 823,
+          "x": 769,
+          "y": 1005,
           "w": 68,
           "h": 38
         },
@@ -13513,8 +13513,8 @@
       },
       "monthly_passport_memo_on_button.png": {
         "frame": {
-          "x": 739,
-          "y": 804,
+          "x": 841,
+          "y": 1005,
           "w": 68,
           "h": 38
         },
@@ -13531,8 +13531,8 @@
       },
       "produce_item_empty_icon.png": {
         "frame": {
-          "x": 697,
-          "y": 865,
+          "x": 661,
+          "y": 823,
           "w": 201,
           "h": 178
         },
@@ -13558,8 +13558,8 @@
       },
       "produce_item_list_content_num_base.png": {
         "frame": {
-          "x": 598,
-          "y": 974,
+          "x": 879,
+          "y": 1075,
           "w": 91,
           "h": 20
         },
@@ -13594,7 +13594,7 @@
       },
       "produce_item_selected_base_monthly_passport_locked.png": {
         "frame": {
-          "x": 902,
+          "x": 913,
           "y": 736,
           "w": 180,
           "h": 256
@@ -13612,8 +13612,8 @@
       },
       "restriction_label.png": {
         "frame": {
-          "x": 811,
-          "y": 832,
+          "x": 598,
+          "y": 897,
           "w": 54,
           "h": 24
         },
@@ -13621,8 +13621,8 @@
       },
       "restriction_limited_label.png": {
         "frame": {
-          "x": 811,
-          "y": 804,
+          "x": 879,
+          "y": 1099,
           "w": 74,
           "h": 24
         },
@@ -22763,8 +22763,8 @@
   "images/ui/idol_choice/parts": {
     "name": "images/ui/idol_choice/parts",
     "ext": ".png",
-    "url": "/assets/69d6e1dd6b87c1eb72448246b496fe5e3bdbd744224293e75a87cd4844895615?v=2",
-    "v": 2,
+    "url": "/assets/69d6e1dd6b87c1eb72448246b496fe5e3bdbd744224293e75a87cd4844895615?v=3",
+    "v": 3,
     "frames": {
       "coming_soon_6.png": {
         "frame": {
@@ -22778,7 +22778,25 @@
       "coming_soon_6_bm.png": {
         "frame": {
           "x": 1,
+          "y": 829,
+          "w": 680,
+          "h": 52
+        },
+        "rotated": false
+      },
+      "coming_soon_7.png": {
+        "frame": {
+          "x": 1,
           "y": 725,
+          "w": 680,
+          "h": 52
+        },
+        "rotated": false
+      },
+      "coming_soon_7_bm.png": {
+        "frame": {
+          "x": 1,
+          "y": 885,
           "w": 680,
           "h": 52
         },
@@ -22786,8 +22804,8 @@
       },
       "idol_name_button.png": {
         "frame": {
-          "x": 1,
-          "y": 781,
+          "x": 817,
+          "y": 933,
           "w": 168,
           "h": 54
         },
@@ -22813,8 +22831,8 @@
       },
       "star_head_1.png": {
         "frame": {
-          "x": 789,
-          "y": 1,
+          "x": 845,
+          "y": 669,
           "w": 128,
           "h": 128
         },
@@ -22822,8 +22840,8 @@
       },
       "star_head_2.png": {
         "frame": {
-          "x": 789,
-          "y": 133,
+          "x": 845,
+          "y": 801,
           "w": 128,
           "h": 128
         },
@@ -22831,8 +22849,8 @@
       },
       "star_head_3.png": {
         "frame": {
-          "x": 789,
-          "y": 265,
+          "x": 685,
+          "y": 829,
           "w": 128,
           "h": 128
         },
@@ -22841,7 +22859,7 @@
       "star_head_4.png": {
         "frame": {
           "x": 789,
-          "y": 397,
+          "y": 1,
           "w": 128,
           "h": 128
         },
@@ -22849,8 +22867,8 @@
       },
       "star_head_5.png": {
         "frame": {
-          "x": 173,
-          "y": 781,
+          "x": 789,
+          "y": 133,
           "w": 128,
           "h": 128
         },
@@ -22858,8 +22876,17 @@
       },
       "star_head_6.png": {
         "frame": {
-          "x": 305,
-          "y": 781,
+          "x": 789,
+          "y": 265,
+          "w": 128,
+          "h": 128
+        },
+        "rotated": false
+      },
+      "star_head_7.png": {
+        "frame": {
+          "x": 789,
+          "y": 397,
           "w": 128,
           "h": 128
         },
@@ -22877,7 +22904,7 @@
       "voice1_button.png": {
         "frame": {
           "x": 1,
-          "y": 839,
+          "y": 781,
           "w": 118,
           "h": 38
         },
@@ -22885,8 +22912,8 @@
       },
       "voice2_button.png": {
         "frame": {
-          "x": 1,
-          "y": 881,
+          "x": 123,
+          "y": 781,
           "w": 118,
           "h": 38
         },
@@ -22894,7 +22921,7 @@
       },
       "voice3_button.png": {
         "frame": {
-          "x": 437,
+          "x": 245,
           "y": 781,
           "w": 118,
           "h": 38
@@ -34739,8 +34766,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=44",
-    "v": 44,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=45",
+    "v": 45,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -34807,8 +34834,8 @@
       },
       "back_button.png": {
         "frame": {
-          "x": 1190,
-          "y": 159,
+          "x": 987,
+          "y": 245,
           "w": 70,
           "h": 70
         },
@@ -34852,8 +34879,8 @@
       },
       "btn_code_copy.png": {
         "frame": {
-          "x": 682,
-          "y": 669,
+          "x": 266,
+          "y": 1261,
           "w": 148,
           "h": 38
         },
@@ -34861,8 +34888,8 @@
       },
       "btn_detail.png": {
         "frame": {
-          "x": 1230,
-          "y": 1019,
+          "x": 1204,
+          "y": 203,
           "w": 68,
           "h": 38
         },
@@ -34870,8 +34897,8 @@
       },
       "btn_unlock.png": {
         "frame": {
-          "x": 1230,
-          "y": 1061,
+          "x": 418,
+          "y": 1261,
           "w": 68,
           "h": 38
         },
@@ -34879,8 +34906,8 @@
       },
       "btn_unlock_l.png": {
         "frame": {
-          "x": 1153,
-          "y": 1,
+          "x": 498,
+          "y": 721,
           "w": 108,
           "h": 38
         },
@@ -34888,8 +34915,8 @@
       },
       "buy_jewel_button.png": {
         "frame": {
-          "x": 531,
-          "y": 393,
+          "x": 748,
+          "y": 171,
           "w": 148,
           "h": 70
         },
@@ -34906,8 +34933,8 @@
       },
       "cancel_button.png": {
         "frame": {
-          "x": 530,
-          "y": 467,
+          "x": 683,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -34915,8 +34942,8 @@
       },
       "change_application_target_button.png": {
         "frame": {
-          "x": 530,
-          "y": 541,
+          "x": 683,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -34924,8 +34951,8 @@
       },
       "change_button.png": {
         "frame": {
-          "x": 530,
-          "y": 615,
+          "x": 900,
+          "y": 171,
           "w": 148,
           "h": 70
         },
@@ -34933,8 +34960,8 @@
       },
       "change_button_s.png": {
         "frame": {
-          "x": 1230,
-          "y": 1103,
+          "x": 490,
+          "y": 1261,
           "w": 68,
           "h": 38
         },
@@ -34942,8 +34969,8 @@
       },
       "chara_change_button.png": {
         "frame": {
-          "x": 418,
-          "y": 817,
+          "x": 1258,
+          "y": 793,
           "w": 44,
           "h": 44
         },
@@ -34951,8 +34978,8 @@
       },
       "check_box_off_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1031,
+          "x": 1254,
+          "y": 689,
           "w": 48,
           "h": 48
         },
@@ -34960,8 +34987,8 @@
       },
       "check_box_on_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1083,
+          "x": 1254,
+          "y": 741,
           "w": 48,
           "h": 48
         },
@@ -34969,8 +34996,8 @@
       },
       "clear_button.png": {
         "frame": {
-          "x": 683,
-          "y": 235,
+          "x": 835,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -34978,8 +35005,8 @@
       },
       "clear_setting_button.png": {
         "frame": {
-          "x": 683,
-          "y": 309,
+          "x": 835,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -34987,8 +35014,8 @@
       },
       "close_circle_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 1135,
+          "x": 1240,
+          "y": 1242,
           "w": 36,
           "h": 35
         },
@@ -34996,8 +35023,8 @@
       },
       "close_icon_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 347,
+          "x": 1052,
+          "y": 156,
           "w": 42,
           "h": 42
         },
@@ -35005,8 +35032,8 @@
       },
       "cloth_button.png": {
         "frame": {
-          "x": 1034,
-          "y": 75,
+          "x": 650,
+          "y": 149,
           "w": 94,
           "h": 92
         },
@@ -35014,8 +35041,8 @@
       },
       "common_menu_button.png": {
         "frame": {
-          "x": 570,
-          "y": 1229,
+          "x": 1100,
+          "y": 1207,
           "w": 64,
           "h": 64
         },
@@ -35023,8 +35050,8 @@
       },
       "data_sync_button.png": {
         "frame": {
-          "x": 835,
-          "y": 235,
+          "x": 530,
+          "y": 457,
           "w": 148,
           "h": 70
         },
@@ -35032,8 +35059,8 @@
       },
       "decision_button.png": {
         "frame": {
-          "x": 683,
-          "y": 383,
+          "x": 530,
+          "y": 531,
           "w": 148,
           "h": 70
         },
@@ -35041,8 +35068,8 @@
       },
       "delete_button.png": {
         "frame": {
-          "x": 835,
-          "y": 309,
+          "x": 682,
+          "y": 457,
           "w": 148,
           "h": 70
         },
@@ -35050,8 +35077,8 @@
       },
       "delete_button_red.png": {
         "frame": {
-          "x": 835,
-          "y": 383,
+          "x": 682,
+          "y": 531,
           "w": 148,
           "h": 70
         },
@@ -35059,8 +35086,8 @@
       },
       "detail_button.png": {
         "frame": {
-          "x": 682,
-          "y": 521,
+          "x": 837,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35068,8 +35095,8 @@
       },
       "disagree_button.png": {
         "frame": {
-          "x": 682,
-          "y": 595,
+          "x": 834,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35077,8 +35104,8 @@
       },
       "evolution_button.png": {
         "frame": {
-          "x": 836,
-          "y": 457,
+          "x": 834,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35086,8 +35113,8 @@
       },
       "forward_button.png": {
         "frame": {
-          "x": 1139,
-          "y": 245,
+          "x": 987,
+          "y": 319,
           "w": 70,
           "h": 70
         },
@@ -35095,8 +35122,8 @@
       },
       "full_screen_button.png": {
         "frame": {
-          "x": 570,
-          "y": 879,
+          "x": 1244,
+          "y": 841,
           "w": 44,
           "h": 44
         },
@@ -35104,8 +35131,8 @@
       },
       "idea_note_button.png": {
         "frame": {
-          "x": 834,
-          "y": 531,
+          "x": 530,
+          "y": 605,
           "w": 148,
           "h": 70
         },
@@ -35113,7 +35140,7 @@
       },
       "idol_list.png": {
         "frame": {
-          "x": 834,
+          "x": 682,
           "y": 605,
           "w": 148,
           "h": 70
@@ -35123,7 +35150,7 @@
       "idol_page_button.png": {
         "frame": {
           "x": 834,
-          "y": 679,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35131,8 +35158,8 @@
       },
       "info_button.png": {
         "frame": {
-          "x": 802,
-          "y": 711,
+          "x": 610,
+          "y": 721,
           "w": 27,
           "h": 28
         },
@@ -35140,8 +35167,8 @@
       },
       "info_circle_button.png": {
         "frame": {
-          "x": 1265,
-          "y": 1,
+          "x": 1218,
+          "y": 763,
           "w": 32,
           "h": 32
         },
@@ -35149,8 +35176,8 @@
       },
       "invoke_button.png": {
         "frame": {
-          "x": 1038,
-          "y": 171,
+          "x": 646,
+          "y": 679,
           "w": 148,
           "h": 70
         },
@@ -35158,8 +35185,8 @@
       },
       "later_button.png": {
         "frame": {
-          "x": 987,
-          "y": 245,
+          "x": 798,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -35176,8 +35203,8 @@
       },
       "link_skill_button.png": {
         "frame": {
-          "x": 1218,
-          "y": 1145,
+          "x": 1178,
+          "y": 1116,
           "w": 68,
           "h": 38
         },
@@ -35185,8 +35212,8 @@
       },
       "login_submit_button.png": {
         "frame": {
-          "x": 987,
-          "y": 319,
+          "x": 1116,
+          "y": 129,
           "w": 148,
           "h": 70
         },
@@ -35194,8 +35221,8 @@
       },
       "max_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1207,
+          "x": 1213,
+          "y": 313,
           "w": 62,
           "h": 53
         },
@@ -35203,8 +35230,8 @@
       },
       "max_button_s.png": {
         "frame": {
-          "x": 1178,
-          "y": 1174,
+          "x": 1218,
+          "y": 799,
           "w": 36,
           "h": 32
         },
@@ -35230,8 +35257,8 @@
       },
       "menu_button.png": {
         "frame": {
-          "x": 1228,
-          "y": 911,
+          "x": 1178,
+          "y": 1008,
           "w": 70,
           "h": 50
         },
@@ -35239,8 +35266,8 @@
       },
       "menu_close_button.png": {
         "frame": {
-          "x": 1228,
-          "y": 965,
+          "x": 1178,
+          "y": 1062,
           "w": 70,
           "h": 50
         },
@@ -35374,8 +35401,8 @@
       },
       "min_button.png": {
         "frame": {
-          "x": 1092,
-          "y": 1207,
+          "x": 1178,
+          "y": 837,
           "w": 62,
           "h": 53
         },
@@ -35383,8 +35410,8 @@
       },
       "minus_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 233,
+          "x": 1178,
+          "y": 894,
           "w": 62,
           "h": 53
         },
@@ -35392,8 +35419,8 @@
       },
       "minus_button_s.png": {
         "frame": {
-          "x": 1258,
-          "y": 763,
+          "x": 1250,
+          "y": 1116,
           "w": 36,
           "h": 32
         },
@@ -35401,8 +35428,8 @@
       },
       "more_button.png": {
         "frame": {
-          "x": 1178,
-          "y": 985,
+          "x": 1244,
+          "y": 889,
           "w": 42,
           "h": 42
         },
@@ -35410,8 +35437,8 @@
       },
       "movie_reload_button.png": {
         "frame": {
-          "x": 988,
-          "y": 457,
+          "x": 989,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35419,8 +35446,8 @@
       },
       "my_page_button.png": {
         "frame": {
-          "x": 638,
-          "y": 1229,
+          "x": 1213,
+          "y": 245,
           "w": 64,
           "h": 64
         },
@@ -35465,7 +35492,7 @@
       "next_button.png": {
         "frame": {
           "x": 986,
-          "y": 531,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35474,7 +35501,7 @@
       "no_button.png": {
         "frame": {
           "x": 986,
-          "y": 605,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35483,7 +35510,7 @@
       "ok_button.png": {
         "frame": {
           "x": 986,
-          "y": 679,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35491,8 +35518,8 @@
       },
       "open_button.png": {
         "frame": {
-          "x": 1218,
-          "y": 1187,
+          "x": 1178,
+          "y": 1158,
           "w": 68,
           "h": 38
         },
@@ -35509,8 +35536,8 @@
       },
       "play_button.png": {
         "frame": {
-          "x": 1158,
-          "y": 1229,
+          "x": 1178,
+          "y": 1200,
           "w": 68,
           "h": 38
         },
@@ -35518,8 +35545,8 @@
       },
       "play_circle_button.png": {
         "frame": {
-          "x": 1265,
-          "y": 37,
+          "x": 1116,
+          "y": 75,
           "w": 32,
           "h": 32
         },
@@ -35527,8 +35554,8 @@
       },
       "play_communication_button.png": {
         "frame": {
-          "x": 498,
-          "y": 731,
+          "x": 950,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -35536,8 +35563,8 @@
       },
       "play_later_button.png": {
         "frame": {
-          "x": 650,
-          "y": 711,
+          "x": 1061,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -35545,8 +35572,8 @@
       },
       "plus_button.png": {
         "frame": {
-          "x": 1213,
-          "y": 290,
+          "x": 1178,
+          "y": 951,
           "w": 62,
           "h": 53
         },
@@ -35554,8 +35581,8 @@
       },
       "plus_button_s.png": {
         "frame": {
-          "x": 1258,
-          "y": 799,
+          "x": 1250,
+          "y": 1152,
           "w": 36,
           "h": 32
         },
@@ -35563,8 +35590,8 @@
       },
       "possession_ability_button.png": {
         "frame": {
-          "x": 650,
-          "y": 785,
+          "x": 1061,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -35572,8 +35599,8 @@
       },
       "precaution_button.png": {
         "frame": {
-          "x": 802,
-          "y": 753,
+          "x": 1141,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35581,8 +35608,8 @@
       },
       "question_circle_button.png": {
         "frame": {
-          "x": 722,
-          "y": 933,
+          "x": 1244,
+          "y": 935,
           "w": 36,
           "h": 36
         },
@@ -35590,8 +35617,8 @@
       },
       "ranking_detail_button.png": {
         "frame": {
-          "x": 1230,
-          "y": 1229,
+          "x": 1168,
+          "y": 1242,
           "w": 68,
           "h": 38
         },
@@ -35599,8 +35626,8 @@
       },
       "receive_button.png": {
         "frame": {
-          "x": 954,
-          "y": 753,
+          "x": 1138,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35608,8 +35635,8 @@
       },
       "remove_button.png": {
         "frame": {
-          "x": 802,
-          "y": 827,
+          "x": 1138,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35617,8 +35644,8 @@
       },
       "reselect_button.png": {
         "frame": {
-          "x": 954,
-          "y": 827,
+          "x": 1138,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35626,8 +35653,8 @@
       },
       "reset_button.png": {
         "frame": {
-          "x": 1132,
-          "y": 85,
+          "x": 1102,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -35635,8 +35662,8 @@
       },
       "resume_button.png": {
         "frame": {
-          "x": 468,
-          "y": 805,
+          "x": 610,
+          "y": 753,
           "w": 148,
           "h": 70
         },
@@ -35644,8 +35671,8 @@
       },
       "retire_button.png": {
         "frame": {
-          "x": 418,
-          "y": 879,
+          "x": 762,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -35653,8 +35680,8 @@
       },
       "right_circle_button.png": {
         "frame": {
-          "x": 1258,
-          "y": 835,
+          "x": 1268,
+          "y": 129,
           "w": 32,
           "h": 32
         },
@@ -35662,8 +35689,8 @@
       },
       "save_button.png": {
         "frame": {
-          "x": 418,
-          "y": 953,
+          "x": 914,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -35671,8 +35698,8 @@
       },
       "save_simple_button.png": {
         "frame": {
-          "x": 418,
-          "y": 1027,
+          "x": 1066,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -35681,7 +35708,7 @@
       "select_button.png": {
         "frame": {
           "x": 418,
-          "y": 1101,
+          "y": 817,
           "w": 148,
           "h": 70
         },
@@ -35690,7 +35717,7 @@
       "setting_button.png": {
         "frame": {
           "x": 418,
-          "y": 1175,
+          "y": 891,
           "w": 148,
           "h": 70
         },
@@ -35698,8 +35725,8 @@
       },
       "setting_off_button.png": {
         "frame": {
-          "x": 732,
-          "y": 171,
+          "x": 1153,
+          "y": 1,
           "w": 149,
           "h": 60
         },
@@ -35707,8 +35734,8 @@
       },
       "setting_off_button_on.png": {
         "frame": {
-          "x": 885,
-          "y": 171,
+          "x": 1153,
+          "y": 65,
           "w": 149,
           "h": 60
         },
@@ -35716,8 +35743,8 @@
       },
       "setting_on_button.png": {
         "frame": {
-          "x": 683,
-          "y": 457,
+          "x": 531,
+          "y": 393,
           "w": 149,
           "h": 60
         },
@@ -35725,7 +35752,7 @@
       },
       "setting_on_button_on.png": {
         "frame": {
-          "x": 987,
+          "x": 684,
           "y": 393,
           "w": 149,
           "h": 60
@@ -35734,8 +35761,8 @@
       },
       "skill_board_button.png": {
         "frame": {
-          "x": 620,
-          "y": 859,
+          "x": 418,
+          "y": 965,
           "w": 148,
           "h": 70
         },
@@ -35743,8 +35770,8 @@
       },
       "skip_button.png": {
         "frame": {
-          "x": 1139,
-          "y": 319,
+          "x": 1026,
+          "y": 1207,
           "w": 70,
           "h": 70
         },
@@ -35752,8 +35779,8 @@
       },
       "skip_text_button.png": {
         "frame": {
-          "x": 570,
-          "y": 933,
+          "x": 418,
+          "y": 1039,
           "w": 148,
           "h": 70
         },
@@ -35761,8 +35788,8 @@
       },
       "start_button.png": {
         "frame": {
-          "x": 570,
-          "y": 1007,
+          "x": 418,
+          "y": 1113,
           "w": 148,
           "h": 70
         },
@@ -35770,8 +35797,8 @@
       },
       "start_ja_button.png": {
         "frame": {
-          "x": 570,
-          "y": 1081,
+          "x": 418,
+          "y": 1187,
           "w": 148,
           "h": 70
         },
@@ -35779,8 +35806,8 @@
       },
       "switch_button.png": {
         "frame": {
-          "x": 650,
-          "y": 149,
+          "x": 1034,
+          "y": 75,
           "w": 78,
           "h": 77
         },
@@ -35789,7 +35816,7 @@
       "terminate_cancel_button.png": {
         "frame": {
           "x": 570,
-          "y": 1155,
+          "y": 827,
           "w": 148,
           "h": 70
         },
@@ -35797,7 +35824,7 @@
       },
       "terminate_ok_button.png": {
         "frame": {
-          "x": 772,
+          "x": 570,
           "y": 901,
           "w": 148,
           "h": 70
@@ -35815,8 +35842,8 @@
       },
       "to_audition_button.png": {
         "frame": {
-          "x": 924,
-          "y": 901,
+          "x": 570,
+          "y": 975,
           "w": 148,
           "h": 70
         },
@@ -35824,8 +35851,17 @@
       },
       "to_daily_mission_button.png": {
         "frame": {
-          "x": 722,
-          "y": 975,
+          "x": 570,
+          "y": 1049,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_event_button.png": {
+        "frame": {
+          "x": 570,
+          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -35833,8 +35869,8 @@
       },
       "to_fes_button.png": {
         "frame": {
-          "x": 722,
-          "y": 1049,
+          "x": 570,
+          "y": 1197,
           "w": 148,
           "h": 70
         },
@@ -35842,8 +35878,8 @@
       },
       "to_home_button.png": {
         "frame": {
-          "x": 874,
-          "y": 975,
+          "x": 722,
+          "y": 837,
           "w": 148,
           "h": 70
         },
@@ -35852,7 +35888,7 @@
       "to_idol_detail_button.png": {
         "frame": {
           "x": 722,
-          "y": 1123,
+          "y": 911,
           "w": 148,
           "h": 70
         },
@@ -35861,7 +35897,7 @@
       "to_item_button.png": {
         "frame": {
           "x": 874,
-          "y": 1049,
+          "y": 837,
           "w": 148,
           "h": 70
         },
@@ -35869,8 +35905,8 @@
       },
       "to_live_button.png": {
         "frame": {
-          "x": 874,
-          "y": 1123,
+          "x": 722,
+          "y": 985,
           "w": 148,
           "h": 70
         },
@@ -35878,8 +35914,8 @@
       },
       "to_mission_button.png": {
         "frame": {
-          "x": 722,
-          "y": 1197,
+          "x": 874,
+          "y": 911,
           "w": 148,
           "h": 70
         },
@@ -35887,8 +35923,8 @@
       },
       "to_personal_information_input_button.png": {
         "frame": {
-          "x": 874,
-          "y": 1197,
+          "x": 1026,
+          "y": 837,
           "w": 148,
           "h": 70
         },
@@ -35896,8 +35932,8 @@
       },
       "to_personal_information_input_outer_site_button.png": {
         "frame": {
-          "x": 1140,
-          "y": 393,
+          "x": 722,
+          "y": 1059,
           "w": 148,
           "h": 70
         },
@@ -35905,8 +35941,8 @@
       },
       "to_present_button.png": {
         "frame": {
-          "x": 1140,
-          "y": 467,
+          "x": 874,
+          "y": 985,
           "w": 148,
           "h": 70
         },
@@ -35914,8 +35950,8 @@
       },
       "to_produce_button.png": {
         "frame": {
-          "x": 1138,
-          "y": 541,
+          "x": 1026,
+          "y": 911,
           "w": 148,
           "h": 70
         },
@@ -35923,8 +35959,8 @@
       },
       "to_shop_button.png": {
         "frame": {
-          "x": 1138,
-          "y": 615,
+          "x": 722,
+          "y": 1133,
           "w": 148,
           "h": 70
         },
@@ -35933,7 +35969,7 @@
       "to_shop_button_s.png": {
         "frame": {
           "x": 494,
-          "y": 689,
+          "y": 679,
           "w": 148,
           "h": 38
         },
@@ -35941,41 +35977,14 @@
       },
       "to_special_announce_button.png": {
         "frame": {
-          "x": 1138,
-          "y": 689,
+          "x": 874,
+          "y": 1059,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
       "to_special_page_button.png": {
-        "frame": {
-          "x": 1106,
-          "y": 763,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "to_trade_shop_button.png": {
-        "frame": {
-          "x": 1106,
-          "y": 837,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "training_button.png": {
-        "frame": {
-          "x": 1076,
-          "y": 911,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
-      "transfer_button.png": {
         "frame": {
           "x": 1026,
           "y": 985,
@@ -35984,10 +35993,37 @@
         },
         "rotated": false
       },
+      "to_trade_shop_button.png": {
+        "frame": {
+          "x": 874,
+          "y": 1133,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "training_button.png": {
+        "frame": {
+          "x": 1026,
+          "y": 1059,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "transfer_button.png": {
+        "frame": {
+          "x": 1026,
+          "y": 1133,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
       "unit_detail_button.png": {
         "frame": {
-          "x": 418,
-          "y": 1249,
+          "x": 1052,
+          "y": 203,
           "w": 148,
           "h": 38
         },
@@ -35995,8 +36031,8 @@
       },
       "unlock_condition_button.png": {
         "frame": {
-          "x": 1153,
-          "y": 43,
+          "x": 498,
+          "y": 763,
           "w": 108,
           "h": 38
         },
@@ -36004,8 +36040,8 @@
       },
       "use_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1059,
+          "x": 722,
+          "y": 1207,
           "w": 148,
           "h": 70
         },
@@ -36022,8 +36058,8 @@
       },
       "yes_button.png": {
         "frame": {
-          "x": 1026,
-          "y": 1133,
+          "x": 874,
+          "y": 1207,
           "w": 148,
           "h": 70
         },
@@ -37319,8 +37355,8 @@
   "images/ui/mission/parts": {
     "name": "images/ui/mission/parts",
     "ext": ".png",
-    "url": "/assets/180a7c4bb89fe4df75bde5068cfc653c8faec22902ff57ad265455c965f624f3?v=18",
-    "v": 18,
+    "url": "/assets/180a7c4bb89fe4df75bde5068cfc653c8faec22902ff57ad265455c965f624f3?v=19",
+    "v": 19,
     "frames": {
       "achieved_button_off.png": {
         "frame": {
@@ -37432,24 +37468,6 @@
       },
       "daily_button_off.png": {
         "frame": {
-          "x": 609,
-          "y": 402,
-          "w": 148,
-          "h": 60
-        },
-        "rotated": false
-      },
-      "daily_button_on.png": {
-        "frame": {
-          "x": 457,
-          "y": 460,
-          "w": 148,
-          "h": 60
-        },
-        "rotated": false
-      },
-      "event_button_off.png": {
-        "frame": {
           "x": 305,
           "y": 518,
           "w": 148,
@@ -37457,10 +37475,28 @@
         },
         "rotated": false
       },
-      "event_button_on.png": {
+      "daily_button_on.png": {
         "frame": {
           "x": 153,
           "y": 578,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "event_button_off.png": {
+        "frame": {
+          "x": 1,
+          "y": 608,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "event_button_on.png": {
+        "frame": {
+          "x": 609,
+          "y": 476,
           "w": 148,
           "h": 60
         },
@@ -37495,32 +37531,14 @@
       },
       "normal_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 608,
+          "x": 457,
+          "y": 534,
           "w": 148,
           "h": 60
         },
         "rotated": false
       },
       "normal_button_on.png": {
-        "frame": {
-          "x": 609,
-          "y": 466,
-          "w": 148,
-          "h": 60
-        },
-        "rotated": false
-      },
-      "previous_event_button_off.png": {
-        "frame": {
-          "x": 457,
-          "y": 524,
-          "w": 148,
-          "h": 60
-        },
-        "rotated": false
-      },
-      "previous_event_button_on.png": {
         "frame": {
           "x": 305,
           "y": 582,
@@ -37529,43 +37547,7 @@
         },
         "rotated": false
       },
-      "remaining_base.png": {
-        "frame": {
-          "x": 609,
-          "y": 614,
-          "w": 136,
-          "h": 20
-        },
-        "rotated": false
-      },
-      "sort_achieved_button.png": {
-        "frame": {
-          "x": 609,
-          "y": 530,
-          "w": 148,
-          "h": 38
-        },
-        "rotated": false
-      },
-      "sort_all_button.png": {
-        "frame": {
-          "x": 609,
-          "y": 572,
-          "w": 148,
-          "h": 38
-        },
-        "rotated": false
-      },
-      "sort_unachieved_button.png": {
-        "frame": {
-          "x": 457,
-          "y": 588,
-          "w": 148,
-          "h": 38
-        },
-        "rotated": false
-      },
-      "special_button_off.png": {
+      "previous_event_button_off.png": {
         "frame": {
           "x": 153,
           "y": 642,
@@ -37574,10 +37556,64 @@
         },
         "rotated": false
       },
-      "special_button_on.png": {
+      "previous_event_button_on.png": {
         "frame": {
           "x": 1,
           "y": 672,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "remaining_base.png": {
+        "frame": {
+          "x": 457,
+          "y": 598,
+          "w": 136,
+          "h": 20
+        },
+        "rotated": false
+      },
+      "sort_achieved_button.png": {
+        "frame": {
+          "x": 153,
+          "y": 834,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "sort_all_button.png": {
+        "frame": {
+          "x": 609,
+          "y": 540,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "sort_unachieved_button.png": {
+        "frame": {
+          "x": 609,
+          "y": 582,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "special_button_off.png": {
+        "frame": {
+          "x": 1,
+          "y": 736,
+          "w": 148,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "special_button_on.png": {
+        "frame": {
+          "x": 1,
+          "y": 800,
           "w": 148,
           "h": 60
         },
@@ -37619,7 +37655,7 @@
         },
         "rotated": false
       },
-      "to_moneyshop.png": {
+      "to_home_unit_button.png": {
         "frame": {
           "x": 689,
           "y": 328,
@@ -37628,7 +37664,7 @@
         },
         "rotated": false
       },
-      "to_profile.png": {
+      "to_moneyshop.png": {
         "frame": {
           "x": 305,
           "y": 370,
@@ -37637,7 +37673,7 @@
         },
         "rotated": false
       },
-      "to_special_training_button.png": {
+      "to_profile.png": {
         "frame": {
           "x": 153,
           "y": 430,
@@ -37646,7 +37682,7 @@
         },
         "rotated": false
       },
-      "to_training_button.png": {
+      "to_special_training_button.png": {
         "frame": {
           "x": 1,
           "y": 460,
@@ -37655,7 +37691,7 @@
         },
         "rotated": false
       },
-      "to_unit_button.png": {
+      "to_training_button.png": {
         "frame": {
           "x": 457,
           "y": 386,
@@ -37664,7 +37700,7 @@
         },
         "rotated": false
       },
-      "to_wing_mission.png": {
+      "to_unit_button.png": {
         "frame": {
           "x": 305,
           "y": 444,
@@ -37673,7 +37709,7 @@
         },
         "rotated": false
       },
-      "unachieved_button_off.png": {
+      "to_wing_mission.png": {
         "frame": {
           "x": 153,
           "y": 504,
@@ -37682,7 +37718,7 @@
         },
         "rotated": false
       },
-      "unachieved_button_on.png": {
+      "to_work_activity_button.png": {
         "frame": {
           "x": 1,
           "y": 534,
@@ -37691,10 +37727,28 @@
         },
         "rotated": false
       },
+      "unachieved_button_off.png": {
+        "frame": {
+          "x": 609,
+          "y": 402,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "unachieved_button_on.png": {
+        "frame": {
+          "x": 457,
+          "y": 460,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
       "weekly_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 736,
+          "x": 153,
+          "y": 706,
           "w": 148,
           "h": 60
         },
@@ -37702,8 +37756,8 @@
       },
       "weekly_button_on.png": {
         "frame": {
-          "x": 1,
-          "y": 800,
+          "x": 153,
+          "y": 770,
           "w": 148,
           "h": 60
         },
@@ -39346,8 +39400,8 @@
   "images/ui/shop/parts_monthly_passport": {
     "name": "images/ui/shop/parts_monthly_passport",
     "ext": ".png",
-    "url": "/assets/438ecf38b05cb7cf7ebe3bc03d06efaad47658c79eb34b3ab1f69ff9f897a1b6?v=1",
-    "v": 1,
+    "url": "/assets/438ecf38b05cb7cf7ebe3bc03d06efaad47658c79eb34b3ab1f69ff9f897a1b6?v=2",
+    "v": 2,
     "frames": {
       "balloon_extendable.png": {
         "frame": {
@@ -40457,5 +40511,84 @@
     "url": "/assets/8635e6910b9e139586e80e2cd6e239d90b7020d011eaeafbbef999ccaded5ce7?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/50015/001": {
+    "name": "images/tips/game_event/50015/001",
+    "ext": ".jpg",
+    "url": "/assets/24cab72e3ae0912cda2da3f4e5d2d900c134095ce25eca72f96d09fa7cf4ec32?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50015/002": {
+    "name": "images/tips/game_event/50015/002",
+    "ext": ".jpg",
+    "url": "/assets/a9d126196997eec7567ffce20aa9d1a76c39cccfb808f611c69cf35eff3210bb?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/52/001": {
+    "name": "images/tips/game_event/52/001",
+    "ext": ".jpg",
+    "url": "/assets/acf25c65e2fa8984a3d7589fad235087c9056eec949d32f5f8084d673497ca0b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/52/002": {
+    "name": "images/tips/game_event/52/002",
+    "ext": ".jpg",
+    "url": "/assets/6570f340efede2505c842adc445bf3200c2da644dfbd672e8e3d64e43f790ea7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/52/003": {
+    "name": "images/tips/game_event/52/003",
+    "ext": ".jpg",
+    "url": "/assets/ae65cb03c56d915c6be81e137d1c5a87324a16d84f82f0c11a32ef89d2badd64?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/att_popup/parts": {
+    "name": "images/ui/att_popup/parts",
+    "ext": ".png",
+    "url": "/assets/395c74cb106822edb99c17bdd9837a2b0247bae0f9d362babcf44e036cef497a?v=1",
+    "v": 1,
+    "frames": {
+      "att_info_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 625,
+          "w": 240,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "att_next_button.png": {
+        "frame": {
+          "x": 245,
+          "y": 625,
+          "w": 238,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "att_pop_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 790,
+          "h": 620
+        },
+        "rotated": false
+      },
+      "ss.png": {
+        "frame": {
+          "x": 487,
+          "y": 625,
+          "w": 194,
+          "h": 214
+        },
+        "rotated": false
+      }
+    }
   }
 }
