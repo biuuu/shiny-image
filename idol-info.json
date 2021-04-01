@@ -1129,6 +1129,18 @@
     "id": "1030200010"
   },
   {
+    "hash": "1b6b3a4856ae5db9752e7f1e271a2868",
+    "name": "【はれのひ喫茶店】福丸 小糸",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/9eb322cd30865ba4aec4e6ada47c97160314bd7460660a899f44e3defee2dd54?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/08d56d9099dc987b74c819ff2923af3d9f7e5885cbb8e2df1d2cf5f2fc5d56b7?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/c21aea49a6de2794da839645190a1e61084f907fb45f7ab5d60ec6318e1416a5?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/fb1c9e3a5068ac39096150b39d83ad3dd5d1bbc21f11733a8b8f215fa2dff468.mp4?v=1",
+    "id": "1030220010"
+  },
+  {
     "hash": "9073001706267f4a479ebd44e35265c7",
     "name": "【#SS】市川 雛菜",
     "type": "p",
@@ -1209,6 +1221,20 @@
     "movie": "https://shinycolors.enza.fun/assets/71299da5060e48055dfd247d05e9b00745577f7cf038b664a0d1ebe52d3dbdbc.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/863d8fb0b63257b64cf1d3aa9c5b83c4bae6081512ed016b5835a15ee4f315e7.mp4?v=1",
     "id": "1040010050"
+  },
+  {
+    "hash": "9a8b37fff0bfac7f42f6a3342ef0f891",
+    "name": "【花風Smiley】櫻木 真乃",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──春で、いっぱいです……",
+    "card": "https://shinycolors.enza.fun/assets/002adb719e5f011332cc3cf83963da89db7099a02f815da4dbe17c0865bba20c?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/489f222c78adc97ab5bb6d50a56e0d6cbcef4ff19be6aa874d6570293dab47a9?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/4f3463aeb3288016df51b0a6821dd56b0baa68f1159dfe8196f60a046511b48e?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/e43fc68453de5d6179cf858abeea0b766e0c11ea8deb61ee89ba35a5297cd0d7.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/f6d4dd6e6bed3f134fd337e59b40faacf8f13b4df70d66e19c0e0a786f71b6a0.mp4?v=1",
+    "id": "1040010060"
   },
   {
     "hash": "118a9af13ba8d3398f421bd579ed1231",
@@ -1979,6 +2005,20 @@
     "movie": "https://shinycolors.enza.fun/assets/1cf5e47a487d1063ebdd3809d9fb2828c588e4f5daf997bfe5e9225704f5f8e1.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/7adaa9352fa327b652d782fb4de11a1d682026798b42a28bec5ce3daf8454ecf.mp4?v=1",
     "id": "1040120050"
+  },
+  {
+    "hash": "67de71e822f85917ee81ea62b1664e8c",
+    "name": "【ロー・ポジション】杜野 凛世",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "朝の香りと……\nプロデューサーさまの足音……",
+    "card": "https://shinycolors.enza.fun/assets/6cb12c37e990625b7d71ac643fea21869fa847e868b3f1896186ff1370fcb78f?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/a6dd1fb78a06ae96e6dcecb579fba767b1b7b332586f93e6022cae14afff508a?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/ef8a283ce98589852f5c9864da6d4141de96d6990712f083f1de0792e5f058fa?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/f66c2af97e6956551e957c5c5c284e0a5b796b276fbf444a6db2bfddd7dc3ce9.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/b53fe3c895e9dbd97631ed2d64b21901bce656a62462099ae9fea0c873c9fb11.mp4?v=1",
+    "id": "1040120060"
   },
   {
     "hash": "8e93974368b23746cb85636a0ae862af",
@@ -3751,6 +3791,14 @@
     "id": "2030160030"
   },
   {
+    "hash": "ae0941cd6ae18e35f391ae96269c5756",
+    "name": "【好き、っていうのはね】桑山 千雪",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/0dab52214986550f920a41194a1b19888b1310f973b081fcb25669e0d0d730cf?v=1",
+    "id": "2030160040"
+  },
+  {
     "hash": "7c08eaf1dbb2b186d32833fdf01f2c0c",
     "name": "【腹が減っては遊びはできぬ】芹沢 あさひ",
     "type": "s",
@@ -4015,6 +4063,14 @@
     "id": "2040030060"
   },
   {
+    "hash": "92c1afd2cd79930e115aa70602769b95",
+    "name": "【Scoop up Scraps】八宮 めぐる",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/04aaf4114633660957d37765a0cf7384388d43f6db25889ad4bedf671b342d44?v=1",
+    "id": "2040030070"
+  },
+  {
     "hash": "8856b98b1da0342e3bed3571fb9a8066",
     "name": "【ふっふ～ん、ふふ～ん♪】月岡 恋鐘",
     "type": "s",
@@ -4277,6 +4333,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/71cab56f0306030656172f8275514efe474d052c345681d4c2931fff9823494b?v=1",
     "id": "2040090050"
+  },
+  {
+    "hash": "fd021bff703189a24fd664220a96448f",
+    "name": "【反撃の狼煙をあげよ！】小宮 果穂",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/c30bb5b107b6eda4678b8f73a702f6d30b1cd91c39a9ac538f058331768922f4?v=1",
+    "id": "2040090060"
   },
   {
     "hash": "08bed8db6554f66ab32542f557afaa60",
