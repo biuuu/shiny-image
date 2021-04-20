@@ -5007,8 +5007,8 @@
   "images/tips/game_event/collabo_fes/002": {
     "name": "images/tips/game_event/collabo_fes/002",
     "ext": ".jpg",
-    "url": "/assets/127c408cd18028e2f3abefa7283a785eea76baf0f99e314850a1e5c82a251267?v=3",
-    "v": 3,
+    "url": "/assets/127c408cd18028e2f3abefa7283a785eea76baf0f99e314850a1e5c82a251267?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/game_event/collabo_fes/006": {
@@ -30942,13 +30942,13 @@
   "images/ui/gasha/parts_step_up": {
     "name": "images/ui/gasha/parts_step_up",
     "ext": ".png",
-    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=12",
-    "v": 12,
+    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=13",
+    "v": 13,
     "frames": {
       "4step_2_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 180,
-          "y": 211,
+          "x": 593,
+          "y": 94,
           "w": 172,
           "h": 88
         },
@@ -30956,8 +30956,8 @@
       },
       "4step_3_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 356,
-          "y": 285,
+          "x": 593,
+          "y": 186,
           "w": 172,
           "h": 88
         },
@@ -30965,8 +30965,8 @@
       },
       "4step_4_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 180,
-          "y": 303,
+          "x": 593,
+          "y": 278,
           "w": 172,
           "h": 88
         },
@@ -30974,8 +30974,8 @@
       },
       "4step_4_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 593,
-          "y": 1,
+          "x": 1,
+          "y": 211,
           "w": 170,
           "h": 88
         },
@@ -30992,8 +30992,8 @@
       },
       "last_sr_step_1_balloon.png": {
         "frame": {
-          "x": 593,
-          "y": 93,
+          "x": 175,
+          "y": 211,
           "w": 159,
           "h": 61
         },
@@ -31001,8 +31001,8 @@
       },
       "p_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 524,
+          "x": 490,
+          "y": 499,
           "w": 158,
           "h": 61
         },
@@ -31010,8 +31010,8 @@
       },
       "p_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 593,
-          "y": 158,
+          "x": 175,
+          "y": 276,
           "w": 159,
           "h": 61
         },
@@ -31019,8 +31019,8 @@
       },
       "p_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 460,
+          "x": 490,
+          "y": 435,
           "w": 159,
           "h": 60
         },
@@ -31028,8 +31028,8 @@
       },
       "p_ssr_step_4_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 499,
+          "x": 327,
+          "y": 480,
           "w": 159,
           "h": 60
         },
@@ -31037,8 +31037,8 @@
       },
       "s_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 524,
+          "x": 490,
+          "y": 499,
           "w": 158,
           "h": 61
         },
@@ -31046,8 +31046,8 @@
       },
       "s_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 593,
-          "y": 223,
+          "x": 1,
+          "y": 303,
           "w": 159,
           "h": 61
         },
@@ -31055,8 +31055,8 @@
       },
       "s_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 490,
-          "y": 483,
+          "x": 164,
+          "y": 536,
           "w": 159,
           "h": 60
         },
@@ -31064,8 +31064,8 @@
       },
       "step_1_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 524,
+          "x": 490,
+          "y": 499,
           "w": 158,
           "h": 61
         },
@@ -31074,7 +31074,7 @@
       "step_1_button_off.png": {
         "frame": {
           "x": 1,
-          "y": 563,
+          "y": 627,
           "w": 148,
           "h": 70
         },
@@ -31083,7 +31083,7 @@
       "step_1_button_on.png": {
         "frame": {
           "x": 1,
-          "y": 637,
+          "y": 701,
           "w": 148,
           "h": 70
         },
@@ -31091,8 +31091,8 @@
       },
       "step_2_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 304,
+          "x": 338,
+          "y": 285,
           "w": 159,
           "h": 61
         },
@@ -31101,7 +31101,7 @@
       "step_2_button_off.png": {
         "frame": {
           "x": 153,
-          "y": 589,
+          "y": 627,
           "w": 148,
           "h": 70
         },
@@ -31110,7 +31110,7 @@
       "step_2_button_on.png": {
         "frame": {
           "x": 153,
-          "y": 663,
+          "y": 701,
           "w": 148,
           "h": 70
         },
@@ -31118,8 +31118,8 @@
       },
       "step_3_balloon.png": {
         "frame": {
-          "x": 327,
-          "y": 507,
+          "x": 1,
+          "y": 563,
           "w": 159,
           "h": 60
         },
@@ -31128,7 +31128,7 @@
       "step_3_button_off.png": {
         "frame": {
           "x": 305,
-          "y": 589,
+          "y": 600,
           "w": 148,
           "h": 70
         },
@@ -31137,9 +31137,18 @@
       "step_3_button_on.png": {
         "frame": {
           "x": 305,
-          "y": 663,
+          "y": 674,
           "w": 148,
           "h": 70
+        },
+        "rotated": false
+      },
+      "step_3_last_limited_ssr_balloon.png": {
+        "frame": {
+          "x": 164,
+          "y": 341,
+          "w": 159,
+          "h": 61
         },
         "rotated": false
       },
@@ -31155,7 +31164,7 @@
       "step_3_last_sr_balloon.png": {
         "frame": {
           "x": 1,
-          "y": 369,
+          "y": 368,
           "w": 159,
           "h": 61
         },
@@ -31164,7 +31173,7 @@
       "step_4_button_off.png": {
         "frame": {
           "x": 457,
-          "y": 571,
+          "y": 564,
           "w": 148,
           "h": 70
         },
@@ -31173,7 +31182,7 @@
       "step_4_button_on.png": {
         "frame": {
           "x": 609,
-          "y": 547,
+          "y": 564,
           "w": 148,
           "h": 70
         },
@@ -31181,8 +31190,8 @@
       },
       "step_4_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 532,
-          "y": 288,
+          "x": 327,
+          "y": 350,
           "w": 159,
           "h": 61
         },
@@ -31199,8 +31208,8 @@
       },
       "step_4_last_sr_balloon.png": {
         "frame": {
-          "x": 532,
-          "y": 353,
+          "x": 164,
+          "y": 406,
           "w": 159,
           "h": 61
         },
@@ -31208,8 +31217,8 @@
       },
       "step_4_last_ssr_balloon.png": {
         "frame": {
-          "x": 356,
-          "y": 377,
+          "x": 1,
+          "y": 433,
           "w": 159,
           "h": 61
         },
@@ -31217,8 +31226,8 @@
       },
       "step_4_p_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 164,
-          "y": 395,
+          "x": 490,
+          "y": 370,
           "w": 159,
           "h": 61
         },
@@ -31226,8 +31235,8 @@
       },
       "step_4_s_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 434,
+          "x": 327,
+          "y": 415,
           "w": 159,
           "h": 61
         },
@@ -31235,8 +31244,8 @@
       },
       "step_4_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 211,
+          "x": 593,
+          "y": 1,
           "w": 175,
           "h": 89
         },
@@ -31244,8 +31253,8 @@
       },
       "step_5_button_off.png": {
         "frame": {
-          "x": 609,
-          "y": 621,
+          "x": 457,
+          "y": 638,
           "w": 148,
           "h": 70
         },
@@ -31253,8 +31262,8 @@
       },
       "step_5_button_on.png": {
         "frame": {
-          "x": 457,
-          "y": 645,
+          "x": 609,
+          "y": 638,
           "w": 148,
           "h": 70
         },
@@ -31262,8 +31271,8 @@
       },
       "step_5_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 519,
-          "y": 418,
+          "x": 164,
+          "y": 471,
           "w": 159,
           "h": 61
         },
@@ -31271,8 +31280,8 @@
       },
       "step_5_last_ssr_balloon.png": {
         "frame": {
-          "x": 327,
-          "y": 442,
+          "x": 1,
+          "y": 498,
           "w": 159,
           "h": 61
         },
@@ -31334,8 +31343,8 @@
       },
       "time_left_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 711,
+          "x": 327,
+          "y": 544,
           "w": 120,
           "h": 45
         },
@@ -40658,6 +40667,13 @@
     "name": "images/tips/game_event/40006/005",
     "ext": ".jpg",
     "url": "/assets/94e4ccf68949969eedd93b63662f4d874153320f84df52d27d42e7a75204abab?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80009/001": {
+    "name": "images/tips/game_event/80009/001",
+    "ext": ".jpg",
+    "url": "/assets/4cdb14c9b9ac332441b576cd985741ac656881a9a3896773a8efc61dfc5e5ee6?v=1",
     "v": 1,
     "frames": null
   }
