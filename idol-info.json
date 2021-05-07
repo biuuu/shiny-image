@@ -1081,6 +1081,18 @@
     "id": "1030180020"
   },
   {
+    "hash": "b43f56dd598d44a657b58f77940f126a",
+    "name": "【はるさき可憐花】黛 冬優子",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/07cfa686e2ce9cc6f061cf74ee53055116e7a1b1991e10370048cec52410f5fb?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/e1580528ef7b2866c51f6e52168e41c9c4adb24ffea553ec6801ff34b24afc6a?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/f99e218551af9ef7ca86eaddd6cf7c63468c27659856966c498b9e8c7d80b2f4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/e70eba04807da74c0002f58bd87a7abdd9a3dfbfd10501132df43c88237a47b5.mp4?v=1",
+    "id": "1030180030"
+  },
+  {
     "hash": "340a18641c774c18109f12e2456e1ec8",
     "name": "【気になる！？染めちゃう！？】和泉 愛依",
     "type": "p",
@@ -1937,6 +1949,20 @@
     "id": "1040110050"
   },
   {
+    "hash": "ba97d7c2b392de885ad3867914662e90",
+    "name": "【I・OWE・U】西城 樹里",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "背筋を伸ばして、深呼吸──",
+    "card": "https://shinycolors.enza.fun/assets/50f24e9be4856945fd5bca8828d11c47c111a0f4f428d5839104151d4a036c78?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/0fd15ac8d98cddc5e5ea924fc0fa8a30484cef7e85a07d28a82fbe2b7e18d16b?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/1ee69c55a59b195d484e23cc6ca3926831de0c6f934edba266f42dd0ca39e0af?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/42b9ba946ff1d9f88f0918ebd2ad2a0a82ec3a996df9d247574334523436aaeb.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/7df931cef075184fe1ced7ea115e07b5856f0bcd03453fb06e9562e325ca6856.mp4?v=1",
+    "id": "1040110060"
+  },
+  {
     "hash": "3b73d3ff6325d5732c0c3af7448f49dc",
     "name": "【杜野凛世の印象派】杜野 凛世",
     "type": "p",
@@ -2089,6 +2115,20 @@
     "movie": "https://shinycolors.enza.fun/assets/05118a749430c9536fabd2b9a49317d01dad61d18cc51b78c50391c09eb8e7e6.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/b41840a5e57a1a1b692290686dd4cb2e1c4cda8571aacb6e393371156ef87b1e.mp4?v=1",
     "id": "1040130050"
+  },
+  {
+    "hash": "01082ee04ba92b345f07a3ef2bdd9a2a",
+    "name": "【夏は来ぬ】有栖川 夏葉",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "アイス、早くしないと\n溶けちゃうわよ……！",
+    "card": "https://shinycolors.enza.fun/assets/cc5d47cbe883564c3daf6dc77f15ce901d258caa2ea96a1b45c0d36f64a3c409?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/ad1b347583700933a068b2e80614bc95cdd3a8a8eddbade65de4442e0ce8b2cc?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/ea9b3ca79c18515ececab671eb8a085d1a9cc04d87c697dc84ab79984d880f76?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/fd3da7daa35947dda4ec7cd812d299ed913f3c743a5b7b69e57a627b39a4fb3b.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/31859b19323fceaa620064c23a3ccfce5b1000b072550f0c96ad6403ad15cfa2.mp4?v=1",
+    "id": "1040130060"
   },
   {
     "hash": "9f3b7a64886aff68d78643a12eb3e389",
@@ -2481,6 +2521,20 @@
     "movie": "https://shinycolors.enza.fun/assets/b3fa57435c1504688b9fb0ec694a4cacf92461c33b4f825b438c49f29c70df52.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/2a622cc63f87b8db1a1ddad0d2da9571bc3d8fe6fdc477bd21e46de4f7392aec.mp4?v=1",
     "id": "1040200020"
+  },
+  {
+    "hash": "009bb275fde8a6671fbda5980aca3d1a",
+    "name": "【つづく、】浅倉 透",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "────リバース",
+    "card": "https://shinycolors.enza.fun/assets/baef02172bb64f29326063aceb0b16436f136ba0efa4f2524af6d5339c8e603c?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/7d01a8f0de94a41692e14051256cb55ee3b06c90d18d7b72d52b14d7b1076e82?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/bd106adf88c9dcd155e80ba0368e76b27406beb633696886fe787fdd0293ceca?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/1d82f155f6e57928ec5f5c4911fc65d57b80b921f4fbe599bd5c2785bb84e1de.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/fe08427c5458ab6f3c8cb1834bed13d8e1e83b1fd0ae920637b4dda6c3665f06.mp4?v=1",
+    "id": "1040200030"
   },
   {
     "hash": "c16f6034f53f5303c264831515ef0d9a",
@@ -3895,6 +3949,14 @@
     "id": "2030220020"
   },
   {
+    "hash": "486f84770bc27a7c06a5f04c4280811a",
+    "name": "【PEEPS!】市川 雛菜",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/fc8c315b04b4ae3b7cf880e110cdc6528cfa729116f3af472acd9145c3038e0b?v=1",
+    "id": "2030230010"
+  },
+  {
     "hash": "6e3d774843ac8f42bca95d22d13e210a",
     "name": "【トリプルイルミネーション】櫻木 真乃",
     "type": "s",
@@ -4215,6 +4277,14 @@
     "id": "2040060060"
   },
   {
+    "hash": "32968245992f7915779b696a29d30f03",
+    "name": "【それは途中の１ページ】白瀬 咲耶",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/17199292bc49ba9ea7aeb5a54fed19d2f7288c4e95eff762de0edad3d7a30e3c?v=1",
+    "id": "2040060070"
+  },
+  {
     "hash": "53c29ad856326e61fb2ec3922d1164ad",
     "name": "【等身大のレイニーデイ】三峰 結華",
     "type": "s",
@@ -4381,6 +4451,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/e767a821e479347f1efde9876c4d529f62e141e5db6a002d866491ce85e580ce?v=1",
     "id": "2040100050"
+  },
+  {
+    "hash": "7618c3ce79f67eddbe63ab3a76c950ac",
+    "name": "【code:SH☆☆TING star!】園田 智代子",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/e8b128972e626a344eb351077ae8c6946138239f2c39544fa3232aaecfc1c594?v=1",
+    "id": "2040100060"
   },
   {
     "hash": "66cab712b59447ebfbcdb4f241fcc263",
@@ -4751,6 +4829,14 @@
     "id": "2040190040"
   },
   {
+    "hash": "8c823db641c688b6f05bbe29e1e145e1",
+    "name": "【よしよし♪】和泉 愛依",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/ddf4e65c103b5f1c2373eddf87d6d14b73514bb8a6817d1f8eea7dfdae211e2d?v=1",
+    "id": "2040190050"
+  },
+  {
     "hash": "99cb764c84a3b3807616e22db0b393a6",
     "name": "【ハウ・アー・UFO】浅倉 透",
     "type": "s",
@@ -4797,6 +4883,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/b44ca2bdbc4d776a558cb8b7a117b63ee6894d03d37204491695f1f41b3f8efd?v=1",
     "id": "2040220010"
+  },
+  {
+    "hash": "0e3ad547376f346f0ece5346797b78ec",
+    "name": "【思い出にもならない】福丸 小糸",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/440cfc214431d4f8ad1e462a198436159e97c332b7902dfa7ae5cda1441d0bc1?v=1",
+    "id": "2040220020"
   },
   {
     "hash": "2511e427c4763a8d913ab51f93f994dd",
