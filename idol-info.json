@@ -1165,6 +1165,18 @@
     "id": "1030230010"
   },
   {
+    "hash": "bc7ffbfda6ab72bb78be5342625f6d80",
+    "name": "【Makeup♡Box】市川 雛菜",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/4e9afb8419a10b2ed9737866b8a3735efb3ec4495f15ac80defef66a8c0e7fae?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/a3fc179aab6f8e7c6427a6cfc3994173e2678b3c09a0d97f5f371157138b14ef?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/dcf070dc234ddbf19f423dd36e54af5098f12f1180659df4e8793af4c120b8e5?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/a0c5ac5eeb334f63f3d5fb5bd8c089c6c38c048f1165947fd8f494039b8ba08c.mp4?v=1",
+    "id": "1030230020"
+  },
+  {
     "hash": "1209a8ef1f8e6a454b7e8df52952bc7f",
     "name": "【ほわっとスマイル】櫻木 真乃",
     "type": "p",
@@ -3459,6 +3471,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/4ef276a0b08d558be3ce4dde89080f2e10afda71240123ef913a8be69085eded?v=2",
     "id": "2030020050"
+  },
+  {
+    "hash": "cd722a8ab0efc50d86f0a6cacea8b537",
+    "name": "【幾星霜の先に】風野 灯織",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/037fc66f38c265807191d7b5e8a0af75e76a0723dc6911fc3912c9b3f8350338?v=1",
+    "id": "2030020060"
   },
   {
     "hash": "a6a25d66d620f3eeeed3f5404a87339d",
