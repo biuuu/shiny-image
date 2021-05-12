@@ -253,6 +253,28 @@
     "id": "1020230010"
   },
   {
+    "hash": "f5922f22c836722274938cf8360b15bc",
+    "name": "【白いツバサ】七草 にちか",
+    "type": "p",
+    "rarity": 2,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/0d4c4c3f819d1dbfc6d490fed57000325f2bda219a76d18f9ba6fc8bdddb25f8?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/c4dc00dda5dc2ab2934846eaddbbaecd20b69e6a2ab67a5c33d2b0c84eb0134e?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/51b984470c6cd1505becb8b6312ac355626f58a97ff84b7e99f0025f20b2184f?v=1",
+    "id": "1020240010"
+  },
+  {
+    "hash": "259e2cb01d686ac389395c6ebc84e4cf",
+    "name": "【白いツバサ】緋田 美琴",
+    "type": "p",
+    "rarity": 2,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/ba3aaa540c5be7a2889840f989712a9d8c9d69031d5beb20de4887f9705ede44?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/231c4100f0094c458c80f44b0de454feb38a2aed198c2758ea3c9b09a3099a2c?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/b1f92bc90a2f2f77caad207c3c21fc967506b2f7df1c6aa42bfe1cd1bbe2199e?v=1",
+    "id": "1020250010"
+  },
+  {
     "hash": "aca516efe72eb876223a1958d6a19605",
     "name": "【ナチュラルモード】櫻木 真乃",
     "type": "p",
@@ -2633,6 +2655,20 @@
     "id": "1040230020"
   },
   {
+    "hash": "3d0392cfc4e1a1bb2be3041d96a6d37c",
+    "name": "【♡まっクろはムウサぎ♡】七草 にちか",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "べー……",
+    "card": "https://shinycolors.enza.fun/assets/26870884a43fc66c1d7683d207cb1a82942df6a8d8a69dacc4d6e436266741a8?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/f56fcefca863bd170575d2b4df475e894049cc4fa4d2f362d886806c309633ea?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/d24aa58fe31de5430454b7cabc6867bfa9543739145a44fbcc8e64800f3b1c34?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/1224d498ddf955a88e5c39046f9c4a2727582629f83373b68668e55874b199e8.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/0bc75b3a13db45ba8622a8b6e5a3e89e80666663702e35ef60ba968ba97ea300.mp4?v=1",
+    "id": "1040240010"
+  },
+  {
     "hash": "a456b7b0657ec4309dd56621c5290341",
     "name": "【白いツバサ】櫻木 真乃",
     "type": "p",
@@ -2907,6 +2943,30 @@
     "icon": "https://shinycolors.enza.fun/assets/6b26665e6d7a4b7287e867c9af9056b882eec143b32076e70a2562e6f3f4cee5?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/4fd27772335bfb6d377e710bd3436612a6a35142d2296b83e3841c1b0c20e23e.mp4?v=2",
     "id": "1930230010"
+  },
+  {
+    "hash": "a7828ca201f899f270900d6e76b1a396",
+    "name": "【白いツバサ】七草 にちか",
+    "type": "p",
+    "rarity": 3,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/8a0026de28a81c37f46c6a37c004374338f444e2850fe2806f737eba1e51e644?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/4fec7f618476579bb66e158c0d27f645e2be059652f08c03dc905577be6a3fa2?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/44c6b4cc020cb725f1ba8c037cc336a64637e0c56bbd1abd28b29942a0bd082d?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/f8d2a53768cea60e962e4f8b8af18612193e9c159fbb07b60f5054582e59bfda.mp4?v=1",
+    "id": "1930240010"
+  },
+  {
+    "hash": "a03a0f314e01ae8b8723b6711d4ac5d4",
+    "name": "【白いツバサ】緋田 美琴",
+    "type": "p",
+    "rarity": 3,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/1a71c528f98e6c430e4466625ccbf631be74fa07e43708fe126f50c4072442d6?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/6e6c12386f759625f7fc39d5c41ab7fbed0890e3d9e3704feeb70204b1c2d4d3?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/174f208f7ad023c61da1b5be6b4468f739baf591f849f7ea07744019a1407506?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/b6e72c119984443311431d0b40312e2678e61df96941b4729b22f6997fa42edc.mp4?v=1",
+    "id": "1930250010"
   },
   {
     "hash": "547d5c0d4b83b5e898d2e1b69d3f783d",
@@ -3185,6 +3245,30 @@
     "id": "1940230010"
   },
   {
+    "hash": "09b4279c34f7b87e0f4d6c9395806719",
+    "name": "【アイドルロード】七草 にちか",
+    "type": "p",
+    "rarity": 4,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/bc1c36b5d4499f55cc261fb09ecd307bf1de3280c57a13c9b4e7a431b208a5bc?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/70a67abd067c9f43a51f5fcd3aeba3595f258b4e45cf5707a284a9351b09d4a1?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/726c2295a75e85315d9fb44081f323031faef4aa570f7cc04bf75996fd0f3d8a?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/07103ade64734695f0549ef3dcec1c8ac93e63640bc4fb1de3d4f38711b9374d.mp4?v=1",
+    "id": "1940240010"
+  },
+  {
+    "hash": "18ae2ddca621a75c0e02961f31ba35f7",
+    "name": "【アイドルロード】緋田 美琴",
+    "type": "p",
+    "rarity": 4,
+    "road": true,
+    "card": "https://shinycolors.enza.fun/assets/7cdd44a2303e802fe1ec37be6fa8d4a5c07c81ef8afd75387e2d593a36c0de55?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/5b0e6135bf84450e1705fd9444d0c822539dc7835f47a892fda7c97e812f6b6f?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/a0e5b064f46d35e94cfa62a4ba8b3f4e252b38b552a646d31f50e2a865c356d6?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/714d57588aecc7f941e3c7c5840a175c582c1dfec59d8a3cd2fdb77f59e36391.mp4?v=1",
+    "id": "1940250010"
+  },
+  {
     "hash": "094af45e9caa28e17a298fc16f5e5d3a",
     "name": "【アイドルのたまご】田中 摩美々",
     "type": "s",
@@ -3399,6 +3483,22 @@
     "rarity": 2,
     "card": "https://shinycolors.enza.fun/assets/6b5f8df3115ee6bc84280c60ef19e75e7d4f6a41bb36b84cf430cddd74423588?v=2",
     "id": "2020230010"
+  },
+  {
+    "hash": "b7d1571ff295ced571a759631c36148f",
+    "name": "【２８３プロのヒナ】七草 にちか",
+    "type": "s",
+    "rarity": 2,
+    "card": "https://shinycolors.enza.fun/assets/104b0cd0abaa7aba054f09da43cdea1b180054b1d87d28336ae5d4692b44fc3c?v=1",
+    "id": "2020240010"
+  },
+  {
+    "hash": "c271529fb6578f360e6ca142d8780c3b",
+    "name": "【２８３プロのヒナ】緋田 美琴",
+    "type": "s",
+    "rarity": 2,
+    "card": "https://shinycolors.enza.fun/assets/1f05d250067e320e8886b9fa60eaafc92d32839ab09c5c4a3f5455d6f0c3c303?v=1",
+    "id": "2020250010"
   },
   {
     "hash": "60a9ea88b43b6ccdf17fdcae7a518021",
