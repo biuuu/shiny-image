@@ -4629,8 +4629,8 @@
   "images/tips/game_event/fes_marathons/006": {
     "name": "images/tips/game_event/fes_marathons/006",
     "ext": ".jpg",
-    "url": "/assets/cded6d7cce69c68ed711999a7e28e714d24185673e1b3cc6b947d31e52ae1129?v=3",
-    "v": 3,
+    "url": "/assets/cded6d7cce69c68ed711999a7e28e714d24185673e1b3cc6b947d31e52ae1129?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/game_event/produce_marathons/004": {
@@ -42805,5 +42805,54 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/20026/001": {
+    "name": "images/tips/game_event/20026/001",
+    "ext": ".jpg",
+    "url": "/assets/fa08e2af85a1328bc24e0353bab6b225fbd9c8c91c8b26b1c35a18bb696b1be0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20026/002": {
+    "name": "images/tips/game_event/20026/002",
+    "ext": ".jpg",
+    "url": "/assets/7466d01f7eeb85cf069811dbcccea7aa61433706cd02658ecdb3291adbcae7a0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20026/003": {
+    "name": "images/tips/game_event/20026/003",
+    "ext": ".jpg",
+    "url": "/assets/ee059517cce1bc0fd5acff80d39eb22aeb36bf855feea5d471659bc4e9b0ea1a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20026/005": {
+    "name": "images/tips/game_event/20026/005",
+    "ext": ".jpg",
+    "url": "/assets/445fd08a2e4a21e53e444439e11d2b8732086f99082b3e7cced16c531a6106e4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/54/001": {
+    "name": "images/tips/game_event/54/001",
+    "ext": ".jpg",
+    "url": "/assets/5c52b0fdf66d1cf6061e9d3c27095d722687de9f3c4990c48f2713767923c9d9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/54/002": {
+    "name": "images/tips/game_event/54/002",
+    "ext": ".jpg",
+    "url": "/assets/d4fa4b52eab43e87544820699ed8e127d275f4f6e80a455c38f861a0b93df3de?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/54/003": {
+    "name": "images/tips/game_event/54/003",
+    "ext": ".jpg",
+    "url": "/assets/fab3d0fa2f3259b06880eef3007020864f37e68485ac58ffd049d1e4093c0157?v=1",
+    "v": 1,
+    "frames": null
   }
 }
