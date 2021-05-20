@@ -839,6 +839,18 @@
     "id": "1030120040"
   },
   {
+    "hash": "12ca7333323f0a6223145b1de09292c3",
+    "name": "【階段式純情昇降機】杜野 凛世",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/495a687865aebe05ab7ceeb8f0a4d2ebde18a6997c278ac57d87147536e1de92?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/ac8d83fe8037cc34ca8374dc0253aac6fbce425bccf5d2aec0fb742a4a272f22?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/4c5a516448c15125715773933251ce3f40c7a4929b80f5efd48d4db35a961e63?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/242fd22385a83764b0240c5beb58987c3e235cbf456e290dab4706c276226df0.mp4?v=1",
+    "id": "1030120050"
+  },
+  {
     "hash": "495823e5adc4b8e507d4fae3d80df1e9",
     "name": "【ストイックトレーニング】有栖川 夏葉",
     "type": "p",
@@ -2669,6 +2681,20 @@
     "id": "1040240010"
   },
   {
+    "hash": "d7a32f9ebe6c8cae8f6caa054a91b721",
+    "name": "【ROUNDLY】緋田 美琴",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──ぐるぐる走り回って\n私のこと、探していたの？",
+    "card": "https://shinycolors.enza.fun/assets/3415b58bddb7fffd8a7e111899098733db195cfeded244e861b28e15c7fefc5d?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/7077f9d5696b50eee35a3430bbfc55c04d66290dc8309416c5f2815cdc2f8fa3?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/7d5d7d66de14fff33fbda7ab2c7ef450f8aea72fc609113e1257095280f6d5e6?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/c39fd48ff7c10e4859b1c895bdd21886db1471fbd5ad724fb779a70372920a5d.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/7caad2a26be62d06f099f39abbcc0a2df4d8de1eace19cb35b5a22460c699eaf.mp4?v=1",
+    "id": "1040250010"
+  },
+  {
     "hash": "a456b7b0657ec4309dd56621c5290341",
     "name": "【白いツバサ】櫻木 真乃",
     "type": "p",
@@ -4443,6 +4469,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/45bdf0a7f7b4a02e4008d4f76021783fd6a8f7e8cf1b58f2dbf1159afae79c05?v=1",
     "id": "2040070050"
+  },
+  {
+    "hash": "e78e415aa3a1b4254e29fe186be6a184",
+    "name": "【リ・リフレクション】三峰 結華",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/691340bdba7fb92357d23fdee3ffbd4af02ff9bab2ec82af122f3db85aa1b09b?v=1",
+    "id": "2040070060"
   },
   {
     "hash": "f4315d07e4ea9565101adf53d4470e77",
