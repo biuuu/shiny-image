@@ -2401,6 +2401,20 @@
     "id": "1040160050"
   },
   {
+    "hash": "3ea66b88b6469f4b5e3880e44e8726f8",
+    "name": "【ハッピー・アイ・スクリーム】桑山 千雪",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "手を伸ばすなら……\n光の方へ……",
+    "card": "https://shinycolors.enza.fun/assets/33c6026ef58724ed25b4326a1919a678c28d95ae344119870d4a06d9308d4a6f?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/13435e49cd16d7ffc5da81bd4bf551d9d5e47f3b781e377f86650efd82eea56d?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/b70d243a486f4479aa1d1f9b5803a0fdc78bbc2cb7bc24e7c795f954eb93222d?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/2c339d133f2e03435248d530f25c00f1a8a6d26f0c79e1a966aae1ac58512fa6.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/2c945f1e74b34cd66917fb8f3b7259de8ad46d1b6e85066460a9aeb8b26778a1.mp4?v=1",
+    "id": "1040160060"
+  },
+  {
     "hash": "bf7654cea8730408eaca21656d2b5933",
     "name": "【ジャンプ！スタッグ！！！】芹沢 あさひ",
     "type": "p",
@@ -4791,6 +4805,14 @@
     "id": "2040140060"
   },
   {
+    "hash": "41bcdfa48ad1d9c3723fdbcef2ba06e5",
+    "name": "【ever-】大崎 甘奈",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/85991632d8b26c9aa6dc26797cf4c524cb67e177921130fa9d505cc67a02b924?v=1",
+    "id": "2040140070"
+  },
+  {
     "hash": "5383c87f7cf2f1e4f28d107e23005a52",
     "name": "【彩りファッションドール】大崎 甜花",
     "type": "s",
@@ -5029,6 +5051,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/2f67e7bcef66b4e6b83be2f2ada275b2c4f174f617ace56fc337fc7c2f3f2c5a?v=1",
     "id": "2040210020"
+  },
+  {
+    "hash": "b0f8690698e52dcd48de0242c4d8dfd3",
+    "name": "【雨情】樋口 円香",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/d03df8e8642ac31058b46a45ee26c4afbdf12fe50cbbdc555b67f2e45b3eccb4?v=1",
+    "id": "2040210030"
   },
   {
     "hash": "e4dcbdf86b4216c56c4682f8fd0a1abb",
