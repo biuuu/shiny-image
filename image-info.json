@@ -3201,8 +3201,8 @@
   "images/tips/gasha/gasha_group_tip/1/002": {
     "name": "images/tips/gasha/gasha_group_tip/1/002",
     "ext": ".jpg",
-    "url": "/assets/6f75b855ade8d20ce7720408d11d42a5b2e3ad57c778678975cc8279a2578d8c?v=2",
-    "v": 2,
+    "url": "/assets/6f75b855ade8d20ce7720408d11d42a5b2e3ad57c778678975cc8279a2578d8c?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/concert_collabo_fes/001": {
@@ -5021,8 +5021,8 @@
   "images/tips/beginner_mission/003": {
     "name": "images/tips/beginner_mission/003",
     "ext": ".jpg",
-    "url": "/assets/8dc941c2f8f68c8c5664de03a200f1e57be63426b8712e62c5bc87e0edf827c1?v=1",
-    "v": 1,
+    "url": "/assets/8dc941c2f8f68c8c5664de03a200f1e57be63426b8712e62c5bc87e0edf827c1?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/beginner_mission/004": {
@@ -37320,8 +37320,8 @@
   "images/ui/home_deck/parts": {
     "name": "images/ui/home_deck/parts",
     "ext": ".png",
-    "url": "/assets/0a369efbb9bc07655c1281a9e6d322e9d0715afb98d6bc0b246423f09e77df28?v=14",
-    "v": 14,
+    "url": "/assets/0a369efbb9bc07655c1281a9e6d322e9d0715afb98d6bc0b246423f09e77df28?v=15",
+    "v": 15,
     "frames": {
       "base_long_center.png": {
         "frame": {
@@ -37453,7 +37453,7 @@
         "frame": {
           "x": 540,
           "y": 1724,
-          "w": 244,
+          "w": 364,
           "h": 40
         },
         "rotated": false
@@ -37487,8 +37487,8 @@
       },
       "home_deck_idol_leave_button.png": {
         "frame": {
-          "x": 937,
-          "y": 1681,
+          "x": 1548,
+          "y": 1639,
           "w": 68,
           "h": 38
         },
@@ -37505,7 +37505,7 @@
       },
       "home_deck_mode_tab_off.png": {
         "frame": {
-          "x": 937,
+          "x": 1348,
           "y": 1639,
           "w": 196,
           "h": 38
@@ -37514,7 +37514,7 @@
       },
       "home_deck_mode_tab_on.png": {
         "frame": {
-          "x": 788,
+          "x": 908,
           "y": 1724,
           "w": 198,
           "h": 40
@@ -37568,7 +37568,7 @@
       },
       "option_frame.png": {
         "frame": {
-          "x": 1137,
+          "x": 1110,
           "y": 1639,
           "w": 234,
           "h": 134
@@ -42852,6 +42852,27 @@
     "name": "images/tips/game_event/54/003",
     "ext": ".jpg",
     "url": "/assets/fab3d0fa2f3259b06880eef3007020864f37e68485ac58ffd049d1e4093c0157?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/55/001": {
+    "name": "images/tips/game_event/55/001",
+    "ext": ".jpg",
+    "url": "/assets/05f25fb8cfed5e994e9485914d52256d666b950b47aa28bdab70e54fab29279f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/55/002": {
+    "name": "images/tips/game_event/55/002",
+    "ext": ".jpg",
+    "url": "/assets/d7e7e64bbb86e26d473a3fda4d8324392f08c7c1ca38a770612911b255522248?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/55/003": {
+    "name": "images/tips/game_event/55/003",
+    "ext": ".jpg",
+    "url": "/assets/f71576dfba19dbf9cb83a46a0c06d5e58aa667fcb8dedfdf7faac70b81de2632?v=1",
     "v": 1,
     "frames": null
   }
