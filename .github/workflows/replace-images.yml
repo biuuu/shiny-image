@@ -22,7 +22,7 @@ jobs:
     - name: Checkout origin images
       uses: actions/checkout@v2
       with:
-        ref: origin
+        ref: image
         path: origin
     - name: Checkout group images
       uses: actions/checkout@v2

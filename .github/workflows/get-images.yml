@@ -31,8 +31,9 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v2
       with:
         commit_message: Save origin images
-        target_branch: origin
+        target_branch: image
         build_dir: origin
+        keep_history: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Repository Dispatch
