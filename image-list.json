@@ -1,5 +1,6 @@
 [
   "images/ui/common/parts_buttons.json_image",
+  "images/ui/common/parts_skill_list.json_image",
   "images/ui/start_and_common/parts.json_image",
   "images/ui/my_page/parts.json_image",
   "images/ui/present_box/parts.json_image",
@@ -7,6 +8,7 @@
   "images/ui/album/parts.json_image",
   "images/ui/idol_portal/parts.json_image",
   "images/ui/idol_detail/parts.json_image",
+  "images/ui/idol_detail/parts_support.json_image",
   "images/ui/fes/parts.json_image",
   "images/ui/produce_top/parts.json_image",
   "images/ui/beginner_mission/parts.json_image",
