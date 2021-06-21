@@ -659,6 +659,18 @@
     "id": "1030080040"
   },
   {
+    "hash": "5f39d4090a02a3962851f978634c4b66",
+    "name": "【雨・雨・電・電】幽谷 霧子",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/dd586eb069522bc887265e671ad1d299adb9e5d526bc44217370a495e798f61f?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/34b754bcc7d6005141950cf39d151b49567986872d2bda33a7a8ce6c6a2cee77?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/b749a684277c8b8f092f61df3a1a4e355338aa35743e3b6b7351045315165d45?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/162058d8b1c68fb53af6513e7eb5dd0261c0c5805961d35fa1ae10b74f3116d4.mp4?v=1",
+    "id": "1030080050"
+  },
+  {
     "hash": "33bf821865c614a66c57b658dcff68b8",
     "name": "【マメ丸と一緒！】小宮 果穂",
     "type": "p",
@@ -1433,6 +1445,20 @@
     "movie": "https://shinycolors.enza.fun/assets/c17f4342829d57e741fcd760ee3aa649057dec24542d34935c7da2efa0b0a7e8.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/10bff573fd897886b2895c0eac344183d544840ac8f262387c8039c9e51062fc.mp4?v=1",
     "id": "1040030050"
+  },
+  {
+    "hash": "8cbf322b3c022c1e777b3fc0cdac193c",
+    "name": "【たまゆらフレーミング】八宮 めぐる",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "晴れたーっ！",
+    "card": "https://shinycolors.enza.fun/assets/6361e7ddfb749810f0d36fcfa53a2d6968ab2702aa55c087ac140b2291b255c4?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/4fd3dfd2cce7c400016a1997e7d801467650e8e50e3255b80cb39d5b21b3826e?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/cf44a3421be2785c80cde79ca03024d4003df0d3025714723d8bd50120ee447d?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/c5f720e15e3d4f6c00d7639a266ef01a1ba7eee0a70d981bd764f306b1e35ad8.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/fc4421c4c48dda2f5a71c3bb6c78db753590ac6575c161fd066eddc1fb157c89.mp4?v=1",
+    "id": "1040030060"
   },
   {
     "hash": "522da89a9744e24a1b7019c098c1b542",
@@ -2553,6 +2579,20 @@
     "movie": "https://shinycolors.enza.fun/assets/3ebb3925bc35b2c4e06bac64fbb9620c8ed61c1ce9eee4e6ac5553acd55bbd29.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/e9e8754d298c400497f91d267f2991457634a835a31872a8aed2fe6bc16a6596.mp4?v=1",
     "id": "1040190030"
+  },
+  {
+    "hash": "32b83a73e0d4c93358f0fbc19cbfbfe4",
+    "name": "【今のうちは走らない】和泉 愛依",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "さ、行きましょう……",
+    "card": "https://shinycolors.enza.fun/assets/9b21751925fe86552591a55e93a4adc72d8b828eaf166767e3537b5fa67401a3?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/dc56adfeb4154e68791b42967bbeaa48d8324a4dd9a18941a0228972e8756df8?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/973cc26633de9bf34172ac02550b03d8ee86efeb83b855f485110b52e87c0de8?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/121d07629dfd3d38cddbd2d3715f21b3f63bc9e83809016b78e4d8be856738a3.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/c7b9111ee732cb885513babf81b0fb06f9be05682f07791de114c4a05e611e1b.mp4?v=1",
+    "id": "1040190040"
   },
   {
     "hash": "9627c8bb1322c0bce3487adfa5cead04",
@@ -4029,6 +4069,14 @@
     "id": "2030170020"
   },
   {
+    "hash": "234b4c02be7f0ce9df25ba04e1897f1b",
+    "name": "【頬を照らすのは】芹沢 あさひ",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/604e3952581c77eaf3dbe875eb79f1175b2b8ca15caddb01417dbdb1c8d3b6a7?v=1",
+    "id": "2030170030"
+  },
+  {
     "hash": "8cf1d89a11868a609e41febb62e28c1f",
     "name": "【(ノージャンル)グラヴィティ】黛 冬優子",
     "type": "s",
@@ -5083,5 +5131,13 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/b1da066db8963826a8a61a51552f60c21611a0b89ca406a0a3a9e9c051da0f90?v=1",
     "id": "2040230010"
+  },
+  {
+    "hash": "9384e970ba4c0ae902096795356721bf",
+    "name": "【A】緋田 美琴",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/a7c23544bdbdedc6849920ceec0b39a7df3e8dd3af8d8554415e2b8d99c2bdfa?v=1",
+    "id": "2040250010"
   }
 ]
