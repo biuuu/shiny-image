@@ -65,7 +65,7 @@ const start = async () => {
         let md5Value = await md5(filePath)
         imageMd5[fileName] = md5Value
         await fs.copy(filePath, `./dist/image/tips/${name}`)
-        await sharp(filePath).webp().toFile(`./dist/image/tips/${fileName}.webp`)
+        // await sharp(filePath).webp().toFile(`./dist/image/tips/${fileName}.webp`)
         csvList.push({
           name: info[fileName].name + info[fileName].ext,
           url: `tips/${name}`,
@@ -107,7 +107,7 @@ const start = async () => {
         }
       }).composite(paramsOver)
       await rawData.png().toFile(`./temp/${key}.png`)
-      await rawData.webp().toFile(`./temp/${key}.webp`)
+      await rawData.webp().toFile(`./dist/${key}.webp`)
 
       console.log('save:', key)
 
