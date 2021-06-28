@@ -99,18 +99,15 @@ const start = async () => {
       }
 
       // draw image
-      await sharp(imageBuffer.data, {
+      const rawData = sharp(imageBuffer.data, {
         raw: {
           width: imageBuffer.info.width,
           height: imageBuffer.info.height,
           channels: imageBuffer.info.channels
         }
-      })
-      .composite(paramsOver)
-      .png()
-      .toFile(`./temp/${key}.png`)
-      .webp()
-      .toFile(`./temp/${key}.webp`)
+      }).composite(paramsOver)
+      await rawData.png().toFile(`./temp/${key}.png`)
+      await rawData.webp().toFile(`./temp/${key}.webp`)
 
       console.log('save:', key)
 
