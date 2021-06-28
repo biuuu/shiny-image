@@ -107,7 +107,7 @@ const start = async () => {
         }
       }).composite(paramsOver)
       await rawData.png().toFile(`./temp/${key}.png`)
-      await rawData.webp().toFile(`./dist/${key}.webp`)
+      await rawData.webp().toFile(`./dist/image/${key}.webp`)
 
       console.log('save:', key)
 
