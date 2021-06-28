@@ -42,6 +42,7 @@ const removePixel = (data, imageInfo, rectInfo) => {
 
 const start = async () => {
   await fs.emptyDir('./dist/')
+  await fs.emptyDir('./dist/image/')
   await fs.emptyDir('./temp/')
   const files = await glob.promise('./images/*/*.{png,jpg}')
   const imageMap = new Map()
