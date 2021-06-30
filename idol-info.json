@@ -2735,6 +2735,20 @@
     "id": "1040240010"
   },
   {
+    "hash": "88606c757ee1a40c2b19c0f70664aa46",
+    "name": "【ヴぇりべりいかシたサマー】七草 にちか",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "……かっ、ばか……っ、ばか………………っ",
+    "card": "https://shinycolors.enza.fun/assets/105493ef0cfa7c6295b8eea2ae4e9d62b1b69700b8a1b8cf324f4b618dcf019a?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/de1d336fcb6e4c9f339cb5828374549e1ed679a57d0eed061e069e378b113a17?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/ae9b9843fc5f019e70b9d8cd17c74add7e8e205c818fccee1f2ec227cea63d55?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/527278d776bac62a2fac853365faf62a450eb90f9e301fe344a3ac7842ae105d.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/290512d6239f06d7767a7319fad29e40f78d0f43ce545cc13ae9ca5a9eb4bf08.mp4?v=1",
+    "id": "1040240020"
+  },
+  {
     "hash": "d7a32f9ebe6c8cae8f6caa054a91b721",
     "name": "【ROUNDLY】緋田 美琴",
     "type": "p",
@@ -4237,6 +4251,14 @@
     "id": "2040010090"
   },
   {
+    "hash": "1a19a614588afa9697b4ad3748d269ca",
+    "name": "【夏風渡るdiary】櫻木 真乃",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/61ef0e92b8d3093ed88d862ab4c794671c7d5701678dff6804b39569e35281b2?v=1",
+    "id": "2040010100"
+  },
+  {
     "hash": "ba5e0c844214f1ee75a84476101223b4",
     "name": "【みんなと結んだもの】風野 灯織",
     "type": "s",
@@ -5139,5 +5161,13 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/a7c23544bdbdedc6849920ceec0b39a7df3e8dd3af8d8554415e2b8d99c2bdfa?v=1",
     "id": "2040250010"
+  },
+  {
+    "hash": "f3a6a442baa53a755d44b66942f39888",
+    "name": "【RESONANCE】緋田 美琴",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/652ad87faf3bafe87981c55ea4fcc6cdd439f1dccfb638c9a93499eda4761d1c?v=1",
+    "id": "2040250020"
   }
 ]
