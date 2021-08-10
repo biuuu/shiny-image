@@ -23192,18 +23192,9 @@
   "images/ui/selectable_present/parts": {
     "name": "images/ui/selectable_present/parts",
     "ext": ".png",
-    "url": "/assets/ab9e47413d2fdcd4d17edc1eb88870101696a9edc1129e5c22905c78c29be71e?v=4",
-    "v": 4,
+    "url": "/assets/ab9e47413d2fdcd4d17edc1eb88870101696a9edc1129e5c22905c78c29be71e?v=5",
+    "v": 5,
     "frames": {
-      "logo_present_box.png": {
-        "frame": {
-          "x": 1,
-          "y": 201,
-          "w": 110,
-          "h": 105
-        },
-        "rotated": false
-      },
       "logo_selectable_present.png": {
         "frame": {
           "x": 1,
@@ -23219,6 +23210,15 @@
           "y": 101,
           "w": 464,
           "h": 96
+        },
+        "rotated": false
+      },
+      "present_back_shadow.png": {
+        "frame": {
+          "x": 1,
+          "y": 201,
+          "w": 73,
+          "h": 13
         },
         "rotated": false
       }
@@ -43771,6 +43771,27 @@
     "name": "images/tips/shop/009",
     "ext": ".jpg",
     "url": "/assets/fc954985912c2ae36c026db7f5478018d51b1dbd25db8d0716c9a417e700fbb5?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60020/001": {
+    "name": "images/tips/game_event/60020/001",
+    "ext": ".jpg",
+    "url": "/assets/9115263872e537a13170438042b6b5c5e386e6eb07696ec7dc82cb5c9942ae3b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60020/002": {
+    "name": "images/tips/game_event/60020/002",
+    "ext": ".jpg",
+    "url": "/assets/6941c454caf35fa1ad8bd73229697daae3f39b7b7ff92a87baecaecbfee8df65?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60020/003": {
+    "name": "images/tips/game_event/60020/003",
+    "ext": ".jpg",
+    "url": "/assets/14ef4c9d09f8767cd03ad200df09eddaef47685b13aecb3a49762fe79fd539ba?v=1",
     "v": 1,
     "frames": null
   }
