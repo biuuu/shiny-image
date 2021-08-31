@@ -21098,8 +21098,8 @@
   "images/ui/my_page/parts": {
     "name": "images/ui/my_page/parts",
     "ext": ".png",
-    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=32",
-    "v": 32,
+    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=33",
+    "v": 33,
     "frames": {
       "banner_list_base_bottom.png": {
         "frame": {
@@ -21113,7 +21113,7 @@
       "banner_list_base_middle.png": {
         "frame": {
           "x": 1,
-          "y": 800,
+          "y": 690,
           "w": 301,
           "h": 2
         },
@@ -21148,8 +21148,8 @@
       },
       "common_menu_72hour_sale_text.png": {
         "frame": {
-          "x": 781,
-          "y": 96,
+          "x": 329,
+          "y": 710,
           "w": 76,
           "h": 38
         },
@@ -21157,8 +21157,8 @@
       },
       "common_menu_button_stamina_gauge.png": {
         "frame": {
-          "x": 484,
-          "y": 848,
+          "x": 527,
+          "y": 724,
           "w": 90,
           "h": 14
         },
@@ -21166,8 +21166,8 @@
       },
       "common_menu_button_stamina_gauge_base.png": {
         "frame": {
-          "x": 1,
-          "y": 856,
+          "x": 409,
+          "y": 724,
           "w": 114,
           "h": 24
         },
@@ -21175,8 +21175,8 @@
       },
       "common_menu_campaign_badge_commu_open.png": {
         "frame": {
-          "x": 671,
-          "y": 308,
+          "x": 529,
+          "y": 674,
           "w": 120,
           "h": 46
         },
@@ -21184,8 +21184,8 @@
       },
       "common_menu_campaign_badge_default.png": {
         "frame": {
-          "x": 730,
-          "y": 258,
+          "x": 205,
+          "y": 696,
           "w": 120,
           "h": 46
         },
@@ -21193,8 +21193,8 @@
       },
       "common_menu_campaign_badge_drop_and_helper_staff_appearance_rate_up.png": {
         "frame": {
-          "x": 467,
-          "y": 208,
+          "x": 1,
+          "y": 640,
           "w": 260,
           "h": 46
         },
@@ -21203,7 +21203,7 @@
       "common_menu_campaign_badge_drop_and_trust_point_up.png": {
         "frame": {
           "x": 467,
-          "y": 308,
+          "y": 258,
           "w": 200,
           "h": 46
         },
@@ -21211,8 +21211,8 @@
       },
       "common_menu_campaign_badge_drop_up.png": {
         "frame": {
-          "x": 731,
-          "y": 208,
+          "x": 637,
+          "y": 308,
           "w": 120,
           "h": 46
         },
@@ -21220,8 +21220,8 @@
       },
       "common_menu_campaign_badge_fes_event.png": {
         "frame": {
-          "x": 285,
-          "y": 822,
+          "x": 777,
+          "y": 543,
           "w": 120,
           "h": 46
         },
@@ -21229,8 +21229,8 @@
       },
       "common_menu_campaign_badge_free_gasha.png": {
         "frame": {
-          "x": 579,
-          "y": 518,
+          "x": 777,
+          "y": 693,
           "w": 120,
           "h": 45
         },
@@ -21239,7 +21239,7 @@
       "common_menu_campaign_badge_helper_staff_appearance_rate_up.png": {
         "frame": {
           "x": 1,
-          "y": 806,
+          "y": 696,
           "w": 200,
           "h": 46
         },
@@ -21247,8 +21247,8 @@
       },
       "common_menu_campaign_badge_higher_training_success_rate.png": {
         "frame": {
-          "x": 578,
-          "y": 815,
+          "x": 777,
+          "y": 593,
           "w": 120,
           "h": 46
         },
@@ -21257,7 +21257,7 @@
       "common_menu_campaign_badge_idea_note.png": {
         "frame": {
           "x": 467,
-          "y": 258,
+          "y": 208,
           "w": 259,
           "h": 46
         },
@@ -21265,8 +21265,8 @@
       },
       "common_menu_campaign_badge_limited_time_gasha.png": {
         "frame": {
-          "x": 703,
-          "y": 518,
+          "x": 901,
+          "y": 589,
           "w": 120,
           "h": 45
         },
@@ -21274,8 +21274,8 @@
       },
       "common_menu_campaign_badge_money_up.png": {
         "frame": {
-          "x": 693,
-          "y": 567,
+          "x": 777,
+          "y": 643,
           "w": 120,
           "h": 46
         },
@@ -21292,8 +21292,8 @@
       },
       "common_menu_campaign_badge_satisfaction_point_up.png": {
         "frame": {
-          "x": 409,
-          "y": 498,
+          "x": 467,
+          "y": 308,
           "w": 166,
           "h": 46
         },
@@ -21301,8 +21301,8 @@
       },
       "common_menu_campaign_badge_ssr_rate.png": {
         "frame": {
-          "x": 702,
-          "y": 817,
+          "x": 901,
+          "y": 638,
           "w": 120,
           "h": 45
         },
@@ -21310,17 +21310,26 @@
       },
       "common_menu_campaign_badge_stamina_halving.png": {
         "frame": {
-          "x": 693,
-          "y": 617,
+          "x": 901,
+          "y": 389,
           "w": 120,
           "h": 46
         },
         "rotated": false
       },
+      "common_menu_campaign_badge_start_dash_gasha.png": {
+        "frame": {
+          "x": 901,
+          "y": 687,
+          "w": 120,
+          "h": 45
+        },
+        "rotated": false
+      },
       "common_menu_campaign_badge_training_success_rate.png": {
         "frame": {
-          "x": 702,
-          "y": 667,
+          "x": 901,
+          "y": 439,
           "w": 120,
           "h": 46
         },
@@ -21328,8 +21337,8 @@
       },
       "common_menu_campaign_badge_trust_point_up.png": {
         "frame": {
-          "x": 702,
-          "y": 717,
+          "x": 901,
+          "y": 489,
           "w": 120,
           "h": 46
         },
@@ -21337,8 +21346,8 @@
       },
       "common_menu_commu_open_label.png": {
         "frame": {
-          "x": 817,
-          "y": 567,
+          "x": 569,
+          "y": 498,
           "w": 62,
           "h": 40
         },
@@ -21346,8 +21355,8 @@
       },
       "common_menu_extra_campaign_badge_ticket_receivable.png": {
         "frame": {
-          "x": 369,
-          "y": 548,
+          "x": 409,
+          "y": 498,
           "w": 156,
           "h": 48
         },
@@ -21355,8 +21364,8 @@
       },
       "common_menu_fes_button.png": {
         "frame": {
-          "x": 1,
-          "y": 640,
+          "x": 781,
+          "y": 1,
           "w": 156,
           "h": 156
         },
@@ -21364,8 +21373,8 @@
       },
       "common_menu_fes_ticket.png": {
         "frame": {
-          "x": 294,
-          "y": 590,
+          "x": 621,
+          "y": 724,
           "w": 7,
           "h": 14
         },
@@ -21373,8 +21382,8 @@
       },
       "common_menu_gasha_button.png": {
         "frame": {
-          "x": 321,
-          "y": 600,
+          "x": 529,
+          "y": 550,
           "w": 120,
           "h": 120
         },
@@ -21382,8 +21391,8 @@
       },
       "common_menu_idol_button.png": {
         "frame": {
-          "x": 445,
-          "y": 600,
+          "x": 633,
+          "y": 358,
           "w": 120,
           "h": 120
         },
@@ -21391,8 +21400,8 @@
       },
       "common_menu_item_button.png": {
         "frame": {
-          "x": 772,
-          "y": 138,
+          "x": 941,
+          "y": 96,
           "w": 64,
           "h": 64
         },
@@ -21400,8 +21409,8 @@
       },
       "common_menu_jewel_plus_button.png": {
         "frame": {
-          "x": 827,
-          "y": 512,
+          "x": 265,
+          "y": 640,
           "w": 42,
           "h": 42
         },
@@ -21409,8 +21418,8 @@
       },
       "common_menu_jewel_sale_text.png": {
         "frame": {
-          "x": 409,
-          "y": 848,
+          "x": 294,
+          "y": 590,
           "w": 71,
           "h": 37
         },
@@ -21418,8 +21427,8 @@
       },
       "common_menu_jewel_set_text.png": {
         "frame": {
-          "x": 205,
-          "y": 806,
+          "x": 671,
+          "y": 258,
           "w": 76,
           "h": 39
         },
@@ -21427,8 +21436,8 @@
       },
       "common_menu_mission_button.png": {
         "frame": {
-          "x": 454,
-          "y": 724,
+          "x": 653,
+          "y": 482,
           "w": 120,
           "h": 120
         },
@@ -21436,8 +21445,8 @@
       },
       "common_menu_monthly_passport_icon.png": {
         "frame": {
-          "x": 529,
-          "y": 548,
+          "x": 730,
+          "y": 208,
           "w": 28,
           "h": 34
         },
@@ -21454,8 +21463,8 @@
       },
       "common_menu_notice_button.png": {
         "frame": {
-          "x": 795,
-          "y": 308,
+          "x": 932,
+          "y": 164,
           "w": 64,
           "h": 64
         },
@@ -21463,8 +21472,8 @@
       },
       "common_menu_present_button.png": {
         "frame": {
-          "x": 793,
-          "y": 376,
+          "x": 932,
+          "y": 232,
           "w": 64,
           "h": 64
         },
@@ -21472,8 +21481,8 @@
       },
       "common_menu_produce_resume_button.png": {
         "frame": {
-          "x": 161,
-          "y": 640,
+          "x": 772,
+          "y": 161,
           "w": 156,
           "h": 156
         },
@@ -21481,8 +21490,8 @@
       },
       "common_menu_produce_start_button.png": {
         "frame": {
-          "x": 633,
-          "y": 358,
+          "x": 369,
+          "y": 550,
           "w": 156,
           "h": 156
         },
@@ -21490,8 +21499,8 @@
       },
       "common_menu_shop_button.png": {
         "frame": {
-          "x": 793,
-          "y": 444,
+          "x": 894,
+          "y": 321,
           "w": 64,
           "h": 64
         },
@@ -21508,8 +21517,8 @@
       },
       "common_menu_work_activity_bonus_up.png": {
         "frame": {
-          "x": 702,
-          "y": 767,
+          "x": 901,
+          "y": 539,
           "w": 120,
           "h": 46
         },
@@ -21517,8 +21526,8 @@
       },
       "common_menu_work_activity_button.png": {
         "frame": {
-          "x": 569,
-          "y": 567,
+          "x": 653,
+          "y": 606,
           "w": 120,
           "h": 120
         },
@@ -21526,8 +21535,8 @@
       },
       "common_menu_work_activity_button_active.png": {
         "frame": {
-          "x": 578,
-          "y": 691,
+          "x": 777,
+          "y": 419,
           "w": 120,
           "h": 120
         },
@@ -21535,7 +21544,7 @@
       },
       "drawer_btn_default_logo.png": {
         "frame": {
-          "x": 781,
+          "x": 941,
           "y": 1,
           "w": 80,
           "h": 91
@@ -21544,8 +21553,8 @@
       },
       "pickup_banner_icon.png": {
         "frame": {
-          "x": 321,
-          "y": 724,
+          "x": 761,
+          "y": 321,
           "w": 129,
           "h": 94
         },
@@ -29600,13 +29609,13 @@
   "images/ui/gasha/parts_narrow_gasha_button": {
     "name": "images/ui/gasha/parts_narrow_gasha_button",
     "ext": ".png",
-    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=3",
-    "v": 3,
+    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=4",
+    "v": 4,
     "frames": {
       "costume_ticket_text.png": {
         "frame": {
-          "x": 203,
-          "y": 135,
+          "x": 1,
+          "y": 1,
           "w": 140,
           "h": 31
         },
@@ -29615,16 +29624,43 @@
       "discount_gasha_button.png": {
         "frame": {
           "x": 1,
-          "y": 119,
+          "y": 508,
           "w": 198,
           "h": 89
+        },
+        "rotated": false
+      },
+      "last_pickup_limited_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 36,
+          "w": 240,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "last_pickup_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 71,
+          "w": 208,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "last_sr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 106,
+          "w": 168,
+          "h": 31
         },
         "rotated": false
       },
       "limited_discount_gasha_button.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 601,
           "w": 224,
           "h": 114
         },
@@ -29632,8 +29668,8 @@
       },
       "limited_per_day_label.png": {
         "frame": {
-          "x": 229,
-          "y": 1,
+          "x": 173,
+          "y": 106,
           "w": 70,
           "h": 63
         },
@@ -29641,8 +29677,8 @@
       },
       "press_limited_last1_label.png": {
         "frame": {
-          "x": 1,
-          "y": 212,
+          "x": 75,
+          "y": 141,
           "w": 70,
           "h": 63
         },
@@ -29650,8 +29686,8 @@
       },
       "press_limited_last2_label.png": {
         "frame": {
-          "x": 1,
-          "y": 279,
+          "x": 149,
+          "y": 173,
           "w": 70,
           "h": 63
         },
@@ -29659,8 +29695,8 @@
       },
       "press_limited_last3_label.png": {
         "frame": {
-          "x": 75,
-          "y": 212,
+          "x": 1,
+          "y": 208,
           "w": 70,
           "h": 63
         },
@@ -29669,7 +29705,7 @@
       "press_limited_last4_label.png": {
         "frame": {
           "x": 75,
-          "y": 279,
+          "y": 208,
           "w": 70,
           "h": 63
         },
@@ -29678,7 +29714,7 @@
       "press_limited_last5_label.png": {
         "frame": {
           "x": 149,
-          "y": 212,
+          "y": 240,
           "w": 70,
           "h": 63
         },
@@ -29686,8 +29722,8 @@
       },
       "press_limited_last6_label.png": {
         "frame": {
-          "x": 149,
-          "y": 279,
+          "x": 1,
+          "y": 275,
           "w": 70,
           "h": 63
         },
@@ -29695,8 +29731,8 @@
       },
       "press_limited_last7_label.png": {
         "frame": {
-          "x": 223,
-          "y": 170,
+          "x": 75,
+          "y": 275,
           "w": 70,
           "h": 63
         },
@@ -29704,8 +29740,8 @@
       },
       "press_limited_last8_label.png": {
         "frame": {
-          "x": 297,
-          "y": 170,
+          "x": 149,
+          "y": 307,
           "w": 70,
           "h": 63
         },
@@ -29713,8 +29749,8 @@
       },
       "press_limited_last9_label.png": {
         "frame": {
-          "x": 223,
-          "y": 237,
+          "x": 1,
+          "y": 342,
           "w": 70,
           "h": 63
         },
@@ -29722,8 +29758,53 @@
       },
       "press_limited_last10_label.png": {
         "frame": {
-          "x": 229,
-          "y": 68,
+          "x": 1,
+          "y": 141,
+          "w": 70,
+          "h": 63
+        },
+        "rotated": false
+      },
+      "sr_txt.png": {
+        "frame": {
+          "x": 145,
+          "y": 1,
+          "w": 93,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "step1_label.png": {
+        "frame": {
+          "x": 75,
+          "y": 342,
+          "w": 70,
+          "h": 63
+        },
+        "rotated": false
+      },
+      "step2_label.png": {
+        "frame": {
+          "x": 149,
+          "y": 374,
+          "w": 70,
+          "h": 63
+        },
+        "rotated": false
+      },
+      "step3_label.png": {
+        "frame": {
+          "x": 1,
+          "y": 409,
+          "w": 70,
+          "h": 63
+        },
+        "rotated": false
+      },
+      "step4_label.png": {
+        "frame": {
+          "x": 75,
+          "y": 409,
           "w": 70,
           "h": 63
         },
@@ -29731,8 +29812,8 @@
       },
       "with_lottery_label.png": {
         "frame": {
-          "x": 297,
-          "y": 237,
+          "x": 149,
+          "y": 441,
           "w": 70,
           "h": 63
         },
@@ -35486,8 +35567,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=49",
-    "v": 49,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=50",
+    "v": 50,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -35500,7 +35581,7 @@
       },
       "ability_list_button.png": {
         "frame": {
-          "x": 1153,
+          "x": 1034,
           "y": 75,
           "w": 148,
           "h": 70
@@ -35509,8 +35590,8 @@
       },
       "acquire_button.png": {
         "frame": {
-          "x": 1021,
-          "y": 437,
+          "x": 266,
+          "y": 871,
           "w": 148,
           "h": 70
         },
@@ -35518,8 +35599,8 @@
       },
       "add_home_info_button.png": {
         "frame": {
-          "x": 1173,
-          "y": 437,
+          "x": 266,
+          "y": 945,
           "w": 148,
           "h": 70
         },
@@ -35527,8 +35608,8 @@
       },
       "agree_button.png": {
         "frame": {
-          "x": 1,
-          "y": 511,
+          "x": 266,
+          "y": 1019,
           "w": 148,
           "h": 70
         },
@@ -35536,8 +35617,8 @@
       },
       "apple_button.png": {
         "frame": {
-          "x": 385,
-          "y": 1,
+          "x": 1,
+          "y": 75,
           "w": 380,
           "h": 70
         },
@@ -35545,8 +35626,8 @@
       },
       "application_agreement_button_l.png": {
         "frame": {
-          "x": 1,
-          "y": 437,
+          "x": 266,
+          "y": 533,
           "w": 260,
           "h": 70
         },
@@ -35554,8 +35635,8 @@
       },
       "back_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 688,
+          "x": 1186,
+          "y": 75,
           "w": 70,
           "h": 70
         },
@@ -35563,8 +35644,8 @@
       },
       "bana_coin_charge_button.png": {
         "frame": {
-          "x": 153,
-          "y": 511,
+          "x": 266,
+          "y": 1093,
           "w": 148,
           "h": 70
         },
@@ -35572,8 +35653,8 @@
       },
       "begin_button.png": {
         "frame": {
-          "x": 305,
-          "y": 511,
+          "x": 266,
+          "y": 1167,
           "w": 148,
           "h": 70
         },
@@ -35581,8 +35662,8 @@
       },
       "block_info_button.png": {
         "frame": {
-          "x": 457,
-          "y": 511,
+          "x": 531,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -35599,8 +35680,8 @@
       },
       "btn_code_copy.png": {
         "frame": {
-          "x": 457,
-          "y": 1283,
+          "x": 266,
+          "y": 1241,
           "w": 148,
           "h": 38
         },
@@ -35608,8 +35689,8 @@
       },
       "btn_detail.png": {
         "frame": {
-          "x": 875,
-          "y": 1209,
+          "x": 1231,
+          "y": 914,
           "w": 68,
           "h": 38
         },
@@ -35617,8 +35698,8 @@
       },
       "btn_unlock.png": {
         "frame": {
-          "x": 947,
-          "y": 1202,
+          "x": 1246,
+          "y": 956,
           "w": 68,
           "h": 38
         },
@@ -35626,8 +35707,8 @@
       },
       "btn_unlock_l.png": {
         "frame": {
-          "x": 761,
-          "y": 1273,
+          "x": 1026,
+          "y": 1266,
           "w": 108,
           "h": 38
         },
@@ -35635,8 +35716,8 @@
       },
       "buy_jewel_button.png": {
         "frame": {
-          "x": 609,
-          "y": 511,
+          "x": 531,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -35644,8 +35725,8 @@
       },
       "buy_jewel_button_s.png": {
         "frame": {
-          "x": 537,
-          "y": 1103,
+          "x": 266,
+          "y": 829,
           "w": 198,
           "h": 38
         },
@@ -35653,8 +35734,8 @@
       },
       "cancel_button.png": {
         "frame": {
-          "x": 761,
-          "y": 511,
+          "x": 531,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35662,8 +35743,8 @@
       },
       "change_application_target_button.png": {
         "frame": {
-          "x": 913,
-          "y": 511,
+          "x": 531,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35671,8 +35752,8 @@
       },
       "change_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 511,
+          "x": 530,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35680,8 +35761,8 @@
       },
       "change_button_s.png": {
         "frame": {
-          "x": 1013,
-          "y": 1103,
+          "x": 1246,
+          "y": 998,
           "w": 68,
           "h": 38
         },
@@ -35689,8 +35770,8 @@
       },
       "chara_change_button.png": {
         "frame": {
-          "x": 1261,
-          "y": 1154,
+          "x": 1260,
+          "y": 75,
           "w": 44,
           "h": 44
         },
@@ -35698,8 +35779,8 @@
       },
       "check_box_off_button.png": {
         "frame": {
-          "x": 1157,
-          "y": 1103,
+          "x": 987,
+          "y": 245,
           "w": 48,
           "h": 48
         },
@@ -35707,8 +35788,8 @@
       },
       "check_box_on_button.png": {
         "frame": {
-          "x": 1209,
-          "y": 1154,
+          "x": 874,
+          "y": 901,
           "w": 48,
           "h": 48
         },
@@ -35716,8 +35797,8 @@
       },
       "clear_button.png": {
         "frame": {
-          "x": 1,
-          "y": 585,
+          "x": 530,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35725,8 +35806,8 @@
       },
       "clear_setting_button.png": {
         "frame": {
-          "x": 153,
-          "y": 585,
+          "x": 530,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -35734,8 +35815,8 @@
       },
       "close_circle_button.png": {
         "frame": {
-          "x": 1285,
-          "y": 950,
+          "x": 1284,
+          "y": 1208,
           "w": 36,
           "h": 35
         },
@@ -35743,8 +35824,8 @@
       },
       "close_icon_button.png": {
         "frame": {
-          "x": 1077,
-          "y": 1244,
+          "x": 1255,
+          "y": 822,
           "w": 42,
           "h": 42
         },
@@ -35752,8 +35833,8 @@
       },
       "cloth_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 511,
+          "x": 650,
+          "y": 149,
           "w": 94,
           "h": 92
         },
@@ -35761,8 +35842,8 @@
       },
       "common_menu_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 910,
+          "x": 1221,
+          "y": 297,
           "w": 64,
           "h": 64
         },
@@ -35770,8 +35851,8 @@
       },
       "data_sync_button.png": {
         "frame": {
-          "x": 305,
-          "y": 585,
+          "x": 748,
+          "y": 171,
           "w": 148,
           "h": 70
         },
@@ -35779,8 +35860,8 @@
       },
       "decision_button.png": {
         "frame": {
-          "x": 457,
-          "y": 585,
+          "x": 683,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -35788,8 +35869,8 @@
       },
       "delete_button.png": {
         "frame": {
-          "x": 609,
-          "y": 585,
+          "x": 683,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -35797,8 +35878,8 @@
       },
       "delete_button_blue.png": {
         "frame": {
-          "x": 761,
-          "y": 585,
+          "x": 683,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35806,8 +35887,8 @@
       },
       "delete_button_red.png": {
         "frame": {
-          "x": 913,
-          "y": 585,
+          "x": 683,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35815,8 +35896,8 @@
       },
       "detail_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 585,
+          "x": 682,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35824,8 +35905,8 @@
       },
       "disagree_button.png": {
         "frame": {
-          "x": 1,
-          "y": 659,
+          "x": 682,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -35833,8 +35914,8 @@
       },
       "evolution_button.png": {
         "frame": {
-          "x": 153,
-          "y": 659,
+          "x": 682,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -35842,8 +35923,8 @@
       },
       "forward_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 762,
+          "x": 1204,
+          "y": 149,
           "w": 70,
           "h": 70
         },
@@ -35851,8 +35932,8 @@
       },
       "full_screen_button.png": {
         "frame": {
-          "x": 1261,
-          "y": 1202,
+          "x": 807,
+          "y": 1271,
           "w": 44,
           "h": 44
         },
@@ -35860,8 +35941,8 @@
       },
       "idea_note_button.png": {
         "frame": {
-          "x": 305,
-          "y": 659,
+          "x": 900,
+          "y": 171,
           "w": 148,
           "h": 70
         },
@@ -35869,8 +35950,8 @@
       },
       "idol_list.png": {
         "frame": {
-          "x": 457,
-          "y": 659,
+          "x": 835,
+          "y": 245,
           "w": 148,
           "h": 70
         },
@@ -35878,8 +35959,8 @@
       },
       "idol_page_button.png": {
         "frame": {
-          "x": 609,
-          "y": 659,
+          "x": 835,
+          "y": 319,
           "w": 148,
           "h": 70
         },
@@ -35887,8 +35968,8 @@
       },
       "info_button.png": {
         "frame": {
-          "x": 1291,
-          "y": 688,
+          "x": 1290,
+          "y": 1247,
           "w": 27,
           "h": 28
         },
@@ -35896,8 +35977,8 @@
       },
       "info_circle_button.png": {
         "frame": {
-          "x": 121,
-          "y": 1285,
+          "x": 950,
+          "y": 763,
           "w": 32,
           "h": 32
         },
@@ -35905,8 +35986,8 @@
       },
       "invoke_button.png": {
         "frame": {
-          "x": 761,
-          "y": 659,
+          "x": 835,
+          "y": 393,
           "w": 148,
           "h": 70
         },
@@ -35914,8 +35995,8 @@
       },
       "later_button.png": {
         "frame": {
-          "x": 913,
-          "y": 659,
+          "x": 835,
+          "y": 467,
           "w": 148,
           "h": 70
         },
@@ -35923,7 +36004,7 @@
       },
       "line_button.png": {
         "frame": {
-          "x": 769,
+          "x": 385,
           "y": 1,
           "w": 380,
           "h": 70
@@ -35932,8 +36013,8 @@
       },
       "link_skill_button.png": {
         "frame": {
-          "x": 1005,
-          "y": 1244,
+          "x": 1244,
+          "y": 1040,
           "w": 68,
           "h": 38
         },
@@ -35941,8 +36022,8 @@
       },
       "live_detail_button.png": {
         "frame": {
-          "x": 891,
-          "y": 1103,
+          "x": 685,
+          "y": 1271,
           "w": 118,
           "h": 38
         },
@@ -35950,8 +36031,8 @@
       },
       "login_submit_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 659,
+          "x": 834,
+          "y": 541,
           "w": 148,
           "h": 70
         },
@@ -35959,8 +36040,8 @@
       },
       "max_button.png": {
         "frame": {
-          "x": 873,
-          "y": 1251,
+          "x": 1178,
+          "y": 1038,
           "w": 62,
           "h": 53
         },
@@ -35968,8 +36049,8 @@
       },
       "max_button_s.png": {
         "frame": {
-          "x": 1,
-          "y": 1285,
+          "x": 1278,
+          "y": 195,
           "w": 36,
           "h": 32
         },
@@ -35978,7 +36059,7 @@
       "menu_album_button.png": {
         "frame": {
           "x": 1,
-          "y": 149,
+          "y": 223,
           "w": 261,
           "h": 92
         },
@@ -35986,8 +36067,8 @@
       },
       "menu_back_to_title_button.png": {
         "frame": {
-          "x": 266,
-          "y": 149,
+          "x": 1,
+          "y": 319,
           "w": 261,
           "h": 92
         },
@@ -35995,8 +36076,8 @@
       },
       "menu_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 1046,
+          "x": 537,
+          "y": 1271,
           "w": 70,
           "h": 50
         },
@@ -36004,8 +36085,8 @@
       },
       "menu_close_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 1100,
+          "x": 611,
+          "y": 1271,
           "w": 70,
           "h": 50
         },
@@ -36013,8 +36094,8 @@
       },
       "menu_comic_button.png": {
         "frame": {
-          "x": 531,
-          "y": 149,
+          "x": 1,
+          "y": 415,
           "w": 261,
           "h": 92
         },
@@ -36022,8 +36103,8 @@
       },
       "menu_costume_button.png": {
         "frame": {
-          "x": 796,
-          "y": 149,
+          "x": 1,
+          "y": 511,
           "w": 261,
           "h": 92
         },
@@ -36031,8 +36112,8 @@
       },
       "menu_delete_button.png": {
         "frame": {
-          "x": 1061,
-          "y": 149,
+          "x": 1,
+          "y": 607,
           "w": 261,
           "h": 92
         },
@@ -36041,7 +36122,7 @@
       "menu_download_button.png": {
         "frame": {
           "x": 1,
-          "y": 245,
+          "y": 703,
           "w": 261,
           "h": 92
         },
@@ -36049,8 +36130,17 @@
       },
       "menu_faq_button.png": {
         "frame": {
-          "x": 266,
-          "y": 245,
+          "x": 1,
+          "y": 799,
+          "w": 261,
+          "h": 92
+        },
+        "rotated": false
+      },
+      "menu_game_commentary_policy_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 895,
           "w": 261,
           "h": 92
         },
@@ -36058,8 +36148,8 @@
       },
       "menu_help_button.png": {
         "frame": {
-          "x": 531,
-          "y": 245,
+          "x": 1,
+          "y": 991,
           "w": 261,
           "h": 92
         },
@@ -36067,8 +36157,8 @@
       },
       "menu_home_deck_button.png": {
         "frame": {
-          "x": 796,
-          "y": 245,
+          "x": 1,
+          "y": 1087,
           "w": 261,
           "h": 92
         },
@@ -36076,8 +36166,8 @@
       },
       "menu_home_unit_button.png": {
         "frame": {
-          "x": 796,
-          "y": 245,
+          "x": 1,
+          "y": 1087,
           "w": 261,
           "h": 92
         },
@@ -36085,8 +36175,8 @@
       },
       "menu_info_button.png": {
         "frame": {
-          "x": 1061,
-          "y": 245,
+          "x": 1,
+          "y": 1183,
           "w": 261,
           "h": 92
         },
@@ -36094,8 +36184,8 @@
       },
       "menu_item_button.png": {
         "frame": {
-          "x": 1,
-          "y": 341,
+          "x": 385,
+          "y": 149,
           "w": 261,
           "h": 92
         },
@@ -36103,8 +36193,8 @@
       },
       "menu_memorial_piece_button.png": {
         "frame": {
-          "x": 266,
-          "y": 341,
+          "x": 769,
+          "y": 75,
           "w": 261,
           "h": 92
         },
@@ -36112,8 +36202,8 @@
       },
       "menu_model_change_button.png": {
         "frame": {
-          "x": 531,
-          "y": 341,
+          "x": 266,
+          "y": 245,
           "w": 261,
           "h": 92
         },
@@ -36121,7 +36211,7 @@
       },
       "menu_option_button.png": {
         "frame": {
-          "x": 796,
+          "x": 266,
           "y": 341,
           "w": 261,
           "h": 92
@@ -36130,8 +36220,8 @@
       },
       "menu_profile_button.png": {
         "frame": {
-          "x": 1061,
-          "y": 341,
+          "x": 266,
+          "y": 437,
           "w": 261,
           "h": 92
         },
@@ -36139,8 +36229,8 @@
       },
       "min_button.png": {
         "frame": {
-          "x": 915,
-          "y": 1145,
+          "x": 1178,
+          "y": 1095,
           "w": 62,
           "h": 53
         },
@@ -36148,8 +36238,8 @@
       },
       "minus_button.png": {
         "frame": {
-          "x": 939,
-          "y": 1251,
+          "x": 1178,
+          "y": 1152,
           "w": 62,
           "h": 53
         },
@@ -36157,8 +36247,8 @@
       },
       "minus_button_s.png": {
         "frame": {
-          "x": 41,
-          "y": 1285,
+          "x": 1278,
+          "y": 231,
           "w": 36,
           "h": 32
         },
@@ -36166,8 +36256,8 @@
       },
       "more_button.png": {
         "frame": {
-          "x": 1091,
-          "y": 1187,
+          "x": 1255,
+          "y": 868,
           "w": 42,
           "h": 42
         },
@@ -36175,8 +36265,8 @@
       },
       "movie_reload_button.png": {
         "frame": {
-          "x": 1,
-          "y": 733,
+          "x": 834,
+          "y": 615,
           "w": 148,
           "h": 70
         },
@@ -36184,8 +36274,8 @@
       },
       "my_page_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 978,
+          "x": 1178,
+          "y": 970,
           "w": 64,
           "h": 64
         },
@@ -36194,7 +36284,7 @@
       "native_BNID_button.png": {
         "frame": {
           "x": 1,
-          "y": 75,
+          "y": 149,
           "w": 380,
           "h": 70
         },
@@ -36212,7 +36302,7 @@
       "native_line_data_link_button.png": {
         "frame": {
           "x": 769,
-          "y": 75,
+          "y": 1,
           "w": 380,
           "h": 70
         },
@@ -36220,8 +36310,8 @@
       },
       "native_pf_login_button.png": {
         "frame": {
-          "x": 265,
-          "y": 437,
+          "x": 266,
+          "y": 607,
           "w": 260,
           "h": 70
         },
@@ -36229,8 +36319,8 @@
       },
       "next_button.png": {
         "frame": {
-          "x": 153,
-          "y": 733,
+          "x": 834,
+          "y": 689,
           "w": 148,
           "h": 70
         },
@@ -36238,8 +36328,8 @@
       },
       "no_button.png": {
         "frame": {
-          "x": 305,
-          "y": 733,
+          "x": 1052,
+          "y": 149,
           "w": 148,
           "h": 70
         },
@@ -36247,8 +36337,8 @@
       },
       "ok_button.png": {
         "frame": {
-          "x": 457,
-          "y": 733,
+          "x": 494,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -36256,8 +36346,8 @@
       },
       "open_button.png": {
         "frame": {
-          "x": 1019,
-          "y": 1202,
+          "x": 1244,
+          "y": 1082,
           "w": 68,
           "h": 38
         },
@@ -36265,8 +36355,8 @@
       },
       "pf_login_button.png": {
         "frame": {
-          "x": 529,
-          "y": 437,
+          "x": 266,
+          "y": 681,
           "w": 260,
           "h": 70
         },
@@ -36274,8 +36364,8 @@
       },
       "play_button.png": {
         "frame": {
-          "x": 1047,
-          "y": 1145,
+          "x": 1244,
+          "y": 1124,
           "w": 68,
           "h": 38
         },
@@ -36283,8 +36373,8 @@
       },
       "play_circle_button.png": {
         "frame": {
-          "x": 157,
-          "y": 1285,
+          "x": 1289,
+          "y": 123,
           "w": 32,
           "h": 32
         },
@@ -36292,8 +36382,8 @@
       },
       "play_communication_button.png": {
         "frame": {
-          "x": 609,
-          "y": 733,
+          "x": 646,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -36301,8 +36391,8 @@
       },
       "play_later_button.png": {
         "frame": {
-          "x": 761,
-          "y": 733,
+          "x": 798,
+          "y": 763,
           "w": 148,
           "h": 70
         },
@@ -36310,8 +36400,8 @@
       },
       "plus_button.png": {
         "frame": {
-          "x": 981,
-          "y": 1145,
+          "x": 1178,
+          "y": 1209,
           "w": 62,
           "h": 53
         },
@@ -36319,8 +36409,8 @@
       },
       "plus_button_s.png": {
         "frame": {
-          "x": 81,
-          "y": 1285,
+          "x": 1250,
+          "y": 1248,
           "w": 36,
           "h": 32
         },
@@ -36328,8 +36418,8 @@
       },
       "possession_ability_button.png": {
         "frame": {
-          "x": 913,
-          "y": 733,
+          "x": 1052,
+          "y": 223,
           "w": 148,
           "h": 70
         },
@@ -36337,8 +36427,8 @@
       },
       "precaution_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 733,
+          "x": 987,
+          "y": 297,
           "w": 148,
           "h": 70
         },
@@ -36346,8 +36436,8 @@
       },
       "question_circle_button.png": {
         "frame": {
-          "x": 1285,
-          "y": 910,
+          "x": 1244,
+          "y": 1208,
           "w": 36,
           "h": 36
         },
@@ -36355,8 +36445,8 @@
       },
       "ranking_detail_button.png": {
         "frame": {
-          "x": 1085,
-          "y": 1103,
+          "x": 1244,
+          "y": 1166,
           "w": 68,
           "h": 38
         },
@@ -36364,8 +36454,8 @@
       },
       "receive_button.png": {
         "frame": {
-          "x": 1,
-          "y": 807,
+          "x": 987,
+          "y": 371,
           "w": 148,
           "h": 70
         },
@@ -36373,8 +36463,8 @@
       },
       "remove_button.png": {
         "frame": {
-          "x": 153,
-          "y": 807,
+          "x": 987,
+          "y": 445,
           "w": 148,
           "h": 70
         },
@@ -36382,8 +36472,8 @@
       },
       "reselect_button.png": {
         "frame": {
-          "x": 305,
-          "y": 807,
+          "x": 987,
+          "y": 519,
           "w": 148,
           "h": 70
         },
@@ -36391,8 +36481,8 @@
       },
       "reset_button.png": {
         "frame": {
-          "x": 457,
-          "y": 807,
+          "x": 986,
+          "y": 593,
           "w": 148,
           "h": 70
         },
@@ -36400,8 +36490,8 @@
       },
       "resume_button.png": {
         "frame": {
-          "x": 609,
-          "y": 807,
+          "x": 986,
+          "y": 667,
           "w": 148,
           "h": 70
         },
@@ -36409,8 +36499,8 @@
       },
       "retire_button.png": {
         "frame": {
-          "x": 761,
-          "y": 807,
+          "x": 986,
+          "y": 741,
           "w": 148,
           "h": 70
         },
@@ -36418,8 +36508,8 @@
       },
       "right_circle_button.png": {
         "frame": {
-          "x": 193,
-          "y": 1285,
+          "x": 1289,
+          "y": 159,
           "w": 32,
           "h": 32
         },
@@ -36427,8 +36517,8 @@
       },
       "save_button.png": {
         "frame": {
-          "x": 913,
-          "y": 807,
+          "x": 418,
+          "y": 901,
           "w": 148,
           "h": 70
         },
@@ -36436,8 +36526,8 @@
       },
       "save_simple_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 807,
+          "x": 418,
+          "y": 975,
           "w": 148,
           "h": 70
         },
@@ -36445,8 +36535,8 @@
       },
       "select_button.png": {
         "frame": {
-          "x": 1,
-          "y": 881,
+          "x": 570,
+          "y": 901,
           "w": 148,
           "h": 70
         },
@@ -36454,8 +36544,8 @@
       },
       "setting_button.png": {
         "frame": {
-          "x": 153,
-          "y": 881,
+          "x": 418,
+          "y": 1049,
           "w": 148,
           "h": 70
         },
@@ -36463,8 +36553,8 @@
       },
       "setting_off_button.png": {
         "frame": {
-          "x": 457,
-          "y": 1219,
+          "x": 468,
+          "y": 837,
           "w": 149,
           "h": 60
         },
@@ -36472,8 +36562,8 @@
       },
       "setting_off_button_on.png": {
         "frame": {
-          "x": 609,
-          "y": 1145,
+          "x": 621,
+          "y": 837,
           "w": 149,
           "h": 60
         },
@@ -36481,8 +36571,8 @@
       },
       "setting_on_button.png": {
         "frame": {
-          "x": 610,
-          "y": 1209,
+          "x": 774,
+          "y": 837,
           "w": 149,
           "h": 60
         },
@@ -36490,8 +36580,8 @@
       },
       "setting_on_button_on.png": {
         "frame": {
-          "x": 762,
-          "y": 1145,
+          "x": 950,
+          "y": 815,
           "w": 149,
           "h": 60
         },
@@ -36499,8 +36589,8 @@
       },
       "skill_board_button.png": {
         "frame": {
-          "x": 305,
-          "y": 881,
+          "x": 570,
+          "y": 975,
           "w": 148,
           "h": 70
         },
@@ -36508,8 +36598,8 @@
       },
       "skip_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 836,
+          "x": 1204,
+          "y": 223,
           "w": 70,
           "h": 70
         },
@@ -36517,8 +36607,8 @@
       },
       "skip_text_button.png": {
         "frame": {
-          "x": 457,
-          "y": 881,
+          "x": 722,
+          "y": 901,
           "w": 148,
           "h": 70
         },
@@ -36526,8 +36616,8 @@
       },
       "start_button.png": {
         "frame": {
-          "x": 609,
-          "y": 881,
+          "x": 418,
+          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -36535,8 +36625,8 @@
       },
       "start_ja_button.png": {
         "frame": {
-          "x": 761,
-          "y": 881,
+          "x": 570,
+          "y": 1049,
           "w": 148,
           "h": 70
         },
@@ -36544,8 +36634,8 @@
       },
       "switch_button.png": {
         "frame": {
-          "x": 1217,
-          "y": 607,
+          "x": 1139,
+          "y": 297,
           "w": 78,
           "h": 77
         },
@@ -36553,8 +36643,8 @@
       },
       "terminate_cancel_button.png": {
         "frame": {
-          "x": 913,
-          "y": 881,
+          "x": 722,
+          "y": 975,
           "w": 148,
           "h": 70
         },
@@ -36562,8 +36652,8 @@
       },
       "terminate_ok_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 881,
+          "x": 418,
+          "y": 1197,
           "w": 148,
           "h": 70
         },
@@ -36571,8 +36661,8 @@
       },
       "tips_button.png": {
         "frame": {
-          "x": 793,
-          "y": 437,
+          "x": 266,
+          "y": 755,
           "w": 224,
           "h": 70
         },
@@ -36580,8 +36670,8 @@
       },
       "to_audition_button.png": {
         "frame": {
-          "x": 1,
-          "y": 989,
+          "x": 570,
+          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -36589,8 +36679,8 @@
       },
       "to_daily_mission_button.png": {
         "frame": {
-          "x": 1,
-          "y": 1063,
+          "x": 722,
+          "y": 1049,
           "w": 148,
           "h": 70
         },
@@ -36598,8 +36688,8 @@
       },
       "to_event_button.png": {
         "frame": {
-          "x": 1,
-          "y": 1137,
+          "x": 570,
+          "y": 1197,
           "w": 148,
           "h": 70
         },
@@ -36607,8 +36697,8 @@
       },
       "to_fes_button.png": {
         "frame": {
-          "x": 1,
-          "y": 1211,
+          "x": 722,
+          "y": 1123,
           "w": 148,
           "h": 70
         },
@@ -36616,8 +36706,8 @@
       },
       "to_home_button.png": {
         "frame": {
-          "x": 153,
-          "y": 989,
+          "x": 722,
+          "y": 1197,
           "w": 148,
           "h": 70
         },
@@ -36625,8 +36715,8 @@
       },
       "to_idol_detail_button.png": {
         "frame": {
-          "x": 153,
-          "y": 1063,
+          "x": 1139,
+          "y": 378,
           "w": 148,
           "h": 70
         },
@@ -36634,8 +36724,8 @@
       },
       "to_item_button.png": {
         "frame": {
-          "x": 153,
-          "y": 1137,
+          "x": 1139,
+          "y": 452,
           "w": 148,
           "h": 70
         },
@@ -36643,8 +36733,8 @@
       },
       "to_live_button.png": {
         "frame": {
-          "x": 153,
-          "y": 1211,
+          "x": 1139,
+          "y": 526,
           "w": 148,
           "h": 70
         },
@@ -36652,8 +36742,8 @@
       },
       "to_mission_button.png": {
         "frame": {
-          "x": 305,
-          "y": 955,
+          "x": 1138,
+          "y": 600,
           "w": 148,
           "h": 70
         },
@@ -36661,8 +36751,8 @@
       },
       "to_personal_information_input_button.png": {
         "frame": {
-          "x": 457,
-          "y": 955,
+          "x": 1138,
+          "y": 674,
           "w": 148,
           "h": 70
         },
@@ -36670,8 +36760,8 @@
       },
       "to_personal_information_input_outer_site_button.png": {
         "frame": {
-          "x": 609,
-          "y": 955,
+          "x": 1138,
+          "y": 748,
           "w": 148,
           "h": 70
         },
@@ -36679,8 +36769,8 @@
       },
       "to_present_button.png": {
         "frame": {
-          "x": 761,
-          "y": 955,
+          "x": 1103,
+          "y": 822,
           "w": 148,
           "h": 70
         },
@@ -36688,8 +36778,8 @@
       },
       "to_produce_button.png": {
         "frame": {
-          "x": 913,
-          "y": 955,
+          "x": 927,
+          "y": 879,
           "w": 148,
           "h": 70
         },
@@ -36697,8 +36787,8 @@
       },
       "to_reflection_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 955,
+          "x": 1079,
+          "y": 896,
           "w": 148,
           "h": 70
         },
@@ -36706,8 +36796,8 @@
       },
       "to_shop_button.png": {
         "frame": {
-          "x": 305,
-          "y": 1029,
+          "x": 874,
+          "y": 953,
           "w": 148,
           "h": 70
         },
@@ -36715,7 +36805,7 @@
       },
       "to_shop_button_s.png": {
         "frame": {
-          "x": 609,
+          "x": 233,
           "y": 1283,
           "w": 148,
           "h": 38
@@ -36724,8 +36814,8 @@
       },
       "to_special_announce_button.png": {
         "frame": {
-          "x": 457,
-          "y": 1029,
+          "x": 874,
+          "y": 1027,
           "w": 148,
           "h": 70
         },
@@ -36733,8 +36823,8 @@
       },
       "to_special_page_button.png": {
         "frame": {
-          "x": 609,
-          "y": 1029,
+          "x": 874,
+          "y": 1101,
           "w": 148,
           "h": 70
         },
@@ -36742,8 +36832,8 @@
       },
       "to_ticket_detail_button.png": {
         "frame": {
-          "x": 761,
-          "y": 1029,
+          "x": 874,
+          "y": 1175,
           "w": 148,
           "h": 70
         },
@@ -36751,8 +36841,8 @@
       },
       "to_trade_shop_button.png": {
         "frame": {
-          "x": 913,
-          "y": 1029,
+          "x": 874,
+          "y": 1249,
           "w": 148,
           "h": 70
         },
@@ -36760,8 +36850,8 @@
       },
       "training_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 1029,
+          "x": 1026,
+          "y": 970,
           "w": 148,
           "h": 70
         },
@@ -36769,8 +36859,8 @@
       },
       "transfer_button.png": {
         "frame": {
-          "x": 305,
-          "y": 1154,
+          "x": 1026,
+          "y": 1044,
           "w": 148,
           "h": 70
         },
@@ -36778,8 +36868,8 @@
       },
       "unit_detail_button.png": {
         "frame": {
-          "x": 739,
-          "y": 1103,
+          "x": 385,
+          "y": 1283,
           "w": 148,
           "h": 38
         },
@@ -36787,8 +36877,8 @@
       },
       "unlock_condition_button.png": {
         "frame": {
-          "x": 763,
-          "y": 1209,
+          "x": 1138,
+          "y": 1266,
           "w": 108,
           "h": 38
         },
@@ -36796,8 +36886,8 @@
       },
       "use_button.png": {
         "frame": {
-          "x": 305,
-          "y": 1228,
+          "x": 1026,
+          "y": 1118,
           "w": 148,
           "h": 70
         },
@@ -36805,8 +36895,8 @@
       },
       "use_ex_skill_syringe_button.png": {
         "frame": {
-          "x": 305,
-          "y": 1103,
+          "x": 1,
+          "y": 1279,
           "w": 228,
           "h": 38
         },
@@ -36814,8 +36904,8 @@
       },
       "yes_button.png": {
         "frame": {
-          "x": 457,
-          "y": 1145,
+          "x": 1026,
+          "y": 1192,
           "w": 148,
           "h": 70
         },
@@ -43861,5 +43951,97 @@
     "url": "/assets/84840d89ab45b1a1c4f346f5ad181ecf03fb97d48d510985d7fe1947d6b4f0d8?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/61/001": {
+    "name": "images/tips/game_event/61/001",
+    "ext": ".jpg",
+    "url": "/assets/3600f580bb803ec4e890317374d059c9aca97c12711c23d5e06cf5b3acb44b65?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/61/002": {
+    "name": "images/tips/game_event/61/002",
+    "ext": ".jpg",
+    "url": "/assets/6f56022ffb1c32853720ae69432d2408e59b4971ae461fc7a51bc11bda818286?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/61/003": {
+    "name": "images/tips/game_event/61/003",
+    "ext": ".jpg",
+    "url": "/assets/6bd37b3a70c50b681f5d2d4a84c6225e55f1e3204f68155a438aed5428fd3310?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/gasha/parts_unit_select": {
+    "name": "images/ui/gasha/parts_unit_select",
+    "ext": ".png",
+    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=1",
+    "v": 1,
+    "frames": {
+      "gasha_unit_change_button.png": {
+        "frame": {
+          "x": 265,
+          "y": 73,
+          "w": 128,
+          "h": 54
+        },
+        "rotated": false
+      },
+      "gasha_unit_select_button.png": {
+        "frame": {
+          "x": 265,
+          "y": 131,
+          "w": 128,
+          "h": 54
+        },
+        "rotated": false
+      },
+      "provide_rate_long_wide_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 39,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "unit_name_base.png": {
+        "frame": {
+          "x": 153,
+          "y": 39,
+          "w": 256,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "unit_select_label.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 450,
+          "h": 34
+        },
+        "rotated": false
+      },
+      "unit_select_off_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 113,
+          "w": 128,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "unit_select_on_button.png": {
+        "frame": {
+          "x": 133,
+          "y": 113,
+          "w": 128,
+          "h": 70
+        },
+        "rotated": false
+      }
+    }
   }
 }
