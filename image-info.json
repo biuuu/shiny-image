@@ -36916,8 +36916,8 @@
   "images/ui/fes/parts": {
     "name": "images/ui/fes/parts",
     "ext": ".png",
-    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=29",
-    "v": 29,
+    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=30",
+    "v": 30,
     "frames": {
       "active_skill_select_base.png": {
         "frame": {
@@ -44043,5 +44043,40 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/30014/001": {
+    "name": "images/tips/game_event/30014/001",
+    "ext": ".jpg",
+    "url": "/assets/a0daac6a149ba016b1c66b4ebec0677afdd45fd9c3d3089c88dc1bef13973dd9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30014/002": {
+    "name": "images/tips/game_event/30014/002",
+    "ext": ".jpg",
+    "url": "/assets/9b2902f23f2c19ae96f9d3a26d430e3f613b8256eff7d7a626f0f05bb018d9f3?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30014/003": {
+    "name": "images/tips/game_event/30014/003",
+    "ext": ".jpg",
+    "url": "/assets/0e9743cd9617d29fae157c1c1a459a05cb93f3675322d706c9ea5611c467e4cf?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30014/006": {
+    "name": "images/tips/game_event/30014/006",
+    "ext": ".jpg",
+    "url": "/assets/6df2deafca7550abb07c1c32dddf2bce3e6ed68f3512515b1fe29fc3d16e730b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30014/009": {
+    "name": "images/tips/game_event/30014/009",
+    "ext": ".jpg",
+    "url": "/assets/08ed58214f860f183773d226c40649fe9e1e56bce60c4b7f5a93db14643b2e5a?v=1",
+    "v": 1,
+    "frames": null
   }
 }
