@@ -44186,5 +44186,61 @@
     "url": "/assets/cada2533d150b2eb2923dc6263edc19bc665cbfeb4081f7b372997520aeb7272?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/40007/001": {
+    "name": "images/tips/game_event/40007/001",
+    "ext": ".jpg",
+    "url": "/assets/e2712ee3178c29e3284b8c14164ae3fee8914a7d5313ccc3b8ed2996fe3f4457?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40007/002": {
+    "name": "images/tips/game_event/40007/002",
+    "ext": ".jpg",
+    "url": "/assets/4752fe7e32adcf5a3cb45df8ead612e54432eab1f471eecc152c18f08f9e57ec?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40007/003": {
+    "name": "images/tips/game_event/40007/003",
+    "ext": ".jpg",
+    "url": "/assets/e59b5a2758af3998ca7f44b7ec45128294594e0ccdfcd6f72ec6c9cb69499eaa?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40007/004": {
+    "name": "images/tips/game_event/40007/004",
+    "ext": ".jpg",
+    "url": "/assets/62d9d75d06c351e943a9dbd61d1f40bb65548e65ba37bac3ccd613e29cb49a2a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40007/005": {
+    "name": "images/tips/game_event/40007/005",
+    "ext": ".jpg",
+    "url": "/assets/08ce36ad7f9f6da7b94079f393a4b0080730d5674ad37ff9cde78447139228fc?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60022/001": {
+    "name": "images/tips/game_event/60022/001",
+    "ext": ".jpg",
+    "url": "/assets/7f68ba0883bcf013425c800c76c92dc564aabeeb4957872b2e3440824aef8f1a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60022/002": {
+    "name": "images/tips/game_event/60022/002",
+    "ext": ".jpg",
+    "url": "/assets/f64628db09a432457f3e95acd19736d6ffe54e164ad9f1bdeb0080dbe3e2e2be?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60022/003": {
+    "name": "images/tips/game_event/60022/003",
+    "ext": ".jpg",
+    "url": "/assets/fb91d942324200084ba3c38385c518346e08bd5c88348a58517dd84d28c2af69?v=1",
+    "v": 1,
+    "frames": null
   }
 }
