@@ -31572,13 +31572,13 @@
   "images/ui/gasha/parts_step_up": {
     "name": "images/ui/gasha/parts_step_up",
     "ext": ".png",
-    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=15",
-    "v": 15,
+    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=16",
+    "v": 16,
     "frames": {
       "4step_2_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 593,
-          "y": 94,
+          "x": 320,
+          "y": 1,
           "w": 172,
           "h": 88
         },
@@ -31586,8 +31586,8 @@
       },
       "4step_3_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 578,
-          "y": 186,
+          "x": 496,
+          "y": 1,
           "w": 172,
           "h": 88
         },
@@ -31595,8 +31595,8 @@
       },
       "4step_4_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 141,
-          "y": 277,
+          "x": 320,
+          "y": 93,
           "w": 172,
           "h": 88
         },
@@ -31604,8 +31604,8 @@
       },
       "4step_4_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 317,
-          "y": 277,
+          "x": 141,
+          "y": 94,
           "w": 170,
           "h": 88
         },
@@ -31614,7 +31614,7 @@
       "hanamaru_stamp.png": {
         "frame": {
           "x": 1,
-          "y": 278,
+          "y": 1,
           "w": 136,
           "h": 136
         },
@@ -31622,8 +31622,8 @@
       },
       "last_sr_step_1_balloon.png": {
         "frame": {
-          "x": 491,
-          "y": 278,
+          "x": 601,
+          "y": 487,
           "w": 159,
           "h": 61
         },
@@ -31631,8 +31631,8 @@
       },
       "p_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 468,
-          "y": 603,
+          "x": 164,
+          "y": 709,
           "w": 158,
           "h": 61
         },
@@ -31640,8 +31640,8 @@
       },
       "p_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 491,
-          "y": 343,
+          "x": 601,
+          "y": 552,
           "w": 159,
           "h": 61
         },
@@ -31649,8 +31649,8 @@
       },
       "p_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 630,
-          "y": 603,
+          "x": 1,
+          "y": 750,
           "w": 159,
           "h": 60
         },
@@ -31658,8 +31658,8 @@
       },
       "p_ssr_step_4_balloon.png": {
         "frame": {
-          "x": 630,
-          "y": 667,
+          "x": 326,
+          "y": 709,
           "w": 159,
           "h": 60
         },
@@ -31667,8 +31667,8 @@
       },
       "s_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 468,
-          "y": 603,
+          "x": 164,
+          "y": 709,
           "w": 158,
           "h": 61
         },
@@ -31676,8 +31676,8 @@
       },
       "s_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 141,
-          "y": 369,
+          "x": 1,
+          "y": 555,
           "w": 159,
           "h": 61
         },
@@ -31685,8 +31685,8 @@
       },
       "s_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 468,
-          "y": 731,
+          "x": 489,
+          "y": 747,
           "w": 159,
           "h": 60
         },
@@ -31694,8 +31694,8 @@
       },
       "step_1_balloon.png": {
         "frame": {
-          "x": 468,
-          "y": 603,
+          "x": 164,
+          "y": 709,
           "w": 158,
           "h": 61
         },
@@ -31703,8 +31703,8 @@
       },
       "step_1_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 473,
+          "x": 315,
+          "y": 185,
           "w": 148,
           "h": 70
         },
@@ -31712,8 +31712,8 @@
       },
       "step_1_button_on.png": {
         "frame": {
-          "x": 1,
-          "y": 547,
+          "x": 227,
+          "y": 259,
           "w": 148,
           "h": 70
         },
@@ -31721,8 +31721,8 @@
       },
       "step_2_balloon.png": {
         "frame": {
-          "x": 304,
-          "y": 369,
+          "x": 164,
+          "y": 579,
           "w": 159,
           "h": 61
         },
@@ -31731,7 +31731,7 @@
       "step_2_button_off.png": {
         "frame": {
           "x": 1,
-          "y": 621,
+          "y": 317,
           "w": 148,
           "h": 70
         },
@@ -31739,8 +31739,8 @@
       },
       "step_2_button_on.png": {
         "frame": {
-          "x": 1,
-          "y": 695,
+          "x": 153,
+          "y": 333,
           "w": 148,
           "h": 70
         },
@@ -31748,8 +31748,8 @@
       },
       "step_3_balloon.png": {
         "frame": {
-          "x": 631,
-          "y": 731,
+          "x": 652,
+          "y": 747,
           "w": 159,
           "h": 60
         },
@@ -31757,8 +31757,8 @@
       },
       "step_3_button_off.png": {
         "frame": {
-          "x": 153,
-          "y": 499,
+          "x": 1,
+          "y": 391,
           "w": 148,
           "h": 70
         },
@@ -31766,8 +31766,8 @@
       },
       "step_3_button_on.png": {
         "frame": {
-          "x": 153,
-          "y": 573,
+          "x": 601,
+          "y": 339,
           "w": 148,
           "h": 70
         },
@@ -31775,8 +31775,8 @@
       },
       "step_3_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 467,
-          "y": 408,
+          "x": 1,
+          "y": 620,
           "w": 159,
           "h": 61
         },
@@ -31784,8 +31784,8 @@
       },
       "step_3_last_pickup_ssr_balloon.png": {
         "frame": {
-          "x": 228,
-          "y": 145,
+          "x": 496,
+          "y": 160,
           "w": 222,
           "h": 62
         },
@@ -31793,8 +31793,8 @@
       },
       "step_3_last_sr_balloon.png": {
         "frame": {
-          "x": 630,
-          "y": 408,
+          "x": 327,
+          "y": 579,
           "w": 159,
           "h": 61
         },
@@ -31803,7 +31803,7 @@
       "step_4_button_off.png": {
         "frame": {
           "x": 153,
-          "y": 647,
+          "y": 407,
           "w": 148,
           "h": 70
         },
@@ -31811,8 +31811,8 @@
       },
       "step_4_button_on.png": {
         "frame": {
-          "x": 153,
-          "y": 721,
+          "x": 1,
+          "y": 465,
           "w": 148,
           "h": 70
         },
@@ -31820,8 +31820,8 @@
       },
       "step_4_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 153,
-          "y": 434,
+          "x": 490,
+          "y": 617,
           "w": 159,
           "h": 61
         },
@@ -31829,8 +31829,8 @@
       },
       "step_4_last_pickup_balloon.png": {
         "frame": {
-          "x": 228,
-          "y": 211,
+          "x": 1,
+          "y": 186,
           "w": 222,
           "h": 62
         },
@@ -31839,7 +31839,16 @@
       "step_4_last_pickup_limited_ssr_balloon.png": {
         "frame": {
           "x": 1,
-          "y": 212,
+          "y": 252,
+          "w": 222,
+          "h": 61
+        },
+        "rotated": false
+      },
+      "step_4_last_pickup_ssr_balloon.png": {
+        "frame": {
+          "x": 467,
+          "y": 226,
           "w": 222,
           "h": 61
         },
@@ -31847,8 +31856,8 @@
       },
       "step_4_last_sr_balloon.png": {
         "frame": {
-          "x": 305,
-          "y": 647,
+          "x": 653,
+          "y": 617,
           "w": 159,
           "h": 61
         },
@@ -31856,8 +31865,8 @@
       },
       "step_4_last_ssr_balloon.png": {
         "frame": {
-          "x": 305,
-          "y": 712,
+          "x": 164,
+          "y": 644,
           "w": 159,
           "h": 61
         },
@@ -31865,8 +31874,8 @@
       },
       "step_4_p_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 457,
-          "y": 473,
+          "x": 1,
+          "y": 685,
           "w": 159,
           "h": 61
         },
@@ -31874,8 +31883,8 @@
       },
       "step_4_s_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 620,
-          "y": 473,
+          "x": 327,
+          "y": 644,
           "w": 159,
           "h": 61
         },
@@ -31883,7 +31892,7 @@
       },
       "step_4_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 593,
+          "x": 141,
           "y": 1,
           "w": 175,
           "h": 89
@@ -31892,8 +31901,8 @@
       },
       "step_5_button_off.png": {
         "frame": {
-          "x": 305,
-          "y": 499,
+          "x": 601,
+          "y": 413,
           "w": 148,
           "h": 70
         },
@@ -31901,8 +31910,8 @@
       },
       "step_5_button_on.png": {
         "frame": {
-          "x": 305,
-          "y": 573,
+          "x": 153,
+          "y": 481,
           "w": 148,
           "h": 70
         },
@@ -31910,8 +31919,8 @@
       },
       "step_5_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 457,
-          "y": 538,
+          "x": 490,
+          "y": 682,
           "w": 159,
           "h": 61
         },
@@ -31919,8 +31928,8 @@
       },
       "step_5_last_pickup_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 145,
+          "x": 496,
+          "y": 93,
           "w": 223,
           "h": 63
         },
@@ -31928,8 +31937,8 @@
       },
       "step_5_last_ssr_balloon.png": {
         "frame": {
-          "x": 620,
-          "y": 538,
+          "x": 653,
+          "y": 682,
           "w": 159,
           "h": 61
         },
@@ -31937,8 +31946,8 @@
       },
       "stepup_normal_gasha_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 1,
+          "x": 379,
+          "y": 291,
           "w": 292,
           "h": 44
         },
@@ -31946,8 +31955,8 @@
       },
       "stepup_normal_gasha_button_on.png": {
         "frame": {
-          "x": 297,
-          "y": 1,
+          "x": 305,
+          "y": 339,
           "w": 292,
           "h": 44
         },
@@ -31955,8 +31964,8 @@
       },
       "stepup_sr_up_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 49,
+          "x": 305,
+          "y": 387,
           "w": 292,
           "h": 44
         },
@@ -31964,8 +31973,8 @@
       },
       "stepup_sr_up_button_on.png": {
         "frame": {
-          "x": 297,
-          "y": 49,
+          "x": 305,
+          "y": 435,
           "w": 292,
           "h": 44
         },
@@ -31973,8 +31982,8 @@
       },
       "stepup_ssr_fix_button_off.png": {
         "frame": {
-          "x": 1,
-          "y": 97,
+          "x": 305,
+          "y": 483,
           "w": 292,
           "h": 44
         },
@@ -31982,8 +31991,8 @@
       },
       "stepup_ssr_fix_button_on.png": {
         "frame": {
-          "x": 297,
-          "y": 97,
+          "x": 305,
+          "y": 531,
           "w": 292,
           "h": 44
         },
@@ -31991,8 +32000,8 @@
       },
       "time_left_balloon.png": {
         "frame": {
-          "x": 454,
-          "y": 145,
+          "x": 672,
+          "y": 1,
           "w": 120,
           "h": 45
         },
@@ -32003,8 +32012,8 @@
   "images/ui/option/parts": {
     "name": "images/ui/option/parts",
     "ext": ".png",
-    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=21",
-    "v": 21,
+    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=22",
+    "v": 22,
     "frames": {
       "bar_base.png": {
         "frame": {
@@ -32044,8 +32053,8 @@
       },
       "base_notice_twitter.png": {
         "frame": {
-          "x": 939,
-          "y": 1,
+          "x": 427,
+          "y": 970,
           "w": 27,
           "h": 27
         },
@@ -32071,8 +32080,8 @@
       },
       "btn_clear_setting.png": {
         "frame": {
-          "x": 475,
-          "y": 828,
+          "x": 633,
+          "y": 531,
           "w": 148,
           "h": 70
         },
@@ -32080,8 +32089,8 @@
       },
       "btn_enter_setting.png": {
         "frame": {
-          "x": 475,
-          "y": 902,
+          "x": 633,
+          "y": 605,
           "w": 148,
           "h": 70
         },
@@ -32090,7 +32099,7 @@
       "btn_festours.png": {
         "frame": {
           "x": 633,
-          "y": 605,
+          "y": 753,
           "w": 148,
           "h": 60
         },
@@ -32099,7 +32108,7 @@
       "btn_festours_on.png": {
         "frame": {
           "x": 633,
-          "y": 669,
+          "y": 817,
           "w": 148,
           "h": 60
         },
@@ -32108,7 +32117,7 @@
       "btn_home_setting.png": {
         "frame": {
           "x": 633,
-          "y": 733,
+          "y": 881,
           "w": 148,
           "h": 60
         },
@@ -32116,8 +32125,8 @@
       },
       "btn_home_setting_on.png": {
         "frame": {
-          "x": 633,
-          "y": 797,
+          "x": 475,
+          "y": 943,
           "w": 148,
           "h": 60
         },
@@ -32126,7 +32135,7 @@
       "btn_produce_setting.png": {
         "frame": {
           "x": 627,
-          "y": 861,
+          "y": 945,
           "w": 148,
           "h": 60
         },
@@ -32134,8 +32143,8 @@
       },
       "btn_produce_setting_on.png": {
         "frame": {
-          "x": 785,
-          "y": 531,
+          "x": 804,
+          "y": 477,
           "w": 148,
           "h": 60
         },
@@ -32144,7 +32153,7 @@
       "btn_push_notification.png": {
         "frame": {
           "x": 785,
-          "y": 595,
+          "y": 541,
           "w": 148,
           "h": 60
         },
@@ -32153,7 +32162,7 @@
       "btn_push_notification_on.png": {
         "frame": {
           "x": 785,
-          "y": 659,
+          "y": 605,
           "w": 148,
           "h": 60
         },
@@ -32161,8 +32170,8 @@
       },
       "btn_sound_off.png": {
         "frame": {
-          "x": 897,
-          "y": 1,
+          "x": 343,
+          "y": 970,
           "w": 38,
           "h": 38
         },
@@ -32170,8 +32179,8 @@
       },
       "btn_sound_on.png": {
         "frame": {
-          "x": 869,
-          "y": 60,
+          "x": 385,
+          "y": 970,
           "w": 38,
           "h": 38
         },
@@ -32180,7 +32189,7 @@
       "btn_sound_setting.png": {
         "frame": {
           "x": 785,
-          "y": 723,
+          "y": 669,
           "w": 148,
           "h": 60
         },
@@ -32189,7 +32198,7 @@
       "btn_sound_setting_on.png": {
         "frame": {
           "x": 785,
-          "y": 787,
+          "y": 733,
           "w": 148,
           "h": 60
         },
@@ -32198,7 +32207,7 @@
       "btn_twitter_profile.png": {
         "frame": {
           "x": 785,
-          "y": 851,
+          "y": 797,
           "w": 148,
           "h": 60
         },
@@ -32206,8 +32215,8 @@
       },
       "btn_twitter_profile_on.png": {
         "frame": {
-          "x": 791,
-          "y": 915,
+          "x": 785,
+          "y": 861,
           "w": 148,
           "h": 60
         },
@@ -32215,7 +32224,7 @@
       },
       "character_option_button.png": {
         "frame": {
-          "x": 660,
+          "x": 476,
           "y": 477,
           "w": 160,
           "h": 50
@@ -32224,8 +32233,8 @@
       },
       "character_option_button_off.png": {
         "frame": {
-          "x": 627,
-          "y": 925,
+          "x": 640,
+          "y": 477,
           "w": 160,
           "h": 50
         },
@@ -32234,7 +32243,7 @@
       "favorite_idol_change_button.png": {
         "frame": {
           "x": 633,
-          "y": 531,
+          "y": 679,
           "w": 148,
           "h": 70
         },
@@ -32251,8 +32260,8 @@
       },
       "handle_mute.png": {
         "frame": {
-          "x": 937,
-          "y": 531,
+          "x": 869,
+          "y": 60,
           "w": 24,
           "h": 55
         },
@@ -32260,8 +32269,8 @@
       },
       "help_button.png": {
         "frame": {
-          "x": 824,
-          "y": 477,
+          "x": 785,
+          "y": 925,
           "w": 148,
           "h": 50
         },
@@ -32357,7 +32366,7 @@
         },
         "rotated": false
       },
-      "icon_present_panel_skip.png": {
+      "icon_prank_2021.png": {
         "frame": {
           "x": 317,
           "y": 764,
@@ -32366,7 +32375,7 @@
         },
         "rotated": false
       },
-      "icon_recovery_panel_skip.png": {
+      "icon_present_panel_skip.png": {
         "frame": {
           "x": 317,
           "y": 867,
@@ -32375,10 +32384,19 @@
         },
         "rotated": false
       },
+      "icon_recovery_panel_skip.png": {
+        "frame": {
+          "x": 475,
+          "y": 531,
+          "w": 154,
+          "h": 99
+        },
+        "rotated": false
+      },
       "icon_rest_confirm.png": {
         "frame": {
           "x": 475,
-          "y": 519,
+          "y": 634,
           "w": 154,
           "h": 99
         },
@@ -32387,7 +32405,7 @@
       "icon_tension_panel_skip.png": {
         "frame": {
           "x": 475,
-          "y": 622,
+          "y": 737,
           "w": 154,
           "h": 99
         },
@@ -32396,7 +32414,7 @@
       "icon_touch.png": {
         "frame": {
           "x": 475,
-          "y": 725,
+          "y": 840,
           "w": 154,
           "h": 99
         },
@@ -32404,8 +32422,8 @@
       },
       "icon_volume_down.png": {
         "frame": {
-          "x": 869,
-          "y": 133,
+          "x": 897,
+          "y": 1,
           "w": 27,
           "h": 27
         },
@@ -32413,8 +32431,8 @@
       },
       "icon_volume_up.png": {
         "frame": {
-          "x": 869,
-          "y": 102,
+          "x": 1,
+          "y": 971,
           "w": 41,
           "h": 27
         },
@@ -32422,8 +32440,8 @@
       },
       "option_list_base.png": {
         "frame": {
-          "x": 897,
-          "y": 43,
+          "x": 785,
+          "y": 979,
           "w": 23,
           "h": 13
         },
@@ -32432,7 +32450,7 @@
       "partition.png": {
         "frame": {
           "x": 779,
-          "y": 861,
+          "y": 945,
           "w": 2,
           "h": 47
         },
@@ -32440,8 +32458,8 @@
       },
       "twitter_reset_button.png": {
         "frame": {
-          "x": 476,
-          "y": 477,
+          "x": 159,
+          "y": 970,
           "w": 180,
           "h": 38
         },
@@ -48860,5 +48878,26 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/65/001": {
+    "name": "images/tips/game_event/65/001",
+    "ext": ".jpg",
+    "url": "/assets/776a0cab95b3be53aeecc652d2da6a5fe580567e56630f17cf95a5c290baeed4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/65/002": {
+    "name": "images/tips/game_event/65/002",
+    "ext": ".jpg",
+    "url": "/assets/21d30f1b9af46ed44a6c0aae4f224c785dc62b4a8a60053032312f3329ba0e14?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/65/003": {
+    "name": "images/tips/game_event/65/003",
+    "ext": ".jpg",
+    "url": "/assets/783f1d74793a7191b158754810b41a85650539a8686ad530b96d0595c6b01a94?v=1",
+    "v": 1,
+    "frames": null
   }
 }
