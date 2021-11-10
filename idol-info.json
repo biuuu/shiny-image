@@ -611,6 +611,18 @@
     "id": "1030070030"
   },
   {
+    "hash": "5e884ccdaf364e8800c1e304bcac2b47",
+    "name": "【Hakoni□a】三峰 結華",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/60d489ad2f8090d73c4c35e330e0167801d5281c82fad163756368983bca6000?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/75c9d11c76376ddb0a8cc3de08d8714c840146fb0a7cf1ccc396ccd8a2b249bd?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/fa59c4b8b9cd3aa4ea1e501a95ab18e28c0fb1e11348e5cbf47f0406edca8e2d?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/6c9dd653bc177abc779788d010009fd35f1c7360581db7cc1ed5929babe58de8.mp4?v=1",
+    "id": "1030070040"
+  },
+  {
     "hash": "bbc20495d6e4faadb95ec544f8467e50",
     "name": "【包・帯・組・曲】幽谷 霧子",
     "type": "p",
@@ -1939,6 +1951,20 @@
     "movie": "https://shinycolors.enza.fun/assets/dcd25adc75fc5804751668ad509df645659ef33a7c486837fd9c24583e7d01e9.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/c733f14fd5dd985e3e98b40d63c8d6abc17519681c8a7dbe5c5b3893eeb1a112.mp4?v=1",
     "id": "1040080050"
+  },
+  {
+    "hash": "c6a187cf6764165482166f7dac86fa99",
+    "name": "【かぜかんむりのこどもたち】幽谷 霧子",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "ウインドチェック……プリーズ────",
+    "card": "https://shinycolors.enza.fun/assets/28a0328256e74bff7286c12086e8e80b49dd9af8d4ddb093f73e5dfff0a9149b?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/798b99ab31c97ca9160c6992f698692eef3093a27f0feef79e5c774d169d6cef?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/69d0a57d83098ff998a0e813496ce167606fb900d308bb51bb2b9d6d9ea84861?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/4fe3e791ce0f3c5af8895c0d4855809a2b672ac4164f731a13e7161b8dfedb32.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/75bb573917de26cfe0c30d609297c71b941a2056356d68f32e4f36c756d2ba3a.mp4?v=1",
+    "id": "1040080060"
   },
   {
     "hash": "81ee9a39be6be420e028a2e6e5548526",
@@ -4981,6 +5007,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/e8b128972e626a344eb351077ae8c6946138239f2c39544fa3232aaecfc1c594?v=1",
     "id": "2040100060"
+  },
+  {
+    "hash": "7f4e6d931bb61b13149522e48c500750",
+    "name": "【生彩トラベリング】園田 智代子",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/0ad4e33fea8beecc116177aa18e3f59b0583935de023a19c3e1abb08654e2da6?v=1",
+    "id": "2040100070"
   },
   {
     "hash": "66cab712b59447ebfbcdb4f241fcc263",
