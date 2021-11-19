@@ -3453,8 +3453,8 @@
   "images/tips/true_end_teaching/produce_idol_select/001": {
     "name": "images/tips/true_end_teaching/produce_idol_select/001",
     "ext": ".jpg",
-    "url": "/assets/05db240bc2da5f80861ccc0c7f1717bd690b6c32312399b4b3283f4f35256f3c?v=3",
-    "v": 3,
+    "url": "/assets/05db240bc2da5f80861ccc0c7f1717bd690b6c32312399b4b3283f4f35256f3c?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/true_end_teaching/produce_idol_select/002": {
@@ -48932,6 +48932,34 @@
     "name": "images/tips/game_event/30015/009",
     "ext": ".jpg",
     "url": "/assets/911f7ef49f3948942cdafe0b0488d0975c0095f2c7cf075b28a833883501913c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20029/001": {
+    "name": "images/tips/game_event/20029/001",
+    "ext": ".jpg",
+    "url": "/assets/2797ac4b47a3aec901c39baf3de39e65abb86a3dce80b89830d1ef6d90a6e668?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20029/002": {
+    "name": "images/tips/game_event/20029/002",
+    "ext": ".jpg",
+    "url": "/assets/cd0e70114bcc9e1b861f11479124bc80fa11ebf4826c876ff709f5592198adc6?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20029/003": {
+    "name": "images/tips/game_event/20029/003",
+    "ext": ".jpg",
+    "url": "/assets/148e80c97373fc2fc3cf3fb55a1490d73c9ca94dbddc9aef1592035759d5aba4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20029/005": {
+    "name": "images/tips/game_event/20029/005",
+    "ext": ".jpg",
+    "url": "/assets/2a85adcae9bbe9effdda0f8909214c09f385a79808d1eda254abf0e0e69e86fb?v=1",
     "v": 1,
     "frames": null
   }
