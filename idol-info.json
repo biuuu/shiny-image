@@ -767,6 +767,18 @@
     "id": "1030100030"
   },
   {
+    "hash": "9147b864bd2cafb454709eed7533986e",
+    "name": "【フロイラインに心酔】園田 智代子",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/a2193e41fe6cba6e99d1b811f28e0f2ec53650dabe1acf361e0019d41531aae8?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/66ecb91ed482083c10c226e742c1da4b391f280747808dd15e3875c1ecf4f142?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/fc55ef96d61d22f81a8b10ce6d8cf8784d6a39d2f3fef87af472294e20ce8047?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/d88e7fe7564a540fa963105efe051fd59bff6299c2f789d28ae307dd2234bdcd.mp4?v=1",
+    "id": "1030100040"
+  },
+  {
     "hash": "3805a0ec5fc37a697bd5bf656e432a32",
     "name": "【バッドガールの羽ばたき】西城 樹里",
     "type": "p",
@@ -2471,6 +2483,20 @@
     "id": "1040140060"
   },
   {
+    "hash": "ef46e9a53753b91b0b75231875b4a0fa",
+    "name": "【雪空セパレート】大崎 甘奈",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "まだ……温かい……",
+    "card": "https://shinycolors.enza.fun/assets/d03c7924bf4eccb9bea1d46a2800d2ff31343e09790f7bcb918df4ff94282dc7?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/8326f9484113ce5782f50789d7a539ed216ba31c1420d64a5320fbe761a62bf7?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/82783a757ebac5dfcfca8815dabb72e5852542f7f253c36c27d4a439e314bafc?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/ff5e257178b977da58c7ed655680c26229a1856803aecd4b53796abd1b3c8ceb.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/ba00ac43c3171a400b28dcdce344cf07bab0a6b539bd2112ac5c4f00e095af13.mp4?v=1",
+    "id": "1040140070"
+  },
+  {
     "hash": "3c983e5fb9bb7eaa925c4d8ab6ac9674",
     "name": "【事務所。静寂。大輪の華】大崎 甜花",
     "type": "p",
@@ -3015,6 +3041,20 @@
     "movie": "https://shinycolors.enza.fun/assets/c39fd48ff7c10e4859b1c895bdd21886db1471fbd5ad724fb779a70372920a5d.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/7caad2a26be62d06f099f39abbcc0a2df4d8de1eace19cb35b5a22460c699eaf.mp4?v=1",
     "id": "1040250010"
+  },
+  {
+    "hash": "16e7c63bde53df22a5439d935610e8d8",
+    "name": "【CHILLY】緋田 美琴",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "……ごめん、寒いのに\n待たせちゃった？",
+    "card": "https://shinycolors.enza.fun/assets/8e572dc8565a85004e6736d7ff752b544c03ddd1fe4ec138dff3512afdf8b769?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/8239ac31c93882094598c13f0f8221eef742f228bb5cb634321799c65976a2bc?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/961012999646a374c87ad2a283b87f71b1d76adc6ad180572aacf6391997a4ec?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/6de73691dafcbb628a25a6541d8546af687ba0d8af3a091c99ead524dddff28b.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/f294d5c50d0369fdac3fbb21c53f11954d0e236f985dc8e2c20d5842dd64ecef.mp4?v=1",
+    "id": "1040250020"
   },
   {
     "hash": "a456b7b0657ec4309dd56621c5290341",
@@ -4049,6 +4089,14 @@
     "id": "2030060030"
   },
   {
+    "hash": "6f7592db791e0ac18cda7822cc8dc509",
+    "name": "【当日じゃない日】白瀬 咲耶",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/0b8a2da3f3c8194391f77e0cc1575bc9a607adac834a1a6d15cc9654c12ab438?v=1",
+    "id": "2030060040"
+  },
+  {
     "hash": "1491350abc3a5b6882b1cd35050d947b",
     "name": "【輪になって】三峰 結華",
     "type": "s",
@@ -5055,6 +5103,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/ab5bf9328c96b37621307625b731607a8aed9386ab92481d2871851c85cbfecf?v=1",
     "id": "2040110050"
+  },
+  {
+    "hash": "2281ec9c4f42fc4e0cf5368837ef611e",
+    "name": "【Hearty!Holy!Party!】西城 樹里",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/50b1cc474afd9947acd95249f085da8ab9b1d451b7d5fbd153668009b6a90c75?v=1",
+    "id": "2040110060"
   },
   {
     "hash": "1bd084d1c13091306987e46ead0d33d7",
