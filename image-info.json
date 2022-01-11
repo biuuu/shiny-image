@@ -3418,8 +3418,8 @@
   "images/tips/game_event/collabo_fes/010": {
     "name": "images/tips/game_event/collabo_fes/010",
     "ext": ".jpg",
-    "url": "/assets/338b4958c03a4be27111d09ff675b226a76b9f231ed0a96a7d1033d685c9c974?v=3",
-    "v": 3,
+    "url": "/assets/338b4958c03a4be27111d09ff675b226a76b9f231ed0a96a7d1033d685c9c974?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/game_event/collabo_fes/011": {
@@ -37438,13 +37438,13 @@
   "images/ui/fes/parts": {
     "name": "images/ui/fes/parts",
     "ext": ".png",
-    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=33",
-    "v": 33,
+    "url": "/assets/bc0e3c720969d4248dbed2a9c3e71cd9a8b40d01a73cf8f417ccd1dea31c8e8a?v=34",
+    "v": 34,
     "frames": {
       "battle_passport_tension_bonus_badge.png": {
         "frame": {
-          "x": 1065,
-          "y": 507,
+          "x": 421,
+          "y": 1070,
           "w": 160,
           "h": 44
         },
@@ -37452,8 +37452,8 @@
       },
       "bonus_partition.png": {
         "frame": {
-          "x": 1113,
-          "y": 766,
+          "x": 963,
+          "y": 985,
           "w": 2,
           "h": 21
         },
@@ -37461,8 +37461,8 @@
       },
       "campaign_label_2.png": {
         "frame": {
-          "x": 395,
-          "y": 1156,
+          "x": 901,
+          "y": 607,
           "w": 130,
           "h": 130
         },
@@ -37470,8 +37470,8 @@
       },
       "campaign_label_3.png": {
         "frame": {
-          "x": 457,
-          "y": 1018,
+          "x": 925,
+          "y": 741,
           "w": 130,
           "h": 130
         },
@@ -37479,8 +37479,8 @@
       },
       "campaign_label_5.png": {
         "frame": {
-          "x": 803,
-          "y": 1022,
+          "x": 1035,
+          "y": 473,
           "w": 130,
           "h": 130
         },
@@ -37488,8 +37488,8 @@
       },
       "campaign_label_7.png": {
         "frame": {
-          "x": 803,
-          "y": 1156,
+          "x": 1035,
+          "y": 607,
           "w": 130,
           "h": 130
         },
@@ -37497,8 +37497,8 @@
       },
       "campaign_label_10.png": {
         "frame": {
-          "x": 261,
-          "y": 1156,
+          "x": 901,
+          "y": 473,
           "w": 130,
           "h": 130
         },
@@ -37506,8 +37506,8 @@
       },
       "campaign_label_mask.png": {
         "frame": {
-          "x": 1141,
-          "y": 1,
+          "x": 781,
+          "y": 744,
           "w": 140,
           "h": 140
         },
@@ -37515,8 +37515,8 @@
       },
       "coin_shop_button.png": {
         "frame": {
-          "x": 1137,
-          "y": 941,
+          "x": 445,
+          "y": 1151,
           "w": 116,
           "h": 30
         },
@@ -37524,8 +37524,8 @@
       },
       "consume_multiple_tickets_button_off.png": {
         "frame": {
-          "x": 529,
-          "y": 1167,
+          "x": 621,
+          "y": 904,
           "w": 200,
           "h": 50
         },
@@ -37533,89 +37533,17 @@
       },
       "consume_multiple_tickets_button_on.png": {
         "frame": {
-          "x": 529,
-          "y": 1221,
+          "x": 631,
+          "y": 958,
           "w": 200,
           "h": 50
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_1.png": {
-        "frame": {
-          "x": 711,
-          "y": 823,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_2.png": {
-        "frame": {
-          "x": 901,
-          "y": 707,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_3.png": {
-        "frame": {
-          "x": 923,
-          "y": 791,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_4.png": {
-        "frame": {
-          "x": 923,
-          "y": 875,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_5.png": {
-        "frame": {
-          "x": 679,
-          "y": 935,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_base_border_6.png": {
-        "frame": {
-          "x": 591,
-          "y": 1019,
-          "w": 208,
-          "h": 80
-        },
-        "rotated": false
-      },
-      "deck_member_popularity_bonus_annotation.png": {
-        "frame": {
-          "x": 261,
-          "y": 1018,
-          "w": 192,
-          "h": 134
-        },
-        "rotated": false
-      },
-      "deck_popularity_bonus_annotation.png": {
-        "frame": {
-          "x": 1,
-          "y": 148,
-          "w": 1080,
-          "h": 75
         },
         "rotated": false
       },
       "difficulty_button_easy.png": {
         "frame": {
           "x": 605,
-          "y": 527,
+          "y": 448,
           "w": 292,
           "h": 292
         },
@@ -37624,7 +37552,7 @@
       "difficulty_button_extreme.png": {
         "frame": {
           "x": 1,
-          "y": 715,
+          "y": 636,
           "w": 296,
           "h": 296
         },
@@ -37633,7 +37561,7 @@
       "difficulty_button_hard.png": {
         "frame": {
           "x": 305,
-          "y": 227,
+          "y": 148,
           "w": 296,
           "h": 296
         },
@@ -37642,7 +37570,7 @@
       "difficulty_button_normal.png": {
         "frame": {
           "x": 605,
-          "y": 227,
+          "y": 148,
           "w": 296,
           "h": 296
         },
@@ -37651,7 +37579,7 @@
       "difficulty_button_veryhard.png": {
         "frame": {
           "x": 305,
-          "y": 527,
+          "y": 448,
           "w": 296,
           "h": 296
         },
@@ -37659,8 +37587,8 @@
       },
       "fes_2_unit_bonus_label.png": {
         "frame": {
-          "x": 891,
-          "y": 989,
+          "x": 905,
+          "y": 440,
           "w": 231,
           "h": 29
         },
@@ -37668,8 +37596,8 @@
       },
       "fes_3_unit_bonus_label.png": {
         "frame": {
-          "x": 1085,
-          "y": 203,
+          "x": 247,
+          "y": 1159,
           "w": 194,
           "h": 26
         },
@@ -37677,8 +37605,8 @@
       },
       "fes_all_unit_bonus_label.png": {
         "frame": {
-          "x": 301,
-          "y": 986,
+          "x": 905,
+          "y": 408,
           "w": 253,
           "h": 28
         },
@@ -37686,8 +37614,8 @@
       },
       "fes_button_lock.png": {
         "frame": {
-          "x": 1065,
-          "y": 1022,
+          "x": 1059,
+          "y": 741,
           "w": 107,
           "h": 121
         },
@@ -37695,8 +37623,8 @@
       },
       "fes_button_lock_balloon.png": {
         "frame": {
-          "x": 1141,
-          "y": 145,
+          "x": 585,
+          "y": 1012,
           "w": 140,
           "h": 54
         },
@@ -37704,8 +37632,8 @@
       },
       "fes_button_lock_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1015,
+          "x": 905,
+          "y": 148,
           "w": 256,
           "h": 256
         },
@@ -37713,8 +37641,8 @@
       },
       "fes_campaign_badge_event.png": {
         "frame": {
-          "x": 1065,
-          "y": 447,
+          "x": 421,
+          "y": 1010,
           "w": 160,
           "h": 56
         },
@@ -37722,8 +37650,8 @@
       },
       "fes_campaign_badge_limited.png": {
         "frame": {
-          "x": 591,
-          "y": 1103,
+          "x": 1,
+          "y": 1095,
           "w": 208,
           "h": 60
         },
@@ -37731,8 +37659,8 @@
       },
       "fes_deck_button_large.png": {
         "frame": {
-          "x": 1065,
-          "y": 299,
+          "x": 269,
+          "y": 1010,
           "w": 148,
           "h": 70
         },
@@ -37749,8 +37677,8 @@
       },
       "fes_gauge_mission.png": {
         "frame": {
-          "x": 679,
-          "y": 907,
+          "x": 301,
+          "y": 908,
           "w": 240,
           "h": 24
         },
@@ -37758,8 +37686,8 @@
       },
       "fes_gauge_mission_base.png": {
         "frame": {
-          "x": 891,
-          "y": 959,
+          "x": 1,
+          "y": 1159,
           "w": 242,
           "h": 26
         },
@@ -37767,8 +37695,8 @@
       },
       "fes_grade_evaluation_limit_star.png": {
         "frame": {
-          "x": 1211,
-          "y": 685,
+          "x": 213,
+          "y": 1095,
           "w": 21,
           "h": 21
         },
@@ -37776,8 +37704,8 @@
       },
       "fes_idol_balloon_base.png": {
         "frame": {
-          "x": 301,
-          "y": 901,
+          "x": 1,
+          "y": 1010,
           "w": 264,
           "h": 81
         },
@@ -37785,8 +37713,8 @@
       },
       "fes_match_button.png": {
         "frame": {
-          "x": 905,
-          "y": 227,
+          "x": 301,
+          "y": 748,
           "w": 156,
           "h": 156
         },
@@ -37794,8 +37722,8 @@
       },
       "fes_match_start_button.png": {
         "frame": {
-          "x": 1065,
-          "y": 373,
+          "x": 411,
+          "y": 936,
           "w": 148,
           "h": 70
         },
@@ -37803,8 +37731,8 @@
       },
       "fes_popularity_detail_button.png": {
         "frame": {
-          "x": 1135,
-          "y": 817,
+          "x": 631,
+          "y": 1134,
           "w": 118,
           "h": 38
         },
@@ -37812,8 +37740,8 @@
       },
       "fes_ranking_detail_button.png": {
         "frame": {
-          "x": 1135,
-          "y": 859,
+          "x": 753,
+          "y": 1134,
           "w": 118,
           "h": 38
         },
@@ -37821,8 +37749,8 @@
       },
       "fes_rehearsal_button.png": {
         "frame": {
-          "x": 905,
-          "y": 387,
+          "x": 461,
+          "y": 748,
           "w": 156,
           "h": 156
         },
@@ -37830,8 +37758,8 @@
       },
       "fes_start_button.png": {
         "frame": {
-          "x": 901,
-          "y": 547,
+          "x": 621,
+          "y": 744,
           "w": 156,
           "h": 156
         },
@@ -37840,7 +37768,7 @@
       "fes_status_board_base.png": {
         "frame": {
           "x": 1,
-          "y": 227,
+          "y": 148,
           "w": 300,
           "h": 484
         },
@@ -37848,8 +37776,8 @@
       },
       "fes_ticket_base.png": {
         "frame": {
-          "x": 1176,
-          "y": 1051,
+          "x": 1073,
+          "y": 954,
           "w": 95,
           "h": 22
         },
@@ -37857,8 +37785,8 @@
       },
       "fes_ticket_consume_base.png": {
         "frame": {
-          "x": 301,
-          "y": 827,
+          "x": 1,
+          "y": 936,
           "w": 406,
           "h": 70
         },
@@ -37866,8 +37794,8 @@
       },
       "fes_ticket_icon.png": {
         "frame": {
-          "x": 558,
-          "y": 986,
+          "x": 718,
+          "y": 1070,
           "w": 7,
           "h": 14
         },
@@ -37875,8 +37803,8 @@
       },
       "fes_to_shop_button.png": {
         "frame": {
-          "x": 1061,
-          "y": 555,
+          "x": 269,
+          "y": 1084,
           "w": 148,
           "h": 38
         },
@@ -37884,8 +37812,8 @@
       },
       "grade_evaluation_down_arrow.png": {
         "frame": {
-          "x": 1085,
-          "y": 148,
+          "x": 563,
+          "y": 908,
           "w": 50,
           "h": 50
         },
@@ -37893,8 +37821,8 @@
       },
       "grade_evaluation_down_base.png": {
         "frame": {
-          "x": 937,
-          "y": 1022,
+          "x": 729,
+          "y": 1012,
           "w": 124,
           "h": 118
         },
@@ -37902,8 +37830,8 @@
       },
       "grade_evaluation_down_text.png": {
         "frame": {
-          "x": 1169,
-          "y": 597,
+          "x": 1073,
+          "y": 866,
           "w": 91,
           "h": 84
         },
@@ -37911,8 +37839,8 @@
       },
       "grade_evaluation_keep_arrow.png": {
         "frame": {
-          "x": 733,
-          "y": 1167,
+          "x": 1093,
+          "y": 980,
           "w": 53,
           "h": 56
         },
@@ -37920,8 +37848,8 @@
       },
       "grade_evaluation_keep_base.png": {
         "frame": {
-          "x": 937,
-          "y": 1144,
+          "x": 835,
+          "y": 888,
           "w": 124,
           "h": 118
         },
@@ -37929,8 +37857,8 @@
       },
       "grade_evaluation_keep_text.png": {
         "frame": {
-          "x": 1113,
-          "y": 685,
+          "x": 985,
+          "y": 1071,
           "w": 94,
           "h": 77
         },
@@ -37938,8 +37866,8 @@
       },
       "grade_evaluation_up_arrow.png": {
         "frame": {
-          "x": 733,
-          "y": 1227,
+          "x": 1102,
+          "y": 1115,
           "w": 50,
           "h": 50
         },
@@ -37947,8 +37875,8 @@
       },
       "grade_evaluation_up_base.png": {
         "frame": {
-          "x": 1065,
-          "y": 1147,
+          "x": 857,
+          "y": 1010,
           "w": 124,
           "h": 118
         },
@@ -37956,8 +37884,8 @@
       },
       "grade_evaluation_up_text.png": {
         "frame": {
-          "x": 1061,
-          "y": 597,
+          "x": 985,
+          "y": 985,
           "w": 104,
           "h": 82
         },
@@ -37965,8 +37893,8 @@
       },
       "grade_reward_button.png": {
         "frame": {
-          "x": 569,
-          "y": 901,
+          "x": 963,
+          "y": 875,
           "w": 106,
           "h": 106
         },
@@ -37974,8 +37902,8 @@
       },
       "grade_sparkle.png": {
         "frame": {
-          "x": 1217,
-          "y": 299,
+          "x": 1141,
+          "y": 1,
           "w": 25,
           "h": 22
         },
@@ -37983,8 +37911,8 @@
       },
       "mission_button.png": {
         "frame": {
-          "x": 1176,
-          "y": 1009,
+          "x": 1083,
+          "y": 1073,
           "w": 96,
           "h": 38
         },
@@ -37992,8 +37920,8 @@
       },
       "mission_calculation.png": {
         "frame": {
-          "x": 1176,
-          "y": 1077,
+          "x": 1093,
+          "y": 1040,
           "w": 65,
           "h": 29
         },
@@ -38001,8 +37929,8 @@
       },
       "mission_complete.png": {
         "frame": {
-          "x": 1065,
-          "y": 266,
+          "x": 433,
+          "y": 1118,
           "w": 194,
           "h": 29
         },
@@ -38010,8 +37938,8 @@
       },
       "mission_in_progress.png": {
         "frame": {
-          "x": 1065,
-          "y": 233,
+          "x": 213,
+          "y": 1126,
           "w": 216,
           "h": 29
         },
@@ -38019,8 +37947,8 @@
       },
       "money_shop_button.png": {
         "frame": {
-          "x": 1137,
-          "y": 975,
+          "x": 982,
+          "y": 1152,
           "w": 116,
           "h": 30
         },
@@ -38028,8 +37956,8 @@
       },
       "text_acquisition_score.png": {
         "frame": {
-          "x": 1135,
-          "y": 766,
+          "x": 875,
+          "y": 1132,
           "w": 103,
           "h": 47
         },
@@ -38037,8 +37965,8 @@
       },
       "text_suggested_rank.png": {
         "frame": {
-          "x": 937,
-          "y": 1266,
+          "x": 631,
+          "y": 1110,
           "w": 94,
           "h": 20
         },
@@ -38046,8 +37974,8 @@
       },
       "text_suggested_rank_s.png": {
         "frame": {
-          "x": 1135,
-          "y": 901,
+          "x": 585,
+          "y": 1070,
           "w": 129,
           "h": 36
         },
@@ -45289,13 +45217,13 @@
   "images/ui/fes/fes_deck": {
     "name": "images/ui/fes/fes_deck",
     "ext": ".png",
-    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=2",
-    "v": 2,
+    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=3",
+    "v": 3,
     "frames": {
       "active_skill_select_base.png": {
         "frame": {
           "x": 191,
-          "y": 875,
+          "y": 669,
           "w": 494,
           "h": 114
         },
@@ -45304,7 +45232,7 @@
       "active_skill_select_base_on.png": {
         "frame": {
           "x": 191,
-          "y": 993,
+          "y": 787,
           "w": 494,
           "h": 114
         },
@@ -45312,8 +45240,8 @@
       },
       "center_bonus_status_base.png": {
         "frame": {
-          "x": 842,
-          "y": 517,
+          "x": 191,
+          "y": 905,
           "w": 210,
           "h": 354
         },
@@ -45321,8 +45249,8 @@
       },
       "change_costume_button.png": {
         "frame": {
-          "x": 1141,
-          "y": 64,
+          "x": 689,
+          "y": 711,
           "w": 56,
           "h": 56
         },
@@ -45330,17 +45258,80 @@
       },
       "dance_bonus_status_base.png": {
         "frame": {
-          "x": 1056,
-          "y": 517,
+          "x": 405,
+          "y": 905,
           "w": 210,
           "h": 354
         },
         "rotated": false
       },
+      "deck_member_popularity_base_border_1.png": {
+        "frame": {
+          "x": 1045,
+          "y": 1096,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_base_border_2.png": {
+        "frame": {
+          "x": 1045,
+          "y": 1180,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_base_border_3.png": {
+        "frame": {
+          "x": 1045,
+          "y": 1264,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_base_border_4.png": {
+        "frame": {
+          "x": 153,
+          "y": 1263,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_base_border_5.png": {
+        "frame": {
+          "x": 365,
+          "y": 1263,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_base_border_6.png": {
+        "frame": {
+          "x": 577,
+          "y": 1263,
+          "w": 208,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "deck_member_popularity_bonus_annotation.png": {
+        "frame": {
+          "x": 1141,
+          "y": 1,
+          "w": 192,
+          "h": 134
+        },
+        "rotated": false
+      },
       "deck_member_status_base.png": {
         "frame": {
-          "x": 617,
-          "y": 517,
+          "x": 1141,
+          "y": 139,
           "w": 192,
           "h": 134
         },
@@ -45348,17 +45339,26 @@
       },
       "deck_music_settings_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1234,
+          "x": 1045,
+          "y": 954,
           "w": 301,
           "h": 36
         },
         "rotated": false
       },
+      "deck_popularity_bonus_annotation.png": {
+        "frame": {
+          "x": 1,
+          "y": 517,
+          "w": 1080,
+          "h": 75
+        },
+        "rotated": false
+      },
       "description_base.png": {
         "frame": {
-          "x": 617,
-          "y": 655,
+          "x": 1045,
+          "y": 994,
           "w": 206,
           "h": 98
         },
@@ -45366,8 +45366,8 @@
       },
       "fes_card_s_none.png": {
         "frame": {
-          "x": 405,
-          "y": 517,
+          "x": 619,
+          "y": 905,
           "w": 208,
           "h": 354
         },
@@ -45375,8 +45375,8 @@
       },
       "fes_deck_change_costume_line.png": {
         "frame": {
-          "x": 1201,
-          "y": 105,
+          "x": 1141,
+          "y": 403,
           "w": 56,
           "h": 56
         },
@@ -45384,8 +45384,8 @@
       },
       "fes_deck_deck_move_button_base.png": {
         "frame": {
-          "x": 1141,
-          "y": 249,
+          "x": 689,
+          "y": 669,
           "w": 108,
           "h": 38
         },
@@ -45402,8 +45402,8 @@
       },
       "fes_deck_unit_copy_button.png": {
         "frame": {
-          "x": 306,
-          "y": 1234,
+          "x": 1141,
+          "y": 325,
           "w": 188,
           "h": 38
         },
@@ -45412,7 +45412,7 @@
       "fes_idol_list_base.png": {
         "frame": {
           "x": 1,
-          "y": 517,
+          "y": 596,
           "w": 186,
           "h": 640
         },
@@ -45420,8 +45420,8 @@
       },
       "fes_idol_rank_line.png": {
         "frame": {
-          "x": 650,
-          "y": 1258,
+          "x": 1141,
+          "y": 391,
           "w": 134,
           "h": 2
         },
@@ -45429,8 +45429,8 @@
       },
       "fes_idol_switch_arrow.png": {
         "frame": {
-          "x": 1141,
-          "y": 1,
+          "x": 1255,
+          "y": 994,
           "w": 75,
           "h": 59
         },
@@ -45438,8 +45438,8 @@
       },
       "icon_music_disc.png": {
         "frame": {
-          "x": 1227,
-          "y": 165,
+          "x": 1255,
+          "y": 1057,
           "w": 26,
           "h": 24
         },
@@ -45447,8 +45447,8 @@
       },
       "info_switch_button.png": {
         "frame": {
-          "x": 498,
-          "y": 1234,
+          "x": 1,
+          "y": 1240,
           "w": 148,
           "h": 38
         },
@@ -45456,8 +45456,8 @@
       },
       "leader_bonus_status_base.png": {
         "frame": {
-          "x": 842,
-          "y": 875,
+          "x": 851,
+          "y": 596,
           "w": 210,
           "h": 354
         },
@@ -45465,8 +45465,8 @@
       },
       "music_change_button.png": {
         "frame": {
-          "x": 1187,
-          "y": 165,
+          "x": 789,
+          "y": 1263,
           "w": 36,
           "h": 36
         },
@@ -45474,8 +45474,8 @@
       },
       "param_bonus_effect_background.png": {
         "frame": {
-          "x": 191,
-          "y": 1111,
+          "x": 1141,
+          "y": 277,
           "w": 190,
           "h": 44
         },
@@ -45484,7 +45484,7 @@
       "parameter_base_line.png": {
         "frame": {
           "x": 1141,
-          "y": 291,
+          "y": 397,
           "w": 118,
           "h": 2
         },
@@ -45492,8 +45492,8 @@
       },
       "passive_bonus_status_background.png": {
         "frame": {
-          "x": 650,
-          "y": 1234,
+          "x": 1141,
+          "y": 367,
           "w": 188,
           "h": 20
         },
@@ -45501,8 +45501,8 @@
       },
       "skill_change_button.png": {
         "frame": {
-          "x": 1181,
-          "y": 205,
+          "x": 1,
+          "y": 1282,
           "w": 86,
           "h": 40
         },
@@ -45510,8 +45510,8 @@
       },
       "skill_none.png": {
         "frame": {
-          "x": 1141,
-          "y": 124,
+          "x": 749,
+          "y": 711,
           "w": 42,
           "h": 42
         },
@@ -45519,8 +45519,8 @@
       },
       "skill_select_check_box.png": {
         "frame": {
-          "x": 1220,
-          "y": 1,
+          "x": 1085,
+          "y": 517,
           "w": 48,
           "h": 48
         },
@@ -45528,8 +45528,8 @@
       },
       "skill_select_check_box_on.png": {
         "frame": {
-          "x": 1220,
-          "y": 53,
+          "x": 689,
+          "y": 771,
           "w": 48,
           "h": 48
         },
@@ -45537,8 +45537,8 @@
       },
       "title_edit_button.png": {
         "frame": {
-          "x": 1141,
-          "y": 170,
+          "x": 801,
+          "y": 669,
           "w": 36,
           "h": 36
         },
@@ -45546,8 +45546,8 @@
       },
       "total_power_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1161,
+          "x": 191,
+          "y": 596,
           "w": 656,
           "h": 69
         },
@@ -45555,8 +45555,8 @@
       },
       "visual_bonus_status_base.png": {
         "frame": {
-          "x": 1056,
-          "y": 875,
+          "x": 831,
+          "y": 954,
           "w": 210,
           "h": 354
         },
@@ -45564,8 +45564,8 @@
       },
       "vocal_bonus_status_base.png": {
         "frame": {
-          "x": 191,
-          "y": 517,
+          "x": 1065,
+          "y": 596,
           "w": 210,
           "h": 354
         },
@@ -49807,6 +49807,13 @@
     "name": "images/tips/game_event/69/003",
     "ext": ".jpg",
     "url": "/assets/b1eb5922529a941c4c7950c978f2fd7953ee22d22f3c2a5cf7927056ad0d8a81?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80010/001": {
+    "name": "images/tips/game_event/80010/001",
+    "ext": ".jpg",
+    "url": "/assets/9c4f3b1da34f0feb6a7d7d5fc4186ad84eba75165a3665c51e9be456393fd28b?v=1",
     "v": 1,
     "frames": null
   }
