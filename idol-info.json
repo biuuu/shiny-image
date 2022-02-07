@@ -731,6 +731,18 @@
     "id": "1030090040"
   },
   {
+    "hash": "57fb6a95a8c09b025943e1bf0e5e5c70",
+    "name": "【ソー・ディフィカルト！】小宮 果穂",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/e9cafb180d1439d4243d75851d18d5f8eac084c757b4e096677dc241ddb5190b?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/80a635212e40c8fe3579533623e07a33f501e99d8d6349725d0222e5103c8687?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/bee00e7dcd4e546001c1819cfd8c8038f8a2114414ea3fc7ee9978933d18a923?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/ddc71b3be616acdef00779f88a979127c36a3032df9c9b87448f6f43628e8f5f.mp4?v=1",
+    "id": "1030090050"
+  },
+  {
     "hash": "3d5208993418b7441178e17691ccb092",
     "name": "【純真チョコレート】園田 智代子",
     "type": "p",
@@ -1259,6 +1271,18 @@
     "id": "1030210010"
   },
   {
+    "hash": "f33cfd082411e9f909b8f91e7f455b21",
+    "name": "【カラメル】樋口 円香",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/a89f4935e78a1623eec17f35d8e5cdc2943c703abb02d7a790cec1b59c59d63b?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/39f0defb9c156d5bb4753a8949d24c89b70735cd04c40189ec6780de810568ff?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/026d7e76f80bcda7b86b4c3ebf57d1330090d17b080fa25819dd32bcf1ab70b7?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/7165fc9b7e8e4d72489623bf47b8f812e02c0f6029f33da5dcacd86f92013f3f.mp4?v=1",
+    "id": "1030210020"
+  },
+  {
     "hash": "1b6b3a4856ae5db9752e7f1e271a2868",
     "name": "【はれのひ喫茶店】福丸 小糸",
     "type": "p",
@@ -1401,6 +1425,20 @@
     "movie": "https://shinycolors.enza.fun/assets/e43fc68453de5d6179cf858abeea0b766e0c11ea8deb61ee89ba35a5297cd0d7.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/f6d4dd6e6bed3f134fd337e59b40faacf8f13b4df70d66e19c0e0a786f71b6a0.mp4?v=2",
     "id": "1040010060"
+  },
+  {
+    "hash": "6c1b876bbb3c4b1347f8ffb062cc01c8",
+    "name": "【ひとつ、はたたく】櫻木 真乃",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──届けてみせます",
+    "card": "https://shinycolors.enza.fun/assets/e785e74124740c322ee1e03d63cfd7ddd1f3c5ab38439261e93ea72924f7c208?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/36b664b429bbc9888c983b803edf3416393c4c933ff917e35ea5847b92387c32?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/cdf3481708361ad7d07d37dacc0770fe9e9841361a87a12e4530b9612221eb9b?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/eeef79fcbbbc927350e3145dc043b1780b6f5825d98b566ad68bf7bd6b7a74f1.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/883b3efb31d9074ba11c6630f16ca321467c0dbb95fb70297bf5c2f33f2b1f21.mp4?v=1",
+    "id": "1040010070"
   },
   {
     "hash": "118a9af13ba8d3398f421bd579ed1231",
@@ -1569,6 +1607,20 @@
     "movie": "https://shinycolors.enza.fun/assets/c5f720e15e3d4f6c00d7639a266ef01a1ba7eee0a70d981bd764f306b1e35ad8.mp4?v=3",
     "m_movie": "https://shinycolors.enza.fun/assets/fc4421c4c48dda2f5a71c3bb6c78db753590ac6575c161fd066eddc1fb157c89.mp4?v=2",
     "id": "1040030060"
+  },
+  {
+    "hash": "90e9b762deb96f2c39a31d3d9fbcc543",
+    "name": "【きゅん♡コメ】八宮 めぐる",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "せーのっ\n美味しくなぁれ♡　美味しくなぁれ♡",
+    "card": "https://shinycolors.enza.fun/assets/73c2c89e757ca71539d170310516aea7bb165de7df119a5b9a0fd977a2297726?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/c7ed802000a2452ea4d2109a5674a1a1eb836a7de1c92f7dce37ce1bdebd259f?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/105827c160e486eb2756126663437d8c3c5688e4e3cbd3f42d6f16621cdb8f82?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/48e7bdd9cfcc61d3da8feefb3e342ce6e008e63d508c53ff2070994ad3095f2d.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/fccc57d03d86974b404a7fc93801e5daad3ed6d00bc93e7b8788750dd542168c.mp4?v=1",
+    "id": "1040030070"
   },
   {
     "hash": "522da89a9744e24a1b7019c098c1b542",
@@ -2759,6 +2811,20 @@
     "movie": "https://shinycolors.enza.fun/assets/e80a3a06cbcbb604464a8ce5ee39c0fc616e5a1b6286bd4826aade6f3d3ad02d.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/4ad6e6723f4aa5a85ccffd210bacf7c9443715b455407a36e93c145c97f0dc8b.mp4?v=2",
     "id": "1040170040"
+  },
+  {
+    "hash": "4f4b2834bc29f3e55f7f65e4cbfd2636",
+    "name": "【Howling】芹沢 あさひ",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "……白い──",
+    "card": "https://shinycolors.enza.fun/assets/a1c8e7b6bac9fad98c5100c4b422c85d3a6e07df2be6c67ba31098ad20bd17e9?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/25ac446c9cbd67b911a879647b9a0e4b369db12e17f78d39db54e070b27b2b30?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/44124cd8c653e855d12d835d112ab99f2849334c0e703c8f45b16dfaa01f4da3?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/5d7d1bd9993fe25f80232aef23370e585e32e0b179314a63f2e5d60171f4a20e.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/ec18c36e3d04f672b8636421c642ca2e40f51307fe4c7f0faac74e7da8112c1d.mp4?v=1",
+    "id": "1040170050"
   },
   {
     "hash": "fef3e4ec9ee3fcf88391873022110223",
@@ -4407,6 +4473,14 @@
     "id": "2030150030"
   },
   {
+    "hash": "70e3027f52c5b3dd485ea7e0cd87eda1",
+    "name": "【Fallin' Snow in】大崎 甜花",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/b73363e14a49bb8e8bbe4b2ba111e9efb927b7cbf56f450886ba2f6c84dbef5a?v=1",
+    "id": "2030150040"
+  },
+  {
     "hash": "2a304f90b2ed586b4980ee53e1a315ed",
     "name": "【ブルーミングハート】桑山 千雪",
     "type": "s",
@@ -4701,6 +4775,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/fe152e5992dd50c8cd29625bf8bf78e88785f1ed0478d4f7214321dd731062db?v=2",
     "id": "2040020070"
+  },
+  {
+    "hash": "18d8403ed1a388660e9155bdcc8f6965",
+    "name": "【WtoW】風野 灯織",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/248ad3a8ee3fd01342fc803e268be0862b6c793653fc943ef933b79cda6921b2?v=1",
+    "id": "2040020080"
   },
   {
     "hash": "8bb4ca7c14b7463a683e6cef9c4347a9",
@@ -5037,6 +5119,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/cc8ad1b716ecc523d1da5259d340b3b40dd42938bdfa37e74d820efd6fb9f1e7?v=2",
     "id": "2040080050"
+  },
+  {
+    "hash": "cf741b1b85e37cfb1cf5610e7534e82d",
+    "name": "【午・燦・娘・娘】幽谷 霧子",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/6b7f9af0dfc328deecd830a6008db9f3a6a58cb6e82dab01223cd5828defbde3?v=1",
+    "id": "2040080060"
   },
   {
     "hash": "7a9febbd06d3ef4cf09ce1b722fc92f0",
@@ -5637,6 +5727,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/33119fdde54980dcd037689f1fbffa0091e4d22adc14557c54dbf602fa6102c8?v=2",
     "id": "2040200030"
+  },
+  {
+    "hash": "7d81939a084cbebb8f50795ed0d65b36",
+    "name": "【チョコレー党、起立！】浅倉 透",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/3008cf08ffd28b8217828b2c1dac7464b37b0b1e20c3bcafbbce0cce0b0800bf?v=1",
+    "id": "2040200040"
   },
   {
     "hash": "4762093afa0b3b78c1ec40ae22ba6043",
