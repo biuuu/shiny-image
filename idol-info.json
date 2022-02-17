@@ -479,6 +479,18 @@
     "id": "1030040040"
   },
   {
+    "hash": "63fd8c15d50074dedfbadb24782ada0d",
+    "name": "【雪、えとせとら】月岡 恋鐘",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/6c581bf5a55e71e7bfb725b9dac1ce7205993f4308748c63f61452255f203ba4?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/cb64d3821a8719183a3b079c5fd85c7dcdc0d810cce8da2ac03d9c48299c91f0?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/f03cc0ac67d75e5070417a86cf1b4fa52c8bbb8ab9a16531ec43724163e5dc85?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/9feab005691706c5e4e337308eefd87ae5b91636b1df7ded6f5a3961bc2ce0c3.mp4?v=1",
+    "id": "1030040050"
+  },
+  {
     "hash": "ae84533ea13d0d64ba5f284adcc5fc96",
     "name": "【裏腹あまのじゃく】田中 摩美々",
     "type": "p",
@@ -2489,6 +2501,20 @@
     "movie": "https://shinycolors.enza.fun/assets/fd3da7daa35947dda4ec7cd812d299ed913f3c743a5b7b69e57a627b39a4fb3b.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/31859b19323fceaa620064c23a3ccfce5b1000b072550f0c96ad6403ad15cfa2.mp4?v=2",
     "id": "1040130060"
+  },
+  {
+    "hash": "5defd55fcfef7f2798696a9a7caa9974",
+    "name": "【マイバレンタイン】有栖川 夏葉",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "届けに来たのよ\nアナタのところまで",
+    "card": "https://shinycolors.enza.fun/assets/e3e4a58b22d7740b46435ce8a5677d3ee807ddd738a82a1a148465d9cad3ee8c?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/c3e578646a46100143e21018597538bb4c1838c75a008cba2448753be9fc8430?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/be8a92ed3a2fe4e488b3fb51bae946493b938be4108a92db38a33524a35b5c69?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/d5ba5c24f6d0e59b0b546b665c2c7eab135e0a2e89c44783c90a241665f8f21d.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/a1cdcb645704b57666e96cd9129bef98757eec7614341183f81a6d5c50421652.mp4?v=1",
+    "id": "1040130070"
   },
   {
     "hash": "9f3b7a64886aff68d78643a12eb3e389",
@@ -5855,5 +5881,13 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/e5b259cf431536a763d3116ec447ddb1cd306134f8ae7716fb0b32ad9ecbffa1?v=1",
     "id": "2040250030"
+  },
+  {
+    "hash": "19199b6cd8783022806d037760c3698f",
+    "name": "【LATE】緋田 美琴",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/3f592cd33620f7bf89204d41121e1858fb163645072f823d71ab9200a45769c9?v=1",
+    "id": "2040250040"
   }
 ]
