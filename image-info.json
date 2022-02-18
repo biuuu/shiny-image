@@ -44757,8 +44757,8 @@
   "images/tips/fes_tower_advantage/002": {
     "name": "images/tips/fes_tower_advantage/002",
     "ext": ".jpg",
-    "url": "/assets/1fe093258e8f19dbe70186bc5871efc659695555fe380659db7af11080e92331?v=2",
-    "v": 2,
+    "url": "/assets/1fe093258e8f19dbe70186bc5871efc659695555fe380659db7af11080e92331?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_advantage/003": {
@@ -44806,8 +44806,8 @@
   "images/tips/fes_tower_item/002": {
     "name": "images/tips/fes_tower_item/002",
     "ext": ".jpg",
-    "url": "/assets/8c576fb68b77087c03f4999847e1e51cbfda514892122de77178b993f03d4179?v=2",
-    "v": 2,
+    "url": "/assets/8c576fb68b77087c03f4999847e1e51cbfda514892122de77178b993f03d4179?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_item/003": {
@@ -44911,15 +44911,15 @@
   "images/tips/fes_tower_reset/002": {
     "name": "images/tips/fes_tower_reset/002",
     "ext": ".jpg",
-    "url": "/assets/f1ef5ad9b762ad82aee319fb0f02bd855a7e64fc53d88b63bd50bcfc7ceec7d7?v=2",
-    "v": 2,
+    "url": "/assets/f1ef5ad9b762ad82aee319fb0f02bd855a7e64fc53d88b63bd50bcfc7ceec7d7?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_reset/003": {
     "name": "images/tips/fes_tower_reset/003",
     "ext": ".jpg",
-    "url": "/assets/1b3fb87dadeec5bb46c8b0e00f4ce413be0bc0022222e4d459ee46c36d5774e3?v=2",
-    "v": 2,
+    "url": "/assets/1b3fb87dadeec5bb46c8b0e00f4ce413be0bc0022222e4d459ee46c36d5774e3?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_reset/004": {
@@ -51351,5 +51351,40 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/70003/001": {
+    "name": "images/tips/game_event/70003/001",
+    "ext": ".jpg",
+    "url": "/assets/8c3125b45280c861d827d9dbc21ee3f9bdf0c5af12c21c84d418aa7fac50fd6a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70003/002": {
+    "name": "images/tips/game_event/70003/002",
+    "ext": ".jpg",
+    "url": "/assets/9bea63360188f51424c28f5ac3fee26e1f2a976638ed8aa395866158f79f7535?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/72/001": {
+    "name": "images/tips/game_event/72/001",
+    "ext": ".jpg",
+    "url": "/assets/099d84dc46bc1cee9b708bfe04dfa22eca37ac66a832f144f68253f05f316b7b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/72/002": {
+    "name": "images/tips/game_event/72/002",
+    "ext": ".jpg",
+    "url": "/assets/af957cf326c5db3ffda26c193c35c7c2f36d6ab03f2adf6aa4a7de7e8cb49fb4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/72/003": {
+    "name": "images/tips/game_event/72/003",
+    "ext": ".jpg",
+    "url": "/assets/1dbd34472750fa27f051f47ee908a0576015e74ffb02b664a5ad3076fcf689b2?v=1",
+    "v": 1,
+    "frames": null
   }
 }
