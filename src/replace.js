@@ -126,6 +126,7 @@ const start = async () => {
   await fs.outputFile('./dist/image.csv', CSV.unparse(csvList))
   await fs.copy('./icon-info.json', './dist/icon-info.json')
   await fs.copy('./idol-info.json', './dist/idol-info.json')
+  await fs.outputFile('./dist/CNAME', 'image.shiny.fun')
 }
 
 start()
