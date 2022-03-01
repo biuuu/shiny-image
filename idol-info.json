@@ -2153,6 +2153,20 @@
     "id": "1040090060"
   },
   {
+    "hash": "719239603cf956949039f98f67526e70",
+    "name": "【ギア・アップ！ゴー・オン！】小宮 果穂",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "『お父さん、今日はどこに連れて行ってくれるのー！』",
+    "card": "https://shinycolors.enza.fun/assets/c92103b0bb98abc4970fd025f6f34f1936dd56a30f1f2bb58ff0e80b1b5e8771?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/5cf1b1e22633cc5b612c06e8eb6094c927c0aa5b3138d08670eb28d40da5d022?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/4f8245f5031ab40fa60f56f699427f74c4f4d0d397124e1099f2ea78f4bc6e56?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/3279ca257f6b9e1b828d87cc8508e6d09cfd24120cd7a44eb96581ac49fc21ef.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/5e9d381136591b4b1c5f0591a859c803348e14793cd18f3aedd15899a8be28bf.mp4?v=1",
+    "id": "1040090070"
+  },
+  {
     "hash": "94175920091bef4343c55f2b6350b446",
     "name": "【ちょこ色×きらきらロマン】園田 智代子",
     "type": "p",
@@ -2781,6 +2795,20 @@
     "movie": "https://shinycolors.enza.fun/assets/2c339d133f2e03435248d530f25c00f1a8a6d26f0c79e1a966aae1ac58512fa6.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/2c945f1e74b34cd66917fb8f3b7259de8ad46d1b6e85066460a9aeb8b26778a1.mp4?v=2",
     "id": "1040160060"
+  },
+  {
+    "hash": "5d85e36c3a97bdfd8bd69ef726f2a31c",
+    "name": "【つよがりのためのララバイ】桑山 千雪",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "いつも頑張ってる、あなたに──",
+    "card": "https://shinycolors.enza.fun/assets/57740820e449ccc4fce003b2a5f956df03fdb353cd8ae87c3bddd63c303cc84c?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/fb8c47c3c7fd6c65eb3acfb2a1687f5bf7dab7134c1609954ffd56bbeb308217?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/569414f538c342b37736e6f83a7569f01ab83dc020319946e6c5fa77f9175f04?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/7758e5d96f9e0a4a7871f2de1b0031caecdb20f2c9073134177d5abe30b41cb1.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/65c65743b9670f6765a18509a2e20e7397ebf82e443064452cc05314967b5c8a.mp4?v=1",
+    "id": "1040160070"
   },
   {
     "hash": "bf7654cea8730408eaca21656d2b5933",
@@ -4619,6 +4647,14 @@
     "id": "2030200020"
   },
   {
+    "hash": "d76a3655c51c33d63a43e35675d562f4",
+    "name": "【殴打、その他の夢について】浅倉 透",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/1141d9a3f4b9ba329aaef72ebfad5e72c18195c7b4fa9fa4254646f75fb1c7f2?v=1",
+    "id": "2030200030"
+  },
+  {
     "hash": "4dcd34f3a25a3394d956019f851509f4",
     "name": "【閑話】樋口 円香",
     "type": "s",
@@ -5107,6 +5143,14 @@
     "id": "2040070070"
   },
   {
+    "hash": "d510acaa927bc1b09e51ad4e3a6f1ede",
+    "name": "【心に住む人】三峰 結華",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/6b2d3baaa2f548be8c077fea7b9a46563300685a335215499e97366d49a6ee88?v=1",
+    "id": "2040070080"
+  },
+  {
     "hash": "f4315d07e4ea9565101adf53d4470e77",
     "name": "【霧・霧・奇・譚】幽谷 霧子",
     "type": "s",
@@ -5417,6 +5461,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/4369214ec6872c7af9f5208d14920910ced4fffde1e8aa7d0a07b1fb78cec907?v=2",
     "id": "2040130060"
+  },
+  {
+    "hash": "28dde2137eb247be2bb16534d2f87ec9",
+    "name": "【明日の思い出で笑って】有栖川 夏葉",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/744a982d7e7ff2d89392e994796d89364d2cf9359b0cd09dc2930b86f5e81605?v=1",
+    "id": "2040130070"
   },
   {
     "hash": "95943b0f305f1e2cdc972d3c024aa019",
