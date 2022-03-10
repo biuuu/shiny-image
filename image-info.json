@@ -5570,13 +5570,31 @@
   "images/ui/concert_result/parts": {
     "name": "images/ui/concert_result/parts",
     "ext": ".png",
-    "url": "/assets/bad4cad612274cb593416547de9a66136d7c6d2de874a0d9ade14b91a377d37f?v=8",
-    "v": 8,
+    "url": "/assets/bad4cad612274cb593416547de9a66136d7c6d2de874a0d9ade14b91a377d37f?v=9",
+    "v": 9,
     "frames": {
+      "continue_button_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 513,
+          "w": 152,
+          "h": 88
+        },
+        "rotated": false
+      },
+      "continue_ticket.png": {
+        "frame": {
+          "x": 1,
+          "y": 458,
+          "w": 51,
+          "h": 34
+        },
+        "rotated": false
+      },
       "live_result_my_unit_frame.png": {
         "frame": {
           "x": 1,
-          "y": 289,
+          "y": 1,
           "w": 870,
           "h": 168
         },
@@ -5585,7 +5603,7 @@
       "live_result_record_base.png": {
         "frame": {
           "x": 1,
-          "y": 125,
+          "y": 173,
           "w": 860,
           "h": 160
         },
@@ -5593,8 +5611,8 @@
       },
       "live_result_record_score_0.png": {
         "frame": {
-          "x": 215,
-          "y": 1,
+          "x": 1,
+          "y": 665,
           "w": 50,
           "h": 56
         },
@@ -5602,8 +5620,8 @@
       },
       "live_result_record_score_1.png": {
         "frame": {
-          "x": 61,
-          "y": 1,
+          "x": 1,
+          "y": 785,
           "w": 36,
           "h": 55
         },
@@ -5611,8 +5629,8 @@
       },
       "live_result_record_score_2.png": {
         "frame": {
-          "x": 101,
-          "y": 1,
+          "x": 813,
+          "y": 395,
           "w": 54,
           "h": 55
         },
@@ -5620,8 +5638,8 @@
       },
       "live_result_record_score_3.png": {
         "frame": {
-          "x": 269,
-          "y": 1,
+          "x": 56,
+          "y": 400,
           "w": 51,
           "h": 56
         },
@@ -5629,8 +5647,8 @@
       },
       "live_result_record_score_4.png": {
         "frame": {
-          "x": 159,
-          "y": 1,
+          "x": 807,
+          "y": 454,
           "w": 52,
           "h": 55
         },
@@ -5638,8 +5656,8 @@
       },
       "live_result_record_score_5.png": {
         "frame": {
-          "x": 324,
-          "y": 1,
+          "x": 750,
+          "y": 398,
           "w": 53,
           "h": 56
         },
@@ -5647,8 +5665,8 @@
       },
       "live_result_record_score_6.png": {
         "frame": {
-          "x": 381,
-          "y": 1,
+          "x": 1,
+          "y": 725,
           "w": 50,
           "h": 56
         },
@@ -5656,8 +5674,8 @@
       },
       "live_result_record_score_7.png": {
         "frame": {
-          "x": 1,
-          "y": 1,
+          "x": 813,
+          "y": 337,
           "w": 56,
           "h": 54
         },
@@ -5665,8 +5683,8 @@
       },
       "live_result_record_score_8.png": {
         "frame": {
-          "x": 435,
-          "y": 1,
+          "x": 111,
+          "y": 400,
           "w": 51,
           "h": 56
         },
@@ -5674,8 +5692,8 @@
       },
       "live_result_record_score_9.png": {
         "frame": {
-          "x": 490,
-          "y": 1,
+          "x": 1,
+          "y": 605,
           "w": 51,
           "h": 56
         },
@@ -5683,8 +5701,8 @@
       },
       "live_result_star_icon.png": {
         "frame": {
-          "x": 545,
-          "y": 1,
+          "x": 750,
+          "y": 337,
           "w": 59,
           "h": 57
         },
@@ -5693,7 +5711,7 @@
       "tv_comment_base.png": {
         "frame": {
           "x": 1,
-          "y": 62,
+          "y": 337,
           "w": 745,
           "h": 59
         },
@@ -51405,6 +51423,27 @@
     "name": "images/tips/game_event/73/003",
     "ext": ".jpg",
     "url": "/assets/408cdd9a89904e812567804422788dfea70cabe5d113ee20d8ba74127342d2ae?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60024/001": {
+    "name": "images/tips/game_event/60024/001",
+    "ext": ".jpg",
+    "url": "/assets/b0d0d91e7a427b6ade2da0f86fe1ac4219640caa3eeb3f3be331625226342b24?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60024/002": {
+    "name": "images/tips/game_event/60024/002",
+    "ext": ".jpg",
+    "url": "/assets/17de628e203c939b80af45a9ac4115e081e3ad6ab2e539abbf72c49a7af7ded7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60024/003": {
+    "name": "images/tips/game_event/60024/003",
+    "ext": ".jpg",
+    "url": "/assets/c66ca8cf805f381fdf8c0c6a596a78d2a67d34b88a37d57dbe4e57647c4991e6?v=1",
     "v": 1,
     "frames": null
   }
