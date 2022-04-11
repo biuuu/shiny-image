@@ -21431,13 +21431,13 @@
   "images/ui/my_page/parts": {
     "name": "images/ui/my_page/parts",
     "ext": ".png",
-    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=36",
-    "v": 36,
+    "url": "/assets/a9a9758ab0bd21f1e9e3a01f035a7e1021eec1c6b1fbca0944848acdaaa03f35?v=37",
+    "v": 37,
     "frames": {
       "banner_list_base_bottom.png": {
         "frame": {
           "x": 467,
-          "y": 159,
+          "y": 369,
           "w": 301,
           "h": 15
         },
@@ -21481,8 +21481,8 @@
       },
       "common_menu_72hour_sale_text.png": {
         "frame": {
-          "x": 912,
-          "y": 1,
+          "x": 935,
+          "y": 848,
           "w": 60,
           "h": 38
         },
@@ -21490,8 +21490,8 @@
       },
       "common_menu_battle_passport_icon.png": {
         "frame": {
-          "x": 937,
-          "y": 415,
+          "x": 939,
+          "y": 39,
           "w": 27,
           "h": 35
         },
@@ -21499,8 +21499,8 @@
       },
       "common_menu_button_stamina_gauge.png": {
         "frame": {
-          "x": 821,
-          "y": 899,
+          "x": 1,
+          "y": 977,
           "w": 90,
           "h": 14
         },
@@ -21508,8 +21508,8 @@
       },
       "common_menu_button_stamina_gauge_base.png": {
         "frame": {
-          "x": 279,
-          "y": 950,
+          "x": 625,
+          "y": 876,
           "w": 114,
           "h": 24
         },
@@ -21535,8 +21535,8 @@
       },
       "common_menu_campaign_badge_drop_and_helper_staff_appearance_rate_up.png": {
         "frame": {
-          "x": 467,
-          "y": 372,
+          "x": 1,
+          "y": 877,
           "w": 260,
           "h": 46
         },
@@ -21553,8 +21553,8 @@
       },
       "common_menu_campaign_badge_drop_up.png": {
         "frame": {
-          "x": 294,
-          "y": 768,
+          "x": 643,
+          "y": 652,
           "w": 120,
           "h": 46
         },
@@ -21562,8 +21562,8 @@
       },
       "common_menu_campaign_badge_fes_event.png": {
         "frame": {
-          "x": 702,
-          "y": 652,
+          "x": 609,
+          "y": 702,
           "w": 120,
           "h": 46
         },
@@ -21572,7 +21572,7 @@
       "common_menu_campaign_badge_helper_staff_appearance_rate_up.png": {
         "frame": {
           "x": 439,
-          "y": 702,
+          "y": 652,
           "w": 200,
           "h": 46
         },
@@ -21580,8 +21580,8 @@
       },
       "common_menu_campaign_badge_higher_training_success_rate.png": {
         "frame": {
-          "x": 643,
-          "y": 702,
+          "x": 599,
+          "y": 752,
           "w": 120,
           "h": 46
         },
@@ -21589,8 +21589,8 @@
       },
       "common_menu_campaign_badge_idea_note.png": {
         "frame": {
-          "x": 439,
-          "y": 652,
+          "x": 1,
+          "y": 927,
           "w": 259,
           "h": 46
         },
@@ -21598,8 +21598,8 @@
       },
       "common_menu_campaign_badge_money_up.png": {
         "frame": {
-          "x": 609,
-          "y": 752,
+          "x": 772,
+          "y": 383,
           "w": 120,
           "h": 46
         },
@@ -21607,8 +21607,8 @@
       },
       "common_menu_campaign_badge_produce_audition.png": {
         "frame": {
-          "x": 1,
-          "y": 763,
+          "x": 467,
+          "y": 159,
           "w": 289,
           "h": 46
         },
@@ -21617,7 +21617,7 @@
       "common_menu_campaign_badge_satisfaction_point_up.png": {
         "frame": {
           "x": 439,
-          "y": 752,
+          "y": 702,
           "w": 166,
           "h": 46
         },
@@ -21625,8 +21625,8 @@
       },
       "common_menu_campaign_badge_stamina_halving.png": {
         "frame": {
-          "x": 578,
-          "y": 802,
+          "x": 767,
+          "y": 655,
           "w": 120,
           "h": 46
         },
@@ -21634,8 +21634,8 @@
       },
       "common_menu_campaign_badge_training_success_rate.png": {
         "frame": {
-          "x": 605,
-          "y": 926,
+          "x": 733,
+          "y": 705,
           "w": 120,
           "h": 46
         },
@@ -21643,8 +21643,8 @@
       },
       "common_menu_campaign_badge_trust_point_up.png": {
         "frame": {
-          "x": 779,
-          "y": 99,
+          "x": 743,
+          "y": 867,
           "w": 120,
           "h": 46
         },
@@ -21652,8 +21652,8 @@
       },
       "common_menu_commu_open_label.png": {
         "frame": {
-          "x": 912,
-          "y": 43,
+          "x": 935,
+          "y": 890,
           "w": 60,
           "h": 38
         },
@@ -21661,8 +21661,8 @@
       },
       "common_menu_extra_campaign_badge_ticket_receivable.png": {
         "frame": {
-          "x": 418,
-          "y": 802,
+          "x": 439,
+          "y": 752,
           "w": 156,
           "h": 48
         },
@@ -21670,8 +21670,8 @@
       },
       "common_menu_fes_button.png": {
         "frame": {
-          "x": 1,
-          "y": 813,
+          "x": 467,
+          "y": 209,
           "w": 156,
           "h": 156
         },
@@ -21679,8 +21679,8 @@
       },
       "common_menu_fes_deck_rank_icon_star.png": {
         "frame": {
-          "x": 702,
-          "y": 802,
+          "x": 423,
+          "y": 768,
           "w": 8,
           "h": 8
         },
@@ -21688,8 +21688,8 @@
       },
       "common_menu_fes_deck_rank_icon_star_base.png": {
         "frame": {
-          "x": 757,
-          "y": 586,
+          "x": 95,
+          "y": 977,
           "w": 25,
           "h": 11
         },
@@ -21697,8 +21697,8 @@
       },
       "common_menu_fes_ticket.png": {
         "frame": {
-          "x": 967,
-          "y": 535,
+          "x": 760,
+          "y": 159,
           "w": 7,
           "h": 14
         },
@@ -21706,8 +21706,8 @@
       },
       "common_menu_gasha_button.png": {
         "frame": {
-          "x": 605,
-          "y": 852,
+          "x": 625,
+          "y": 802,
           "w": 104,
           "h": 70
         },
@@ -21715,8 +21715,8 @@
       },
       "common_menu_idol_button.png": {
         "frame": {
-          "x": 787,
-          "y": 149,
+          "x": 757,
+          "y": 433,
           "w": 104,
           "h": 70
         },
@@ -21724,8 +21724,8 @@
       },
       "common_menu_item_button.png": {
         "frame": {
-          "x": 767,
-          "y": 702,
+          "x": 237,
+          "y": 763,
           "w": 64,
           "h": 64
         },
@@ -21733,8 +21733,8 @@
       },
       "common_menu_jewel_plus_button.png": {
         "frame": {
-          "x": 731,
-          "y": 376,
+          "x": 237,
+          "y": 831,
           "w": 42,
           "h": 42
         },
@@ -21742,8 +21742,8 @@
       },
       "common_menu_jewel_sale_text.png": {
         "frame": {
-          "x": 837,
-          "y": 917,
+          "x": 911,
+          "y": 229,
           "w": 60,
           "h": 38
         },
@@ -21751,8 +21751,8 @@
       },
       "common_menu_jewel_set_text.png": {
         "frame": {
-          "x": 912,
-          "y": 85,
+          "x": 920,
+          "y": 339,
           "w": 60,
           "h": 38
         },
@@ -21760,8 +21760,8 @@
       },
       "common_menu_mission_button.png": {
         "frame": {
-          "x": 161,
-          "y": 813,
+          "x": 315,
+          "y": 644,
           "w": 120,
           "h": 120
         },
@@ -21769,8 +21769,8 @@
       },
       "common_menu_monthly_passport_icon.png": {
         "frame": {
-          "x": 751,
-          "y": 338,
+          "x": 967,
+          "y": 507,
           "w": 28,
           "h": 34
         },
@@ -21787,8 +21787,8 @@
       },
       "common_menu_notice_button.png": {
         "frame": {
-          "x": 903,
-          "y": 127,
+          "x": 867,
+          "y": 848,
           "w": 64,
           "h": 64
         },
@@ -21796,8 +21796,8 @@
       },
       "common_menu_p_desk_button.png": {
         "frame": {
-          "x": 787,
-          "y": 223,
+          "x": 757,
+          "y": 507,
           "w": 104,
           "h": 70
         },
@@ -21805,8 +21805,8 @@
       },
       "common_menu_p_desk_button_badge.png": {
         "frame": {
-          "x": 901,
-          "y": 415,
+          "x": 939,
+          "y": 1,
           "w": 32,
           "h": 34
         },
@@ -21814,8 +21814,8 @@
       },
       "common_menu_present_button.png": {
         "frame": {
-          "x": 895,
-          "y": 195,
+          "x": 911,
+          "y": 161,
           "w": 64,
           "h": 64
         },
@@ -21823,8 +21823,8 @@
       },
       "common_menu_produce_button.png": {
         "frame": {
-          "x": 285,
-          "y": 818,
+          "x": 305,
+          "y": 768,
           "w": 114,
           "h": 90
         },
@@ -21832,8 +21832,8 @@
       },
       "common_menu_produce_button_produce_icon.png": {
         "frame": {
-          "x": 757,
-          "y": 535,
+          "x": 865,
+          "y": 507,
           "w": 98,
           "h": 47
         },
@@ -21841,8 +21841,8 @@
       },
       "common_menu_produce_button_produce_text.png": {
         "frame": {
-          "x": 713,
-          "y": 896,
+          "x": 825,
+          "y": 947,
           "w": 104,
           "h": 26
         },
@@ -21850,8 +21850,8 @@
       },
       "common_menu_produce_button_resume_text.png": {
         "frame": {
-          "x": 403,
-          "y": 948,
+          "x": 727,
+          "y": 917,
           "w": 108,
           "h": 26
         },
@@ -21859,8 +21859,8 @@
       },
       "common_menu_produce_resume_button.png": {
         "frame": {
-          "x": 467,
-          "y": 178,
+          "x": 627,
+          "y": 209,
           "w": 156,
           "h": 156
         },
@@ -21868,8 +21868,8 @@
       },
       "common_menu_produce_start_button.png": {
         "frame": {
-          "x": 627,
-          "y": 178,
+          "x": 779,
+          "y": 1,
           "w": 156,
           "h": 156
         },
@@ -21877,8 +21877,8 @@
       },
       "common_menu_shop_button.png": {
         "frame": {
-          "x": 901,
-          "y": 347,
+          "x": 920,
+          "y": 271,
           "w": 64,
           "h": 64
         },
@@ -21887,7 +21887,7 @@
       "common_menu_status_base.png": {
         "frame": {
           "x": 467,
-          "y": 338,
+          "y": 388,
           "w": 280,
           "h": 30
         },
@@ -21895,23 +21895,14 @@
       },
       "common_menu_work_activity_bonus_up.png": {
         "frame": {
-          "x": 787,
-          "y": 297,
+          "x": 283,
+          "y": 862,
           "w": 120,
           "h": 46
         },
         "rotated": false
       },
       "common_menu_work_activity_button.png": {
-        "frame": {
-          "x": 315,
-          "y": 644,
-          "w": 120,
-          "h": 120
-        },
-        "rotated": false
-      },
-      "common_menu_work_activity_button_active.png": {
         "frame": {
           "x": 633,
           "y": 428,
@@ -21920,10 +21911,19 @@
         },
         "rotated": false
       },
+      "common_menu_work_activity_button_active.png": {
+        "frame": {
+          "x": 787,
+          "y": 161,
+          "w": 120,
+          "h": 120
+        },
+        "rotated": false
+      },
       "drawer_btn_default_logo.png": {
         "frame": {
-          "x": 521,
-          "y": 854,
+          "x": 541,
+          "y": 804,
           "w": 80,
           "h": 91
         },
@@ -21949,8 +21949,8 @@
       },
       "my_page_campaign_badge_drop_and_trust_point_up.png": {
         "frame": {
-          "x": 161,
-          "y": 937,
+          "x": 723,
+          "y": 755,
           "w": 114,
           "h": 34
         },
@@ -21958,8 +21958,8 @@
       },
       "my_page_campaign_badge_drop_up.png": {
         "frame": {
-          "x": 285,
-          "y": 912,
+          "x": 407,
+          "y": 898,
           "w": 114,
           "h": 34
         },
@@ -21967,8 +21967,8 @@
       },
       "my_page_campaign_badge_fes_event.png": {
         "frame": {
-          "x": 783,
-          "y": 347,
+          "x": 265,
+          "y": 912,
           "w": 114,
           "h": 34
         },
@@ -21976,8 +21976,8 @@
       },
       "my_page_campaign_badge_free_gasha.png": {
         "frame": {
-          "x": 733,
-          "y": 770,
+          "x": 891,
+          "y": 558,
           "w": 104,
           "h": 40
         },
@@ -21985,8 +21985,8 @@
       },
       "my_page_campaign_badge_helper_staff_appearance_rate_up.png": {
         "frame": {
-          "x": 783,
-          "y": 385,
+          "x": 264,
+          "y": 950,
           "w": 114,
           "h": 34
         },
@@ -21994,8 +21994,8 @@
       },
       "my_page_campaign_badge_higher_training_success_rate.png": {
         "frame": {
-          "x": 713,
-          "y": 852,
+          "x": 891,
+          "y": 602,
           "w": 104,
           "h": 40
         },
@@ -22003,8 +22003,8 @@
       },
       "my_page_campaign_badge_idea_note.png": {
         "frame": {
-          "x": 783,
-          "y": 423,
+          "x": 383,
+          "y": 936,
           "w": 114,
           "h": 34
         },
@@ -22012,8 +22012,8 @@
       },
       "my_page_campaign_badge_limited_time_gasha.png": {
         "frame": {
-          "x": 729,
-          "y": 926,
+          "x": 891,
+          "y": 646,
           "w": 104,
           "h": 40
         },
@@ -22021,8 +22021,8 @@
       },
       "my_page_campaign_badge_money_up.png": {
         "frame": {
-          "x": 702,
-          "y": 814,
+          "x": 857,
+          "y": 734,
           "w": 114,
           "h": 34
         },
@@ -22031,7 +22031,7 @@
       "my_page_campaign_badge_produce_audition.png": {
         "frame": {
           "x": 841,
-          "y": 609,
+          "y": 772,
           "w": 114,
           "h": 34
         },
@@ -22039,8 +22039,8 @@
       },
       "my_page_campaign_badge_satisfaction_point_up.png": {
         "frame": {
-          "x": 826,
-          "y": 647,
+          "x": 841,
+          "y": 810,
           "w": 114,
           "h": 34
         },
@@ -22048,8 +22048,8 @@
       },
       "my_page_campaign_badge_ssr_rate.png": {
         "frame": {
-          "x": 835,
-          "y": 685,
+          "x": 891,
+          "y": 690,
           "w": 104,
           "h": 40
         },
@@ -22057,8 +22057,8 @@
       },
       "my_page_campaign_badge_start_dash_gasha.png": {
         "frame": {
-          "x": 841,
-          "y": 767,
+          "x": 501,
+          "y": 936,
           "w": 104,
           "h": 40
         },
@@ -22066,8 +22066,8 @@
       },
       "my_page_campaign_badge_training_success_rate.png": {
         "frame": {
-          "x": 841,
-          "y": 811,
+          "x": 609,
+          "y": 942,
           "w": 104,
           "h": 40
         },
@@ -22075,8 +22075,8 @@
       },
       "my_page_campaign_badge_trust_point_up.png": {
         "frame": {
-          "x": 835,
-          "y": 729,
+          "x": 609,
+          "y": 904,
           "w": 114,
           "h": 34
         },
@@ -22084,8 +22084,8 @@
       },
       "my_page_fes_button.png": {
         "frame": {
-          "x": 403,
-          "y": 854,
+          "x": 423,
+          "y": 804,
           "w": 114,
           "h": 90
         },
@@ -22093,8 +22093,8 @@
       },
       "my_page_mission_button.png": {
         "frame": {
-          "x": 757,
-          "y": 461,
+          "x": 783,
+          "y": 581,
           "w": 104,
           "h": 70
         },
@@ -22111,8 +22111,8 @@
       },
       "my_page_status_base.png": {
         "frame": {
-          "x": 963,
-          "y": 195,
+          "x": 984,
+          "y": 339,
           "w": 11,
           "h": 56
         },
@@ -22120,8 +22120,8 @@
       },
       "my_page_work_activity_bonus_up.png": {
         "frame": {
-          "x": 821,
-          "y": 855,
+          "x": 717,
+          "y": 947,
           "w": 104,
           "h": 40
         },
@@ -22129,8 +22129,8 @@
       },
       "my_page_work_activity_button.png": {
         "frame": {
-          "x": 865,
-          "y": 461,
+          "x": 733,
+          "y": 793,
           "w": 104,
           "h": 70
         },
@@ -22138,17 +22138,35 @@
       },
       "my_page_work_activity_button_active.png": {
         "frame": {
-          "x": 859,
-          "y": 535,
+          "x": 865,
+          "y": 433,
           "w": 104,
           "h": 70
         },
         "rotated": false
       },
+      "pcup_cp_banner_close_circle_button.png": {
+        "frame": {
+          "x": 959,
+          "y": 772,
+          "w": 36,
+          "h": 35
+        },
+        "rotated": false
+      },
+      "pcup_cp_banner_mypage.png": {
+        "frame": {
+          "x": 1,
+          "y": 763,
+          "w": 232,
+          "h": 110
+        },
+        "rotated": false
+      },
       "pickup_banner_icon.png": {
         "frame": {
-          "x": 779,
-          "y": 1,
+          "x": 787,
+          "y": 285,
           "w": 129,
           "h": 94
         },
@@ -22165,8 +22183,8 @@
       },
       "producer_desk_icon.png": {
         "frame": {
-          "x": 515,
-          "y": 949,
+          "x": 857,
+          "y": 705,
           "w": 24,
           "h": 25
         },
@@ -25165,13 +25183,13 @@
   "images/ui/special_announce/parts_count_up_challenge": {
     "name": "images/ui/special_announce/parts_count_up_challenge",
     "ext": ".png",
-    "url": "/assets/10f058a5be69ca1b620392bcc8910301a8fc7c0d7021ad376d39f2661df770f5?v=4",
-    "v": 4,
+    "url": "/assets/10f058a5be69ca1b620392bcc8910301a8fc7c0d7021ad376d39f2661df770f5?v=5",
+    "v": 5,
     "frames": {
       "btn_free_ten_times_addition_chal_off.png": {
         "frame": {
-          "x": 565,
-          "y": 497,
+          "x": 685,
+          "y": 85,
           "w": 296,
           "h": 70
         },
@@ -25179,8 +25197,8 @@
       },
       "btn_free_ten_times_addition_chal_on.png": {
         "frame": {
-          "x": 1,
-          "y": 531,
+          "x": 685,
+          "y": 159,
           "w": 296,
           "h": 70
         },
@@ -25188,8 +25206,8 @@
       },
       "btn_free_ten_times_extension_chal_off.png": {
         "frame": {
-          "x": 1,
-          "y": 605,
+          "x": 685,
+          "y": 233,
           "w": 296,
           "h": 70
         },
@@ -25197,8 +25215,8 @@
       },
       "btn_free_ten_times_extension_chal_on.png": {
         "frame": {
-          "x": 301,
-          "y": 621,
+          "x": 685,
+          "y": 307,
           "w": 296,
           "h": 70
         },
@@ -25206,17 +25224,26 @@
       },
       "challenge_clear_stamp.png": {
         "frame": {
-          "x": 633,
-          "y": 233,
+          "x": 1049,
+          "y": 35,
           "w": 114,
           "h": 90
         },
         "rotated": false
       },
+      "challenge_info_base_202204.png": {
+        "frame": {
+          "x": 633,
+          "y": 905,
+          "w": 628,
+          "h": 97
+        },
+        "rotated": false
+      },
       "challenge_info_base_fan.png": {
         "frame": {
-          "x": 1,
-          "y": 335,
+          "x": 633,
+          "y": 1006,
           "w": 628,
           "h": 96
         },
@@ -25225,7 +25252,7 @@
       "challenge_info_base_fes_raid_laps.png": {
         "frame": {
           "x": 1,
-          "y": 233,
+          "y": 905,
           "w": 628,
           "h": 98
         },
@@ -25234,16 +25261,25 @@
       "challenge_list_base.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 673,
           "w": 680,
           "h": 228
+        },
+        "rotated": false
+      },
+      "challenge_list_base_202204.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 680,
+          "h": 668
         },
         "rotated": false
       },
       "current_challenge_base.png": {
         "frame": {
           "x": 1,
-          "y": 435,
+          "y": 1180,
           "w": 670,
           "h": 58
         },
@@ -25251,8 +25287,8 @@
       },
       "last_challenge_result.png": {
         "frame": {
-          "x": 1,
-          "y": 497,
+          "x": 685,
+          "y": 1,
           "w": 560,
           "h": 30
         },
@@ -25260,8 +25296,8 @@
       },
       "remaining_time_balloon.png": {
         "frame": {
-          "x": 301,
-          "y": 571,
+          "x": 685,
+          "y": 35,
           "w": 360,
           "h": 46
         },
@@ -25269,8 +25305,26 @@
       },
       "to_collabo_fes_button.png": {
         "frame": {
-          "x": 1,
-          "y": 679,
+          "x": 685,
+          "y": 381,
+          "w": 296,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_countupcp_info_button_white.png": {
+        "frame": {
+          "x": 685,
+          "y": 455,
+          "w": 296,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "to_countupcp_pcup_button_white.png": {
+        "frame": {
+          "x": 685,
+          "y": 529,
           "w": 296,
           "h": 70
         },
@@ -25278,8 +25332,8 @@
       },
       "to_producers_cup_button.png": {
         "frame": {
-          "x": 301,
-          "y": 695,
+          "x": 685,
+          "y": 603,
           "w": 296,
           "h": 70
         },
@@ -25288,7 +25342,7 @@
       "to_ten_times_free_gasha_button.png": {
         "frame": {
           "x": 1,
-          "y": 753,
+          "y": 1106,
           "w": 296,
           "h": 70
         },
@@ -25296,8 +25350,8 @@
       },
       "what_free_ten_times_gasha_button.png": {
         "frame": {
-          "x": 301,
-          "y": 769,
+          "x": 1,
+          "y": 1007,
           "w": 296,
           "h": 70
         },
@@ -25433,13 +25487,13 @@
   "images/ui/character_fan_ranking/parts": {
     "name": "images/ui/character_fan_ranking/parts",
     "ext": ".png",
-    "url": "/assets/f6a33735f4040766c77d438ac0f42ef6557caa3a2d4610fa77a12b3584364e74?v=8",
-    "v": 8,
+    "url": "/assets/f6a33735f4040766c77d438ac0f42ef6557caa3a2d4610fa77a12b3584364e74?v=9",
+    "v": 9,
     "frames": {
       "break_interval_period.png": {
         "frame": {
-          "x": 361,
-          "y": 966,
+          "x": 969,
+          "y": 964,
           "w": 98,
           "h": 24
         },
@@ -25456,8 +25510,8 @@
       },
       "break_time_period_on_button.png": {
         "frame": {
-          "x": 465,
-          "y": 938,
+          "x": 395,
+          "y": 1038,
           "w": 428,
           "h": 60
         },
@@ -25475,7 +25529,7 @@
       "event_guide.png": {
         "frame": {
           "x": 790,
-          "y": 339,
+          "y": 305,
           "w": 308,
           "h": 102
         },
@@ -25510,8 +25564,8 @@
       },
       "fan_label.png": {
         "frame": {
-          "x": 964,
-          "y": 293,
+          "x": 283,
+          "y": 1065,
           "w": 108,
           "h": 24
         },
@@ -25520,7 +25574,7 @@
       "fan_ranking_banner_banner_base.png": {
         "frame": {
           "x": 790,
-          "y": 445,
+          "y": 411,
           "w": 296,
           "h": 157
         },
@@ -25528,8 +25582,8 @@
       },
       "fan_ranking_overall_top_10_button.png": {
         "frame": {
-          "x": 943,
-          "y": 806,
+          "x": 361,
+          "y": 964,
           "w": 148,
           "h": 70
         },
@@ -25537,8 +25591,8 @@
       },
       "fan_ranking_overall_top_10_button_selected.png": {
         "frame": {
-          "x": 943,
-          "y": 880,
+          "x": 513,
+          "y": 964,
           "w": 148,
           "h": 70
         },
@@ -25546,8 +25600,8 @@
       },
       "fan_ranking_overall_top_100_button.png": {
         "frame": {
-          "x": 790,
-          "y": 732,
+          "x": 943,
+          "y": 816,
           "w": 148,
           "h": 70
         },
@@ -25555,8 +25609,8 @@
       },
       "fan_ranking_overall_top_100_button_selected.png": {
         "frame": {
-          "x": 942,
-          "y": 732,
+          "x": 943,
+          "y": 890,
           "w": 148,
           "h": 70
         },
@@ -25564,8 +25618,8 @@
       },
       "fan_ranking_overall_top_1000_button.png": {
         "frame": {
-          "x": 867,
-          "y": 191,
+          "x": 790,
+          "y": 698,
           "w": 148,
           "h": 70
         },
@@ -25573,8 +25627,8 @@
       },
       "fan_ranking_overall_top_1000_button_selected.png": {
         "frame": {
-          "x": 812,
-          "y": 265,
+          "x": 942,
+          "y": 698,
           "w": 148,
           "h": 70
         },
@@ -25582,8 +25636,8 @@
       },
       "fan_ranking_overall_top_3000_button.png": {
         "frame": {
-          "x": 361,
-          "y": 1022,
+          "x": 665,
+          "y": 964,
           "w": 148,
           "h": 70
         },
@@ -25591,8 +25645,8 @@
       },
       "fan_ranking_overall_top_3000_button_selected.png": {
         "frame": {
-          "x": 513,
-          "y": 1002,
+          "x": 817,
+          "y": 964,
           "w": 148,
           "h": 70
         },
@@ -25654,8 +25708,8 @@
       },
       "held_period.png": {
         "frame": {
-          "x": 361,
-          "y": 994,
+          "x": 969,
+          "y": 992,
           "w": 98,
           "h": 24
         },
@@ -25664,7 +25718,7 @@
       "idol_ranking_base.png": {
         "frame": {
           "x": 1,
-          "y": 980,
+          "y": 946,
           "w": 356,
           "h": 115
         },
@@ -25672,8 +25726,8 @@
       },
       "need_fan_label.png": {
         "frame": {
-          "x": 315,
-          "y": 938,
+          "x": 1,
+          "y": 1065,
           "w": 146,
           "h": 24
         },
@@ -25690,10 +25744,19 @@
       },
       "next_reward_label.png": {
         "frame": {
-          "x": 964,
-          "y": 265,
+          "x": 151,
+          "y": 1065,
           "w": 128,
           "h": 24
+        },
+        "rotated": false
+      },
+      "pcup_cp_banner.png": {
+        "frame": {
+          "x": 867,
+          "y": 191,
+          "w": 220,
+          "h": 110
         },
         "rotated": false
       },
@@ -25709,7 +25772,7 @@
       "ranking_event_reward_base.png": {
         "frame": {
           "x": 1,
-          "y": 806,
+          "y": 772,
           "w": 310,
           "h": 170
         },
@@ -25717,8 +25780,8 @@
       },
       "reward_period.png": {
         "frame": {
-          "x": 665,
-          "y": 1002,
+          "x": 969,
+          "y": 1020,
           "w": 98,
           "h": 24
         },
@@ -25727,7 +25790,7 @@
       "schedule_base.png": {
         "frame": {
           "x": 790,
-          "y": 606,
+          "y": 572,
           "w": 296,
           "h": 122
         },
@@ -25735,8 +25798,8 @@
       },
       "select_break_time_base.png": {
         "frame": {
-          "x": 1,
-          "y": 758,
+          "x": 747,
+          "y": 772,
           "w": 310,
           "h": 40
         },
@@ -52130,5 +52193,75 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/30017/001": {
+    "name": "images/tips/game_event/30017/001",
+    "ext": ".jpg",
+    "url": "/assets/997b3cf9ed9e1854d58c7974b6cecaea0f55808c9f9eb8ae41bffebb4a4a21b4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30017/002": {
+    "name": "images/tips/game_event/30017/002",
+    "ext": ".jpg",
+    "url": "/assets/f67aa8e99cf7457c0495d1d6f03a26d558db1c4cd7286c2479564119c13a42d1?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30017/003": {
+    "name": "images/tips/game_event/30017/003",
+    "ext": ".jpg",
+    "url": "/assets/c20d2a733b39d772dd1b429320c79589aa098f980fbac3ca091dc13eade71038?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30017/006": {
+    "name": "images/tips/game_event/30017/006",
+    "ext": ".jpg",
+    "url": "/assets/a86bb40b8a544f79c39701e4c476535cc86ec72b7af7a095778263edb043f256?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30017/009": {
+    "name": "images/tips/game_event/30017/009",
+    "ext": ".jpg",
+    "url": "/assets/ebe707bf3956b69c3e9be6f16fc231a11afd81e6179051aa1b3705d79698508c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40008/001": {
+    "name": "images/tips/game_event/40008/001",
+    "ext": ".jpg",
+    "url": "/assets/5f65ff16bb21420968b15915b0b946cc0d1fd5af4a44bb4d0dd93f4efacca76a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40008/002": {
+    "name": "images/tips/game_event/40008/002",
+    "ext": ".jpg",
+    "url": "/assets/17f25318892cbb0afc6223947978f81ffc6d40a032228206dbc3ba48f4c02f8c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40008/003": {
+    "name": "images/tips/game_event/40008/003",
+    "ext": ".jpg",
+    "url": "/assets/87c2cb33baead806c61b38e4fa0a141e4b99963cca39b7b4a1f94520b5c933eb?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40008/004": {
+    "name": "images/tips/game_event/40008/004",
+    "ext": ".jpg",
+    "url": "/assets/68ad2260bd002be330441b5bc70bf072d72fb9d313cbb3e49b836d5375bbb141?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40008/005": {
+    "name": "images/tips/game_event/40008/005",
+    "ext": ".jpg",
+    "url": "/assets/11bad6820ed5f95cbbc559a3e4f0e9ab757698a6e5d4d4f3d1d087e0df39fae6?v=1",
+    "v": 1,
+    "frames": null
   }
 }
