@@ -3325,6 +3325,20 @@
     "id": "1040250020"
   },
   {
+    "hash": "ff9bde2f86e3b415c1f28befbb9d9984",
+    "name": "【CONTRAIL】緋田 美琴",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "……ありがとう\n捕まえてくれて",
+    "card": "https://shinycolors.enza.fun/assets/2d5c6eac47a4b3db366c55ddee41d06cb3c2fb667de54bcf29d95aaabed5a116?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/d1150f9af21fe54230962618d8505b6de538fe20779089440e959b29a6c8cf5c?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/19b0c0e6da62beedd5af1a73bb2ce8d3ce09e2d632cc78d11bbd6a57d0c23e7e?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/69ed06542e4c57d2a53ff6705e4d19f74545be071a0991e1114fe8b9a8dceb95.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/360756507df485cf7b310c1e5a169c5a7d33e74ba614b72794a9bc203b3b5a93.mp4?v=1",
+    "id": "1040250030"
+  },
+  {
     "hash": "a456b7b0657ec4309dd56621c5290341",
     "name": "【白いツバサ】櫻木 真乃",
     "type": "p",
@@ -4187,6 +4201,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/681fd6784b428299c6db7fc7b1a4e971d93e1589e77c314c14837dc7cb0afcdc?v=2",
     "id": "2030010040"
+  },
+  {
+    "hash": "756e463d94ee36aa9035066ccb72884c",
+    "name": "【空は澄み、今を越えて。】櫻木 真乃",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/0f0c5985c28b5f3b5d6e9bee00c75386c844e04eb8c9d524d9c026530d877100?v=1",
+    "id": "2030010050"
   },
   {
     "hash": "85110834667118fc01e4fde509f0a8f6",
@@ -5677,6 +5699,14 @@
     "id": "2040140080"
   },
   {
+    "hash": "e562085b9bacbe4dd0202d4ba52aad0d",
+    "name": "【デビルたちの夜会☆】大崎 甘奈",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/b1988cc16cd83d708f2221fb3728fa0176ee81f9a387f83456c3557bd06d171f?v=1",
+    "id": "2040140090"
+  },
+  {
     "hash": "5383c87f7cf2f1e4f28d107e23005a52",
     "name": "【彩りファッションドール】大崎 甜花",
     "type": "s",
@@ -6091,6 +6121,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/95031afb7a91332f6d188d107bf717e43481a2b21e396aa78ab7aa0929dfd764?v=1",
     "id": "2040240030"
+  },
+  {
+    "hash": "f59739e6995e27ebab4fecf9ba41258e",
+    "name": "【あっかい】七草 にちか",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/f19a9672f1e8e1e778642e721f1b51b2dff4dc8de5812e638c24e9589df85dc4?v=1",
+    "id": "2040240040"
   },
   {
     "hash": "9384e970ba4c0ae902096795356721bf",
