@@ -55333,5 +55333,12 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/80011/001": {
+    "name": "images/tips/game_event/80011/001",
+    "ext": ".jpg",
+    "url": "/assets/e0efd6d92980a50b0d7e1babfa3f97efeb29fbf74c4bf4604069762e24fb7d87?v=1",
+    "v": 1,
+    "frames": null
   }
 }
