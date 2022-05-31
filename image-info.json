@@ -40297,12 +40297,12 @@
   "images/ui/produce_area/parts": {
     "name": "images/ui/produce_area/parts",
     "ext": ".png",
-    "url": "/assets/53a946d836b317145b3e9c205ebbf3d788a4165a26d74dcd4cfa48d03880e911?v=9",
-    "v": 9,
+    "url": "/assets/53a946d836b317145b3e9c205ebbf3d788a4165a26d74dcd4cfa48d03880e911?v=10",
+    "v": 10,
     "frames": {
       "area_arrow_down.png": {
         "frame": {
-          "x": 999,
+          "x": 1010,
           "y": 1,
           "w": 69,
           "h": 54
@@ -40311,7 +40311,7 @@
       },
       "area_arrow_up.png": {
         "frame": {
-          "x": 999,
+          "x": 1010,
           "y": 59,
           "w": 69,
           "h": 54
@@ -40320,8 +40320,8 @@
       },
       "area_label_fifth.png": {
         "frame": {
-          "x": 736,
-          "y": 365,
+          "x": 765,
+          "y": 1027,
           "w": 172,
           "h": 34
         },
@@ -40329,8 +40329,8 @@
       },
       "area_lock_big.png": {
         "frame": {
-          "x": 736,
-          "y": 1,
+          "x": 968,
+          "y": 413,
           "w": 107,
           "h": 121
         },
@@ -40348,7 +40348,7 @@
       "btn_produce_area_tips.png": {
         "frame": {
           "x": 736,
-          "y": 323,
+          "y": 101,
           "w": 228,
           "h": 38
         },
@@ -40357,7 +40357,7 @@
       "fortune_friend_ship_balloon.png": {
         "frame": {
           "x": 736,
-          "y": 149,
+          "y": 1,
           "w": 270,
           "h": 46
         },
@@ -40366,7 +40366,7 @@
       "fortune_friend_ship_balloon_mask.png": {
         "frame": {
           "x": 736,
-          "y": 199,
+          "y": 51,
           "w": 270,
           "h": 46
         },
@@ -40374,8 +40374,8 @@
       },
       "growth_info_button.png": {
         "frame": {
-          "x": 847,
-          "y": 1,
+          "x": 968,
+          "y": 117,
           "w": 148,
           "h": 70
         },
@@ -40384,16 +40384,196 @@
       "main_button_lock.png": {
         "frame": {
           "x": 1,
-          "y": 871,
+          "y": 671,
           "w": 591,
           "h": 204
         },
         "rotated": false
       },
+      "movie_01_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 143,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_02_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 185,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_03_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 227,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_04_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 269,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_05_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 311,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_06_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 353,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_07_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 395,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_08_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 437,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_09_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 479,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_10_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 521,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_11_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 563,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_12_button.png": {
+        "frame": {
+          "x": 736,
+          "y": 605,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_13_button.png": {
+        "frame": {
+          "x": 533,
+          "y": 901,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_14_button.png": {
+        "frame": {
+          "x": 765,
+          "y": 901,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_15_button.png": {
+        "frame": {
+          "x": 533,
+          "y": 943,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_16_button.png": {
+        "frame": {
+          "x": 533,
+          "y": 985,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_17_button.png": {
+        "frame": {
+          "x": 533,
+          "y": 1027,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_18_button.png": {
+        "frame": {
+          "x": 533,
+          "y": 1069,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_19_button.png": {
+        "frame": {
+          "x": 765,
+          "y": 943,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "movie_20_button.png": {
+        "frame": {
+          "x": 765,
+          "y": 985,
+          "w": 228,
+          "h": 38
+        },
+        "rotated": false
+      },
       "music_info_button.png": {
         "frame": {
-          "x": 847,
-          "y": 75,
+          "x": 968,
+          "y": 191,
           "w": 148,
           "h": 70
         },
@@ -40401,8 +40581,8 @@
       },
       "other_button_lock.png": {
         "frame": {
-          "x": 533,
-          "y": 631,
+          "x": 596,
+          "y": 711,
           "w": 520,
           "h": 122
         },
@@ -40410,8 +40590,8 @@
       },
       "produce_teaching_hint_select_off_button.png": {
         "frame": {
-          "x": 533,
-          "y": 757,
+          "x": 665,
+          "y": 647,
           "w": 428,
           "h": 60
         },
@@ -40420,7 +40600,7 @@
       "produce_teaching_hint_select_on_button.png": {
         "frame": {
           "x": 596,
-          "y": 821,
+          "y": 837,
           "w": 428,
           "h": 60
         },
@@ -40428,8 +40608,8 @@
       },
       "produce_teaching_hint_setting_button_off.png": {
         "frame": {
-          "x": 736,
-          "y": 249,
+          "x": 968,
+          "y": 265,
           "w": 148,
           "h": 70
         },
@@ -40437,17 +40617,35 @@
       },
       "produce_teaching_hint_setting_button_on.png": {
         "frame": {
-          "x": 888,
-          "y": 249,
+          "x": 968,
+          "y": 339,
           "w": 148,
           "h": 70
+        },
+        "rotated": false
+      },
+      "tips_arrow_next.png": {
+        "frame": {
+          "x": 1083,
+          "y": 1,
+          "w": 28,
+          "h": 35
+        },
+        "rotated": false
+      },
+      "tips_arrow_prev.png": {
+        "frame": {
+          "x": 1083,
+          "y": 40,
+          "w": 28,
+          "h": 35
         },
         "rotated": false
       },
       "title_base.png": {
         "frame": {
           "x": 1,
-          "y": 631,
+          "y": 879,
           "w": 528,
           "h": 236
         },
@@ -40456,7 +40654,7 @@
       "topic_path_base.png": {
         "frame": {
           "x": 1,
-          "y": 1079,
+          "y": 631,
           "w": 660,
           "h": 36
         },
@@ -55387,6 +55585,27 @@
     "name": "images/tips/game_event/78/003",
     "ext": ".jpg",
     "url": "/assets/259baef43ea77968233f4b843fd41658fe07bc3796c62f689134b80c91b7104c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/79/001": {
+    "name": "images/tips/game_event/79/001",
+    "ext": ".jpg",
+    "url": "/assets/f54e287ff21fc722df14fdaee78b75f2ec54743c1c4845cc0072cef7c3aafbb1?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/79/002": {
+    "name": "images/tips/game_event/79/002",
+    "ext": ".jpg",
+    "url": "/assets/75b8e72922afdbc79ead9f2de2e4dd082cc7862e97389a1552be28ddd10cb32d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/79/003": {
+    "name": "images/tips/game_event/79/003",
+    "ext": ".jpg",
+    "url": "/assets/694e241c4a2be5ef897230dbcd27719b8615ebec1b1a5566e0aef956ca1fbd81?v=1",
     "v": 1,
     "frames": null
   }
