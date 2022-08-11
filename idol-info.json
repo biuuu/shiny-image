@@ -1623,6 +1623,20 @@
     "id": "1040020060"
   },
   {
+    "hash": "9cf2edb54a654fb9747647702dfb6ed9",
+    "name": "【洸】風野 灯織",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "まばたきでこの瞬間を切り取れたらいいのに",
+    "card": "https://shinycolors.enza.fun/assets/d423efc0ce281f2d16943a87d56689a383d92cca3e9f35ab608919fbe2ffe35a?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/70550f74f4b1cc98a7f50da7bcd25966182f8cf306cf89eaf7e480f46e69b61c?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/2d0b692fa7bb7ae7c22dfa5e1f13e371f867e6e3369149676524a525625c6559?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/b6cc44b080fd73a7fbe5310172f65e3c260d0355f8b626f2361581f082ba5ba7.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/2b34bd3d6a371cd9600393f17a3d8e1b2a8ff980528a686cadedbf1ce9901156.mp4?v=1",
+    "id": "1040020070"
+  },
+  {
     "hash": "da4298320e1d4023f775870a90330ada",
     "name": "【金色の元気いっぱいガール】八宮 めぐる",
     "type": "p",
@@ -2475,6 +2489,20 @@
     "movie": "https://shinycolors.enza.fun/assets/b0fc8d275606db33a0c1328097a3f0fdb7d5db90a27ee7ce2f2de6151ae39154.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/41407a80dbf2d8ff97fbd5c145ea9c9a7b6c4567852f7ce58ab6171ff9c4bc43.mp4?v=1",
     "id": "1040110070"
+  },
+  {
+    "hash": "ef0b6a5101886733dfdfb52a5870f9a5",
+    "name": "【sparkle,,,】西城 樹里",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "瞬きしたくない──",
+    "card": "https://shinycolors.enza.fun/assets/d7517595941780a41511808b49fc48fb6205f3e05e0fe9ee3245d30aa5201940?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/0eacd2764211585ed131dd2a81f19f1ec11f625508de5c073682ec7fbd0415b3?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/c9e05de7154dd10bee9e5a8df0bb2ea6957a661257e363898bc0bffe9e9753c8?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/81273e8fda7a2bcc0d8d02b629bcd83a00995c9ee4841e8f262eee8dd8427e61.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/5c7f948a7d531bf2881112df14b3d6343bb4346546a54ddd588fa7251ea7815d.mp4?v=1",
+    "id": "1040110080"
   },
   {
     "hash": "3b73d3ff6325d5732c0c3af7448f49dc",
@@ -4595,6 +4623,14 @@
     "id": "2030070030"
   },
   {
+    "hash": "c56c75de3287bdc4c09b86031bb45ced",
+    "name": "【翻弄by♡time】三峰 結華",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/87326c13aa85bc4d5bf4b7ea0c0bb9c53e6cd920f5e90476cc3e971e4dee3af7?v=1",
+    "id": "2030070040"
+  },
+  {
     "hash": "b74a1893f52bc5eb5cdd4f35cc9bcb39",
     "name": "【綿毛ノ想】幽谷 霧子",
     "type": "s",
@@ -5019,6 +5055,14 @@
     "id": "2030230010"
   },
   {
+    "hash": "44bbfca9f2ac935189ada7455f00266a",
+    "name": "【SETSUNA BEAT】市川 雛菜",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/d411b3f4f1b9971240e87c15a2ab9dbe019576ea387b455de2f1f20ad48857a8?v=1",
+    "id": "2030230020"
+  },
+  {
     "hash": "a002b971b492b89afabbe62a35b8f08c",
     "name": "【夏葬灯】七草 にちか",
     "type": "s",
@@ -5379,6 +5423,14 @@
     "id": "2040050070"
   },
   {
+    "hash": "83a8a431bc927055d0efe89c69eb2cb8",
+    "name": "【murmurmaid】田中 摩美々",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/3e260b5af770db4ffe953e523da5ae9852935f69b93550cede0c69d75303f79f?v=1",
+    "id": "2040050080"
+  },
+  {
     "hash": "442addbd589edbbed1954d4e037a17bd",
     "name": "【指先の煌めき】白瀬 咲耶",
     "type": "s",
@@ -5617,6 +5669,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/8e33775edff0f4791f307abbee8a982b5c0014478359afec92910301f7624e1b?v=1",
     "id": "2040090070"
+  },
+  {
+    "hash": "4e808a09a51e2ca205fe7eaf55f752eb",
+    "name": "【ロング・ショート・タイム！】小宮 果穂",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/d7f210d9663162ad00f9124444aa692074ebd6eb7e93a7e8237cc2a11592eb8e?v=1",
+    "id": "2040090080"
   },
   {
     "hash": "08bed8db6554f66ab32542f557afaa60",
@@ -6249,6 +6309,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/3008cf08ffd28b8217828b2c1dac7464b37b0b1e20c3bcafbbce0cce0b0800bf?v=1",
     "id": "2040200040"
+  },
+  {
+    "hash": "585e84614dab9edad7f07b142a19546e",
+    "name": "【かっとばし党の長い夏】浅倉 透",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/65d22970c2ddcd2b3bdd074036b75ace3ea6ddecea6dbb25cba08cbb5b18f80e?v=1",
+    "id": "2040200050"
   },
   {
     "hash": "4762093afa0b3b78c1ec40ae22ba6043",
