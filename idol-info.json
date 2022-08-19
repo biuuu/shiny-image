@@ -1307,6 +1307,18 @@
     "id": "1030190030"
   },
   {
+    "hash": "a259575cb7b6dd10042d94fccbe597d5",
+    "name": "【見つかっちゃった♪】和泉 愛依",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/c91e59fe53f0ae15250ef3cf8488f770c704bac7831f91a346bb59954d0e4b63?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/ca3ae9a2e0532603b4482cd4a9fa209d5f30d1149366d5d028d4bc7f464c58be?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/edeb7ec9359fd4c46c4d164ad99a69c20f7a88299e3e3309f937786423d6a8dc?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/4f5533ff8d539c68dc9996d4c515835ce6a0dde201b8590630bd37c94dc55c06.mp4?v=1",
+    "id": "1030190040"
+  },
+  {
     "hash": "da67da775a6789dc0703770efdfb441b",
     "name": "【まわるものについて】浅倉 透",
     "type": "p",
@@ -2195,6 +2207,20 @@
     "movie": "https://shinycolors.enza.fun/assets/4fe3e791ce0f3c5af8895c0d4855809a2b672ac4164f731a13e7161b8dfedb32.mp4?v=2",
     "m_movie": "https://shinycolors.enza.fun/assets/75bb573917de26cfe0c30d609297c71b941a2056356d68f32e4f36c756d2ba3a.mp4?v=2",
     "id": "1040080060"
+  },
+  {
+    "hash": "75cc7ee66752717e6502b12d29ddae79",
+    "name": "【縷・縷・屡・来】幽谷 霧子",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──────来たの……？",
+    "card": "https://shinycolors.enza.fun/assets/37d96ba8281b574596433d6468648f3065f31609830dff652be084277235cf03?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/92e7847d25b72ddac1af657b3d68e57475e7e31193b7c2a044b70b77792fd2c4?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/60100ca98537d4f5ab64b999f739872dc2c29e59194bacaac8d5b74f984cbdcb?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/ebda93bbc904b1922921f9baf8f49337b47014d8c9af3590c35c5fec0ea702ba.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/416876767949a695141a302cb0594c154dd8de63318c19305862ee4567b356d8.mp4?v=1",
+    "id": "1040080070"
   },
   {
     "hash": "81ee9a39be6be420e028a2e6e5548526",
@@ -4799,6 +4825,14 @@
     "id": "2030120030"
   },
   {
+    "hash": "c8c04b6fe2c61320573e1c2841870a93",
+    "name": "【SETSUNA BEAT】杜野 凛世",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/79eb3f39cbf906b7a93d4e0ad84c1e42d3945a572987a30a7839c5519e525d8e?v=1",
+    "id": "2030120040"
+  },
+  {
     "hash": "a153ca3822fdd88843291776d89c8267",
     "name": "【虹待ちレインドロップ】有栖川 夏葉",
     "type": "s",
@@ -4925,6 +4959,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/0dab52214986550f920a41194a1b19888b1310f973b081fcb25669e0d0d730cf?v=2",
     "id": "2030160040"
+  },
+  {
+    "hash": "abe8f2ebf8a0f13ae90ea77a2e1ff953",
+    "name": "【SETSUNA BEAT】桑山 千雪",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/031fbc2b63528c2975d0d7a4d2abc4b583644ac3c185fe61869073bcce002d2d?v=1",
+    "id": "2030160050"
   },
   {
     "hash": "7c08eaf1dbb2b186d32833fdf01f2c0c",
@@ -6421,6 +6463,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/9814ae8d63dcc00f8f73206b0f14bb35cb3e56f83c33fd761cb6a307e9267d2d?v=1",
     "id": "2040230030"
+  },
+  {
+    "hash": "2c611b43e5b014c9694d854cc6317025",
+    "name": "【DIVEIN!】市川 雛菜",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/6ac9b9dc3ca07b681fd08535eb9e1a2d474f2b36fcc9619edc090263d26e075c?v=1",
+    "id": "2040230040"
   },
   {
     "hash": "402ab143176697c6a46e1a776fb9452b",
