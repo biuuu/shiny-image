@@ -44,8 +44,8 @@
   "images/tips/concert/006": {
     "name": "images/tips/concert/006",
     "ext": ".jpg",
-    "url": "/assets/1480306c925bb8ce07263c02f9e7723035c9b86a810a453f351ef7da215ca882?v=8",
-    "v": 8,
+    "url": "/assets/1480306c925bb8ce07263c02f9e7723035c9b86a810a453f351ef7da215ca882?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/concert/008": {
@@ -772,8 +772,8 @@
   "images/tips/produce/produce/009": {
     "name": "images/tips/produce/produce/009",
     "ext": ".jpg",
-    "url": "/assets/9a65aa58a1e8803ede992535f93a6b798ef212e017bf574dab5170212d41e6ba?v=8",
-    "v": 8,
+    "url": "/assets/9a65aa58a1e8803ede992535f93a6b798ef212e017bf574dab5170212d41e6ba?v=9",
+    "v": 9,
     "frames": null
   },
   "images/tips/produce/produce/010": {
@@ -46639,15 +46639,15 @@
   "images/tips/fes_tower_deck/003": {
     "name": "images/tips/fes_tower_deck/003",
     "ext": ".jpg",
-    "url": "/assets/e2668bb1484ed3a6146def5dc3c09f24f1d1f1e673537676cb3e7f9c909b8492?v=2",
-    "v": 2,
+    "url": "/assets/e2668bb1484ed3a6146def5dc3c09f24f1d1f1e673537676cb3e7f9c909b8492?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_deck/004": {
     "name": "images/tips/fes_tower_deck/004",
     "ext": ".jpg",
-    "url": "/assets/be1de921797bac7c59439949247f954fd4f7bf73dc22531a7a31d81bcceb3716?v=2",
-    "v": 2,
+    "url": "/assets/be1de921797bac7c59439949247f954fd4f7bf73dc22531a7a31d81bcceb3716?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_item/001": {
@@ -46688,15 +46688,15 @@
   "images/tips/fes_tower_live_panel/002": {
     "name": "images/tips/fes_tower_live_panel/002",
     "ext": ".jpg",
-    "url": "/assets/a43be0321b9a4db994b3256c6120b1a3f1c80fe2ded6bf73b2d5134861507c34?v=3",
-    "v": 3,
+    "url": "/assets/a43be0321b9a4db994b3256c6120b1a3f1c80fe2ded6bf73b2d5134861507c34?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/fes_tower_live_panel/003": {
     "name": "images/tips/fes_tower_live_panel/003",
     "ext": ".jpg",
-    "url": "/assets/41a08b7f3520773677bf0d5fa7fd833a797bf53a10518470e3d81076dbcee666?v=3",
-    "v": 3,
+    "url": "/assets/41a08b7f3520773677bf0d5fa7fd833a797bf53a10518470e3d81076dbcee666?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/fes_tower_live_panel/004": {
@@ -46716,29 +46716,29 @@
   "images/tips/fes_tower_live_panel/006": {
     "name": "images/tips/fes_tower_live_panel/006",
     "ext": ".jpg",
-    "url": "/assets/09162ed4ebea28c9e698c677cff7ad223994918e300cf45559b7bae5d2e6d0a8?v=2",
-    "v": 2,
+    "url": "/assets/09162ed4ebea28c9e698c677cff7ad223994918e300cf45559b7bae5d2e6d0a8?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_panel_select/001": {
     "name": "images/tips/fes_tower_panel_select/001",
     "ext": ".jpg",
-    "url": "/assets/e101bb57c36dd652a0993e5cf8ff23585b737816086512141882378e9bbbdfc6?v=3",
-    "v": 3,
+    "url": "/assets/e101bb57c36dd652a0993e5cf8ff23585b737816086512141882378e9bbbdfc6?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/fes_tower_panel_select/002": {
     "name": "images/tips/fes_tower_panel_select/002",
     "ext": ".jpg",
-    "url": "/assets/a0e1fa3bbc3b1083d52717e91777e4762b0dafe4e36c2546782c81225939d264?v=3",
-    "v": 3,
+    "url": "/assets/a0e1fa3bbc3b1083d52717e91777e4762b0dafe4e36c2546782c81225939d264?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/fes_tower_panel_select/003": {
     "name": "images/tips/fes_tower_panel_select/003",
     "ext": ".jpg",
-    "url": "/assets/7b31a451688134359338cd19f9eddf9a3b0e59cdd2ff97e6038c3ae9a45b6a36?v=2",
-    "v": 2,
+    "url": "/assets/7b31a451688134359338cd19f9eddf9a3b0e59cdd2ff97e6038c3ae9a45b6a36?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_tower_panel_select/004": {
@@ -48653,8 +48653,8 @@
   "images/ui/fes_tower_live_panel/parts": {
     "name": "images/ui/fes_tower_live_panel/parts",
     "ext": ".png",
-    "url": "/assets/4e8f25c2e49e32d8b1a03fd907a6446e5850c76f60be8e74a1849be989531c71?v=3",
-    "v": 3,
+    "url": "/assets/4e8f25c2e49e32d8b1a03fd907a6446e5850c76f60be8e74a1849be989531c71?v=4",
+    "v": 4,
     "frames": {
       "extreme_live_panel_base.png": {
         "frame": {
@@ -48836,15 +48836,6 @@
         },
         "rotated": false
       },
-      "special_bonus_button.png": {
-        "frame": {
-          "x": 741,
-          "y": 733,
-          "w": 148,
-          "h": 70
-        },
-        "rotated": false
-      },
       "stage_detail_extreme_title_base.png": {
         "frame": {
           "x": 1152,
@@ -48902,7 +48893,7 @@
       "tab_live_effect_on.png": {
         "frame": {
           "x": 741,
-          "y": 881,
+          "y": 849,
           "w": 164,
           "h": 44
         },
@@ -48911,7 +48902,7 @@
       "tab_stage_detail_off.png": {
         "frame": {
           "x": 741,
-          "y": 929,
+          "y": 897,
           "w": 164,
           "h": 44
         },
@@ -48920,7 +48911,7 @@
       "tab_stage_detail_on.png": {
         "frame": {
           "x": 741,
-          "y": 977,
+          "y": 945,
           "w": 164,
           "h": 44
         },
@@ -48929,7 +48920,7 @@
       "to_fes_tours_top_button.png": {
         "frame": {
           "x": 741,
-          "y": 807,
+          "y": 733,
           "w": 148,
           "h": 70
         },
@@ -49226,8 +49217,8 @@
   "images/ui/fes_tower_top/parts": {
     "name": "images/ui/fes_tower_top/parts",
     "ext": ".png",
-    "url": "/assets/1171575d43344537d11b493de7eca220b3fa4a11bc9637ade9ed321b466641f5?v=3",
-    "v": 3,
+    "url": "/assets/1171575d43344537d11b493de7eca220b3fa4a11bc9637ade9ed321b466641f5?v=4",
+    "v": 4,
     "frames": {
       "challenge_inner_base.png": {
         "frame": {
@@ -49240,8 +49231,8 @@
       },
       "fes_tower_deck_button.png": {
         "frame": {
-          "x": 985,
-          "y": 479,
+          "x": 720,
+          "y": 547,
           "w": 148,
           "h": 70
         },
@@ -49249,8 +49240,8 @@
       },
       "fes_tower_menu_button.png": {
         "frame": {
-          "x": 1,
-          "y": 593,
+          "x": 266,
+          "y": 667,
           "w": 96,
           "h": 93
         },
@@ -49258,8 +49249,8 @@
       },
       "fes_tower_stage_base.png": {
         "frame": {
-          "x": 366,
-          "y": 671,
+          "x": 455,
+          "y": 479,
           "w": 415,
           "h": 64
         },
@@ -49267,8 +49258,8 @@
       },
       "panel_unit_button.png": {
         "frame": {
-          "x": 985,
-          "y": 553,
+          "x": 720,
+          "y": 621,
           "w": 148,
           "h": 70
         },
@@ -49283,9 +49274,18 @@
         },
         "rotated": false
       },
+      "progress_info_button.png": {
+        "frame": {
+          "x": 683,
+          "y": 695,
+          "w": 94,
+          "h": 93
+        },
+        "rotated": false
+      },
       "tour_menu_bonus_list_button.png": {
         "frame": {
-          "x": 455,
+          "x": 874,
           "y": 479,
           "w": 261,
           "h": 92
@@ -49295,7 +49295,7 @@
       "tour_menu_extreme_live_button.png": {
         "frame": {
           "x": 455,
-          "y": 575,
+          "y": 547,
           "w": 261,
           "h": 92
         },
@@ -49303,8 +49303,8 @@
       },
       "tour_menu_help_button.png": {
         "frame": {
-          "x": 101,
-          "y": 593,
+          "x": 872,
+          "y": 575,
           "w": 261,
           "h": 92
         },
@@ -49312,8 +49312,8 @@
       },
       "tour_menu_option_button.png": {
         "frame": {
-          "x": 720,
-          "y": 479,
+          "x": 872,
+          "y": 671,
           "w": 261,
           "h": 92
         },
@@ -49321,8 +49321,8 @@
       },
       "tour_menu_report_button.png": {
         "frame": {
-          "x": 720,
-          "y": 575,
+          "x": 1,
+          "y": 593,
           "w": 261,
           "h": 92
         },
@@ -49330,8 +49330,8 @@
       },
       "tour_menu_retired_button.png": {
         "frame": {
-          "x": 1,
-          "y": 690,
+          "x": 418,
+          "y": 643,
           "w": 261,
           "h": 92
         },
@@ -49339,8 +49339,8 @@
       },
       "tour_menu_special_bonus_button.png": {
         "frame": {
-          "x": 785,
-          "y": 671,
+          "x": 1,
+          "y": 689,
           "w": 261,
           "h": 92
         },
@@ -49349,7 +49349,7 @@
       "tour_retire_button.png": {
         "frame": {
           "x": 266,
-          "y": 739,
+          "y": 593,
           "w": 148,
           "h": 70
         },
@@ -49989,13 +49989,13 @@
   "images/ui/fes_tower_top/parts_bonus": {
     "name": "images/ui/fes_tower_top/parts_bonus",
     "ext": ".png",
-    "url": "/assets/b7f4671da531ca37f721d90dff75b02dd5113ab8386b1cf0bf796526475cee11?v=2",
-    "v": 2,
+    "url": "/assets/b7f4671da531ca37f721d90dff75b02dd5113ab8386b1cf0bf796526475cee11?v=3",
+    "v": 3,
     "frames": {
       "area_cleared_bonus_base.png": {
         "frame": {
-          "x": 893,
-          "y": 1,
+          "x": 835,
+          "y": 1467,
           "w": 644,
           "h": 106
         },
@@ -50013,7 +50013,7 @@
       "bonus_area_1.png": {
         "frame": {
           "x": 893,
-          "y": 111,
+          "y": 1,
           "w": 178,
           "h": 106
         },
@@ -50021,7 +50021,7 @@
       },
       "bonus_area_2.png": {
         "frame": {
-          "x": 1075,
+          "x": 893,
           "y": 111,
           "w": 178,
           "h": 106
@@ -50030,8 +50030,8 @@
       },
       "bonus_area_3.png": {
         "frame": {
-          "x": 1257,
-          "y": 111,
+          "x": 893,
+          "y": 221,
           "w": 178,
           "h": 106
         },
@@ -50040,7 +50040,7 @@
       "bonus_area_4.png": {
         "frame": {
           "x": 893,
-          "y": 221,
+          "y": 331,
           "w": 178,
           "h": 106
         },
@@ -50048,8 +50048,8 @@
       },
       "bonus_area_5.png": {
         "frame": {
-          "x": 1075,
-          "y": 221,
+          "x": 893,
+          "y": 441,
           "w": 178,
           "h": 106
         },
@@ -50057,8 +50057,8 @@
       },
       "bonus_area_6.png": {
         "frame": {
-          "x": 1257,
-          "y": 221,
+          "x": 893,
+          "y": 551,
           "w": 178,
           "h": 106
         },
@@ -50067,7 +50067,7 @@
       "bonus_area_7.png": {
         "frame": {
           "x": 893,
-          "y": 331,
+          "y": 661,
           "w": 178,
           "h": 106
         },
@@ -50075,8 +50075,8 @@
       },
       "bonus_area_8.png": {
         "frame": {
-          "x": 1075,
-          "y": 331,
+          "x": 893,
+          "y": 880,
           "w": 178,
           "h": 106
         },
@@ -50102,8 +50102,8 @@
       },
       "bonus_list_button.png": {
         "frame": {
-          "x": 1257,
-          "y": 331,
+          "x": 1075,
+          "y": 880,
           "w": 148,
           "h": 70
         },
@@ -50133,6 +50133,15 @@
           "y": 1357,
           "w": 830,
           "h": 110
+        },
+        "rotated": false
+      },
+      "tour_bonus_base.png": {
+        "frame": {
+          "x": 893,
+          "y": 771,
+          "w": 644,
+          "h": 105
         },
         "rotated": false
       }
@@ -50490,13 +50499,31 @@
   "images/ui/fes_tower_top/parts_panel": {
     "name": "images/ui/fes_tower_top/parts_panel",
     "ext": ".png",
-    "url": "/assets/9d9d35b1903ba03f17c8e3299b91fe6e7952cb8cef179af203fea7b795a8b73b?v=3",
-    "v": 3,
+    "url": "/assets/9d9d35b1903ba03f17c8e3299b91fe6e7952cb8cef179af203fea7b795a8b73b?v=4",
+    "v": 4,
     "frames": {
-      "panel_boss.png": {
+      "panel_boss_dance.png": {
         "frame": {
           "x": 1,
           "y": 1,
+          "w": 180,
+          "h": 180
+        },
+        "rotated": false
+      },
+      "panel_boss_visual.png": {
+        "frame": {
+          "x": 1,
+          "y": 185,
+          "w": 180,
+          "h": 180
+        },
+        "rotated": false
+      },
+      "panel_boss_vocal.png": {
+        "frame": {
+          "x": 1,
+          "y": 369,
           "w": 180,
           "h": 180
         },
@@ -50505,7 +50532,7 @@
       "panel_concert_dance.png": {
         "frame": {
           "x": 1,
-          "y": 185,
+          "y": 553,
           "w": 180,
           "h": 180
         },
@@ -50514,7 +50541,7 @@
       "panel_concert_dance_limit_00.png": {
         "frame": {
           "x": 1,
-          "y": 369,
+          "y": 737,
           "w": 180,
           "h": 180
         },
@@ -50523,7 +50550,7 @@
       "panel_concert_dance_limit_01.png": {
         "frame": {
           "x": 1,
-          "y": 553,
+          "y": 921,
           "w": 180,
           "h": 180
         },
@@ -50531,8 +50558,8 @@
       },
       "panel_concert_dance_limit_02.png": {
         "frame": {
-          "x": 1,
-          "y": 737,
+          "x": 185,
+          "y": 1,
           "w": 180,
           "h": 180
         },
@@ -50540,8 +50567,8 @@
       },
       "panel_concert_dance_limit_03.png": {
         "frame": {
-          "x": 1,
-          "y": 921,
+          "x": 369,
+          "y": 1,
           "w": 180,
           "h": 180
         },
@@ -50549,7 +50576,7 @@
       },
       "panel_concert_dance_limit_04.png": {
         "frame": {
-          "x": 185,
+          "x": 553,
           "y": 1,
           "w": 180,
           "h": 180
@@ -50558,7 +50585,7 @@
       },
       "panel_concert_dance_limit_05.png": {
         "frame": {
-          "x": 369,
+          "x": 737,
           "y": 1,
           "w": 180,
           "h": 180
@@ -50567,7 +50594,7 @@
       },
       "panel_concert_dance_limit_06.png": {
         "frame": {
-          "x": 553,
+          "x": 921,
           "y": 1,
           "w": 180,
           "h": 180
@@ -50576,8 +50603,8 @@
       },
       "panel_concert_dance_limit_07.png": {
         "frame": {
-          "x": 737,
-          "y": 1,
+          "x": 185,
+          "y": 185,
           "w": 180,
           "h": 180
         },
@@ -50585,8 +50612,8 @@
       },
       "panel_concert_visual.png": {
         "frame": {
-          "x": 921,
-          "y": 1,
+          "x": 185,
+          "y": 369,
           "w": 180,
           "h": 180
         },
@@ -50595,7 +50622,7 @@
       "panel_concert_visual_limit_00.png": {
         "frame": {
           "x": 185,
-          "y": 185,
+          "y": 553,
           "w": 180,
           "h": 180
         },
@@ -50604,7 +50631,7 @@
       "panel_concert_visual_limit_01.png": {
         "frame": {
           "x": 185,
-          "y": 369,
+          "y": 737,
           "w": 180,
           "h": 180
         },
@@ -50613,7 +50640,7 @@
       "panel_concert_visual_limit_02.png": {
         "frame": {
           "x": 185,
-          "y": 553,
+          "y": 921,
           "w": 180,
           "h": 180
         },
@@ -50621,8 +50648,8 @@
       },
       "panel_concert_visual_limit_03.png": {
         "frame": {
-          "x": 185,
-          "y": 737,
+          "x": 369,
+          "y": 185,
           "w": 180,
           "h": 180
         },
@@ -50630,8 +50657,8 @@
       },
       "panel_concert_visual_limit_04.png": {
         "frame": {
-          "x": 185,
-          "y": 921,
+          "x": 553,
+          "y": 185,
           "w": 180,
           "h": 180
         },
@@ -50639,7 +50666,7 @@
       },
       "panel_concert_visual_limit_05.png": {
         "frame": {
-          "x": 369,
+          "x": 737,
           "y": 185,
           "w": 180,
           "h": 180
@@ -50648,7 +50675,7 @@
       },
       "panel_concert_visual_limit_06.png": {
         "frame": {
-          "x": 553,
+          "x": 921,
           "y": 185,
           "w": 180,
           "h": 180
@@ -50657,8 +50684,8 @@
       },
       "panel_concert_visual_limit_07.png": {
         "frame": {
-          "x": 737,
-          "y": 185,
+          "x": 369,
+          "y": 369,
           "w": 180,
           "h": 180
         },
@@ -50666,8 +50693,8 @@
       },
       "panel_concert_vocal.png": {
         "frame": {
-          "x": 921,
-          "y": 185,
+          "x": 369,
+          "y": 553,
           "w": 180,
           "h": 180
         },
@@ -50676,7 +50703,7 @@
       "panel_concert_vocal_limit_00.png": {
         "frame": {
           "x": 369,
-          "y": 369,
+          "y": 737,
           "w": 180,
           "h": 180
         },
@@ -50685,7 +50712,7 @@
       "panel_concert_vocal_limit_01.png": {
         "frame": {
           "x": 369,
-          "y": 553,
+          "y": 921,
           "w": 180,
           "h": 180
         },
@@ -50693,8 +50720,8 @@
       },
       "panel_concert_vocal_limit_02.png": {
         "frame": {
-          "x": 369,
-          "y": 737,
+          "x": 553,
+          "y": 369,
           "w": 180,
           "h": 180
         },
@@ -50702,8 +50729,8 @@
       },
       "panel_concert_vocal_limit_03.png": {
         "frame": {
-          "x": 369,
-          "y": 921,
+          "x": 737,
+          "y": 369,
           "w": 180,
           "h": 180
         },
@@ -50711,7 +50738,7 @@
       },
       "panel_concert_vocal_limit_04.png": {
         "frame": {
-          "x": 553,
+          "x": 921,
           "y": 369,
           "w": 180,
           "h": 180
@@ -50720,24 +50747,6 @@
       },
       "panel_concert_vocal_limit_05.png": {
         "frame": {
-          "x": 737,
-          "y": 369,
-          "w": 180,
-          "h": 180
-        },
-        "rotated": false
-      },
-      "panel_concert_vocal_limit_06.png": {
-        "frame": {
-          "x": 921,
-          "y": 369,
-          "w": 180,
-          "h": 180
-        },
-        "rotated": false
-      },
-      "panel_concert_vocal_limit_07.png": {
-        "frame": {
           "x": 553,
           "y": 553,
           "w": 180,
@@ -50745,7 +50754,7 @@
         },
         "rotated": false
       },
-      "panel_level_up.png": {
+      "panel_concert_vocal_limit_06.png": {
         "frame": {
           "x": 553,
           "y": 737,
@@ -50754,7 +50763,7 @@
         },
         "rotated": false
       },
-      "panel_random.png": {
+      "panel_concert_vocal_limit_07.png": {
         "frame": {
           "x": 553,
           "y": 921,
@@ -50763,7 +50772,7 @@
         },
         "rotated": false
       },
-      "panel_recover.png": {
+      "panel_level_up.png": {
         "frame": {
           "x": 737,
           "y": 553,
@@ -50772,7 +50781,7 @@
         },
         "rotated": false
       },
-      "panel_reward.png": {
+      "panel_random.png": {
         "frame": {
           "x": 921,
           "y": 553,
@@ -50781,9 +50790,27 @@
         },
         "rotated": false
       },
-      "panel_tension_up.png": {
+      "panel_recover.png": {
         "frame": {
           "x": 737,
+          "y": 737,
+          "w": 180,
+          "h": 180
+        },
+        "rotated": false
+      },
+      "panel_reward.png": {
+        "frame": {
+          "x": 737,
+          "y": 921,
+          "w": 180,
+          "h": 180
+        },
+        "rotated": false
+      },
+      "panel_tension_up.png": {
+        "frame": {
+          "x": 921,
           "y": 737,
           "w": 180,
           "h": 180
@@ -52050,15 +52077,15 @@
   "images/tips/game_event/fes_tower/003": {
     "name": "images/tips/game_event/fes_tower/003",
     "ext": ".jpg",
-    "url": "/assets/6858f6422ac333f816af50a2fe21763a857fbfb5991387101ce593ad87a38083?v=1",
-    "v": 1,
+    "url": "/assets/6858f6422ac333f816af50a2fe21763a857fbfb5991387101ce593ad87a38083?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/game_event/fes_tower/004": {
     "name": "images/tips/game_event/fes_tower/004",
     "ext": ".jpg",
-    "url": "/assets/89d9588f9818a19759a3b7edbc37ae94c99cbecd19fbb84a1d29c279776c8d00?v=2",
-    "v": 2,
+    "url": "/assets/89d9588f9818a19759a3b7edbc37ae94c99cbecd19fbb84a1d29c279776c8d00?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/game_event/fes_tower/005": {
@@ -52071,8 +52098,8 @@
   "images/tips/game_event/fes_tower/006": {
     "name": "images/tips/game_event/fes_tower/006",
     "ext": ".jpg",
-    "url": "/assets/74f5bbb082cad57fc5365dd37a9ae7ee648cf73272bd24b886947d2a3e430589?v=1",
-    "v": 1,
+    "url": "/assets/74f5bbb082cad57fc5365dd37a9ae7ee648cf73272bd24b886947d2a3e430589?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/game_event/fes_tower/007": {
@@ -57491,5 +57518,147 @@
     "url": "/assets/e2c64c91f58656fb2eee11a3a20c7d2981e6aa99396fbd54afaa583173f3a0ee?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/70006/001": {
+    "name": "images/tips/game_event/70006/001",
+    "ext": ".jpg",
+    "url": "/assets/f500318abcf03e15ef0250ab048faa6f5558a09f677aef99c486740bc99c3966?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70006/002": {
+    "name": "images/tips/game_event/70006/002",
+    "ext": ".jpg",
+    "url": "/assets/14cbd65a0ca66994f3f34abbfca873a98d50305c1ec9ff8001dbd815155b8dd0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/84/001": {
+    "name": "images/tips/game_event/84/001",
+    "ext": ".jpg",
+    "url": "/assets/762948c745f0f2e0be460b68f4bfa87fa30c02dcec5847e8b00fb0c9c3bf2760?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/84/002": {
+    "name": "images/tips/game_event/84/002",
+    "ext": ".jpg",
+    "url": "/assets/ead6982b4f0d666fec77cd2aa5945318d80aa8b5e1e3355a553062a6a4d9d5b1?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/84/003": {
+    "name": "images/tips/game_event/84/003",
+    "ext": ".jpg",
+    "url": "/assets/c71f6425b9e663295aa08c94ade988a5ca0133997fe9bbf1b5092c06b2a9ac26?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/fes_tower_top/parts_progress_info_pop": {
+    "name": "images/ui/fes_tower_top/parts_progress_info_pop",
+    "ext": ".png",
+    "url": "/assets/b44f644d4bda5c725395da911a98eebeed5282fea316ce35fcf83eea547596ff?v=1",
+    "v": 1,
+    "frames": {
+      "player_rate_10.png": {
+        "frame": {
+          "x": 1,
+          "y": 819,
+          "w": 34,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_20.png": {
+        "frame": {
+          "x": 1,
+          "y": 790,
+          "w": 66,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_30.png": {
+        "frame": {
+          "x": 1,
+          "y": 761,
+          "w": 98,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_40.png": {
+        "frame": {
+          "x": 1,
+          "y": 732,
+          "w": 130,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_50.png": {
+        "frame": {
+          "x": 1,
+          "y": 703,
+          "w": 160,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_60.png": {
+        "frame": {
+          "x": 1,
+          "y": 674,
+          "w": 192,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_70.png": {
+        "frame": {
+          "x": 1,
+          "y": 645,
+          "w": 222,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_80.png": {
+        "frame": {
+          "x": 1,
+          "y": 616,
+          "w": 252,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_90.png": {
+        "frame": {
+          "x": 1,
+          "y": 587,
+          "w": 284,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "player_rate_100.png": {
+        "frame": {
+          "x": 1,
+          "y": 558,
+          "w": 314,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "progress_info_pop_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 1000,
+          "h": 553
+        },
+        "rotated": false
+      }
+    }
   }
 }
