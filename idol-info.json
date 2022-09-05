@@ -1747,6 +1747,20 @@
     "id": "1040030070"
   },
   {
+    "hash": "07abad95849b2beeec30eab79920aa8e",
+    "name": "【たそかれスワッグ】八宮 めぐる",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "──……まぶしーい",
+    "card": "https://shinycolors.enza.fun/assets/ba068651bc120559376200d7d92530dbe652f8f3c1ef0b6f0b64cf11db7126ab?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/a4fe9e40a420c21ea64298c481e2ba2a427e85aa3289abbd8d9e431dd1e3cb7d?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/0ebe9ef01289a0756f3bfead14a43ae8f486b1714f0f89088d29689efabf8a3d?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/d5d9991ebdebc0b679bbdefc45d62494288f93c3968859b18f55ae729bead2d9.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/f938c90aa48283812cea0574917bc61ede3ee7debd00bdf82f4e100b3448990f.mp4?v=1",
+    "id": "1040030080"
+  },
+  {
     "hash": "522da89a9744e24a1b7019c098c1b542",
     "name": "【ばりうまかブルース】月岡 恋鐘",
     "type": "p",
@@ -5209,6 +5223,14 @@
     "id": "2040010110"
   },
   {
+    "hash": "ceeab1718c818084d68195718e309e92",
+    "name": "【私のレンズの先のこと】櫻木 真乃",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/c8959798e9fa883d37b817e05ea3d367a07a84fb0c04bb71794bb34b496a5693?v=1",
+    "id": "2040010120"
+  },
+  {
     "hash": "ba5e0c844214f1ee75a84476101223b4",
     "name": "【みんなと結んだもの】風野 灯織",
     "type": "s",
@@ -5887,6 +5909,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/01274acbde151a1785e35b668ae1e56f2096ca9c903b8409f6e6324e75718466?v=2",
     "id": "2040120080"
+  },
+  {
+    "hash": "32d1022b3e4a5a45373a5425f509b97a",
+    "name": "【珈琲の牛乳いれたん】杜野 凛世",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/94c0d8e82a5a54df1212edd5205db720a33b4d49530eaa0740236c702e3de3f7?v=1",
+    "id": "2040120090"
   },
   {
     "hash": "fd28eafd4313a340ea7ce249f0a8208e",
