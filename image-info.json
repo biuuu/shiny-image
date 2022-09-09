@@ -57797,5 +57797,26 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/60027/001": {
+    "name": "images/tips/game_event/60027/001",
+    "ext": ".jpg",
+    "url": "/assets/070272b363b198cbae19aa09fcc709271f26f10a0e2c74b182c40e2479051ddc?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60027/002": {
+    "name": "images/tips/game_event/60027/002",
+    "ext": ".jpg",
+    "url": "/assets/60f4795a38658c161ba1a383a0deb59ca2aeac3ebd732e5821cc709f12d4f9da?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60027/003": {
+    "name": "images/tips/game_event/60027/003",
+    "ext": ".jpg",
+    "url": "/assets/01d6d1471a57ecd0a636b1645a42715a6a724310ef480fb780acf6e55d484c83?v=1",
+    "v": 1,
+    "frames": null
   }
 }
