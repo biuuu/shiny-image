@@ -19656,8 +19656,8 @@
   "images/ui/lottery_result/parts": {
     "name": "images/ui/lottery_result/parts",
     "ext": ".png",
-    "url": "/assets/8a4352dfc28a89dba6ce1881234672a891af511f567f5965f3b69a781aad01f8?v=4",
-    "v": 4,
+    "url": "/assets/8a4352dfc28a89dba6ce1881234672a891af511f567f5965f3b69a781aad01f8?v=5",
+    "v": 5,
     "frames": {
       "lottery_rank_label_0.png": {
         "frame": {
@@ -19680,7 +19680,7 @@
       "lottery_rank_label_2.png": {
         "frame": {
           "x": 1,
-          "y": 53,
+          "y": 105,
           "w": 166,
           "h": 48
         },
@@ -19689,7 +19689,7 @@
       "lottery_rank_label_3.png": {
         "frame": {
           "x": 171,
-          "y": 53,
+          "y": 105,
           "w": 166,
           "h": 48
         },
@@ -19698,7 +19698,7 @@
       "lottery_rank_label_4.png": {
         "frame": {
           "x": 1,
-          "y": 105,
+          "y": 157,
           "w": 166,
           "h": 48
         },
@@ -19707,7 +19707,7 @@
       "lottery_rank_label_5.png": {
         "frame": {
           "x": 171,
-          "y": 105,
+          "y": 157,
           "w": 166,
           "h": 48
         },
@@ -19716,7 +19716,52 @@
       "lottery_rank_label_6.png": {
         "frame": {
           "x": 1,
-          "y": 157,
+          "y": 209,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_7.png": {
+        "frame": {
+          "x": 171,
+          "y": 209,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_8.png": {
+        "frame": {
+          "x": 1,
+          "y": 261,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_9.png": {
+        "frame": {
+          "x": 1,
+          "y": 313,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_10.png": {
+        "frame": {
+          "x": 1,
+          "y": 53,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_11.png": {
+        "frame": {
+          "x": 171,
+          "y": 53,
           "w": 166,
           "h": 48
         },
@@ -19725,7 +19770,16 @@
       "lottery_rank_label_99.png": {
         "frame": {
           "x": 171,
-          "y": 157,
+          "y": 261,
+          "w": 166,
+          "h": 48
+        },
+        "rotated": false
+      },
+      "lottery_rank_label_9999.png": {
+        "frame": {
+          "x": 171,
+          "y": 313,
           "w": 166,
           "h": 48
         },
@@ -19733,8 +19787,8 @@
       },
       "lottery_result_list_base.png": {
         "frame": {
-          "x": 1,
-          "y": 209,
+          "x": 341,
+          "y": 1,
           "w": 23,
           "h": 26
         },
@@ -57867,5 +57921,205 @@
     "url": "/assets/0171e5af78b7d00b922ca59cd6842b313b191eb551638f338cbcb0165d5f2060?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/87/001": {
+    "name": "images/tips/game_event/87/001",
+    "ext": ".jpg",
+    "url": "/assets/8c0f2e13411a4b47ba136a46b6e7d93248628bb60ce9d83894d432d73c2f24f6?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/87/002": {
+    "name": "images/tips/game_event/87/002",
+    "ext": ".jpg",
+    "url": "/assets/fbc6cd7fcbe74683cf245a442a8cfc7f727f7d1e9b58aefe65a4f6007319dc6a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/87/003": {
+    "name": "images/tips/game_event/87/003",
+    "ext": ".jpg",
+    "url": "/assets/ccbf4f4bcd3678ae01431cfb01b6597f74d4dd1c5ccc4bf7564580aac0eb437a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/ui/special_announce/parts_lottery": {
+    "name": "images/ui/special_announce/parts_lottery",
+    "ext": ".png",
+    "url": "/assets/c7509c2938b16c95a5f2adf963817998c747c80fbab210d8fe53b6b2add6b508?v=1",
+    "v": 1,
+    "frames": {
+      "lottery_contents_base.png": {
+        "frame": {
+          "x": 205,
+          "y": 94,
+          "w": 23,
+          "h": 23
+        },
+        "rotated": false
+      },
+      "lottery_list_banner.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 238,
+          "h": 52
+        },
+        "rotated": false
+      },
+      "lottery_list_inner.png": {
+        "frame": {
+          "x": 205,
+          "y": 57,
+          "w": 33,
+          "h": 33
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_1.png": {
+        "frame": {
+          "x": 243,
+          "y": 1,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_2.png": {
+        "frame": {
+          "x": 1,
+          "y": 181,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_3.png": {
+        "frame": {
+          "x": 1,
+          "y": 241,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_4.png": {
+        "frame": {
+          "x": 61,
+          "y": 181,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_5.png": {
+        "frame": {
+          "x": 61,
+          "y": 241,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_6.png": {
+        "frame": {
+          "x": 121,
+          "y": 133,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_7.png": {
+        "frame": {
+          "x": 121,
+          "y": 193,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_8.png": {
+        "frame": {
+          "x": 181,
+          "y": 181,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_9.png": {
+        "frame": {
+          "x": 181,
+          "y": 241,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_10.png": {
+        "frame": {
+          "x": 242,
+          "y": 61,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_11.png": {
+        "frame": {
+          "x": 201,
+          "y": 121,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_99.png": {
+        "frame": {
+          "x": 241,
+          "y": 181,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_rank_icon_9999.png": {
+        "frame": {
+          "x": 241,
+          "y": 241,
+          "w": 56,
+          "h": 56
+        },
+        "rotated": false
+      },
+      "lottery_ticket_icon.png": {
+        "frame": {
+          "x": 1,
+          "y": 133,
+          "w": 50,
+          "h": 34
+        },
+        "rotated": false
+      },
+      "lottery_ticket_num_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 99,
+          "w": 196,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "present_detail_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 57,
+          "w": 200,
+          "h": 38
+        },
+        "rotated": false
+      }
+    }
   }
 }
