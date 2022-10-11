@@ -40738,13 +40738,13 @@
   "images/ui/produce_area/parts": {
     "name": "images/ui/produce_area/parts",
     "ext": ".png",
-    "url": "/assets/53a946d836b317145b3e9c205ebbf3d788a4165a26d74dcd4cfa48d03880e911?v=11",
-    "v": 11,
+    "url": "/assets/53a946d836b317145b3e9c205ebbf3d788a4165a26d74dcd4cfa48d03880e911?v=12",
+    "v": 12,
     "frames": {
       "area_arrow_down.png": {
         "frame": {
           "x": 1082,
-          "y": 129,
+          "y": 1,
           "w": 69,
           "h": 54
         },
@@ -40753,7 +40753,7 @@
       "area_arrow_up.png": {
         "frame": {
           "x": 1082,
-          "y": 187,
+          "y": 59,
           "w": 69,
           "h": 54
         },
@@ -40761,17 +40761,26 @@
       },
       "area_label_fifth.png": {
         "frame": {
-          "x": 596,
-          "y": 695,
+          "x": 736,
+          "y": 490,
           "w": 172,
           "h": 34
         },
         "rotated": false
       },
+      "area_label_pcup_exclusion.png": {
+        "frame": {
+          "x": 525,
+          "y": 899,
+          "w": 528,
+          "h": 30
+        },
+        "rotated": false
+      },
       "area_lock_big.png": {
         "frame": {
-          "x": 1,
-          "y": 1005,
+          "x": 736,
+          "y": 89,
           "w": 107,
           "h": 121
         },
@@ -40788,8 +40797,8 @@
       },
       "btn_produce_area_tips.png": {
         "frame": {
-          "x": 736,
-          "y": 317,
+          "x": 525,
+          "y": 933,
           "w": 228,
           "h": 38
         },
@@ -40798,7 +40807,7 @@
       "fortune_friend_ship_balloon.png": {
         "frame": {
           "x": 736,
-          "y": 217,
+          "y": 240,
           "w": 270,
           "h": 46
         },
@@ -40807,7 +40816,7 @@
       "fortune_friend_ship_balloon_mask.png": {
         "frame": {
           "x": 736,
-          "y": 267,
+          "y": 290,
           "w": 270,
           "h": 46
         },
@@ -40815,8 +40824,8 @@
       },
       "growth_info_button.png": {
         "frame": {
-          "x": 1010,
-          "y": 245,
+          "x": 1027,
+          "y": 117,
           "w": 148,
           "h": 70
         },
@@ -40824,8 +40833,8 @@
       },
       "main_button_lock.png": {
         "frame": {
-          "x": 1,
-          "y": 671,
+          "x": 533,
+          "y": 691,
           "w": 591,
           "h": 204
         },
@@ -40833,8 +40842,8 @@
       },
       "movie_01_button.png": {
         "frame": {
-          "x": 736,
-          "y": 359,
+          "x": 757,
+          "y": 933,
           "w": 228,
           "h": 38
         },
@@ -40842,8 +40851,8 @@
       },
       "movie_02_button.png": {
         "frame": {
-          "x": 736,
-          "y": 401,
+          "x": 525,
+          "y": 975,
           "w": 228,
           "h": 38
         },
@@ -40851,8 +40860,8 @@
       },
       "movie_03_button.png": {
         "frame": {
-          "x": 736,
-          "y": 443,
+          "x": 757,
+          "y": 975,
           "w": 228,
           "h": 38
         },
@@ -40860,8 +40869,8 @@
       },
       "movie_04_button.png": {
         "frame": {
-          "x": 736,
-          "y": 485,
+          "x": 1,
+          "y": 997,
           "w": 228,
           "h": 38
         },
@@ -40869,8 +40878,8 @@
       },
       "movie_05_button.png": {
         "frame": {
-          "x": 736,
-          "y": 527,
+          "x": 233,
+          "y": 997,
           "w": 228,
           "h": 38
         },
@@ -40878,8 +40887,8 @@
       },
       "movie_06_button.png": {
         "frame": {
-          "x": 736,
-          "y": 569,
+          "x": 1,
+          "y": 1039,
           "w": 228,
           "h": 38
         },
@@ -40887,8 +40896,8 @@
       },
       "movie_07_button.png": {
         "frame": {
-          "x": 736,
-          "y": 611,
+          "x": 233,
+          "y": 1039,
           "w": 228,
           "h": 38
         },
@@ -40896,8 +40905,8 @@
       },
       "movie_08_button.png": {
         "frame": {
-          "x": 665,
-          "y": 653,
+          "x": 465,
+          "y": 1057,
           "w": 228,
           "h": 38
         },
@@ -40905,8 +40914,8 @@
       },
       "movie_09_button.png": {
         "frame": {
-          "x": 897,
-          "y": 693,
+          "x": 1,
+          "y": 1081,
           "w": 228,
           "h": 38
         },
@@ -40914,8 +40923,8 @@
       },
       "movie_10_button.png": {
         "frame": {
-          "x": 1,
-          "y": 1130,
+          "x": 233,
+          "y": 1081,
           "w": 228,
           "h": 38
         },
@@ -40923,8 +40932,8 @@
       },
       "movie_11_button.png": {
         "frame": {
-          "x": 112,
-          "y": 1080,
+          "x": 465,
+          "y": 1099,
           "w": 228,
           "h": 38
         },
@@ -40932,8 +40941,8 @@
       },
       "movie_12_button.png": {
         "frame": {
-          "x": 233,
-          "y": 1122,
+          "x": 1,
+          "y": 1123,
           "w": 228,
           "h": 38
         },
@@ -40941,8 +40950,8 @@
       },
       "movie_13_button.png": {
         "frame": {
-          "x": 344,
-          "y": 1080,
+          "x": 233,
+          "y": 1123,
           "w": 228,
           "h": 38
         },
@@ -40951,7 +40960,7 @@
       "movie_14_button.png": {
         "frame": {
           "x": 465,
-          "y": 1122,
+          "y": 1141,
           "w": 228,
           "h": 38
         },
@@ -40959,8 +40968,8 @@
       },
       "movie_15_button.png": {
         "frame": {
-          "x": 576,
-          "y": 1080,
+          "x": 697,
+          "y": 1057,
           "w": 228,
           "h": 38
         },
@@ -40968,8 +40977,8 @@
       },
       "movie_16_button.png": {
         "frame": {
-          "x": 697,
-          "y": 1122,
+          "x": 929,
+          "y": 1057,
           "w": 228,
           "h": 38
         },
@@ -40977,8 +40986,8 @@
       },
       "movie_17_button.png": {
         "frame": {
-          "x": 929,
-          "y": 975,
+          "x": 697,
+          "y": 1099,
           "w": 228,
           "h": 38
         },
@@ -40986,8 +40995,8 @@
       },
       "movie_18_button.png": {
         "frame": {
-          "x": 929,
-          "y": 1017,
+          "x": 697,
+          "y": 1141,
           "w": 228,
           "h": 38
         },
@@ -40996,7 +41005,7 @@
       "movie_19_button.png": {
         "frame": {
           "x": 929,
-          "y": 1059,
+          "y": 1099,
           "w": 228,
           "h": 38
         },
@@ -41005,7 +41014,7 @@
       "movie_20_button.png": {
         "frame": {
           "x": 929,
-          "y": 1101,
+          "y": 1141,
           "w": 228,
           "h": 38
         },
@@ -41013,8 +41022,8 @@
       },
       "music_info_button.png": {
         "frame": {
-          "x": 1000,
-          "y": 319,
+          "x": 1027,
+          "y": 191,
           "w": 148,
           "h": 70
         },
@@ -41023,7 +41032,7 @@
       "other_button_lock.png": {
         "frame": {
           "x": 1,
-          "y": 879,
+          "y": 871,
           "w": 520,
           "h": 122
         },
@@ -41031,8 +41040,8 @@
       },
       "produce_mode_beginner_button_off.png": {
         "frame": {
-          "x": 472,
-          "y": 1005,
+          "x": 916,
+          "y": 488,
           "w": 175,
           "h": 71
         },
@@ -41040,8 +41049,8 @@
       },
       "produce_mode_beginner_button_on.png": {
         "frame": {
-          "x": 968,
-          "y": 543,
+          "x": 847,
+          "y": 165,
           "w": 176,
           "h": 71
         },
@@ -41050,7 +41059,7 @@
       "produce_mode_lock.png": {
         "frame": {
           "x": 736,
-          "y": 129,
+          "y": 1,
           "w": 342,
           "h": 84
         },
@@ -41058,8 +41067,8 @@
       },
       "produce_mode_master_button_off.png": {
         "frame": {
-          "x": 968,
-          "y": 618,
+          "x": 736,
+          "y": 340,
           "w": 176,
           "h": 71
         },
@@ -41067,8 +41076,8 @@
       },
       "produce_mode_master_button_on.png": {
         "frame": {
-          "x": 112,
-          "y": 1005,
+          "x": 916,
+          "y": 413,
           "w": 176,
           "h": 71
         },
@@ -41076,8 +41085,8 @@
       },
       "produce_mode_middle_button_off.png": {
         "frame": {
-          "x": 968,
-          "y": 467,
+          "x": 847,
+          "y": 89,
           "w": 176,
           "h": 72
         },
@@ -41085,8 +41094,8 @@
       },
       "produce_mode_middle_button_on.png": {
         "frame": {
-          "x": 292,
-          "y": 1005,
+          "x": 736,
+          "y": 415,
           "w": 176,
           "h": 71
         },
@@ -41095,7 +41104,7 @@
       "produce_teaching_hint_select_off_button.png": {
         "frame": {
           "x": 736,
-          "y": 1,
+          "y": 563,
           "w": 428,
           "h": 60
         },
@@ -41104,7 +41113,7 @@
       "produce_teaching_hint_select_on_button.png": {
         "frame": {
           "x": 736,
-          "y": 65,
+          "y": 627,
           "w": 428,
           "h": 60
         },
@@ -41112,8 +41121,8 @@
       },
       "produce_teaching_hint_setting_button_off.png": {
         "frame": {
-          "x": 1000,
-          "y": 393,
+          "x": 1010,
+          "y": 265,
           "w": 148,
           "h": 70
         },
@@ -41121,8 +41130,8 @@
       },
       "produce_teaching_hint_setting_button_on.png": {
         "frame": {
-          "x": 651,
-          "y": 975,
+          "x": 1010,
+          "y": 339,
           "w": 148,
           "h": 70
         },
@@ -41130,8 +41139,8 @@
       },
       "tips_arrow_next.png": {
         "frame": {
-          "x": 968,
-          "y": 317,
+          "x": 1155,
+          "y": 1,
           "w": 28,
           "h": 35
         },
@@ -41139,8 +41148,8 @@
       },
       "tips_arrow_prev.png": {
         "frame": {
-          "x": 968,
-          "y": 356,
+          "x": 1155,
+          "y": 40,
           "w": 28,
           "h": 35
         },
@@ -41148,8 +41157,8 @@
       },
       "title_base.png": {
         "frame": {
-          "x": 596,
-          "y": 735,
+          "x": 1,
+          "y": 631,
           "w": 528,
           "h": 236
         },
@@ -41157,8 +41166,8 @@
       },
       "topic_path_base.png": {
         "frame": {
-          "x": 1,
-          "y": 631,
+          "x": 465,
+          "y": 1017,
           "w": 660,
           "h": 36
         },
@@ -46460,12 +46469,12 @@
   "images/ui/gasha/parts_unit_select": {
     "name": "images/ui/gasha/parts_unit_select",
     "ext": ".png",
-    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=2",
-    "v": 2,
+    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=3",
+    "v": 3,
     "frames": {
       "gasha_unit_change_button.png": {
         "frame": {
-          "x": 265,
+          "x": 285,
           "y": 73,
           "w": 128,
           "h": 54
@@ -46474,7 +46483,7 @@
       },
       "gasha_unit_select_button.png": {
         "frame": {
-          "x": 265,
+          "x": 285,
           "y": 131,
           "w": 128,
           "h": 54
@@ -46510,19 +46519,19 @@
       },
       "unit_select_off_button.png": {
         "frame": {
-          "x": 1,
-          "y": 113,
+          "x": 153,
+          "y": 73,
           "w": 128,
-          "h": 70
+          "h": 62
         },
         "rotated": false
       },
       "unit_select_on_button.png": {
         "frame": {
-          "x": 133,
+          "x": 1,
           "y": 113,
           "w": 128,
-          "h": 70
+          "h": 62
         },
         "rotated": false
       }
@@ -58121,5 +58130,75 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/30019/001": {
+    "name": "images/tips/game_event/30019/001",
+    "ext": ".jpg",
+    "url": "/assets/34f4892f68cfb47eb1c829ab4db1a4808f7328667a18b8b1119db0c1382179d4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30019/002": {
+    "name": "images/tips/game_event/30019/002",
+    "ext": ".jpg",
+    "url": "/assets/ef2407a6f84262e9d745386efdebffac07de1b72159c493a4790e4b140a5c83b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30019/003": {
+    "name": "images/tips/game_event/30019/003",
+    "ext": ".jpg",
+    "url": "/assets/898bd884eed55037292747142c1bf291001bc3c90c4fd3f4fa918e4eae2ea5cb?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30019/006": {
+    "name": "images/tips/game_event/30019/006",
+    "ext": ".jpg",
+    "url": "/assets/ec687dca8a066f8ce84d23cfc2982a86da8b39b898862b6595777a0c4f65a775?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30019/009": {
+    "name": "images/tips/game_event/30019/009",
+    "ext": ".jpg",
+    "url": "/assets/5d6e7b988306a5a898a5c3c1287b3125ca551dd480032ef9de6ef0056e34f63f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40009/001": {
+    "name": "images/tips/game_event/40009/001",
+    "ext": ".jpg",
+    "url": "/assets/54d6821811048db714fb75140936b77b15ab76164a425582b1dc9feea776ba4f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40009/002": {
+    "name": "images/tips/game_event/40009/002",
+    "ext": ".jpg",
+    "url": "/assets/89a46f049a7ff1bdd73d2d4b4c2e9b6ffe45a7d45f9813331eacc981842b2f85?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40009/003": {
+    "name": "images/tips/game_event/40009/003",
+    "ext": ".jpg",
+    "url": "/assets/6e1e0157a762e2a8d509891b906d1a48854a6518d1a756132d0bcae6bb65cfac?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40009/004": {
+    "name": "images/tips/game_event/40009/004",
+    "ext": ".jpg",
+    "url": "/assets/e63eb465338b1237dc216cab3f3eb9da19d46079cf360980ae144defd425b994?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40009/005": {
+    "name": "images/tips/game_event/40009/005",
+    "ext": ".jpg",
+    "url": "/assets/5b02e7959870561756f02c63a3ada446c516dd920d0ad10ba8874bd04688cfa7?v=1",
+    "v": 1,
+    "frames": null
   }
 }
