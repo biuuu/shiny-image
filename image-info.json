@@ -31758,8 +31758,8 @@
   "images/ui/gasha/parts": {
     "name": "images/ui/gasha/parts",
     "ext": ".png",
-    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=20",
-    "v": 20,
+    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=21",
+    "v": 21,
     "frames": {
       "act_on_settlement_long_button.png": {
         "frame": {
@@ -58198,6 +58198,41 @@
     "name": "images/tips/game_event/40009/005",
     "ext": ".jpg",
     "url": "/assets/5b02e7959870561756f02c63a3ada446c516dd920d0ad10ba8874bd04688cfa7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70007/001": {
+    "name": "images/tips/game_event/70007/001",
+    "ext": ".jpg",
+    "url": "/assets/a911092afbb1de1bba43f11a8242bce60f9b8e537bf940945b0b1aabe26c67a1?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70007/002": {
+    "name": "images/tips/game_event/70007/002",
+    "ext": ".jpg",
+    "url": "/assets/a21ce4ae57e8eba57f52a651e0b700920faec18c4d1d6d0f50e061d8b1f5f408?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/88/001": {
+    "name": "images/tips/game_event/88/001",
+    "ext": ".jpg",
+    "url": "/assets/e220e850391ff4c38e7bbeb6afa1b6a1e1af5540c92a98a6dc8f49501a4f2a16?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/88/002": {
+    "name": "images/tips/game_event/88/002",
+    "ext": ".jpg",
+    "url": "/assets/d5b97f96fe44a338e7b01b8f30bdd18718ceb66b5a4d09897da0470e23b1ab7f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/88/003": {
+    "name": "images/tips/game_event/88/003",
+    "ext": ".jpg",
+    "url": "/assets/ace5687050318f366d0811d94be9531e24f47b3c3bd6115f38838e1fc3e15a7e?v=1",
     "v": 1,
     "frames": null
   }
