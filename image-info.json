@@ -34073,8 +34073,8 @@
   "images/ui/option/parts": {
     "name": "images/ui/option/parts",
     "ext": ".png",
-    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=24",
-    "v": 24,
+    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=25",
+    "v": 25,
     "frames": {
       "bar_base.png": {
         "frame": {
@@ -34150,7 +34150,7 @@
       },
       "btn_enter_setting.png": {
         "frame": {
-          "x": 633,
+          "x": 791,
           "y": 804,
           "w": 148,
           "h": 70
@@ -34168,8 +34168,8 @@
       },
       "btn_festours_on.png": {
         "frame": {
-          "x": 633,
-          "y": 878,
+          "x": 475,
+          "y": 907,
           "w": 148,
           "h": 60
         },
@@ -34177,7 +34177,7 @@
       },
       "btn_home_setting.png": {
         "frame": {
-          "x": 475,
+          "x": 627,
           "y": 907,
           "w": 148,
           "h": 60
@@ -34186,8 +34186,8 @@
       },
       "btn_home_setting_on.png": {
         "frame": {
-          "x": 785,
-          "y": 878,
+          "x": 779,
+          "y": 952,
           "w": 148,
           "h": 60
         },
@@ -34213,8 +34213,8 @@
       },
       "btn_push_notification.png": {
         "frame": {
-          "x": 627,
-          "y": 942,
+          "x": 869,
+          "y": 1,
           "w": 148,
           "h": 60
         },
@@ -34222,8 +34222,8 @@
       },
       "btn_push_notification_on.png": {
         "frame": {
-          "x": 779,
-          "y": 942,
+          "x": 869,
+          "y": 65,
           "w": 148,
           "h": 60
         },
@@ -34250,7 +34250,7 @@
       "btn_sound_setting.png": {
         "frame": {
           "x": 869,
-          "y": 1,
+          "y": 129,
           "w": 148,
           "h": 60
         },
@@ -34259,7 +34259,7 @@
       "btn_sound_setting_on.png": {
         "frame": {
           "x": 869,
-          "y": 65,
+          "y": 193,
           "w": 148,
           "h": 60
         },
@@ -34268,7 +34268,7 @@
       "btn_twitter_profile.png": {
         "frame": {
           "x": 869,
-          "y": 129,
+          "y": 257,
           "w": 148,
           "h": 60
         },
@@ -34277,7 +34277,7 @@
       "btn_twitter_profile_on.png": {
         "frame": {
           "x": 869,
-          "y": 193,
+          "y": 321,
           "w": 148,
           "h": 60
         },
@@ -34303,8 +34303,8 @@
       },
       "favorite_idol_change_button.png": {
         "frame": {
-          "x": 785,
-          "y": 804,
+          "x": 791,
+          "y": 878,
           "w": 148,
           "h": 70
         },
@@ -34331,7 +34331,7 @@
       "help_button.png": {
         "frame": {
           "x": 869,
-          "y": 257,
+          "y": 385,
           "w": 148,
           "h": 50
         },
@@ -34445,7 +34445,7 @@
         },
         "rotated": false
       },
-      "icon_present_panel_skip.png": {
+      "icon_prank_2022.png": {
         "frame": {
           "x": 633,
           "y": 701,
@@ -34454,7 +34454,7 @@
         },
         "rotated": false
       },
-      "icon_recovery_panel_skip.png": {
+      "icon_present_panel_skip.png": {
         "frame": {
           "x": 791,
           "y": 701,
@@ -34463,7 +34463,7 @@
         },
         "rotated": false
       },
-      "icon_rest_confirm.png": {
+      "icon_recovery_panel_skip.png": {
         "frame": {
           "x": 475,
           "y": 804,
@@ -34472,7 +34472,7 @@
         },
         "rotated": false
       },
-      "icon_tension_panel_skip.png": {
+      "icon_rest_confirm.png": {
         "frame": {
           "x": 159,
           "y": 819,
@@ -34481,10 +34481,19 @@
         },
         "rotated": false
       },
-      "icon_touch.png": {
+      "icon_tension_panel_skip.png": {
         "frame": {
           "x": 317,
           "y": 819,
+          "w": 154,
+          "h": 99
+        },
+        "rotated": false
+      },
+      "icon_touch.png": {
+        "frame": {
+          "x": 633,
+          "y": 804,
           "w": 154,
           "h": 99
         },
@@ -58233,6 +58242,27 @@
     "name": "images/tips/game_event/88/003",
     "ext": ".jpg",
     "url": "/assets/ace5687050318f366d0811d94be9531e24f47b3c3bd6115f38838e1fc3e15a7e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/89/001": {
+    "name": "images/tips/game_event/89/001",
+    "ext": ".jpg",
+    "url": "/assets/c15009b11f01f63e4d47b8ac22e04dd29d5c54cfbcaa1c5e4e5c1130f5f66887?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/89/002": {
+    "name": "images/tips/game_event/89/002",
+    "ext": ".jpg",
+    "url": "/assets/a866e6313c950d50ff97c27866d9cdc0778be9f273a767215b83800c7c27452e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/89/003": {
+    "name": "images/tips/game_event/89/003",
+    "ext": ".jpg",
+    "url": "/assets/f5b6434aaee631ae4bbc0342307eacca8f661d8d57c59a46a556ca726131704f?v=1",
     "v": 1,
     "frames": null
   }
