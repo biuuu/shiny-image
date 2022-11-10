@@ -31758,13 +31758,13 @@
   "images/ui/gasha/parts": {
     "name": "images/ui/gasha/parts",
     "ext": ".png",
-    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=21",
-    "v": 21,
+    "url": "/assets/0369993d697bb1b162ae2d8229960eb25405da4ee7d7285658635b686fd0fdb3?v=22",
+    "v": 22,
     "frames": {
       "act_on_settlement_long_button.png": {
         "frame": {
-          "x": 676,
-          "y": 453,
+          "x": 516,
+          "y": 966,
           "w": 146,
           "h": 38
         },
@@ -31772,8 +31772,8 @@
       },
       "act_on_settlement_short_button.png": {
         "frame": {
-          "x": 795,
-          "y": 548,
+          "x": 917,
+          "y": 1,
           "w": 110,
           "h": 38
         },
@@ -31781,8 +31781,8 @@
       },
       "all_gasha_off.png": {
         "frame": {
-          "x": 917,
-          "y": 1,
+          "x": 941,
+          "y": 330,
           "w": 86,
           "h": 44
         },
@@ -31790,8 +31790,8 @@
       },
       "all_gasha_on.png": {
         "frame": {
-          "x": 917,
-          "y": 49,
+          "x": 787,
+          "y": 584,
           "w": 86,
           "h": 44
         },
@@ -31799,8 +31799,8 @@
       },
       "banner_base.png": {
         "frame": {
-          "x": 971,
-          "y": 949,
+          "x": 945,
+          "y": 656,
           "w": 29,
           "h": 29
         },
@@ -31808,8 +31808,8 @@
       },
       "base_deadline.png": {
         "frame": {
-          "x": 779,
-          "y": 691,
+          "x": 938,
+          "y": 470,
           "w": 76,
           "h": 24
         },
@@ -31817,8 +31817,8 @@
       },
       "base_required_ticket_num.png": {
         "frame": {
-          "x": 881,
-          "y": 694,
+          "x": 865,
+          "y": 656,
           "w": 76,
           "h": 24
         },
@@ -31826,8 +31826,8 @@
       },
       "beginner_gasha_off.png": {
         "frame": {
-          "x": 929,
-          "y": 331,
+          "x": 775,
+          "y": 667,
           "w": 86,
           "h": 44
         },
@@ -31835,8 +31835,8 @@
       },
       "beginner_gasha_on.png": {
         "frame": {
-          "x": 824,
-          "y": 500,
+          "x": 775,
+          "y": 715,
           "w": 86,
           "h": 44
         },
@@ -31853,8 +31853,8 @@
       },
       "buy_button.png": {
         "frame": {
-          "x": 826,
-          "y": 460,
+          "x": 761,
+          "y": 763,
           "w": 84,
           "h": 36
         },
@@ -31880,8 +31880,8 @@
       },
       "commu_read_trial_button.png": {
         "frame": {
-          "x": 211,
-          "y": 971,
+          "x": 363,
+          "y": 897,
           "w": 152,
           "h": 52
         },
@@ -31898,8 +31898,8 @@
       },
       "costume_info_button.png": {
         "frame": {
-          "x": 635,
-          "y": 719,
+          "x": 212,
+          "y": 956,
           "w": 148,
           "h": 38
         },
@@ -31907,8 +31907,8 @@
       },
       "diamond_l.png": {
         "frame": {
-          "x": 971,
-          "y": 982,
+          "x": 780,
+          "y": 1000,
           "w": 25,
           "h": 25
         },
@@ -31925,8 +31925,8 @@
       },
       "free_gift_button.png": {
         "frame": {
-          "x": 915,
-          "y": 379,
+          "x": 917,
+          "y": 43,
           "w": 108,
           "h": 38
         },
@@ -31934,8 +31934,8 @@
       },
       "free_gift_count_balloon.png": {
         "frame": {
-          "x": 507,
-          "y": 966,
+          "x": 676,
+          "y": 453,
           "w": 140,
           "h": 53
         },
@@ -31943,8 +31943,8 @@
       },
       "free_gift_done_balloon.png": {
         "frame": {
-          "x": 659,
-          "y": 839,
+          "x": 623,
+          "y": 629,
           "w": 140,
           "h": 46
         },
@@ -31961,8 +31961,8 @@
       },
       "gasha_billed_jewel_base.png": {
         "frame": {
-          "x": 961,
-          "y": 695,
+          "x": 853,
+          "y": 95,
           "w": 60,
           "h": 24
         },
@@ -31979,8 +31979,8 @@
       },
       "gasha_button_jewely_icon.png": {
         "frame": {
-          "x": 997,
-          "y": 139,
+          "x": 996,
+          "y": 532,
           "w": 22,
           "h": 21
         },
@@ -31988,8 +31988,8 @@
       },
       "gasha_button_limited_billed_jewel_text.png": {
         "frame": {
-          "x": 667,
-          "y": 889,
+          "x": 659,
+          "y": 829,
           "w": 122,
           "h": 60
         },
@@ -31997,8 +31997,8 @@
       },
       "gasha_button_num_base.png": {
         "frame": {
-          "x": 787,
-          "y": 632,
+          "x": 797,
+          "y": 426,
           "w": 112,
           "h": 22
         },
@@ -32006,8 +32006,8 @@
       },
       "gasha_button_txt_done.png": {
         "frame": {
-          "x": 363,
-          "y": 897,
+          "x": 623,
+          "y": 574,
           "w": 160,
           "h": 51
         },
@@ -32015,8 +32015,8 @@
       },
       "gasha_button_txt_time_over.png": {
         "frame": {
-          "x": 797,
-          "y": 377,
+          "x": 820,
+          "y": 452,
           "w": 114,
           "h": 53
         },
@@ -32043,7 +32043,7 @@
       "gasha_costume_text.png": {
         "frame": {
           "x": 621,
-          "y": 524,
+          "y": 539,
           "w": 168,
           "h": 31
         },
@@ -32051,8 +32051,8 @@
       },
       "gasha_detail_button.png": {
         "frame": {
-          "x": 915,
-          "y": 421,
+          "x": 917,
+          "y": 85,
           "w": 108,
           "h": 38
         },
@@ -32060,8 +32060,8 @@
       },
       "gasha_free_jewel_base.png": {
         "frame": {
-          "x": 960,
-          "y": 723,
+          "x": 873,
+          "y": 824,
           "w": 60,
           "h": 24
         },
@@ -32069,7 +32069,7 @@
       },
       "gasha_info_button.png": {
         "frame": {
-          "x": 667,
+          "x": 364,
           "y": 953,
           "w": 148,
           "h": 38
@@ -32078,8 +32078,8 @@
       },
       "gasha_label_balloon.png": {
         "frame": {
-          "x": 914,
-          "y": 527,
+          "x": 761,
+          "y": 803,
           "w": 96,
           "h": 22
         },
@@ -32096,8 +32096,8 @@
       },
       "gasha_list_arrow.png": {
         "frame": {
-          "x": 803,
-          "y": 838,
+          "x": 946,
+          "y": 498,
           "w": 46,
           "h": 55
         },
@@ -32114,8 +32114,8 @@
       },
       "gasha_pickup_ssr_text.png": {
         "frame": {
-          "x": 623,
-          "y": 594,
+          "x": 211,
+          "y": 998,
           "w": 168,
           "h": 30
         },
@@ -32123,8 +32123,8 @@
       },
       "gasha_sr_text.png": {
         "frame": {
-          "x": 623,
-          "y": 559,
+          "x": 853,
+          "y": 127,
           "w": 168,
           "h": 31
         },
@@ -32142,7 +32142,7 @@
       "idol_info_button.png": {
         "frame": {
           "x": 853,
-          "y": 97,
+          "y": 196,
           "w": 148,
           "h": 38
         },
@@ -32150,8 +32150,8 @@
       },
       "jewel_base.png": {
         "frame": {
-          "x": 623,
-          "y": 628,
+          "x": 853,
+          "y": 162,
           "w": 160,
           "h": 30
         },
@@ -32159,8 +32159,8 @@
       },
       "jewel_icon.png": {
         "frame": {
-          "x": 976,
-          "y": 661,
+          "x": 996,
+          "y": 498,
           "w": 30,
           "h": 30
         },
@@ -32168,8 +32168,8 @@
       },
       "jewel_plus_button.png": {
         "frame": {
-          "x": 793,
-          "y": 897,
+          "x": 905,
+          "y": 935,
           "w": 42,
           "h": 42
         },
@@ -32177,8 +32177,8 @@
       },
       "jewel_sale_badge.png": {
         "frame": {
-          "x": 960,
-          "y": 785,
+          "x": 978,
+          "y": 649,
           "w": 50,
           "h": 20
         },
@@ -32186,8 +32186,8 @@
       },
       "jewel_set_badge.png": {
         "frame": {
-          "x": 881,
-          "y": 722,
+          "x": 865,
+          "y": 684,
           "w": 75,
           "h": 22
         },
@@ -32195,8 +32195,8 @@
       },
       "kuji_balloon.png": {
         "frame": {
-          "x": 853,
-          "y": 139,
+          "x": 666,
+          "y": 950,
           "w": 140,
           "h": 46
         },
@@ -32204,8 +32204,8 @@
       },
       "left_arrow.png": {
         "frame": {
-          "x": 853,
-          "y": 820,
+          "x": 972,
+          "y": 590,
           "w": 39,
           "h": 55
         },
@@ -32222,8 +32222,8 @@
       },
       "limited_count_balloon.png": {
         "frame": {
-          "x": 635,
-          "y": 662,
+          "x": 659,
+          "y": 893,
           "w": 140,
           "h": 53
         },
@@ -32232,7 +32232,7 @@
       "limited_text.png": {
         "frame": {
           "x": 644,
-          "y": 761,
+          "y": 751,
           "w": 113,
           "h": 74
         },
@@ -32240,8 +32240,8 @@
       },
       "live_costume.png": {
         "frame": {
-          "x": 826,
-          "y": 434,
+          "x": 941,
+          "y": 378,
           "w": 85,
           "h": 22
         },
@@ -32249,8 +32249,8 @@
       },
       "num_base.png": {
         "frame": {
-          "x": 914,
-          "y": 496,
+          "x": 668,
+          "y": 1000,
           "w": 108,
           "h": 27
         },
@@ -32258,8 +32258,8 @@
       },
       "omake_done_balloon.png": {
         "frame": {
-          "x": 761,
-          "y": 818,
+          "x": 865,
+          "y": 760,
           "w": 78,
           "h": 16
         },
@@ -32268,7 +32268,7 @@
       "one_time_only_balloon.png": {
         "frame": {
           "x": 853,
-          "y": 189,
+          "y": 238,
           "w": 140,
           "h": 46
         },
@@ -32276,8 +32276,8 @@
       },
       "p_fes_movie_off_center.png": {
         "frame": {
-          "x": 839,
-          "y": 925,
+          "x": 803,
+          "y": 926,
           "w": 72,
           "h": 20
         },
@@ -32285,8 +32285,8 @@
       },
       "p_fes_movie_on_center.png": {
         "frame": {
-          "x": 819,
-          "y": 949,
+          "x": 865,
+          "y": 736,
           "w": 72,
           "h": 20
         },
@@ -32303,8 +32303,8 @@
       },
       "p_idol_movie_off_center.png": {
         "frame": {
-          "x": 819,
-          "y": 973,
+          "x": 861,
+          "y": 800,
           "w": 72,
           "h": 20
         },
@@ -32312,8 +32312,8 @@
       },
       "p_idol_movie_off_left.png": {
         "frame": {
-          "x": 882,
-          "y": 748,
+          "x": 590,
+          "y": 1008,
           "w": 74,
           "h": 20
         },
@@ -32321,8 +32321,8 @@
       },
       "p_idol_movie_on_center.png": {
         "frame": {
-          "x": 819,
-          "y": 997,
+          "x": 873,
+          "y": 852,
           "w": 72,
           "h": 20
         },
@@ -32330,8 +32330,8 @@
       },
       "p_idol_movie_on_left.png": {
         "frame": {
-          "x": 882,
-          "y": 772,
+          "x": 785,
+          "y": 869,
           "w": 74,
           "h": 20
         },
@@ -32339,8 +32339,8 @@
       },
       "p_info_off_center.png": {
         "frame": {
-          "x": 939,
-          "y": 809,
+          "x": 944,
+          "y": 693,
           "w": 72,
           "h": 20
         },
@@ -32348,8 +32348,8 @@
       },
       "p_info_off_right.png": {
         "frame": {
-          "x": 939,
-          "y": 833,
+          "x": 941,
+          "y": 717,
           "w": 72,
           "h": 20
         },
@@ -32357,8 +32357,8 @@
       },
       "p_info_on_center.png": {
         "frame": {
-          "x": 939,
-          "y": 857,
+          "x": 947,
+          "y": 741,
           "w": 72,
           "h": 20
         },
@@ -32366,8 +32366,8 @@
       },
       "p_info_on_right.png": {
         "frame": {
-          "x": 935,
-          "y": 881,
+          "x": 947,
+          "y": 765,
           "w": 72,
           "h": 20
         },
@@ -32375,8 +32375,8 @@
       },
       "plain_clothes.png": {
         "frame": {
-          "x": 839,
-          "y": 899,
+          "x": 865,
+          "y": 710,
           "w": 71,
           "h": 22
         },
@@ -32384,8 +32384,8 @@
       },
       "press_limited_last_label.png": {
         "frame": {
-          "x": 853,
-          "y": 879,
+          "x": 849,
+          "y": 780,
           "w": 78,
           "h": 16
         },
@@ -32393,8 +32393,8 @@
       },
       "quantity_base.png": {
         "frame": {
-          "x": 856,
-          "y": 796,
+          "x": 509,
+          "y": 1008,
           "w": 77,
           "h": 20
         },
@@ -32411,8 +32411,8 @@
       },
       "right_arrow.png": {
         "frame": {
-          "x": 896,
-          "y": 820,
+          "x": 897,
+          "y": 876,
           "w": 39,
           "h": 55
         },
@@ -32420,8 +32420,8 @@
       },
       "s_illust_off_center.png": {
         "frame": {
-          "x": 915,
-          "y": 925,
+          "x": 937,
+          "y": 789,
           "w": 72,
           "h": 20
         },
@@ -32429,8 +32429,8 @@
       },
       "s_illust_on_center.png": {
         "frame": {
-          "x": 895,
-          "y": 949,
+          "x": 937,
+          "y": 813,
           "w": 72,
           "h": 20
         },
@@ -32438,8 +32438,8 @@
       },
       "s_info_off_right.png": {
         "frame": {
-          "x": 895,
-          "y": 973,
+          "x": 949,
+          "y": 837,
           "w": 72,
           "h": 20
         },
@@ -32447,8 +32447,8 @@
       },
       "s_info_on_right.png": {
         "frame": {
-          "x": 895,
-          "y": 997,
+          "x": 949,
+          "y": 861,
           "w": 72,
           "h": 20
         },
@@ -32456,8 +32456,8 @@
       },
       "sale_icon.png": {
         "frame": {
-          "x": 960,
-          "y": 751,
+          "x": 905,
+          "y": 981,
           "w": 48,
           "h": 30
         },
@@ -32465,8 +32465,8 @@
       },
       "shop_button.png": {
         "frame": {
-          "x": 917,
-          "y": 588,
+          "x": 785,
+          "y": 829,
           "w": 84,
           "h": 36
         },
@@ -32474,8 +32474,8 @@
       },
       "small_gasha_button.png": {
         "frame": {
-          "x": 367,
-          "y": 952,
+          "x": 519,
+          "y": 894,
           "w": 136,
           "h": 68
         },
@@ -32483,8 +32483,8 @@
       },
       "small_gasha_button_billing.png": {
         "frame": {
-          "x": 527,
-          "y": 894,
+          "x": 635,
+          "y": 679,
           "w": 136,
           "h": 68
         },
@@ -32493,7 +32493,7 @@
       "small_gasha_button_txt_done.png": {
         "frame": {
           "x": 797,
-          "y": 331,
+          "y": 380,
           "w": 128,
           "h": 42
         },
@@ -32501,8 +32501,8 @@
       },
       "small_jewel_sale_badge.png": {
         "frame": {
-          "x": 777,
-          "y": 995,
+          "x": 978,
+          "y": 673,
           "w": 38,
           "h": 16
         },
@@ -32510,8 +32510,8 @@
       },
       "small_jewel_set_badge.png": {
         "frame": {
-          "x": 914,
-          "y": 905,
+          "x": 940,
+          "y": 885,
           "w": 60,
           "h": 16
         },
@@ -32520,7 +32520,7 @@
       "specified_commercial_transactions_law_long_button.png": {
         "frame": {
           "x": 853,
-          "y": 289,
+          "y": 288,
           "w": 146,
           "h": 38
         },
@@ -32528,8 +32528,8 @@
       },
       "ssr_fix_ticket_balloon.png": {
         "frame": {
-          "x": 853,
-          "y": 239,
+          "x": 797,
+          "y": 330,
           "w": 140,
           "h": 46
         },
@@ -32537,8 +32537,8 @@
       },
       "stamp_card_and_num_button.png": {
         "frame": {
-          "x": 795,
-          "y": 590,
+          "x": 824,
+          "y": 509,
           "w": 118,
           "h": 38
         },
@@ -32555,8 +32555,8 @@
       },
       "text_1_round.png": {
         "frame": {
-          "x": 787,
-          "y": 719,
+          "x": 803,
+          "y": 893,
           "w": 90,
           "h": 29
         },
@@ -32564,8 +32564,8 @@
       },
       "text_2_round.png": {
         "frame": {
-          "x": 787,
-          "y": 658,
+          "x": 810,
+          "y": 950,
           "w": 91,
           "h": 29
         },
@@ -32573,8 +32573,8 @@
       },
       "text_3_round.png": {
         "frame": {
-          "x": 787,
-          "y": 752,
+          "x": 810,
+          "y": 983,
           "w": 91,
           "h": 29
         },
@@ -32582,8 +32582,8 @@
       },
       "text_4_round.png": {
         "frame": {
-          "x": 761,
-          "y": 785,
+          "x": 905,
+          "y": 557,
           "w": 91,
           "h": 29
         },
@@ -32591,8 +32591,8 @@
       },
       "text_5_round.png": {
         "frame": {
-          "x": 917,
-          "y": 628,
+          "x": 938,
+          "y": 404,
           "w": 90,
           "h": 29
         },
@@ -32600,8 +32600,8 @@
       },
       "text_6_round.png": {
         "frame": {
-          "x": 909,
-          "y": 553,
+          "x": 767,
+          "y": 632,
           "w": 92,
           "h": 31
         },
@@ -32609,17 +32609,35 @@
       },
       "text_7_round.png": {
         "frame": {
-          "x": 882,
-          "y": 661,
+          "x": 938,
+          "y": 437,
           "w": 90,
+          "h": 29
+        },
+        "rotated": false
+      },
+      "text_8_round.png": {
+        "frame": {
+          "x": 877,
+          "y": 590,
+          "w": 91,
+          "h": 29
+        },
+        "rotated": false
+      },
+      "text_9_round.png": {
+        "frame": {
+          "x": 877,
+          "y": 623,
+          "w": 91,
           "h": 29
         },
         "rotated": false
       },
       "text_10_round.png": {
         "frame": {
-          "x": 914,
-          "y": 463,
+          "x": 793,
+          "y": 551,
           "w": 108,
           "h": 29
         },
@@ -32627,7 +32645,7 @@
       },
       "text_gasha_ticket.png": {
         "frame": {
-          "x": 651,
+          "x": 383,
           "y": 995,
           "w": 122,
           "h": 25
@@ -32637,7 +32655,7 @@
       "text_jewel.png": {
         "frame": {
           "x": 621,
-          "y": 495,
+          "y": 510,
           "w": 199,
           "h": 25
         },
@@ -35294,13 +35312,85 @@
   "images/ui/character_album/parts": {
     "name": "images/ui/character_album/parts",
     "ext": ".png",
-    "url": "/assets/c4b0c541a97923fbf22c885dbe304d570ff278d11cc923f2552b358015824ece?v=6",
-    "v": 6,
+    "url": "/assets/c4b0c541a97923fbf22c885dbe304d570ff278d11cc923f2552b358015824ece?v=7",
+    "v": 7,
     "frames": {
-      "idol_album_commu_category_title_base.png": {
+      "all_off_button.png": {
+        "frame": {
+          "x": 565,
+          "y": 129,
+          "w": 122,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "all_on_button.png": {
+        "frame": {
+          "x": 560,
+          "y": 171,
+          "w": 122,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "commu_list_base.png": {
+        "frame": {
+          "x": 667,
+          "y": 238,
+          "w": 21,
+          "h": 11
+        },
+        "rotated": false
+      },
+      "commu_main_group_base_close.png": {
         "frame": {
           "x": 1,
           "y": 1,
+          "w": 688,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "commu_main_group_base_open.png": {
+        "frame": {
+          "x": 1,
+          "y": 65,
+          "w": 688,
+          "h": 60
+        },
+        "rotated": false
+      },
+      "commu_play_button_small.png": {
+        "frame": {
+          "x": 471,
+          "y": 187,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "commu_sub_group_base.png": {
+        "frame": {
+          "x": 667,
+          "y": 213,
+          "w": 21,
+          "h": 21
+        },
+        "rotated": false
+      },
+      "continuous_playback_button.png": {
+        "frame": {
+          "x": 125,
+          "y": 451,
+          "w": 118,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "idol_album_commu_category_title_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 129,
           "w": 560,
           "h": 30
         },
@@ -35309,7 +35399,7 @@
       "idol_album_costume_list_badge_lock.png": {
         "frame": {
           "x": 471,
-          "y": 35,
+          "y": 163,
           "w": 85,
           "h": 20
         },
@@ -35317,8 +35407,8 @@
       },
       "idol_album_menu_item_count_base.png": {
         "frame": {
-          "x": 153,
-          "y": 207,
+          "x": 1,
+          "y": 649,
           "w": 244,
           "h": 40
         },
@@ -35326,8 +35416,8 @@
       },
       "idol_album_tab_center_off.png": {
         "frame": {
-          "x": 305,
-          "y": 281,
+          "x": 543,
+          "y": 213,
           "w": 120,
           "h": 44
         },
@@ -35335,8 +35425,8 @@
       },
       "idol_album_tab_center_on.png": {
         "frame": {
-          "x": 429,
-          "y": 281,
+          "x": 1,
+          "y": 409,
           "w": 120,
           "h": 44
         },
@@ -35344,8 +35434,8 @@
       },
       "idol_album_tab_left_off.png": {
         "frame": {
-          "x": 153,
-          "y": 293,
+          "x": 1,
+          "y": 457,
           "w": 120,
           "h": 44
         },
@@ -35354,7 +35444,7 @@
       "idol_album_tab_left_on.png": {
         "frame": {
           "x": 1,
-          "y": 323,
+          "y": 505,
           "w": 120,
           "h": 44
         },
@@ -35363,7 +35453,7 @@
       "idol_album_tab_right_off.png": {
         "frame": {
           "x": 1,
-          "y": 371,
+          "y": 553,
           "w": 120,
           "h": 44
         },
@@ -35372,7 +35462,7 @@
       "idol_album_tab_right_on.png": {
         "frame": {
           "x": 1,
-          "y": 419,
+          "y": 601,
           "w": 120,
           "h": 44
         },
@@ -35380,8 +35470,8 @@
       },
       "play_at_home_off_button.png": {
         "frame": {
-          "x": 153,
-          "y": 251,
+          "x": 125,
+          "y": 409,
           "w": 148,
           "h": 38
         },
@@ -35389,8 +35479,8 @@
       },
       "play_at_home_on_button.png": {
         "frame": {
-          "x": 1,
-          "y": 281,
+          "x": 153,
+          "y": 335,
           "w": 148,
           "h": 38
         },
@@ -35398,8 +35488,8 @@
       },
       "play_effect_button.png": {
         "frame": {
-          "x": 1,
-          "y": 467,
+          "x": 125,
+          "y": 493,
           "w": 96,
           "h": 38
         },
@@ -35407,8 +35497,8 @@
       },
       "play_gasha_button.png": {
         "frame": {
-          "x": 1,
-          "y": 207,
+          "x": 471,
+          "y": 261,
           "w": 148,
           "h": 70
         },
@@ -35416,8 +35506,8 @@
       },
       "play_memory_button.png": {
         "frame": {
-          "x": 401,
-          "y": 207,
+          "x": 1,
+          "y": 335,
           "w": 148,
           "h": 70
         },
@@ -35425,8 +35515,8 @@
       },
       "trust_play_button.png": {
         "frame": {
-          "x": 471,
-          "y": 59,
+          "x": 507,
+          "y": 187,
           "w": 32,
           "h": 32
         },
@@ -35435,7 +35525,7 @@
       "voice_unlock_detail_use_item_base.png": {
         "frame": {
           "x": 1,
-          "y": 35,
+          "y": 163,
           "w": 466,
           "h": 168
         },
@@ -37907,8 +37997,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=61",
-    "v": 61,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=62",
+    "v": 62,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -58263,6 +58353,27 @@
     "name": "images/tips/game_event/89/003",
     "ext": ".jpg",
     "url": "/assets/f5b6434aaee631ae4bbc0342307eacca8f661d8d57c59a46a556ca726131704f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60028/001": {
+    "name": "images/tips/game_event/60028/001",
+    "ext": ".jpg",
+    "url": "/assets/403388b05fae9b24a6453bb2cbd37630339d05aa60fd98988355e0546ae7b7d3?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60028/002": {
+    "name": "images/tips/game_event/60028/002",
+    "ext": ".jpg",
+    "url": "/assets/5d7f6bb8ec855f2cd30114695c4c05beb3485847a71d2c0e0b2b44a334f83e25?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60028/003": {
+    "name": "images/tips/game_event/60028/003",
+    "ext": ".jpg",
+    "url": "/assets/5e9fcb898c8bb28ef5e6ae3ccd830dd6caef62fc5df5a401dacddaae8b98c591?v=1",
     "v": 1,
     "frames": null
   }
