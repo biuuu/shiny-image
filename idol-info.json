@@ -1439,6 +1439,18 @@
     "id": "1030240010"
   },
   {
+    "hash": "ed9c915af264907d3f4b44d08f87abe9",
+    "name": "【泣けよ洗濯機】七草 にちか",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/c83efda2f3822c5f6f39ae0b3cc7204c129301e7b6e636deb52f3ba0ca2c910a?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/83e35727c8a4cbb2be730aa2d04a4c0ab12db09767a2a00caa130ab52fcc45c8?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/c33b7a71542c5f828d48e1ea101d9396b97502239037f5a742bef5697a5dbb05?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/56743cb02b96228650ac82c66f937c17d525edbc1ead1b565247e9c5d05717ba.mp4?v=1",
+    "id": "1030240020"
+  },
+  {
     "hash": "7f5add8c673347fa86483b1b065b00c8",
     "name": "【SEASON】緋田 美琴",
     "type": "p",
@@ -1993,6 +2005,20 @@
     "movie": "https://shinycolors.enza.fun/assets/eb389d81e05c5db0b4ee97a33238b1dd7e8205234ae2c3f40213bc67684941ff.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/7bd781eb05861a36aa92420113ddd7ab5fe51a1fa9a944230db81b32618be418.mp4?v=1",
     "id": "1040050070"
+  },
+  {
+    "hash": "f78e9ca0fdc9b823b9ab26509f4e5293",
+    "name": "【リバーシブル・トースト】田中 摩美々",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "イージー、ですねー",
+    "card": "https://shinycolors.enza.fun/assets/d075aa2c43974bd04007dfd924d312fa0235d7cb4d31ed9d13b1fd8864c0c534?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/8e4ef52208ec1b2f7c6bdf56796572948887daca41f4b7ea2f62dcd665338a9c?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/72e15f6bf5eebf4c1e74bb10e6da0952e52c2c597b0357dbc210885ec62715b3?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/c34c03b99d779a0cc782914e60616d13cd12e348b63e4f2fcd30160027eaeeb1.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/d87ab69a8001209ae5d159f0758a327d8bc4f2c7fc42731687f169e15a73217e.mp4?v=1",
+    "id": "1040050080"
   },
   {
     "hash": "6100767bc6caa304c422c7befb89630f",
@@ -4559,6 +4585,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/0f0c5985c28b5f3b5d6e9bee00c75386c844e04eb8c9d524d9c026530d877100?v=1",
     "id": "2030010050"
+  },
+  {
+    "hash": "0709c1d71db9507d31837c74d4056c12",
+    "name": "【ふわり気持ち、秋かおり】櫻木 真乃",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/e1593bf63acee80d287733db6c7c90ebdd1cd13a847a24b3ff9333933146546e?v=1",
+    "id": "2030010060"
   },
   {
     "hash": "85110834667118fc01e4fde509f0a8f6",
