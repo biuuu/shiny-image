@@ -1283,6 +1283,18 @@
     "id": "1030180030"
   },
   {
+    "hash": "2f552ff0a1435e7b6a6b1beb1ab31c67",
+    "name": "【アンコンシャス35→80】黛 冬優子",
+    "type": "p",
+    "rarity": 3,
+    "road": false,
+    "card": "https://shinycolors.enza.fun/assets/412b3b1431b80beb2ef47eb91d407cc4f270d29f12dcac62da90c9a466367574?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/17117f78e773b1655ac895fa9320ca52690db44125432216bbe4dbdfab19ccf7?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/bd2f872c914e19ec73e7a8b329ebc4b723050de38cf2414040c2f9de77584c4d?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/7e56ea98e0ad051f36d298cdf0830313b9241c51163444787c4a47d8a8b8bc80.mp4?v=1",
+    "id": "1030180040"
+  },
+  {
     "hash": "340a18641c774c18109f12e2456e1ec8",
     "name": "【気になる！？染めちゃう！？】和泉 愛依",
     "type": "p",
@@ -1697,6 +1709,20 @@
     "movie": "https://shinycolors.enza.fun/assets/b6cc44b080fd73a7fbe5310172f65e3c260d0355f8b626f2361581f082ba5ba7.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/2b34bd3d6a371cd9600393f17a3d8e1b2a8ff980528a686cadedbf1ce9901156.mp4?v=1",
     "id": "1040020070"
+  },
+  {
+    "hash": "6afa22c370bfcf57d3c40a4ab6a2b319",
+    "name": "【ひとりじゃない夜のこと】風野 灯織",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "ぱぁっと、明るくなった",
+    "card": "https://shinycolors.enza.fun/assets/074f898f48374aef4308f87ec04035576ff72359ff42abedb5de07b9ff1069d2?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/8edf97822085cf23ce12504a221ecb1402c6e76575b7776323fa9e966e1dfcff?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/9cf203303fc92988846d4658a87ce0def840c2e2aeb4c69fe451cee0e1b472da?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/8980a186e8ac55daca53a364839c5b137fa483e044ddb6a06560e98e6a398a2c.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/9e861f07f28b11fff679c2cdf98a499fda31c54f7612bf2207f4cb4aa18c1e5e.mp4?v=1",
+    "id": "1040020080"
   },
   {
     "hash": "da4298320e1d4023f775870a90330ada",
@@ -5243,6 +5269,14 @@
     "id": "2030190030"
   },
   {
+    "hash": "381e0f5644acd2a2dd43d897812d8216",
+    "name": "【PANOR@MA WING 06】和泉 愛依",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/1a693e7d284ffbb908fe2904f1bfefe1ebb879ebb2e07ff62bfc6d10cfd00c4b?v=1",
+    "id": "2030190040"
+  },
+  {
     "hash": "dafd99ea27a7dcd744a744ce500d90e6",
     "name": "【かっとばし党の逆襲】浅倉 透",
     "type": "s",
@@ -5345,6 +5379,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/e5616450ee10f03ad317f977520ef3d47f443714ef085b6db5f6a5c9dd16cc0c?v=2",
     "id": "2030250010"
+  },
+  {
+    "hash": "bbdfe4da6fa6665cbd0f1c1d6e436f0e",
+    "name": "【PANOR@MA WING 08】緋田 美琴",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/ce28e0b53f6b20465ef711f16cea288c4f5f7a383fe156e52253aecc735e5478?v=1",
+    "id": "2030250020"
   },
   {
     "hash": "6e3d774843ac8f42bca95d22d13e210a",
@@ -6849,5 +6891,13 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/3f592cd33620f7bf89204d41121e1858fb163645072f823d71ab9200a45769c9?v=1",
     "id": "2040250040"
+  },
+  {
+    "hash": "44889c5587e2b418574af2d5fcb09c9f",
+    "name": "【GAP】緋田 美琴",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/de86d12456233c18725a5765aa8e906208a44f809288037d560102cb171f3307?v=1",
+    "id": "2040250050"
   }
 ]
