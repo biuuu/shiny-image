@@ -62815,5 +62815,130 @@
         "rotated": false
       }
     }
+  },
+  "images/ui/joint_fes_facility/parts": {
+    "name": "images/ui/joint_fes_facility/parts",
+    "ext": ".png",
+    "url": "/assets/64157bd27d4d4be0e73cbffb821c3336d357842d2d0f54064826e4972a07c7a1?v=1",
+    "v": 1,
+    "frames": {
+      "bonus_base_after.png": {
+        "frame": {
+          "x": 1,
+          "y": 595,
+          "w": 359,
+          "h": 79
+        },
+        "rotated": false
+      },
+      "bonus_base_pink.png": {
+        "frame": {
+          "x": 255,
+          "y": 97,
+          "w": 359,
+          "h": 79
+        },
+        "rotated": false
+      },
+      "bonus_info_button.png": {
+        "frame": {
+          "x": 473,
+          "y": 1,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "facility_base_stretch.png": {
+        "frame": {
+          "x": 364,
+          "y": 643,
+          "w": 28,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "facility_bonus_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 473,
+          "w": 648,
+          "h": 64
+        },
+        "rotated": false
+      },
+      "facility_bonus_base_s.png": {
+        "frame": {
+          "x": 1,
+          "y": 541,
+          "w": 501,
+          "h": 50
+        },
+        "rotated": false
+      },
+      "facility_enhancement_item_base.png": {
+        "frame": {
+          "x": 364,
+          "y": 595,
+          "w": 116,
+          "h": 44
+        },
+        "rotated": false
+      },
+      "facility_item_button.png": {
+        "frame": {
+          "x": 506,
+          "y": 541,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "facility_item_use_button.png": {
+        "frame": {
+          "x": 473,
+          "y": 43,
+          "w": 108,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "facility_panel_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 250,
+          "h": 384
+        },
+        "rotated": false
+      },
+      "joint_fes_stage_level_staff_tips.png": {
+        "frame": {
+          "x": 1,
+          "y": 389,
+          "w": 674,
+          "h": 80
+        },
+        "rotated": false
+      },
+      "label_facility_lv_up.png": {
+        "frame": {
+          "x": 484,
+          "y": 615,
+          "w": 160,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "require_facility_item_base.png": {
+        "frame": {
+          "x": 255,
+          "y": 1,
+          "w": 214,
+          "h": 92
+        },
+        "rotated": false
+      }
+    }
   }
 }
