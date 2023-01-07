@@ -43,5 +43,6 @@
   "images/ui/notice/parts",
   "images/ui/idol_list/parts",
   "images/ui/idol_detail/parts_fes.json_image",
-  "images/ui/character_album/parts.json_image"
+  "images/ui/character_album/parts.json_image",
+  "images/ui/evolution/parts.json_image"
 ]
