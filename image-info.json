@@ -60124,8 +60124,8 @@
   "images/tips/joint_fes_ready/001": {
     "name": "images/tips/joint_fes_ready/001",
     "ext": ".jpg",
-    "url": "/assets/26bc06aeb89e16762c16df26c747f817cc656a50600c46da41c4bb0b8c8a11b5?v=1",
-    "v": 1,
+    "url": "/assets/26bc06aeb89e16762c16df26c747f817cc656a50600c46da41c4bb0b8c8a11b5?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/joint_fes_ready/002": {
@@ -60166,8 +60166,8 @@
   "images/tips/joint_fes_stage_select/002": {
     "name": "images/tips/joint_fes_stage_select/002",
     "ext": ".jpg",
-    "url": "/assets/ba33be5c7ce9543fa5693ef52f1d1fceef56a7ee5bd53457d4843bdc1a06ab4c?v=1",
-    "v": 1,
+    "url": "/assets/ba33be5c7ce9543fa5693ef52f1d1fceef56a7ee5bd53457d4843bdc1a06ab4c?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/joint_fes_top/001": {
@@ -61602,13 +61602,22 @@
   "images/ui/joint_fes_rankings/parts": {
     "name": "images/ui/joint_fes_rankings/parts",
     "ext": ".png",
-    "url": "/assets/71c689c02bab4da10662502d751681cd964d14dbd2b0084f6c51a345174d27f3?v=1",
-    "v": 1,
+    "url": "/assets/71c689c02bab4da10662502d751681cd964d14dbd2b0084f6c51a345174d27f3?v=2",
+    "v": 2,
     "frames": {
       "all_ranking_button.png": {
         "frame": {
           "x": 1,
           "y": 375,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "all_ranking_button_selected.png": {
+        "frame": {
+          "x": 1,
+          "y": 505,
           "w": 148,
           "h": 38
         },
@@ -61689,7 +61698,7 @@
       "joint_fes_ranking_point_header.png": {
         "frame": {
           "x": 1,
-          "y": 589,
+          "y": 673,
           "w": 80,
           "h": 24
         },
@@ -61698,7 +61707,7 @@
       "selected_stage_label.png": {
         "frame": {
           "x": 1,
-          "y": 617,
+          "y": 701,
           "w": 77,
           "h": 24
         },
@@ -61725,7 +61734,7 @@
       "stage_select_button.png": {
         "frame": {
           "x": 1,
-          "y": 505,
+          "y": 547,
           "w": 148,
           "h": 38
         },
@@ -61743,7 +61752,16 @@
       "user_ranking_button.png": {
         "frame": {
           "x": 1,
-          "y": 547,
+          "y": 589,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "user_ranking_button_selected.png": {
+        "frame": {
+          "x": 1,
+          "y": 631,
           "w": 148,
           "h": 38
         },
@@ -62914,6 +62932,13 @@
     "name": "images/tips/game_event/93/003",
     "ext": ".jpg",
     "url": "/assets/8c273d95c29a4aa9fb86db06e0a367aa5ae59c47ed9fca4c96f1cf475b628876?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80014/001": {
+    "name": "images/tips/game_event/80014/001",
+    "ext": ".jpg",
+    "url": "/assets/1ffc1bbc39735e057ef485d7098c542d96913ea6bf19f732a00e3d66a4566c7c?v=1",
     "v": 1,
     "frames": null
   }
