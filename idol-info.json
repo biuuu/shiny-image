@@ -3711,6 +3711,20 @@
     "id": "1040230040"
   },
   {
+    "hash": "fabf35f2155c55f7653450a2285c62ee",
+    "name": "【DE-S!GN】市川 雛菜",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "『ひなな』\nはい、できた～♡",
+    "card": "https://shinycolors.enza.fun/assets/9aaa6807dc5af36e50930902854f8e0d8e052452cd019ec6697b87ef8606a3e8?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/877b263b5d856a972cea31fb78036948359448b3d492c31b5c65f656079079eb?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/5f2e4bf04528e550338cf007e5e5d649d9a0554dcffa6688155cf2ea9a13d0f0?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/6bdb3850dfc9b0741714090fcefa3df922480066e042ef702cd65a3eeb054aca.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/ed7388c7b51385d4a7aceeac9875f7a01de673f4d116c644d1ef223ead13c98f.mp4?v=1",
+    "id": "1040230050"
+  },
+  {
     "hash": "3d0392cfc4e1a1bb2be3041d96a6d37c",
     "name": "【♡まっクろはムウサぎ♡】七草 にちか",
     "type": "p",
@@ -4708,7 +4722,7 @@
   },
   {
     "hash": "3e3edc7444a001936761fdd6b8cfec23",
-    "name": "【クローズ・トゥ・ユー】 風野 灯織",
+    "name": "【クローズ・トゥ・ユー】風野 灯織",
     "type": "s",
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/4ef276a0b08d558be3ce4dde89080f2e10afda71240123ef913a8be69085eded?v=3",
@@ -4969,6 +4983,14 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/59cf18e42fc79d61ecb122385868295b21038765266dd4af1c45a72e3eb28569?v=1",
     "id": "2030080050"
+  },
+  {
+    "hash": "240fea4e3fa7ab0135fb1fdc6fb00767",
+    "name": "【犬・猿・雉・霧】幽谷 霧子",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/ec5dc10c1bb06835cc37d30d8b8bdf52c92b9d3a4bdd99c8abdb7f25de4c3f75?v=1",
+    "id": "2030080060"
   },
   {
     "hash": "50505cf624a1fbb5e494aa8633443684",
@@ -6763,6 +6785,14 @@
     "id": "2040190060"
   },
   {
+    "hash": "76fc0e8de5afdf56242d29b24405c5f5",
+    "name": "【本気！餅つき！】和泉 愛依",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/6d24932d2051a279cb5dc1fca26b2a05e7163f322b48ccf17ff10c2c7e4effa2?v=1",
+    "id": "2040190070"
+  },
+  {
     "hash": "99cb764c84a3b3807616e22db0b393a6",
     "name": "【ハウ・アー・UFO】浅倉 透",
     "type": "s",
@@ -7001,5 +7031,13 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/de86d12456233c18725a5765aa8e906208a44f809288037d560102cb171f3307?v=1",
     "id": "2040250050"
+  },
+  {
+    "hash": "16cfbe53ea8554a445d4a15cbe361d17",
+    "name": "【MADE】緋田 美琴",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/1f4c479fd78e43aa3c76837dfeb96f6b25da931b0531ce40369ef14c0941133d?v=1",
+    "id": "2040250060"
   }
 ]
