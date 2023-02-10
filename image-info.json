@@ -7268,8 +7268,8 @@
   "images/ui/produce_action/parts_effect": {
     "name": "images/ui/produce_action/parts_effect",
     "ext": ".png",
-    "url": "/assets/2101b43ee796280d5e71fd7194e6a9b21ebb2eda6a45d9ae89cfdab1e6628474?v=11",
-    "v": 11,
+    "url": "/assets/2101b43ee796280d5e71fd7194e6a9b21ebb2eda6a45d9ae89cfdab1e6628474?v=12",
+    "v": 12,
     "frames": {
       "activity_failure_cut_in_balloon.png": {
         "frame": {
@@ -7554,7 +7554,7 @@
         "frame": {
           "x": 784,
           "y": 888,
-          "w": 28,
+          "w": 27,
           "h": 10
         },
         "rotated": false
@@ -48279,15 +48279,15 @@
   "images/tips/fes_userate/001": {
     "name": "images/tips/fes_userate/001",
     "ext": ".jpg",
-    "url": "/assets/065c19affbbb6cddefc51ef53ea24a949a9050bca87d855894814be20da7e8a0?v=2",
-    "v": 2,
+    "url": "/assets/065c19affbbb6cddefc51ef53ea24a949a9050bca87d855894814be20da7e8a0?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/fes_userate/002": {
     "name": "images/tips/fes_userate/002",
     "ext": ".jpg",
-    "url": "/assets/1879e62a994eb2e2d663825f4fab0fa39090a2096a9641b54de4e96b93080bab?v=2",
-    "v": 2,
+    "url": "/assets/1879e62a994eb2e2d663825f4fab0fa39090a2096a9641b54de4e96b93080bab?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/game_event/30013/001": {
@@ -49672,8 +49672,8 @@
   "images/ui/fes/fes_deck": {
     "name": "images/ui/fes/fes_deck",
     "ext": ".png",
-    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=5",
-    "v": 5,
+    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=6",
+    "v": 6,
     "frames": {
       "active_skill_select_base.png": {
         "frame": {
@@ -49830,8 +49830,8 @@
       },
       "fes_deck_change_costume_line.png": {
         "frame": {
-          "x": 1141,
-          "y": 403,
+          "x": 689,
+          "y": 771,
           "w": 56,
           "h": 56
         },
@@ -49858,7 +49858,7 @@
       "fes_deck_unit_copy_button.png": {
         "frame": {
           "x": 1141,
-          "y": 325,
+          "y": 391,
           "w": 188,
           "h": 38
         },
@@ -49866,8 +49866,8 @@
       },
       "fes_deck_unit_copy_short_button.png": {
         "frame": {
-          "x": 1201,
-          "y": 403,
+          "x": 1141,
+          "y": 469,
           "w": 72,
           "h": 38
         },
@@ -49885,7 +49885,7 @@
       "fes_idol_rank_line.png": {
         "frame": {
           "x": 1141,
-          "y": 391,
+          "y": 457,
           "w": 134,
           "h": 2
         },
@@ -49902,8 +49902,8 @@
       },
       "icon_music_disc.png": {
         "frame": {
-          "x": 1255,
-          "y": 1057,
+          "x": 91,
+          "y": 1322,
           "w": 26,
           "h": 24
         },
@@ -49948,7 +49948,7 @@
       "param_bonus_effect_background.png": {
         "frame": {
           "x": 1141,
-          "y": 277,
+          "y": 343,
           "w": 190,
           "h": 44
         },
@@ -49957,7 +49957,7 @@
       "parameter_base_line.png": {
         "frame": {
           "x": 1141,
-          "y": 397,
+          "y": 463,
           "w": 118,
           "h": 2
         },
@@ -49966,9 +49966,18 @@
       "passive_bonus_status_background.png": {
         "frame": {
           "x": 1141,
-          "y": 367,
+          "y": 433,
           "w": 188,
           "h": 20
+        },
+        "rotated": false
+      },
+      "popular_idol_point_unit_rate_base.png": {
+        "frame": {
+          "x": 1141,
+          "y": 277,
+          "w": 190,
+          "h": 62
         },
         "rotated": false
       },
@@ -49983,8 +49992,8 @@
       },
       "skill_none.png": {
         "frame": {
-          "x": 749,
-          "y": 711,
+          "x": 801,
+          "y": 669,
           "w": 42,
           "h": 42
         },
@@ -50001,8 +50010,8 @@
       },
       "skill_select_check_box_on.png": {
         "frame": {
-          "x": 689,
-          "y": 771,
+          "x": 749,
+          "y": 711,
           "w": 48,
           "h": 48
         },
@@ -50010,8 +50019,8 @@
       },
       "title_edit_button.png": {
         "frame": {
-          "x": 801,
-          "y": 669,
+          "x": 91,
+          "y": 1282,
           "w": 36,
           "h": 36
         },
@@ -63696,5 +63705,33 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/fes_userate/003": {
+    "name": "images/tips/fes_userate/003",
+    "ext": ".jpg",
+    "url": "/assets/4378fb961d368dfe97e1d8408dc3b43692f2a7170edcca2a3e7fb78954354fa2?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60029/001": {
+    "name": "images/tips/game_event/60029/001",
+    "ext": ".jpg",
+    "url": "/assets/45359d9a84616e2573d374a7da4cb07a967415902fc6ac7c1321c799c7ff172a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60029/002": {
+    "name": "images/tips/game_event/60029/002",
+    "ext": ".jpg",
+    "url": "/assets/bff2db6dc17c26129d42170c5a642564c8b9d71dde06a3f9cb4cc20fc1099dac?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60029/003": {
+    "name": "images/tips/game_event/60029/003",
+    "ext": ".jpg",
+    "url": "/assets/8776141c6e2c620670838f13f5f1ec84bd9b4d2d573e07a40f69b84c1fc43eb8?v=1",
+    "v": 1,
+    "frames": null
   }
 }
