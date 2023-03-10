@@ -63825,5 +63825,26 @@
     "url": "/assets/9e0211461d979fbc2758105aaa9110cfb28b64aec81fdb7a8a8d2af20abe9b43?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/60030/001": {
+    "name": "images/tips/game_event/60030/001",
+    "ext": ".jpg",
+    "url": "/assets/ac7134859f5a494717362119c6539a2d3a8e11f6be80574cb77cf0fce4ed022b?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60030/002": {
+    "name": "images/tips/game_event/60030/002",
+    "ext": ".jpg",
+    "url": "/assets/df8280497ae8206fd8ce69f4f4714f2ea947302c2e20f8b29acb16c54b3b0807?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60030/003": {
+    "name": "images/tips/game_event/60030/003",
+    "ext": ".jpg",
+    "url": "/assets/7ade261313e33262cc16a0b194152200837ad4eef708848917a5e311c0e5d0e2?v=1",
+    "v": 1,
+    "frames": null
   }
 }
