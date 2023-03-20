@@ -11599,13 +11599,13 @@
   "images/ui/start/parts": {
     "name": "images/ui/start/parts",
     "ext": ".png",
-    "url": "/assets/3bc7c9607ecfa3cf2d74c158a6a1a1262205f98d4ae28725136b9b945186a094?v=12",
-    "v": 12,
+    "url": "/assets/3bc7c9607ecfa3cf2d74c158a6a1a1262205f98d4ae28725136b9b945186a094?v=13",
+    "v": 13,
     "frames": {
       "bne.png": {
         "frame": {
-          "x": 533,
-          "y": 396,
+          "x": 389,
+          "y": 28,
           "w": 194,
           "h": 53
         },
@@ -11614,7 +11614,7 @@
       "copyright.png": {
         "frame": {
           "x": 1,
-          "y": 712,
+          "y": 1,
           "w": 601,
           "h": 23
         },
@@ -11623,7 +11623,7 @@
       "guest_start_button_native.png": {
         "frame": {
           "x": 145,
-          "y": 452,
+          "y": 250,
           "w": 300,
           "h": 70
         },
@@ -11631,8 +11631,8 @@
       },
       "how_to_add_home_icon_button.png": {
         "frame": {
-          "x": 449,
-          "y": 453,
+          "x": 385,
+          "y": 85,
           "w": 150,
           "h": 64
         },
@@ -11641,7 +11641,7 @@
       "logo_mask_shine.png": {
         "frame": {
           "x": 1,
-          "y": 396,
+          "y": 250,
           "w": 140,
           "h": 312
         },
@@ -11650,7 +11650,7 @@
       "member_start_button.png": {
         "frame": {
           "x": 145,
-          "y": 526,
+          "y": 324,
           "w": 300,
           "h": 70
         },
@@ -11659,7 +11659,7 @@
       "member_start_button_native.png": {
         "frame": {
           "x": 145,
-          "y": 600,
+          "y": 398,
           "w": 300,
           "h": 70
         },
@@ -11667,8 +11667,8 @@
       },
       "pf_menu_button.png": {
         "frame": {
-          "x": 660,
-          "y": 1,
+          "x": 385,
+          "y": 153,
           "w": 64,
           "h": 64
         },
@@ -11677,25 +11677,16 @@
       "title.png": {
         "frame": {
           "x": 1,
-          "y": 199,
-          "w": 654,
-          "h": 193
-        },
-        "rotated": false
-      },
-      "title_mask.png": {
-        "frame": {
-          "x": 1,
-          "y": 1,
-          "w": 655,
-          "h": 194
+          "y": 84,
+          "w": 380,
+          "h": 162
         },
         "rotated": false
       },
       "touch_to_start.png": {
         "frame": {
-          "x": 145,
-          "y": 396,
+          "x": 1,
+          "y": 28,
           "w": 384,
           "h": 52
         },
