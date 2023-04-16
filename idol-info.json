@@ -3142,6 +3142,20 @@
     "id": "1040140080"
   },
   {
+    "hash": "259d3e0e5c884860f455c1ced1ace0c8",
+    "name": "【聞いてマイハート】大崎 甘奈",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "甘奈らしく……あなたに……",
+    "card": "https://shinycolors.enza.fun/assets/db2c79db899045b0bd280c329c003df3a440f5964bb13728c19c2c149f74dbae?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/befa309057acd7ce6265dbe7bc03b82f047faf9b46424dbe64d69d30e01ea7fc?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/463912b2e076a755ff5405ba7911b2e186a1b00d830e4cee8430a2e9619e2ffa?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/f3651670b43f389a9033b4fc12826dff1590cdc1e29c2846a7a0b078633d9ce5.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/b60264a47a13c7437db6bc3a1f6e323164ecccbd4206d6c1b3456c4a0c6b200c.mp4?v=1",
+    "id": "1040140090"
+  },
+  {
     "hash": "3c983e5fb9bb7eaa925c4d8ab6ac9674",
     "name": "【事務所。静寂。大輪の華】大崎 甜花",
     "type": "p",
@@ -3560,6 +3574,20 @@
     "movie": "https://shinycolors.enza.fun/assets/ddd36d701e359033d0d57f7c7991fce30a53ea5c238fbb4b90b020f5b68d7b29.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/be1f3356ca6939c9f13d3a14d87a516008550f171bb1410fe4ec28f320c553a3.mp4?v=1",
     "id": "1040180060"
+  },
+  {
+    "hash": "c7f72a9cc58bdd36132ba27591ced730",
+    "name": "【名モナキ夜ノ標ニ】黛 冬優子",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "ねぇ、見てる……？\n──────ふゆのこと",
+    "card": "https://shinycolors.enza.fun/assets/22326add0fb161a1cfd20010c853a7632b2c2d9f5bf795807e3beff91afd9cf4?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/fea4ad4880bec589c769f2b0c117ca12eed371b68b7cd985f7bd4df68f710ca9?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/969203a3656ae0facfe566b7b2b1e0f214632a36604d52bf36ead556f5b9b5d9?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/39d7f85a84ad4801fc242c07297f18442adb48438371ae3da1bd0c0456a173cc.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/58a983ca309dff4073bd763ce02ade195e6e1255e84df890f5ca7ade6f9c8d1b.mp4?v=1",
+    "id": "1040180070"
   },
   {
     "hash": "a797a6fa4d9319e4019322883481ca1c",
@@ -4050,6 +4078,20 @@
     "movie": "https://shinycolors.enza.fun/assets/69ed06542e4c57d2a53ff6705e4d19f74545be071a0991e1114fe8b9a8dceb95.mp4?v=1",
     "m_movie": "https://shinycolors.enza.fun/assets/360756507df485cf7b310c1e5a169c5a7d33e74ba614b72794a9bc203b3b5a93.mp4?v=1",
     "id": "1040250030"
+  },
+  {
+    "hash": "b1f7d07d1080a4fce021da39da2de34d",
+    "name": "【broken shout】斑鳩 ルカ",
+    "type": "p",
+    "rarity": 4,
+    "road": false,
+    "comment": "来んな……呼んでねぇ……",
+    "card": "https://shinycolors.enza.fun/assets/36fe483ebe596a128c02bf10bb316e243406af195f4ad6efa30000a9ac58ddbe?v=1",
+    "fes_card": "https://shinycolors.enza.fun/assets/a46d7c3e070f01fe95577e06ac19141a6a0e3b9ffe09ae05a6061d568ffe0fb4?v=1",
+    "icon": "https://shinycolors.enza.fun/assets/026b0f1e1f2bc917957a193c32c8b55479f044192863a74bfce2835933b5216d?v=1",
+    "movie": "https://shinycolors.enza.fun/assets/399add95eebe846cf5f38ad2c40aad26c5d8d6d10c0642037cf00905e2c035d0.mp4?v=1",
+    "m_movie": "https://shinycolors.enza.fun/assets/2a459e4604d0c9e574da3c93cf7227a71ff1cd56187e184a1873901a438b391e.mp4?v=1",
+    "id": "1040260010"
   },
   {
     "hash": "a456b7b0657ec4309dd56621c5290341",
@@ -5442,6 +5484,22 @@
     "rarity": 3,
     "card": "https://shinycolors.enza.fun/assets/50dabe26a3243a0481a1064900feef788dff4fe4f52a357550f77fd78fdec8cb?v=1",
     "id": "2030130050"
+  },
+  {
+    "hash": "2b8f5f3918029ebd517f5355dcfe134c",
+    "name": "【アオハルランナーズ】有栖川 夏葉",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/82c24f6e6c8f7a4225857550225eaaf944c54785decf2a744d38bca7863f659c?v=1",
+    "id": "2030130060"
+  },
+  {
+    "hash": "307478ef250f23c74e1f0550005e45c2",
+    "name": "【If I_wings.】有栖川 夏葉",
+    "type": "s",
+    "rarity": 3,
+    "card": "https://shinycolors.enza.fun/assets/b30bf6a3ec3c6cd2c91c7b11c6ce4aaa4095f70bd523de37a68a21cc7a955a81?v=1",
+    "id": "2030130070"
   },
   {
     "hash": "9865d1ac3a4a18cd4a85892b13529b69",
@@ -7162,6 +7220,14 @@
     "rarity": 4,
     "card": "https://shinycolors.enza.fun/assets/65d22970c2ddcd2b3bdd074036b75ace3ea6ddecea6dbb25cba08cbb5b18f80e?v=1",
     "id": "2040200050"
+  },
+  {
+    "hash": "5d0b108e38170e06592e27095a5fd0a8",
+    "name": "【裏声であいつら】浅倉 透",
+    "type": "s",
+    "rarity": 4,
+    "card": "https://shinycolors.enza.fun/assets/6b370171822772dc437e3376766bed163b5a94b268f4ef94df42edb12578b370?v=1",
+    "id": "2040200060"
   },
   {
     "hash": "4762093afa0b3b78c1ec40ae22ba6043",
