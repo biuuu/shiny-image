@@ -4146,15 +4146,15 @@
   "images/tips/home_deck/001": {
     "name": "images/tips/home_deck/001",
     "ext": ".jpg",
-    "url": "/assets/64e9cdd09f4628a7517e4c064e41681f849856dc5d0d38b8df7a39eb74104da2?v=15",
-    "v": 15,
+    "url": "/assets/64e9cdd09f4628a7517e4c064e41681f849856dc5d0d38b8df7a39eb74104da2?v=16",
+    "v": 16,
     "frames": null
   },
   "images/tips/home_deck/002": {
     "name": "images/tips/home_deck/002",
     "ext": ".jpg",
-    "url": "/assets/9a5de4f8ec5f61a3313bb47947ac1f218915a9d8ee2a3cf5dcd98021fd629cf5?v=13",
-    "v": 13,
+    "url": "/assets/9a5de4f8ec5f61a3313bb47947ac1f218915a9d8ee2a3cf5dcd98021fd629cf5?v=14",
+    "v": 14,
     "frames": null
   },
   "images/tips/home_deck/003": {
@@ -24281,8 +24281,8 @@
   "images/ui/work_activity_top/parts": {
     "name": "images/ui/work_activity_top/parts",
     "ext": ".png",
-    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=10",
-    "v": 10,
+    "url": "/assets/4240139fd4b94e0e263c618c33c746cf3d14a421d734676977a9651c6ad5e977?v=11",
+    "v": 11,
     "frames": {
       "all_business_button.png": {
         "frame": {
@@ -58912,8 +58912,8 @@
   "images/tips/jewel_mission/001": {
     "name": "images/tips/jewel_mission/001",
     "ext": ".jpg",
-    "url": "/assets/3ca2b3c054a6181bf3dbca0e163facbbe8590cee586cb5db7921ed1708ce1692?v=2",
-    "v": 2,
+    "url": "/assets/3ca2b3c054a6181bf3dbca0e163facbbe8590cee586cb5db7921ed1708ce1692?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/jewel_mission/002": {
@@ -63868,8 +63868,8 @@
   "images/tips/home_deck/005": {
     "name": "images/tips/home_deck/005",
     "ext": ".jpg",
-    "url": "/assets/f60dc4c81a2d728bb92ecfb05ab865626c239b5641df13bac0d9245eacd7f360?v=1",
-    "v": 1,
+    "url": "/assets/f60dc4c81a2d728bb92ecfb05ab865626c239b5641df13bac0d9245eacd7f360?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/home_deck/006": {
@@ -64190,8 +64190,8 @@
   "images/tips/auto_play/003": {
     "name": "images/tips/auto_play/003",
     "ext": ".jpg",
-    "url": "/assets/20b4b01b8a9281eb3bf251c1956aede245762e43876db80f0c4b59145a2fa56a?v=1",
-    "v": 1,
+    "url": "/assets/20b4b01b8a9281eb3bf251c1956aede245762e43876db80f0c4b59145a2fa56a?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/game_event/99/001": {
@@ -64922,6 +64922,27 @@
     "name": "images/tips/game_event/80015/001",
     "ext": ".jpg",
     "url": "/assets/8d1643c126e15a82757d65c88676d31863b04faeea8ef5fbc28dba4e72803d0a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/101/001": {
+    "name": "images/tips/game_event/101/001",
+    "ext": ".jpg",
+    "url": "/assets/a49f95e8535595d3266559ef017e932d9a2928589fdca183c6806118a8b68617?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/101/002": {
+    "name": "images/tips/game_event/101/002",
+    "ext": ".jpg",
+    "url": "/assets/42eb8b23ad7f085dc3d80ce1b4ea6a6d4ab173e691a79a633458faa25134885e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/101/003": {
+    "name": "images/tips/game_event/101/003",
+    "ext": ".jpg",
+    "url": "/assets/9a48e376af15a6fcdb33cb3eb1c61bb810d0a5bcda570c462415c5df3f50980e?v=1",
     "v": 1,
     "frames": null
   }
