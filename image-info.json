@@ -64248,8 +64248,8 @@
   "images/tips/auto_play/001": {
     "name": "images/tips/auto_play/001",
     "ext": ".jpg",
-    "url": "/assets/eab861357670de2a1ae2efda484770661a77dd2d41a160ca02d2fc8d87f0664b?v=1",
-    "v": 1,
+    "url": "/assets/eab861357670de2a1ae2efda484770661a77dd2d41a160ca02d2fc8d87f0664b?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/auto_play/002": {
@@ -65011,6 +65011,48 @@
     "name": "images/tips/game_event/50034/proposal/3/002",
     "ext": ".jpg",
     "url": "/assets/b31848452a100526a5045acb523cd59a5bc36ee9738efa1f1b4a8ed484443e74?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/102/001": {
+    "name": "images/tips/game_event/102/001",
+    "ext": ".jpg",
+    "url": "/assets/c426a1f1ddde9b3db731edead192ca12004c31edc888f2cdfcedfdffda8b30bd?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/102/002": {
+    "name": "images/tips/game_event/102/002",
+    "ext": ".jpg",
+    "url": "/assets/0302b868bedeb2c7244bef521b01340ea0dd1f1207f4115a53c3d2b1b0c9d9cd?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/102/003": {
+    "name": "images/tips/game_event/102/003",
+    "ext": ".jpg",
+    "url": "/assets/c2fb21d145dd5b22fe66d8cc4070f8468dd808e8f282a90d750d400baacbd978?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60032/001": {
+    "name": "images/tips/game_event/60032/001",
+    "ext": ".jpg",
+    "url": "/assets/2ad502caf8c0f2401bdf266d21aa61a30939ffdaa2f2c4bd008b4d5585bc1c27?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60032/002": {
+    "name": "images/tips/game_event/60032/002",
+    "ext": ".jpg",
+    "url": "/assets/a6b5f02b706cdd2d48ba5a78db415debf34c68f7908b38127062ca37af323ba4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60032/003": {
+    "name": "images/tips/game_event/60032/003",
+    "ext": ".jpg",
+    "url": "/assets/42f2778c2a4d28941864a772008fb289294fb34ca7edf06b33f9f9b4a07ea423?v=1",
     "v": 1,
     "frames": null
   }
