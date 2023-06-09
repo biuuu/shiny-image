@@ -4020,8 +4020,8 @@
   "images/tips/fes_deck/004": {
     "name": "images/tips/fes_deck/004",
     "ext": ".jpg",
-    "url": "/assets/341ef530b8fd23b654643f14a85fab5dddab81715fe44d6716438775560226d8?v=4",
-    "v": 4,
+    "url": "/assets/341ef530b8fd23b654643f14a85fab5dddab81715fe44d6716438775560226d8?v=5",
+    "v": 5,
     "frames": null
   },
   "images/tips/fes_deck/005": {
@@ -5348,9 +5348,18 @@
   "images/ui/common/parts_link_skill_dialog": {
     "name": "images/ui/common/parts_link_skill_dialog",
     "ext": ".png",
-    "url": "/assets/841b0eb79a1eb096b7445f2153b65ad9bc1b2f3832ba9c33fea8c13e87647126?v=9",
-    "v": 9,
+    "url": "/assets/841b0eb79a1eb096b7445f2153b65ad9bc1b2f3832ba9c33fea8c13e87647126?v=10",
+    "v": 10,
     "frames": {
+      "exchange_skill_detail_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 292,
+          "h": 152
+        },
+        "rotated": false
+      },
       "link_skill_arrow.png": {
         "frame": {
           "x": 297,
@@ -5363,7 +5372,7 @@
       "plus_skill_detail_base.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 157,
           "w": 292,
           "h": 152
         },
@@ -5372,7 +5381,7 @@
       "skill_detail_base_link.png": {
         "frame": {
           "x": 1,
-          "y": 157,
+          "y": 313,
           "w": 292,
           "h": 152
         },
@@ -10885,13 +10894,13 @@
   "images/ui/comic/parts": {
     "name": "images/ui/comic/parts",
     "ext": ".png",
-    "url": "/assets/8b921b6d0bcaeb6e712cd742f2220ae61a8aa6810201309faeb59b953b2f7dd2?v=9",
-    "v": 9,
+    "url": "/assets/8b921b6d0bcaeb6e712cd742f2220ae61a8aa6810201309faeb59b953b2f7dd2?v=10",
+    "v": 10,
     "frames": {
       "comic_appearing_button.png": {
         "frame": {
-          "x": 347,
-          "y": 429,
+          "x": 499,
+          "y": 671,
           "w": 108,
           "h": 38
         },
@@ -10900,7 +10909,7 @@
       "comic_filter_button.png": {
         "frame": {
           "x": 485,
-          "y": 429,
+          "y": 109,
           "w": 148,
           "h": 70
         },
@@ -10909,7 +10918,7 @@
       "comic_latest_version_base.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 255,
           "w": 342,
           "h": 466
         },
@@ -10918,7 +10927,7 @@
       "comic_number_base_read.png": {
         "frame": {
           "x": 347,
-          "y": 307,
+          "y": 255,
           "w": 312,
           "h": 30
         },
@@ -10927,7 +10936,7 @@
       "comic_number_base_unread.png": {
         "frame": {
           "x": 347,
-          "y": 341,
+          "y": 289,
           "w": 312,
           "h": 30
         },
@@ -10936,7 +10945,7 @@
       "comic_read_new_button.png": {
         "frame": {
           "x": 485,
-          "y": 503,
+          "y": 183,
           "w": 148,
           "h": 38
         },
@@ -10944,8 +10953,8 @@
       },
       "comic_search_button_off.png": {
         "frame": {
-          "x": 485,
-          "y": 545,
+          "x": 347,
+          "y": 629,
           "w": 148,
           "h": 38
         },
@@ -10953,35 +10962,17 @@
       },
       "comic_search_button_on.png": {
         "frame": {
-          "x": 485,
-          "y": 587,
+          "x": 347,
+          "y": 671,
           "w": 148,
           "h": 38
-        },
-        "rotated": false
-      },
-      "comic_select_check_box.png": {
-        "frame": {
-          "x": 643,
-          "y": 157,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "comic_select_check_box_on.png": {
-        "frame": {
-          "x": 643,
-          "y": 209,
-          "w": 48,
-          "h": 48
         },
         "rotated": false
       },
       "comic_thumb_base_read.png": {
         "frame": {
           "x": 347,
-          "y": 1,
+          "y": 473,
           "w": 168,
           "h": 152
         },
@@ -10990,7 +10981,7 @@
       "comic_thumb_base_unread.png": {
         "frame": {
           "x": 519,
-          "y": 1,
+          "y": 473,
           "w": 168,
           "h": 152
         },
@@ -10999,7 +10990,7 @@
       "comic_title_base.png": {
         "frame": {
           "x": 347,
-          "y": 157,
+          "y": 323,
           "w": 292,
           "h": 146
         },
@@ -11007,8 +10998,8 @@
       },
       "comic_unread_mode_button_off.png": {
         "frame": {
-          "x": 347,
-          "y": 375,
+          "x": 485,
+          "y": 1,
           "w": 180,
           "h": 50
         },
@@ -11016,8 +11007,8 @@
       },
       "comic_unread_mode_button_on.png": {
         "frame": {
-          "x": 531,
-          "y": 375,
+          "x": 485,
+          "y": 55,
           "w": 180,
           "h": 50
         },
@@ -11026,7 +11017,7 @@
       "comif_filter_inneer_base.png": {
         "frame": {
           "x": 1,
-          "y": 471,
+          "y": 1,
           "w": 480,
           "h": 250
         },
@@ -11034,8 +11025,8 @@
       },
       "label_comic_limited.png": {
         "frame": {
-          "x": 663,
-          "y": 291,
+          "x": 669,
+          "y": 1,
           "w": 45,
           "h": 26
         },
@@ -11043,8 +11034,8 @@
       },
       "label_comic_special.png": {
         "frame": {
-          "x": 643,
-          "y": 261,
+          "x": 663,
+          "y": 109,
           "w": 53,
           "h": 26
         },
@@ -11052,8 +11043,8 @@
       },
       "label_comic_unread.png": {
         "frame": {
-          "x": 663,
-          "y": 321,
+          "x": 669,
+          "y": 31,
           "w": 36,
           "h": 22
         },
@@ -11061,7 +11052,7 @@
       },
       "read_old_button.png": {
         "frame": {
-          "x": 485,
+          "x": 499,
           "y": 629,
           "w": 148,
           "h": 38
@@ -18192,13 +18183,13 @@
   "images/ui/concert/parts": {
     "name": "images/ui/concert/parts",
     "ext": ".png",
-    "url": "/assets/242a9cf9825e1022bdb3ceb618371078c5205a0b21a0bf68c7c7327617fac642?v=23",
-    "v": 23,
+    "url": "/assets/242a9cf9825e1022bdb3ceb618371078c5205a0b21a0bf68c7c7327617fac642?v=24",
+    "v": 24,
     "frames": {
       "concert_live_auto_setup_button.png": {
         "frame": {
-          "x": 1719,
-          "y": 1678,
+          "x": 639,
+          "y": 1808,
           "w": 124,
           "h": 38
         },
@@ -18206,8 +18197,8 @@
       },
       "concert_mental_gauge.png": {
         "frame": {
-          "x": 460,
-          "y": 1849,
+          "x": 639,
+          "y": 1850,
           "w": 128,
           "h": 20
         },
@@ -18215,8 +18206,8 @@
       },
       "concert_mental_gauge_base.png": {
         "frame": {
-          "x": 1491,
-          "y": 1849,
+          "x": 1706,
+          "y": 1546,
           "w": 128,
           "h": 20
         },
@@ -18233,8 +18224,8 @@
       },
       "concert_turn_base.png": {
         "frame": {
-          "x": 1491,
-          "y": 1798,
+          "x": 1510,
+          "y": 1700,
           "w": 185,
           "h": 47
         },
@@ -18251,17 +18242,35 @@
       },
       "end_button.png": {
         "frame": {
-          "x": 460,
-          "y": 1775,
+          "x": 1712,
+          "y": 1570,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
+      "exchange_off.png": {
+        "frame": {
+          "x": 767,
+          "y": 1808,
+          "w": 130,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "exchange_on.png": {
+        "frame": {
+          "x": 771,
+          "y": 1842,
+          "w": 130,
+          "h": 30
+        },
+        "rotated": false
+      },
       "fast_icon.png": {
         "frame": {
-          "x": 1680,
-          "y": 1800,
+          "x": 1712,
+          "y": 1644,
           "w": 72,
           "h": 72
         },
@@ -18287,7 +18296,7 @@
       },
       "gauge_normal.png": {
         "frame": {
-          "x": 144,
+          "x": 219,
           "y": 1828,
           "w": 312,
           "h": 34
@@ -18341,8 +18350,8 @@
       },
       "interesting_ratio_header.png": {
         "frame": {
-          "x": 1224,
-          "y": 1768,
+          "x": 1826,
+          "y": 195,
           "w": 20,
           "h": 22
         },
@@ -18350,8 +18359,8 @@
       },
       "judge_comment_attack_all.png": {
         "frame": {
-          "x": 1273,
-          "y": 1749,
+          "x": 1,
+          "y": 1775,
           "w": 214,
           "h": 101
         },
@@ -18386,8 +18395,8 @@
       },
       "judge_comment_bonus_all.png": {
         "frame": {
-          "x": 1510,
-          "y": 1620,
+          "x": 1497,
+          "y": 1522,
           "w": 205,
           "h": 92
         },
@@ -18395,8 +18404,8 @@
       },
       "judge_comment_bonus_dance.png": {
         "frame": {
-          "x": 1539,
-          "y": 1326,
+          "x": 1273,
+          "y": 1749,
           "w": 207,
           "h": 94
         },
@@ -18405,7 +18414,7 @@
       "judge_comment_bonus_visual.png": {
         "frame": {
           "x": 1539,
-          "y": 1424,
+          "y": 1326,
           "w": 207,
           "h": 94
         },
@@ -18413,8 +18422,8 @@
       },
       "judge_comment_bonus_vocal.png": {
         "frame": {
-          "x": 1497,
-          "y": 1522,
+          "x": 1539,
+          "y": 1424,
           "w": 207,
           "h": 94
         },
@@ -18422,8 +18431,8 @@
       },
       "judge_detail_interesting_ratio_icon.png": {
         "frame": {
-          "x": 1854,
-          "y": 1034,
+          "x": 1224,
+          "y": 1768,
           "w": 18,
           "h": 18
         },
@@ -18467,8 +18476,8 @@
       },
       "judge_target_arrow_excellent.png": {
         "frame": {
-          "x": 1,
-          "y": 1775,
+          "x": 1484,
+          "y": 1751,
           "w": 139,
           "h": 97
         },
@@ -18485,8 +18494,8 @@
       },
       "link_appeal_bg_mask.png": {
         "frame": {
-          "x": 1750,
-          "y": 1466,
+          "x": 1627,
+          "y": 1751,
           "w": 104,
           "h": 104
         },
@@ -18503,8 +18512,8 @@
       },
       "link_off.png": {
         "frame": {
-          "x": 1792,
-          "y": 1720,
+          "x": 1783,
+          "y": 609,
           "w": 80,
           "h": 30
         },
@@ -18512,8 +18521,8 @@
       },
       "link_on.png": {
         "frame": {
-          "x": 1792,
-          "y": 1754,
+          "x": 999,
+          "y": 1833,
           "w": 80,
           "h": 30
         },
@@ -18566,8 +18575,8 @@
       },
       "live_auto_button_off.png": {
         "frame": {
-          "x": 688,
-          "y": 1808,
+          "x": 1812,
+          "y": 401,
           "w": 64,
           "h": 64
         },
@@ -18575,8 +18584,8 @@
       },
       "live_auto_button_on.png": {
         "frame": {
-          "x": 756,
-          "y": 1808,
+          "x": 1812,
+          "y": 469,
           "w": 64,
           "h": 64
         },
@@ -18584,7 +18593,7 @@
       },
       "live_auto_unlock_condition_balloon.png": {
         "frame": {
-          "x": 144,
+          "x": 219,
           "y": 1775,
           "w": 311,
           "h": 49
@@ -18638,8 +18647,8 @@
       },
       "memory_skill_gauge_frame.png": {
         "frame": {
-          "x": 1719,
-          "y": 1574,
+          "x": 535,
+          "y": 1775,
           "w": 100,
           "h": 100
         },
@@ -18647,8 +18656,8 @@
       },
       "memory_skill_icon.png": {
         "frame": {
-          "x": 1712,
-          "y": 1720,
+          "x": 1750,
+          "y": 1466,
           "w": 76,
           "h": 76
         },
@@ -18674,8 +18683,8 @@
       },
       "passive_effect_rainbow.png": {
         "frame": {
-          "x": 612,
-          "y": 1808,
+          "x": 1735,
+          "y": 1720,
           "w": 72,
           "h": 64
         },
@@ -18692,8 +18701,8 @@
       },
       "pause_button.png": {
         "frame": {
-          "x": 824,
-          "y": 1808,
+          "x": 1735,
+          "y": 1788,
           "w": 64,
           "h": 64
         },
@@ -18728,7 +18737,7 @@
       },
       "plus_on.png": {
         "frame": {
-          "x": 946,
+          "x": 905,
           "y": 1833,
           "w": 90,
           "h": 30
@@ -18737,8 +18746,8 @@
       },
       "rainbow_passive_twinkle.png": {
         "frame": {
-          "x": 612,
-          "y": 1775,
+          "x": 1699,
+          "y": 1720,
           "w": 23,
           "h": 27
         },
@@ -18774,7 +18783,7 @@
       "skill_card_change_base.png": {
         "frame": {
           "x": 1510,
-          "y": 1716,
+          "y": 1618,
           "w": 198,
           "h": 78
         },
@@ -18800,8 +18809,8 @@
       },
       "skillcard_icon_status_dance.png": {
         "frame": {
-          "x": 1040,
-          "y": 1833,
+          "x": 1818,
+          "y": 289,
           "w": 56,
           "h": 16
         },
@@ -18809,8 +18818,8 @@
       },
       "skillcard_icon_status_visual.png": {
         "frame": {
-          "x": 1783,
-          "y": 609,
+          "x": 1818,
+          "y": 309,
           "w": 56,
           "h": 16
         },
@@ -18818,8 +18827,8 @@
       },
       "skillcard_icon_status_vocal.png": {
         "frame": {
-          "x": 1100,
-          "y": 1833,
+          "x": 1818,
+          "y": 329,
           "w": 56,
           "h": 16
         },
@@ -18827,8 +18836,8 @@
       },
       "slow_icon.png": {
         "frame": {
-          "x": 1756,
-          "y": 1800,
+          "x": 1788,
+          "y": 1644,
           "w": 72,
           "h": 72
         },
@@ -18836,8 +18845,8 @@
       },
       "speed_button.png": {
         "frame": {
-          "x": 1799,
-          "y": 401,
+          "x": 1811,
+          "y": 1720,
           "w": 64,
           "h": 64
         },
@@ -18845,8 +18854,8 @@
       },
       "speed_button_2.png": {
         "frame": {
-          "x": 1799,
-          "y": 469,
+          "x": 1803,
+          "y": 1788,
           "w": 64,
           "h": 64
         },
@@ -18890,8 +18899,8 @@
       },
       "timing_gauge_slider.png": {
         "frame": {
-          "x": 1863,
-          "y": 1,
+          "x": 1799,
+          "y": 401,
           "w": 9,
           "h": 101
         },
@@ -18899,8 +18908,8 @@
       },
       "unknown_idol_icon.png": {
         "frame": {
-          "x": 892,
-          "y": 1808,
+          "x": 1826,
+          "y": 141,
           "w": 50,
           "h": 50
         },
@@ -19950,10 +19959,10 @@
   "images/ui/concert/parts_text": {
     "name": "images/ui/concert/parts_text",
     "ext": ".png",
-    "url": "/assets/5698f599582f03f09af4371b259515919d7971e44d8aeb2e74e6ff3567c2ea17?v=11",
-    "v": 11,
+    "url": "/assets/5698f599582f03f09af4371b259515919d7971e44d8aeb2e74e6ff3567c2ea17?v=12",
+    "v": 12,
     "frames": {
-      "link_appeal_text.png": {
+      "exchange_text.png": {
         "frame": {
           "x": 1,
           "y": 1,
@@ -19962,25 +19971,7 @@
         },
         "rotated": false
       },
-      "link_appeal_text_content.png": {
-        "frame": {
-          "x": 1,
-          "y": 662,
-          "w": 256,
-          "h": 64
-        },
-        "rotated": false
-      },
-      "link_appeal_text_mask.png": {
-        "frame": {
-          "x": 1,
-          "y": 730,
-          "w": 256,
-          "h": 64
-        },
-        "rotated": false
-      },
-      "plus_appeal_text.png": {
+      "link_appeal_text.png": {
         "frame": {
           "x": 1,
           "y": 171,
@@ -19989,10 +19980,37 @@
         },
         "rotated": false
       },
+      "link_appeal_text_content.png": {
+        "frame": {
+          "x": 657,
+          "y": 1033,
+          "w": 256,
+          "h": 64
+        },
+        "rotated": false
+      },
+      "link_appeal_text_mask.png": {
+        "frame": {
+          "x": 1,
+          "y": 1063,
+          "w": 256,
+          "h": 64
+        },
+        "rotated": false
+      },
+      "plus_appeal_text.png": {
+        "frame": {
+          "x": 1,
+          "y": 341,
+          "w": 1135,
+          "h": 166
+        },
+        "rotated": false
+      },
       "text_appeal_all.png": {
         "frame": {
-          "x": 167,
-          "y": 997,
+          "x": 366,
+          "y": 832,
           "w": 160,
           "h": 58
         },
@@ -20000,8 +20018,8 @@
       },
       "text_appeal_dance.png": {
         "frame": {
-          "x": 167,
-          "y": 1059,
+          "x": 530,
+          "y": 832,
           "w": 160,
           "h": 58
         },
@@ -20009,8 +20027,8 @@
       },
       "text_appeal_dance_mask.png": {
         "frame": {
-          "x": 193,
-          "y": 897,
+          "x": 953,
+          "y": 997,
           "w": 160,
           "h": 58
         },
@@ -20019,7 +20037,7 @@
       "text_appeal_mask.png": {
         "frame": {
           "x": 813,
-          "y": 341,
+          "y": 511,
           "w": 291,
           "h": 108
         },
@@ -20027,8 +20045,8 @@
       },
       "text_appeal_s_mask.png": {
         "frame": {
-          "x": 331,
-          "y": 959,
+          "x": 493,
+          "y": 994,
           "w": 160,
           "h": 58
         },
@@ -20036,8 +20054,8 @@
       },
       "text_appeal_start.png": {
         "frame": {
-          "x": 371,
-          "y": 341,
+          "x": 1,
+          "y": 511,
           "w": 438,
           "h": 176
         },
@@ -20045,8 +20063,8 @@
       },
       "text_appeal_visual.png": {
         "frame": {
-          "x": 357,
-          "y": 854,
+          "x": 493,
+          "y": 1056,
           "w": 160,
           "h": 58
         },
@@ -20054,8 +20072,8 @@
       },
       "text_appeal_vocal.png": {
         "frame": {
-          "x": 331,
-          "y": 1021,
+          "x": 917,
+          "y": 1059,
           "w": 160,
           "h": 58
         },
@@ -20063,8 +20081,8 @@
       },
       "text_finish_appeal.png": {
         "frame": {
-          "x": 879,
-          "y": 653,
+          "x": 987,
+          "y": 800,
           "w": 127,
           "h": 63
         },
@@ -20072,8 +20090,8 @@
       },
       "text_memory_bad.png": {
         "frame": {
-          "x": 261,
-          "y": 744,
+          "x": 741,
+          "y": 824,
           "w": 217,
           "h": 106
         },
@@ -20081,8 +20099,8 @@
       },
       "text_over_appeal.png": {
         "frame": {
-          "x": 1010,
-          "y": 706,
+          "x": 1,
+          "y": 996,
           "w": 122,
           "h": 50
         },
@@ -20090,8 +20108,8 @@
       },
       "text_ready_1.png": {
         "frame": {
-          "x": 371,
-          "y": 521,
+          "x": 1,
+          "y": 691,
           "w": 366,
           "h": 127
         },
@@ -20099,8 +20117,8 @@
       },
       "text_ready_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 531,
+          "x": 371,
+          "y": 701,
           "w": 366,
           "h": 127
         },
@@ -20108,8 +20126,8 @@
       },
       "text_star_bonus.png": {
         "frame": {
-          "x": 1,
-          "y": 997,
+          "x": 962,
+          "y": 867,
           "w": 162,
           "h": 61
         },
@@ -20117,8 +20135,8 @@
       },
       "text_star_bonus_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 1062,
+          "x": 962,
+          "y": 932,
           "w": 162,
           "h": 61
         },
@@ -20126,8 +20144,8 @@
       },
       "text_start_mask.png": {
         "frame": {
-          "x": 371,
-          "y": 652,
+          "x": 280,
+          "y": 898,
           "w": 257,
           "h": 88
         },
@@ -20135,8 +20153,8 @@
       },
       "text_timing_bad.png": {
         "frame": {
-          "x": 482,
-          "y": 744,
+          "x": 987,
+          "y": 724,
           "w": 140,
           "h": 72
         },
@@ -20144,8 +20162,8 @@
       },
       "text_timing_bad_mask.png": {
         "frame": {
-          "x": 1,
-          "y": 897,
+          "x": 541,
+          "y": 894,
           "w": 188,
           "h": 96
         },
@@ -20153,8 +20171,8 @@
       },
       "text_timing_gauge_ready.png": {
         "frame": {
-          "x": 1,
-          "y": 341,
+          "x": 443,
+          "y": 511,
           "w": 366,
           "h": 186
         },
@@ -20162,8 +20180,8 @@
       },
       "text_timing_good.png": {
         "frame": {
-          "x": 1,
-          "y": 798,
+          "x": 733,
+          "y": 934,
           "w": 216,
           "h": 95
         },
@@ -20171,8 +20189,8 @@
       },
       "text_timing_good_mask.png": {
         "frame": {
-          "x": 632,
-          "y": 728,
+          "x": 741,
+          "y": 724,
           "w": 242,
           "h": 96
         },
@@ -20180,8 +20198,8 @@
       },
       "text_timing_normal.png": {
         "frame": {
-          "x": 632,
-          "y": 653,
+          "x": 1,
+          "y": 921,
           "w": 243,
           "h": 71
         },
@@ -20189,8 +20207,8 @@
       },
       "text_timing_normal_mask.png": {
         "frame": {
-          "x": 878,
-          "y": 760,
+          "x": 248,
+          "y": 990,
           "w": 241,
           "h": 69
         },
@@ -20198,8 +20216,8 @@
       },
       "text_timing_perfect.png": {
         "frame": {
-          "x": 741,
-          "y": 554,
+          "x": 1,
+          "y": 822,
           "w": 275,
           "h": 95
         },
@@ -20208,7 +20226,7 @@
       "text_timing_perfect_mask.png": {
         "frame": {
           "x": 813,
-          "y": 453,
+          "y": 623,
           "w": 282,
           "h": 97
         },
@@ -20216,8 +20234,8 @@
       },
       "text_top_appeal.png": {
         "frame": {
-          "x": 1020,
-          "y": 554,
+          "x": 280,
+          "y": 822,
           "w": 82,
           "h": 72
         },
@@ -20225,8 +20243,8 @@
       },
       "text_top_appeal_mask.png": {
         "frame": {
-          "x": 1020,
-          "y": 630,
+          "x": 261,
+          "y": 1063,
           "w": 82,
           "h": 72
         },
@@ -40229,8 +40247,8 @@
   "images/ui/common/parts_buttons": {
     "name": "images/ui/common/parts_buttons",
     "ext": ".png",
-    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=69",
-    "v": 69,
+    "url": "/assets/4de32a008aefb569637d432ae95156ad0104980ae1403a23f017627048fb8e83?v=70",
+    "v": 70,
     "frames": {
       "ability_acquirement_button.png": {
         "frame": {
@@ -40466,24 +40484,6 @@
         },
         "rotated": false
       },
-      "check_box_off_button.png": {
-        "frame": {
-          "x": 1221,
-          "y": 309,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "check_box_on_button.png": {
-        "frame": {
-          "x": 1071,
-          "y": 467,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
       "clear_button.png": {
         "frame": {
           "x": 763,
@@ -40513,8 +40513,8 @@
       },
       "close_icon_button.png": {
         "frame": {
-          "x": 1380,
-          "y": 1235,
+          "x": 1221,
+          "y": 309,
           "w": 42,
           "h": 42
         },
@@ -40655,6 +40655,24 @@
         },
         "rotated": false
       },
+      "exchange_skill_button.png": {
+        "frame": {
+          "x": 1382,
+          "y": 1025,
+          "w": 68,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "exchange_skill_circle_button.png": {
+        "frame": {
+          "x": 1412,
+          "y": 877,
+          "w": 29,
+          "h": 29
+        },
+        "rotated": false
+      },
       "fes_idol_limit_release_button.png": {
         "frame": {
           "x": 418,
@@ -40792,8 +40810,8 @@
       },
       "link_skill_button.png": {
         "frame": {
-          "x": 1382,
-          "y": 1025,
+          "x": 1380,
+          "y": 1235,
           "w": 68,
           "h": 38
         },
@@ -41062,8 +41080,8 @@
       },
       "more_button.png": {
         "frame": {
-          "x": 1426,
-          "y": 1235,
+          "x": 1071,
+          "y": 467,
           "w": 42,
           "h": 42
         },
@@ -41269,8 +41287,8 @@
       },
       "plus_skill_circle_button.png": {
         "frame": {
-          "x": 1412,
-          "y": 877,
+          "x": 1067,
+          "y": 549,
           "w": 29,
           "h": 29
         },
@@ -41396,7 +41414,7 @@
       "right_circle_button.png": {
         "frame": {
           "x": 1071,
-          "y": 519,
+          "y": 513,
           "w": 32,
           "h": 32
         },
@@ -49996,8 +50014,8 @@
   "images/ui/fes/fes_deck": {
     "name": "images/ui/fes/fes_deck",
     "ext": ".png",
-    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=6",
-    "v": 6,
+    "url": "/assets/8023de3bf678de6d526c55382e2a4ced21a25a1be9393c40de25e0d688e30fcc?v=7",
+    "v": 7,
     "frames": {
       "active_skill_select_base.png": {
         "frame": {
@@ -50226,8 +50244,8 @@
       },
       "icon_music_disc.png": {
         "frame": {
-          "x": 91,
-          "y": 1322,
+          "x": 1255,
+          "y": 1057,
           "w": 26,
           "h": 24
         },
@@ -50316,35 +50334,17 @@
       },
       "skill_none.png": {
         "frame": {
-          "x": 801,
-          "y": 669,
+          "x": 1085,
+          "y": 517,
           "w": 42,
           "h": 42
         },
         "rotated": false
       },
-      "skill_select_check_box.png": {
-        "frame": {
-          "x": 1085,
-          "y": 517,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
-      "skill_select_check_box_on.png": {
-        "frame": {
-          "x": 749,
-          "y": 711,
-          "w": 48,
-          "h": 48
-        },
-        "rotated": false
-      },
       "title_edit_button.png": {
         "frame": {
-          "x": 91,
-          "y": 1282,
+          "x": 801,
+          "y": 669,
           "w": 36,
           "h": 36
         },
@@ -65119,6 +65119,41 @@
     "name": "images/tips/game_event/103/003",
     "ext": ".jpg",
     "url": "/assets/cb8e8a8823c2b3afdd71dc5226c882fb3c3208e5d0b4640e70e3230ceff5b9f3?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/104/001": {
+    "name": "images/tips/game_event/104/001",
+    "ext": ".jpg",
+    "url": "/assets/ef30b897bd24ad39f3a03852550dbbd9844d58c2de69165b3e75f0de45049aee?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/104/002": {
+    "name": "images/tips/game_event/104/002",
+    "ext": ".jpg",
+    "url": "/assets/659114e2665ff9482f14d135207464495050d2088d2cf644b8835a4c2205f85d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/104/003": {
+    "name": "images/tips/game_event/104/003",
+    "ext": ".jpg",
+    "url": "/assets/593a5f504e9da166028a21373783e0c6e8cb1f4f606240c7420a88355bbdc413?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70009/001": {
+    "name": "images/tips/game_event/70009/001",
+    "ext": ".jpg",
+    "url": "/assets/28b80ee908ca31e9cf1aa74d3ab22fff95c06b3b9a560068dda49c400e4109c2?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70009/002": {
+    "name": "images/tips/game_event/70009/002",
+    "ext": ".jpg",
+    "url": "/assets/99f57eba1f511a6b965d1dc684f0c73853739b588d0125120ea4c6515a70c498?v=1",
     "v": 1,
     "frames": null
   }
