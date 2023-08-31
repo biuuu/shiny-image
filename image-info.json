@@ -1724,15 +1724,15 @@
   "images/tips/ex_skill/001": {
     "name": "images/tips/ex_skill/001",
     "ext": ".jpg",
-    "url": "/assets/36d2bd1b5451ac69d5d0fc373810d79d379d959cc98a7f9871b613807356400e?v=6",
-    "v": 6,
+    "url": "/assets/36d2bd1b5451ac69d5d0fc373810d79d379d959cc98a7f9871b613807356400e?v=7",
+    "v": 7,
     "frames": null
   },
   "images/tips/ex_skill/002": {
     "name": "images/tips/ex_skill/002",
     "ext": ".jpg",
-    "url": "/assets/8bd89a0a166983744047d4503eaf6ca794f2584cceeae970f4b46f0e30ec689b?v=6",
-    "v": 6,
+    "url": "/assets/8bd89a0a166983744047d4503eaf6ca794f2584cceeae970f4b46f0e30ec689b?v=7",
+    "v": 7,
     "frames": null
   },
   "images/tips/ex_skill/003": {
@@ -1745,8 +1745,8 @@
   "images/tips/ex_skill/004": {
     "name": "images/tips/ex_skill/004",
     "ext": ".jpg",
-    "url": "/assets/1aa997bdf791d51d5de359340d0ffda04d60016b6dbd6958384fce933ad0e1ae?v=2",
-    "v": 2,
+    "url": "/assets/1aa997bdf791d51d5de359340d0ffda04d60016b6dbd6958384fce933ad0e1ae?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/game_event/12/001": {
@@ -10421,13 +10421,13 @@
   "images/ui/ex_skill/parts": {
     "name": "images/ui/ex_skill/parts",
     "ext": ".png",
-    "url": "/assets/0b19160592681ff75c37d324ad5297cd0381e454b1dcb770c8318f14a75af99c?v=6",
-    "v": 6,
+    "url": "/assets/0b19160592681ff75c37d324ad5297cd0381e454b1dcb770c8318f14a75af99c?v=7",
+    "v": 7,
     "frames": {
       "ex_skill_color_circle_yellow_blur.png": {
         "frame": {
-          "x": 775,
-          "y": 1,
+          "x": 1,
+          "y": 513,
           "w": 128,
           "h": 128
         },
@@ -10435,8 +10435,8 @@
       },
       "ex_skill_condition_panel_base.png": {
         "frame": {
-          "x": 613,
-          "y": 591,
+          "x": 1,
+          "y": 273,
           "w": 292,
           "h": 162
         },
@@ -10445,7 +10445,7 @@
       "ex_skill_footer_base.png": {
         "frame": {
           "x": 1,
-          "y": 475,
+          "y": 1,
           "w": 674,
           "h": 68
         },
@@ -10454,7 +10454,7 @@
       "ex_skill_idol_base_type_produce.png": {
         "frame": {
           "x": 1,
-          "y": 547,
+          "y": 73,
           "w": 608,
           "h": 96
         },
@@ -10463,7 +10463,7 @@
       "ex_skill_idol_base_type_support.png": {
         "frame": {
           "x": 1,
-          "y": 647,
+          "y": 173,
           "w": 608,
           "h": 96
         },
@@ -10471,26 +10471,44 @@
       },
       "ex_skill_idol_list_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1,
-          "w": 770,
-          "h": 470
+          "x": 613,
+          "y": 73,
+          "w": 23,
+          "h": 82
         },
         "rotated": false
       },
       "ex_skill_list_label_base.png": {
         "frame": {
-          "x": 169,
-          "y": 805,
+          "x": 297,
+          "y": 273,
           "w": 284,
           "h": 40
         },
         "rotated": false
       },
+      "ex_skill_list_possession_base.png": {
+        "frame": {
+          "x": 479,
+          "y": 317,
+          "w": 74,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "ex_skill_list_possession_upgrade_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 645,
+          "w": 74,
+          "h": 28
+        },
+        "rotated": false
+      },
       "select_ex_skill_frame.png": {
         "frame": {
-          "x": 775,
-          "y": 133,
+          "x": 585,
+          "y": 273,
           "w": 82,
           "h": 82
         },
@@ -10498,8 +10516,8 @@
       },
       "tab_produce_idol_off.png": {
         "frame": {
-          "x": 1,
-          "y": 757,
+          "x": 297,
+          "y": 375,
           "w": 164,
           "h": 44
         },
@@ -10507,8 +10525,8 @@
       },
       "tab_produce_idol_on.png": {
         "frame": {
-          "x": 1,
-          "y": 805,
+          "x": 465,
+          "y": 417,
           "w": 164,
           "h": 44
         },
@@ -10516,8 +10534,8 @@
       },
       "tab_support_idol_off.png": {
         "frame": {
-          "x": 1,
-          "y": 853,
+          "x": 297,
+          "y": 423,
           "w": 164,
           "h": 44
         },
@@ -10525,8 +10543,8 @@
       },
       "tab_support_idol_on.png": {
         "frame": {
-          "x": 169,
-          "y": 757,
+          "x": 465,
+          "y": 465,
           "w": 164,
           "h": 44
         },
@@ -10534,8 +10552,8 @@
       },
       "upgrade_button_black.png": {
         "frame": {
-          "x": 679,
-          "y": 475,
+          "x": 297,
+          "y": 317,
           "w": 178,
           "h": 54
         },
@@ -10543,8 +10561,8 @@
       },
       "upgrade_button_red.png": {
         "frame": {
-          "x": 679,
-          "y": 533,
+          "x": 479,
+          "y": 359,
           "w": 178,
           "h": 54
         },
@@ -49322,46 +49340,73 @@
   "images/ui/gasha/parts_unit_select": {
     "name": "images/ui/gasha/parts_unit_select",
     "ext": ".png",
-    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=3",
-    "v": 3,
+    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=4",
+    "v": 4,
     "frames": {
-      "gasha_unit_change_button.png": {
-        "frame": {
-          "x": 285,
-          "y": 73,
-          "w": 128,
-          "h": 54
-        },
-        "rotated": false
-      },
-      "gasha_unit_select_button.png": {
-        "frame": {
-          "x": 285,
-          "y": 131,
-          "w": 128,
-          "h": 54
-        },
-        "rotated": false
-      },
       "provide_rate_long_wide_button.png": {
         "frame": {
-          "x": 1,
-          "y": 39,
+          "x": 261,
+          "y": 89,
           "w": 148,
           "h": 70
         },
         "rotated": false
       },
-      "unit_name_base.png": {
+      "remaining_step_text.png": {
         "frame": {
           "x": 153,
-          "y": 39,
-          "w": 256,
-          "h": 30
+          "y": 167,
+          "w": 80,
+          "h": 14
         },
         "rotated": false
       },
-      "unit_select_label.png": {
+      "reselection_gasha_base_label.png": {
+        "frame": {
+          "x": 1,
+          "y": 39,
+          "w": 450,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "reselection_gasha_base_unit_change_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 123,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "reselection_gasha_base_unit_fix_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 165,
+          "w": 148,
+          "h": 38
+        },
+        "rotated": false
+      },
+      "reselection_gasha_off_button.png": {
+        "frame": {
+          "x": 249,
+          "y": 163,
+          "w": 128,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "reselection_gasha_on_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 207,
+          "w": 128,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "selection_gasha_base_label.png": {
         "frame": {
           "x": 1,
           "y": 1,
@@ -49370,21 +49415,120 @@
         },
         "rotated": false
       },
-      "unit_select_off_button.png": {
+      "selection_gasha_base_unit_change_button.png": {
         "frame": {
-          "x": 153,
-          "y": 73,
+          "x": 1,
+          "y": 347,
+          "w": 128,
+          "h": 54
+        },
+        "rotated": false
+      },
+      "selection_gasha_base_unit_confirm_button.png": {
+        "frame": {
+          "x": 133,
+          "y": 303,
+          "w": 128,
+          "h": 54
+        },
+        "rotated": false
+      },
+      "selection_gasha_off_button.png": {
+        "frame": {
+          "x": 213,
+          "y": 237,
           "w": 128,
           "h": 62
         },
         "rotated": false
       },
-      "unit_select_on_button.png": {
+      "selection_gasha_on_button.png": {
         "frame": {
           "x": 1,
-          "y": 113,
+          "y": 281,
           "w": 128,
           "h": 62
+        },
+        "rotated": false
+      },
+      "step_text.png": {
+        "frame": {
+          "x": 1,
+          "y": 71,
+          "w": 444,
+          "h": 14
+        },
+        "rotated": false
+      },
+      "unit_logo_001.png": {
+        "frame": {
+          "x": 381,
+          "y": 163,
+          "w": 63,
+          "h": 35
+        },
+        "rotated": false
+      },
+      "unit_logo_002.png": {
+        "frame": {
+          "x": 133,
+          "y": 214,
+          "w": 76,
+          "h": 29
+        },
+        "rotated": false
+      },
+      "unit_logo_003.png": {
+        "frame": {
+          "x": 381,
+          "y": 202,
+          "w": 52,
+          "h": 35
+        },
+        "rotated": false
+      },
+      "unit_logo_004.png": {
+        "frame": {
+          "x": 133,
+          "y": 247,
+          "w": 41,
+          "h": 36
+        },
+        "rotated": false
+      },
+      "unit_logo_005.png": {
+        "frame": {
+          "x": 153,
+          "y": 148,
+          "w": 92,
+          "h": 15
+        },
+        "rotated": false
+      },
+      "unit_logo_006.png": {
+        "frame": {
+          "x": 153,
+          "y": 123,
+          "w": 102,
+          "h": 21
+        },
+        "rotated": false
+      },
+      "unit_logo_007.png": {
+        "frame": {
+          "x": 153,
+          "y": 185,
+          "w": 79,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "unit_name_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 89,
+          "w": 256,
+          "h": 30
         },
         "rotated": false
       }
@@ -65901,6 +66045,27 @@
     "name": "images/tips/game_event/108/003",
     "ext": ".jpg",
     "url": "/assets/7225930b98fa6537b94fdd5d5889987f787e4c4070c6ba44612badac87911e5a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/109/001": {
+    "name": "images/tips/game_event/109/001",
+    "ext": ".jpg",
+    "url": "/assets/4d65be3c798ee8896f80d813b513d18c43164ac2c8df1231bdf5d7c8f74ccb3f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/109/002": {
+    "name": "images/tips/game_event/109/002",
+    "ext": ".jpg",
+    "url": "/assets/5e02eb1b9a0c5da5b56fa0152c11cd5f2d805c9ff69da55d1940d14fb77568ea?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/109/003": {
+    "name": "images/tips/game_event/109/003",
+    "ext": ".jpg",
+    "url": "/assets/09951958d653a7f411ef369232efa73d0abd300965e2dd92def80f38a16ad3ec?v=1",
     "v": 1,
     "frames": null
   }
