@@ -47,7 +47,7 @@ const start = async () => {
   const files = await glob.promise('./images/**/*.{png,jpg}')
   const imageMap = new Map()
   for (let file of files) {
-    let rs = file.match(/images\/(.+)\/(.+\.(png|jpg))/)
+    let rs = file.match(/images\/(.+?)\/(.+\.(png|jpg))/)
     const name1 = rs[1]
     const name2 = rs[2]
     if (!imageMap.has(name1)) {
@@ -62,7 +62,7 @@ const start = async () => {
     if (key === 'tips') {
       for (let name of list) {
         const filePath = `./images/tips/${name}`
-        const fileName = name.replace(/\.jpg$/, '')
+        const fileName = name.replace(/\.jpg$/, '').replace(/\//g, '_')
         let md5Value = await md5(filePath)
         imageMd5[fileName] = md5Value
         await fs.copy(filePath, `./dist/image/tips/${name}`)
