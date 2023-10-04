@@ -44,7 +44,7 @@ const start = async () => {
   await fs.emptyDir('./dist/')
   await fs.emptyDir('./dist/image/')
   await fs.emptyDir('./temp/')
-  const files = await glob.promise('./images/*/*.{png,jpg}')
+  const files = await glob.promise('./images/**/*.{png,jpg}')
   const imageMap = new Map()
   for (let file of files) {
     let rs = file.match(/images\/(.+)\/(.+\.(png|jpg))/)
