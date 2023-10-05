@@ -46,5 +46,9 @@
   "images/ui/character_album/parts.json_image",
   "images/ui/evolution/parts.json_image",
   "images/ui/work_activity_ready/parts.json_image",
-  "images/ui/producer_desk/parts.json_image"
+  "images/ui/producer_desk/parts.json_image",
+  "images/ui/auto_play/parts.json_image",
+  "images/ui/auto_play/parts_skip_pop.json_image",
+  "images/ui/produce_area/parts.json_image",
+  "images/ui/produce_music_common/parts.json_image"
 ]
