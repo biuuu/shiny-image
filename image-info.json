@@ -2515,8 +2515,8 @@
   "images/tips/invitation/002": {
     "name": "images/tips/invitation/002",
     "ext": ".jpg",
-    "url": "/assets/d2638ce07b5d7b8630c357cc53eab15058d72e6f0f3cbc6c658c3133b3b83748?v=3",
-    "v": 3,
+    "url": "/assets/d2638ce07b5d7b8630c357cc53eab15058d72e6f0f3cbc6c658c3133b3b83748?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/invitation/003": {
@@ -2725,8 +2725,8 @@
   "images/tips/invitation/001": {
     "name": "images/tips/invitation/001",
     "ext": ".jpg",
-    "url": "/assets/4cec257354e53e29e52f10f38319888b24bb58db88c2d51852705dac45d269ab?v=3",
-    "v": 3,
+    "url": "/assets/4cec257354e53e29e52f10f38319888b24bb58db88c2d51852705dac45d269ab?v=4",
+    "v": 4,
     "frames": null
   },
   "images/tips/shop/003": {
@@ -11342,8 +11342,8 @@
   "images/ui/init/parts": {
     "name": "images/ui/init/parts",
     "ext": ".png",
-    "url": "/assets/4699fe20464a18a4a8525da5babec41ec2875438aab3194c55ad6c5f6a3740c3?v=11",
-    "v": 11,
+    "url": "/assets/4699fe20464a18a4a8525da5babec41ec2875438aab3194c55ad6c5f6a3740c3?v=12",
+    "v": 12,
     "frames": {
       "button_store.png": {
         "frame": {
@@ -36449,8 +36449,8 @@
   "images/ui/option/parts": {
     "name": "images/ui/option/parts",
     "ext": ".png",
-    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=26",
-    "v": 26,
+    "url": "/assets/eba96ec17f0360f0c4f5405caf4ab48a17dd6915516ac2940b2679a91addee3b?v=27",
+    "v": 27,
     "frames": {
       "bar_base.png": {
         "frame": {
@@ -69575,6 +69575,13 @@
     "name": "images/tips/game_event/20037/005",
     "ext": ".jpg",
     "url": "/assets/fe65b6a34b12acd4e527c9e7ff6bd736a9ddf729809ed6647dba312d94a71214?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80018/001": {
+    "name": "images/tips/game_event/80018/001",
+    "ext": ".jpg",
+    "url": "/assets/b221c151e81a998cde118373d27bf02dfa9b919579b8d4ecf46faf7f8ff7de49?v=1",
     "v": 1,
     "frames": null
   }
