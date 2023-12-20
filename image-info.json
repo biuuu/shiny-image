@@ -35489,13 +35489,13 @@
   "images/ui/concert/parts_effect": {
     "name": "images/ui/concert/parts_effect",
     "ext": ".png",
-    "url": "/assets/69f5b8da3196c137e5390e6cfee80fb1c624feafa75ed5e4cb6783f77756ea4a?v=12",
-    "v": 12,
+    "url": "/assets/69f5b8da3196c137e5390e6cfee80fb1c624feafa75ed5e4cb6783f77756ea4a?v=13",
+    "v": 13,
     "frames": {
       "concert_light_circle.png": {
         "frame": {
-          "x": 622,
-          "y": 197,
+          "x": 759,
+          "y": 426,
           "w": 150,
           "h": 150
         },
@@ -35503,8 +35503,8 @@
       },
       "flash_light_ssr_01.png": {
         "frame": {
-          "x": 805,
-          "y": 1,
+          "x": 1,
+          "y": 833,
           "w": 128,
           "h": 128
         },
@@ -35512,8 +35512,8 @@
       },
       "light_flare_closs_blue.png": {
         "frame": {
-          "x": 852,
-          "y": 265,
+          "x": 886,
+          "y": 294,
           "w": 62,
           "h": 64
         },
@@ -35521,8 +35521,8 @@
       },
       "memory_appeal_bg_boke.png": {
         "frame": {
-          "x": 599,
-          "y": 432,
+          "x": 1,
+          "y": 573,
           "w": 256,
           "h": 256
         },
@@ -35530,8 +35530,8 @@
       },
       "memory_bad_bg.png": {
         "frame": {
-          "x": 605,
-          "y": 351,
+          "x": 261,
+          "y": 770,
           "w": 284,
           "h": 77
         },
@@ -35539,8 +35539,8 @@
       },
       "memory_effect_back.png": {
         "frame": {
-          "x": 395,
-          "y": 373,
+          "x": 549,
+          "y": 770,
           "w": 200,
           "h": 200
         },
@@ -35549,7 +35549,7 @@
       "memory_effect_front.png": {
         "frame": {
           "x": 1,
-          "y": 465,
+          "y": 197,
           "w": 390,
           "h": 372
         },
@@ -35557,8 +35557,8 @@
       },
       "memory_film_base_effect.png": {
         "frame": {
-          "x": 893,
-          "y": 333,
+          "x": 846,
+          "y": 294,
           "w": 36,
           "h": 128
         },
@@ -35566,17 +35566,26 @@
       },
       "memory_gauge_overlay.png": {
         "frame": {
-          "x": 805,
-          "y": 133,
+          "x": 846,
+          "y": 162,
           "w": 128,
           "h": 128
         },
         "rotated": false
       },
+      "new_skill_circle.png": {
+        "frame": {
+          "x": 753,
+          "y": 770,
+          "w": 182,
+          "h": 182
+        },
+        "rotated": false
+      },
       "passive_skill_base_boke.png": {
         "frame": {
-          "x": 1,
-          "y": 841,
+          "x": 395,
+          "y": 426,
           "w": 360,
           "h": 92
         },
@@ -35584,8 +35593,8 @@
       },
       "passive_skill_base_normal.png": {
         "frame": {
-          "x": 1,
-          "y": 197,
+          "x": 261,
+          "y": 594,
           "w": 617,
           "h": 114
         },
@@ -35602,8 +35611,8 @@
       },
       "passive_skill_text_special.png": {
         "frame": {
-          "x": 1,
-          "y": 373,
+          "x": 395,
+          "y": 522,
           "w": 354,
           "h": 68
         },
@@ -35611,8 +35620,8 @@
       },
       "recover_skill_icon.png": {
         "frame": {
-          "x": 776,
-          "y": 265,
+          "x": 133,
+          "y": 833,
           "w": 72,
           "h": 72
         },
@@ -35621,7 +35630,7 @@
       "reraise_frame_light.png": {
         "frame": {
           "x": 395,
-          "y": 692,
+          "y": 197,
           "w": 447,
           "h": 225
         },
@@ -35629,10 +35638,19 @@
       },
       "score_bonus_base.png": {
         "frame": {
-          "x": 1,
-          "y": 315,
+          "x": 261,
+          "y": 712,
           "w": 600,
           "h": 54
+        },
+        "rotated": false
+      },
+      "skill_white.png": {
+        "frame": {
+          "x": 805,
+          "y": 1,
+          "w": 157,
+          "h": 157
         },
         "rotated": false
       }
@@ -69810,6 +69828,55 @@
     "name": "images/tips/game_event/115/002",
     "ext": ".jpg",
     "url": "/assets/e187a518c5b6f8e3def4d7239ad4d100b732551879d3c1f2d75cc54c5871b0db?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/116/001": {
+    "name": "images/tips/game_event/116/001",
+    "ext": ".jpg",
+    "url": "/assets/393c7707faa489f912104dc4bb7d4f9c56f1b71ac55ff56a1a64bdfede35c4fb?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/116/002": {
+    "name": "images/tips/game_event/116/002",
+    "ext": ".jpg",
+    "url": "/assets/edad5f5c27420dbab414dbab8efe73d687ce188d17428e67ac11722bdd0e9e21?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/116/003": {
+    "name": "images/tips/game_event/116/003",
+    "ext": ".jpg",
+    "url": "/assets/68953d5bc392c5c0f9aa808d60735a93b6323dc4c1878c7f8a621d6b76883a91?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30025/001": {
+    "name": "images/tips/game_event/30025/001",
+    "ext": ".jpg",
+    "url": "/assets/807999ab696858f1b9a102d21941ca5829ff6a2f00c581e6d890d5505c3773d9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30025/002": {
+    "name": "images/tips/game_event/30025/002",
+    "ext": ".jpg",
+    "url": "/assets/1ed68ff55bd5b4c4519e6d995ce4f271effe3eabe024c78e056553effdb51aa5?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30025/003": {
+    "name": "images/tips/game_event/30025/003",
+    "ext": ".jpg",
+    "url": "/assets/ada58ad2d7be84993c5530e63a3792c686bd2cad8b2be6dcea3b61f246b4abb0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30025/009": {
+    "name": "images/tips/game_event/30025/009",
+    "ext": ".jpg",
+    "url": "/assets/4253cec7a74ca7acbd5ce6ea75e426518dc744eb2ccacb79b0068800f333acfd?v=1",
     "v": 1,
     "frames": null
   }
