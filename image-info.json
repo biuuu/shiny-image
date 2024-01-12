@@ -70077,5 +70077,12 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/80019/001": {
+    "name": "images/tips/game_event/80019/001",
+    "ext": ".jpg",
+    "url": "/assets/9e376c5b086b57afea81e5eefee870e187cc210d0fb4bbb76c4b1fdef02a1d8b?v=1",
+    "v": 1,
+    "frames": null
   }
 }
