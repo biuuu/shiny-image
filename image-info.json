@@ -70084,5 +70084,40 @@
     "url": "/assets/9e376c5b086b57afea81e5eefee870e187cc210d0fb4bbb76c4b1fdef02a1d8b?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/118/001": {
+    "name": "images/tips/game_event/118/001",
+    "ext": ".jpg",
+    "url": "/assets/46da1947b6a171f1ec933f3b71fe6213be45c295993eb85279e7158a2fb0bad2?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/118/002": {
+    "name": "images/tips/game_event/118/002",
+    "ext": ".jpg",
+    "url": "/assets/08bc4107dcdd02c5dcc72b82817ea9b7f5808aac2a5d2f4fd9092ef63b33f38d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/118/003": {
+    "name": "images/tips/game_event/118/003",
+    "ext": ".jpg",
+    "url": "/assets/0f8173c4aa1d000bd814123424fabd04cdbd07763347c9c937a91699132f808d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70011/001": {
+    "name": "images/tips/game_event/70011/001",
+    "ext": ".jpg",
+    "url": "/assets/a9e8d3ec86911542e4af96dea3ac4c91620be9b78de76ec17fe1959bdb7219ac?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/70011/002": {
+    "name": "images/tips/game_event/70011/002",
+    "ext": ".jpg",
+    "url": "/assets/01e7f27324cc1453cc68d802f7c266fed6af6a5970cb727abb50a743e5de20ef?v=1",
+    "v": 1,
+    "frames": null
   }
 }
