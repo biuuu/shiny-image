@@ -46438,13 +46438,13 @@
   "images/ui/shop/parts_monthly_passport": {
     "name": "images/ui/shop/parts_monthly_passport",
     "ext": ".png",
-    "url": "/assets/438ecf38b05cb7cf7ebe3bc03d06efaad47658c79eb34b3ab1f69ff9f897a1b6?v=10",
-    "v": 10,
+    "url": "/assets/438ecf38b05cb7cf7ebe3bc03d06efaad47658c79eb34b3ab1f69ff9f897a1b6?v=11",
+    "v": 11,
     "frames": {
       "balloon_extendable.png": {
         "frame": {
-          "x": 1413,
-          "y": 449,
+          "x": 1409,
+          "y": 505,
           "w": 200,
           "h": 46
         },
@@ -46452,8 +46452,8 @@
       },
       "balloon_first_time_discount.png": {
         "frame": {
-          "x": 824,
-          "y": 1509,
+          "x": 1599,
+          "y": 597,
           "w": 160,
           "h": 46
         },
@@ -46461,8 +46461,8 @@
       },
       "balloon_valid_for_30days.png": {
         "frame": {
-          "x": 1617,
-          "y": 449,
+          "x": 1613,
+          "y": 505,
           "w": 200,
           "h": 46
         },
@@ -46470,8 +46470,8 @@
       },
       "battle_pass_mission_reward_button.png": {
         "frame": {
-          "x": 1180,
-          "y": 1509,
+          "x": 1573,
+          "y": 647,
           "w": 158,
           "h": 38
         },
@@ -46479,8 +46479,8 @@
       },
       "battle_pass_mission_reward_expired_cover.png": {
         "frame": {
-          "x": 988,
-          "y": 1551,
+          "x": 1413,
+          "y": 51,
           "w": 452,
           "h": 2
         },
@@ -46488,8 +46488,8 @@
       },
       "battle_pass_stamp_card_button.png": {
         "frame": {
-          "x": 824,
-          "y": 1559,
+          "x": 1409,
+          "y": 555,
           "w": 188,
           "h": 38
         },
@@ -46500,13 +46500,13 @@
           "x": 1,
           "y": 1,
           "w": 700,
-          "h": 1829
+          "h": 1873
         },
         "rotated": false
       },
       "discount_arrow.png": {
         "frame": {
-          "x": 1733,
+          "x": 1823,
           "y": 57,
           "w": 21,
           "h": 21
@@ -46515,8 +46515,8 @@
       },
       "monthly_pass_daily_reward_button.png": {
         "frame": {
-          "x": 1342,
-          "y": 1509,
+          "x": 1409,
+          "y": 657,
           "w": 158,
           "h": 38
         },
@@ -46534,7 +46534,7 @@
       "monthly_passport_merchandise_base.png": {
         "frame": {
           "x": 1413,
-          "y": 57,
+          "y": 113,
           "w": 316,
           "h": 388
         },
@@ -46542,8 +46542,8 @@
       },
       "monthly_passport_status_expired.png": {
         "frame": {
-          "x": 824,
-          "y": 1601,
+          "x": 1733,
+          "y": 113,
           "w": 126,
           "h": 32
         },
@@ -46551,8 +46551,8 @@
       },
       "monthly_passport_status_possessed.png": {
         "frame": {
-          "x": 954,
-          "y": 1601,
+          "x": 1733,
+          "y": 149,
           "w": 126,
           "h": 32
         },
@@ -46560,8 +46560,8 @@
       },
       "monthly_passport_status_possessed_battle_pass.png": {
         "frame": {
-          "x": 1016,
-          "y": 1557,
+          "x": 1733,
+          "y": 185,
           "w": 126,
           "h": 32
         },
@@ -46569,8 +46569,8 @@
       },
       "monthly_passport_status_unpossessed.png": {
         "frame": {
-          "x": 1084,
-          "y": 1593,
+          "x": 1733,
+          "y": 221,
           "w": 126,
           "h": 32
         },
@@ -46578,8 +46578,8 @@
       },
       "purchased_date_and_time_title.png": {
         "frame": {
-          "x": 705,
-          "y": 1692,
+          "x": 1409,
+          "y": 597,
           "w": 186,
           "h": 24
         },
@@ -46587,8 +46587,8 @@
       },
       "reward_cleared_cover.png": {
         "frame": {
-          "x": 705,
-          "y": 1642,
+          "x": 1413,
+          "y": 1,
           "w": 452,
           "h": 46
         },
@@ -46596,8 +46596,8 @@
       },
       "shiny_pass_icon.png": {
         "frame": {
-          "x": 705,
-          "y": 1509,
+          "x": 1733,
+          "y": 257,
           "w": 115,
           "h": 129
         },
@@ -46615,7 +46615,7 @@
       "to_help_button.png": {
         "frame": {
           "x": 1413,
-          "y": 1,
+          "y": 57,
           "w": 406,
           "h": 52
         },
@@ -46623,8 +46623,8 @@
       },
       "unpurchasable_badge_base.png": {
         "frame": {
-          "x": 1146,
-          "y": 1557,
+          "x": 1409,
+          "y": 625,
           "w": 160,
           "h": 28
         },
@@ -46632,8 +46632,8 @@
       },
       "vip_point_purchase_short_button.png": {
         "frame": {
-          "x": 988,
-          "y": 1509,
+          "x": 1601,
+          "y": 555,
           "w": 188,
           "h": 38
         },
