@@ -75950,5 +75950,12 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/80022/001": {
+    "name": "images/tips/game_event/80022/001",
+    "ext": ".jpg",
+    "url": "/assets/fef02c9581ea18b5ba2788a4744b4fab097d892ceb711878498d47c256aeade5?v=1",
+    "v": 1,
+    "frames": null
   }
 }
