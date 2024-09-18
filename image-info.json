@@ -34307,13 +34307,13 @@
   "images/ui/gasha/parts_narrow_gasha_button": {
     "name": "images/ui/gasha/parts_narrow_gasha_button",
     "ext": ".png",
-    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=8",
-    "v": 8,
+    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=9",
+    "v": 9,
     "frames": {
       "all_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 224,
+          "x": 441,
+          "y": 214,
           "w": 158,
           "h": 31
         },
@@ -34321,8 +34321,8 @@
       },
       "costume_ticket_text.png": {
         "frame": {
-          "x": 163,
-          "y": 234,
+          "x": 437,
+          "y": 249,
           "w": 140,
           "h": 31
         },
@@ -34330,8 +34330,8 @@
       },
       "discount_gasha_button.png": {
         "frame": {
-          "x": 229,
-          "y": 1,
+          "x": 204,
+          "y": 351,
           "w": 198,
           "h": 89
         },
@@ -34339,8 +34339,8 @@
       },
       "last2_limited_ssr_txt.png": {
         "frame": {
-          "x": 213,
-          "y": 129,
+          "x": 229,
+          "y": 249,
           "w": 204,
           "h": 31
         },
@@ -34348,8 +34348,8 @@
       },
       "last3_limited_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 154,
+          "x": 229,
+          "y": 284,
           "w": 204,
           "h": 31
         },
@@ -34357,8 +34357,8 @@
       },
       "last_limited_ssr_txt.png": {
         "frame": {
-          "x": 209,
-          "y": 164,
+          "x": 1,
+          "y": 299,
           "w": 204,
           "h": 31
         },
@@ -34366,8 +34366,8 @@
       },
       "last_p_ssr_txt.png": {
         "frame": {
-          "x": 229,
-          "y": 94,
+          "x": 406,
+          "y": 417,
           "w": 190,
           "h": 31
         },
@@ -34375,8 +34375,8 @@
       },
       "last_pickup_limited_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 393,
+          "x": 313,
+          "y": 143,
           "w": 240,
           "h": 31
         },
@@ -34384,8 +34384,8 @@
       },
       "last_pickup_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 119,
+          "x": 229,
+          "y": 214,
           "w": 208,
           "h": 31
         },
@@ -34393,8 +34393,8 @@
       },
       "last_pickup_twilight_ssr_txt.png": {
         "frame": {
-          "x": 149,
-          "y": 305,
+          "x": 1,
+          "y": 109,
           "w": 308,
           "h": 32
         },
@@ -34403,7 +34403,7 @@
       "last_s_ssr_txt.png": {
         "frame": {
           "x": 1,
-          "y": 189,
+          "y": 366,
           "w": 190,
           "h": 31
         },
@@ -34411,26 +34411,62 @@
       },
       "last_sr_txt.png": {
         "frame": {
-          "x": 195,
-          "y": 199,
+          "x": 413,
+          "y": 350,
           "w": 168,
           "h": 31
         },
         "rotated": false
       },
+      "last_ssr_txt.png": {
+        "frame": {
+          "x": 437,
+          "y": 284,
+          "w": 122,
+          "h": 27
+        },
+        "rotated": false
+      },
       "last_twilight_or_pickup_sr_txt.png": {
         "frame": {
-          "x": 149,
-          "y": 269,
+          "x": 1,
+          "y": 1,
           "w": 342,
           "h": 32
+        },
+        "rotated": false
+      },
+      "last_twilight_p_txt.png": {
+        "frame": {
+          "x": 209,
+          "y": 319,
+          "w": 200,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "last_twilight_s_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 334,
+          "w": 199,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "last_twilight_txt.png": {
+        "frame": {
+          "x": 406,
+          "y": 385,
+          "w": 193,
+          "h": 28
         },
         "rotated": false
       },
       "limited_discount_gasha_button.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 181,
           "w": 224,
           "h": 114
         },
@@ -34438,8 +34474,8 @@
       },
       "limited_per_day_label.png": {
         "frame": {
-          "x": 431,
-          "y": 1,
+          "x": 1,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34447,8 +34483,8 @@
       },
       "press_limited_last1_label.png": {
         "frame": {
-          "x": 431,
-          "y": 68,
+          "x": 1,
+          "y": 519,
           "w": 70,
           "h": 63
         },
@@ -34456,8 +34492,8 @@
       },
       "press_limited_last2_label.png": {
         "frame": {
-          "x": 421,
-          "y": 135,
+          "x": 75,
+          "y": 401,
           "w": 70,
           "h": 63
         },
@@ -34465,8 +34501,8 @@
       },
       "press_limited_last3_label.png": {
         "frame": {
-          "x": 367,
-          "y": 202,
+          "x": 75,
+          "y": 468,
           "w": 70,
           "h": 63
         },
@@ -34474,8 +34510,8 @@
       },
       "press_limited_last4_label.png": {
         "frame": {
-          "x": 1,
-          "y": 259,
+          "x": 75,
+          "y": 535,
           "w": 70,
           "h": 63
         },
@@ -34483,8 +34519,8 @@
       },
       "press_limited_last5_label.png": {
         "frame": {
-          "x": 75,
-          "y": 259,
+          "x": 149,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34492,8 +34528,8 @@
       },
       "press_limited_last6_label.png": {
         "frame": {
-          "x": 1,
-          "y": 326,
+          "x": 149,
+          "y": 519,
           "w": 70,
           "h": 63
         },
@@ -34501,8 +34537,8 @@
       },
       "press_limited_last7_label.png": {
         "frame": {
-          "x": 75,
-          "y": 326,
+          "x": 223,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34510,8 +34546,8 @@
       },
       "press_limited_last8_label.png": {
         "frame": {
-          "x": 245,
-          "y": 376,
+          "x": 223,
+          "y": 519,
           "w": 70,
           "h": 63
         },
@@ -34519,8 +34555,8 @@
       },
       "press_limited_last9_label.png": {
         "frame": {
-          "x": 1,
-          "y": 428,
+          "x": 297,
+          "y": 444,
           "w": 70,
           "h": 63
         },
@@ -34528,8 +34564,8 @@
       },
       "press_limited_last10_label.png": {
         "frame": {
-          "x": 75,
-          "y": 428,
+          "x": 297,
+          "y": 511,
           "w": 70,
           "h": 63
         },
@@ -34537,17 +34573,89 @@
       },
       "sr_txt.png": {
         "frame": {
-          "x": 149,
-          "y": 341,
+          "x": 437,
+          "y": 315,
           "w": 93,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "ssr_double_and_last_limited_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 145,
+          "w": 291,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_double_and_last_p_ssr_txt.png": {
+        "frame": {
+          "x": 322,
+          "y": 71,
+          "w": 277,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_double_and_last_s_ssr_txt.png": {
+        "frame": {
+          "x": 322,
+          "y": 107,
+          "w": 277,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_double_and_last_ssr_txt.png": {
+        "frame": {
+          "x": 347,
+          "y": 1,
+          "w": 252,
+          "h": 31
+        },
+        "rotated": false
+      },
+      "ssr_triple_and_last_limited_p_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 37,
+          "w": 317,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_triple_and_last_limited_s_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 73,
+          "w": 317,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_triple_and_last_limited_ssr_txt.png": {
+        "frame": {
+          "x": 296,
+          "y": 178,
+          "w": 291,
+          "h": 32
+        },
+        "rotated": false
+      },
+      "ssr_triple_and_last_ssr_txt.png": {
+        "frame": {
+          "x": 347,
+          "y": 36,
+          "w": 252,
           "h": 31
         },
         "rotated": false
       },
       "step1_label.png": {
         "frame": {
-          "x": 149,
-          "y": 428,
+          "x": 371,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34555,8 +34663,8 @@
       },
       "step2_label.png": {
         "frame": {
-          "x": 319,
-          "y": 341,
+          "x": 371,
+          "y": 519,
           "w": 70,
           "h": 63
         },
@@ -34564,8 +34672,8 @@
       },
       "step3_label.png": {
         "frame": {
-          "x": 319,
-          "y": 408,
+          "x": 445,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34573,8 +34681,8 @@
       },
       "step4_label.png": {
         "frame": {
-          "x": 393,
-          "y": 341,
+          "x": 519,
+          "y": 452,
           "w": 70,
           "h": 63
         },
@@ -34582,8 +34690,8 @@
       },
       "with_lottery_label.png": {
         "frame": {
-          "x": 393,
-          "y": 408,
+          "x": 445,
+          "y": 519,
           "w": 70,
           "h": 63
         },
@@ -51401,13 +51509,13 @@
   "images/ui/gasha/parts_unit_select": {
     "name": "images/ui/gasha/parts_unit_select",
     "ext": ".png",
-    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=6",
-    "v": 6,
+    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=7",
+    "v": 7,
     "frames": {
       "provide_rate_long_wide_button.png": {
         "frame": {
-          "x": 261,
-          "y": 89,
+          "x": 1,
+          "y": 1,
           "w": 148,
           "h": 70
         },
@@ -51415,8 +51523,8 @@
       },
       "remaining_step_text.png": {
         "frame": {
-          "x": 153,
-          "y": 167,
+          "x": 229,
+          "y": 109,
           "w": 80,
           "h": 14
         },
@@ -51425,16 +51533,25 @@
       "reselection_gasha_base_label.png": {
         "frame": {
           "x": 1,
-          "y": 39,
+          "y": 187,
           "w": 450,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "reselection_gasha_base_small_label.png": {
+        "frame": {
+          "x": 1,
+          "y": 219,
+          "w": 342,
           "h": 28
         },
         "rotated": false
       },
       "reselection_gasha_base_unit_change_button.png": {
         "frame": {
-          "x": 1,
-          "y": 123,
+          "x": 153,
+          "y": 1,
           "w": 148,
           "h": 38
         },
@@ -51443,7 +51560,7 @@
       "reselection_gasha_base_unit_fix_button.png": {
         "frame": {
           "x": 1,
-          "y": 165,
+          "y": 300,
           "w": 148,
           "h": 38
         },
@@ -51451,8 +51568,8 @@
       },
       "reselection_gasha_off_button.png": {
         "frame": {
-          "x": 249,
-          "y": 163,
+          "x": 1,
+          "y": 75,
           "w": 128,
           "h": 70
         },
@@ -51460,8 +51577,8 @@
       },
       "reselection_gasha_on_button.png": {
         "frame": {
-          "x": 1,
-          "y": 207,
+          "x": 153,
+          "y": 300,
           "w": 128,
           "h": 70
         },
@@ -51470,7 +51587,7 @@
       "selection_gasha_base_label.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 149,
           "w": 450,
           "h": 34
         },
@@ -51478,8 +51595,8 @@
       },
       "selection_gasha_base_unit_change_button.png": {
         "frame": {
-          "x": 1,
-          "y": 347,
+          "x": 285,
+          "y": 366,
           "w": 128,
           "h": 54
         },
@@ -51488,7 +51605,7 @@
       "selection_gasha_base_unit_confirm_button.png": {
         "frame": {
           "x": 133,
-          "y": 303,
+          "y": 374,
           "w": 128,
           "h": 54
         },
@@ -51496,8 +51613,8 @@
       },
       "selection_gasha_off_button.png": {
         "frame": {
-          "x": 213,
-          "y": 237,
+          "x": 1,
+          "y": 342,
           "w": 128,
           "h": 62
         },
@@ -51505,8 +51622,8 @@
       },
       "selection_gasha_on_button.png": {
         "frame": {
-          "x": 1,
-          "y": 281,
+          "x": 285,
+          "y": 300,
           "w": 128,
           "h": 62
         },
@@ -51515,16 +51632,25 @@
       "step_text.png": {
         "frame": {
           "x": 1,
-          "y": 71,
+          "y": 282,
           "w": 444,
           "h": 14
         },
         "rotated": false
       },
+      "step_text_small.png": {
+        "frame": {
+          "x": 1,
+          "y": 251,
+          "w": 336,
+          "h": 27
+        },
+        "rotated": false
+      },
       "unit_logo_001.png": {
         "frame": {
-          "x": 381,
-          "y": 163,
+          "x": 305,
+          "y": 1,
           "w": 63,
           "h": 35
         },
@@ -51532,8 +51658,8 @@
       },
       "unit_logo_002.png": {
         "frame": {
-          "x": 133,
-          "y": 214,
+          "x": 313,
+          "y": 109,
           "w": 76,
           "h": 29
         },
@@ -51541,8 +51667,8 @@
       },
       "unit_logo_003.png": {
         "frame": {
-          "x": 381,
-          "y": 202,
+          "x": 393,
+          "y": 41,
           "w": 52,
           "h": 35
         },
@@ -51550,8 +51676,8 @@
       },
       "unit_logo_004.png": {
         "frame": {
-          "x": 133,
-          "y": 247,
+          "x": 393,
+          "y": 1,
           "w": 41,
           "h": 36
         },
@@ -51559,8 +51685,8 @@
       },
       "unit_logo_005.png": {
         "frame": {
-          "x": 153,
-          "y": 148,
+          "x": 133,
+          "y": 109,
           "w": 92,
           "h": 15
         },
@@ -51569,7 +51695,7 @@
       "unit_logo_006.png": {
         "frame": {
           "x": 153,
-          "y": 123,
+          "y": 43,
           "w": 102,
           "h": 21
         },
@@ -51577,8 +51703,8 @@
       },
       "unit_logo_007.png": {
         "frame": {
-          "x": 153,
-          "y": 185,
+          "x": 305,
+          "y": 40,
           "w": 79,
           "h": 25
         },
@@ -51586,8 +51712,8 @@
       },
       "unit_name_base.png": {
         "frame": {
-          "x": 1,
-          "y": 89,
+          "x": 133,
+          "y": 75,
           "w": 256,
           "h": 30
         },
@@ -76078,6 +76204,62 @@
     "name": "images/tips/game_event/60041/003",
     "ext": ".jpg",
     "url": "/assets/884830ad6f3bf6e141b5366f7d68bc82aef1b773950085bd97bf2b53b9edfe03?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/110006/001": {
+    "name": "images/tips/game_event/110006/001",
+    "ext": ".jpg",
+    "url": "/assets/46d37bf61bd0cca525a6e8e7f53a5e367341f376356cfe8135a6b10b7300ff06?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/135/001": {
+    "name": "images/tips/game_event/135/001",
+    "ext": ".jpg",
+    "url": "/assets/4798c387ef84a983e3bfa1f7f69a14add09b2f47d21c479652d2673b4a5b2345?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/135/002": {
+    "name": "images/tips/game_event/135/002",
+    "ext": ".jpg",
+    "url": "/assets/0c50df7cd4b7103e9702c8bcee4871941ddf834140eee58ff471298395709c25?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/135/003": {
+    "name": "images/tips/game_event/135/003",
+    "ext": ".jpg",
+    "url": "/assets/3e0e97992ce6cbbea848aef8ee53b8b484b80846344dfeffb6fd2d33aec4a476?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20041/001": {
+    "name": "images/tips/game_event/20041/001",
+    "ext": ".jpg",
+    "url": "/assets/39e52752a15a52ed3f4c20886b8d01407e8b33c114fb0583a2c24f983b64c2d7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20041/002": {
+    "name": "images/tips/game_event/20041/002",
+    "ext": ".jpg",
+    "url": "/assets/df3dd3d929b598c199334db933ddb109d426159de7638eaee45e5155fdddbf09?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20041/003": {
+    "name": "images/tips/game_event/20041/003",
+    "ext": ".jpg",
+    "url": "/assets/c4a0d41b12ffd97cf19e5bc54ccc9d6f9e6b8749d5708fb1f5fff2a94c61ca1e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20041/005": {
+    "name": "images/tips/game_event/20041/005",
+    "ext": ".jpg",
+    "url": "/assets/fb79dd221f0a5f8533bc599c23f1901c7bfd1eb06ed2b0c9b2a77adc868e1742?v=1",
     "v": 1,
     "frames": null
   }
