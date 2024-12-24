@@ -59951,22 +59951,22 @@
   "images/tips/produce_know_how_book/001": {
     "name": "images/tips/produce_know_how_book/001",
     "ext": ".jpg",
-    "url": "/assets/3cd42c16784ac8e91a92a45bf8a1e493d951abd7a12227568aa8880428f68866?v=2",
-    "v": 2,
+    "url": "/assets/3cd42c16784ac8e91a92a45bf8a1e493d951abd7a12227568aa8880428f68866?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/produce_know_how_book/002": {
     "name": "images/tips/produce_know_how_book/002",
     "ext": ".jpg",
-    "url": "/assets/010bd06d9105ac8ee4a938563913daca199dc2f7ef7f32eea8e42ff33bdb5453?v=1",
-    "v": 1,
+    "url": "/assets/010bd06d9105ac8ee4a938563913daca199dc2f7ef7f32eea8e42ff33bdb5453?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/produce_know_how_book/003": {
     "name": "images/tips/produce_know_how_book/003",
     "ext": ".jpg",
-    "url": "/assets/88864e29b1fd02aa415696f1ebd49d2255ab90703beba04f263d1dae2b5bfb67?v=2",
-    "v": 2,
+    "url": "/assets/88864e29b1fd02aa415696f1ebd49d2255ab90703beba04f263d1dae2b5bfb67?v=3",
+    "v": 3,
     "frames": null
   },
   "images/tips/produce_ready/step/001": {
@@ -76827,8 +76827,8 @@
   "images/tips/produce_halo/007": {
     "name": "images/tips/produce_halo/007",
     "ext": ".jpg",
-    "url": "/assets/bef7e9c682b07dd332aac30d99071a906cf6059c4ffde259ed8523c654ad213b?v=1",
-    "v": 1,
+    "url": "/assets/bef7e9c682b07dd332aac30d99071a906cf6059c4ffde259ed8523c654ad213b?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/produce_halo/008": {
@@ -76960,8 +76960,8 @@
   "images/tips/produce_halo/temporary_unit/002": {
     "name": "images/tips/produce_halo/temporary_unit/002",
     "ext": ".jpg",
-    "url": "/assets/fde9bb087c78afe26f90d959daaa4bbb9ff5e3c2473339bd437b7a539706bd0d?v=1",
-    "v": 1,
+    "url": "/assets/fde9bb087c78afe26f90d959daaa4bbb9ff5e3c2473339bd437b7a539706bd0d?v=2",
+    "v": 2,
     "frames": null
   },
   "images/tips/produce_halo/temporary_unit/003": {
@@ -79012,5 +79012,12 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/produce_know_how_book/step/002": {
+    "name": "images/tips/produce_know_how_book/step/002",
+    "ext": ".jpg",
+    "url": "/assets/4cad6fac4621981531f14f729c6496169034e1534c9785dc532d2c9d17576ca9?v=1",
+    "v": 1,
+    "frames": null
   }
 }
