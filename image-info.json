@@ -14666,8 +14666,8 @@
   "images/ui/gasha/parts_stamp_card": {
     "name": "images/ui/gasha/parts_stamp_card",
     "ext": ".png",
-    "url": "/assets/c2e9405117da287e0204f61d887267ecf5cd657b0a91442957e38a451189622f?v=11",
-    "v": 11,
+    "url": "/assets/c2e9405117da287e0204f61d887267ecf5cd657b0a91442957e38a451189622f?v=12",
+    "v": 12,
     "frames": {
       "gasha_result_stamp_card_button_base.png": {
         "frame": {
@@ -14696,6 +14696,24 @@
         },
         "rotated": false
       },
+      "lineup_pink_button.png": {
+        "frame": {
+          "x": 263,
+          "y": 539,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
+      "provide_rate_pink_button.png": {
+        "frame": {
+          "x": 263,
+          "y": 613,
+          "w": 148,
+          "h": 70
+        },
+        "rotated": false
+      },
       "stamp_card_base.png": {
         "frame": {
           "x": 1,
@@ -14707,8 +14725,8 @@
       },
       "stamp_card_button.png": {
         "frame": {
-          "x": 263,
-          "y": 539,
+          "x": 317,
+          "y": 687,
           "w": 148,
           "h": 38
         },
@@ -14716,8 +14734,8 @@
       },
       "stamp_card_short_button.png": {
         "frame": {
-          "x": 263,
-          "y": 581,
+          "x": 415,
+          "y": 539,
           "w": 108,
           "h": 38
         },
@@ -52058,13 +52076,13 @@
   "images/ui/gasha/parts_unit_select": {
     "name": "images/ui/gasha/parts_unit_select",
     "ext": ".png",
-    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=7",
-    "v": 7,
+    "url": "/assets/d2a0bc06ec236e089d930e2d7c5d7744e49c7c15dc0e3467aca0fdb6b9ee7248?v=8",
+    "v": 8,
     "frames": {
       "provide_rate_long_wide_button.png": {
         "frame": {
           "x": 1,
-          "y": 1,
+          "y": 186,
           "w": 148,
           "h": 70
         },
@@ -52072,8 +52090,8 @@
       },
       "remaining_step_text.png": {
         "frame": {
-          "x": 229,
-          "y": 109,
+          "x": 341,
+          "y": 171,
           "w": 80,
           "h": 14
         },
@@ -52082,7 +52100,7 @@
       "reselection_gasha_base_label.png": {
         "frame": {
           "x": 1,
-          "y": 187,
+          "y": 39,
           "w": 450,
           "h": 28
         },
@@ -52091,7 +52109,7 @@
       "reselection_gasha_base_small_label.png": {
         "frame": {
           "x": 1,
-          "y": 219,
+          "y": 89,
           "w": 342,
           "h": 28
         },
@@ -52100,7 +52118,7 @@
       "reselection_gasha_base_unit_change_button.png": {
         "frame": {
           "x": 153,
-          "y": 1,
+          "y": 224,
           "w": 148,
           "h": 38
         },
@@ -52109,7 +52127,7 @@
       "reselection_gasha_base_unit_fix_button.png": {
         "frame": {
           "x": 1,
-          "y": 300,
+          "y": 260,
           "w": 148,
           "h": 38
         },
@@ -52117,8 +52135,8 @@
       },
       "reselection_gasha_off_button.png": {
         "frame": {
-          "x": 1,
-          "y": 75,
+          "x": 305,
+          "y": 258,
           "w": 128,
           "h": 70
         },
@@ -52127,7 +52145,7 @@
       "reselection_gasha_on_button.png": {
         "frame": {
           "x": 153,
-          "y": 300,
+          "y": 266,
           "w": 128,
           "h": 70
         },
@@ -52136,7 +52154,7 @@
       "selection_gasha_base_label.png": {
         "frame": {
           "x": 1,
-          "y": 149,
+          "y": 1,
           "w": 450,
           "h": 34
         },
@@ -52145,7 +52163,7 @@
       "selection_gasha_base_unit_change_button.png": {
         "frame": {
           "x": 285,
-          "y": 366,
+          "y": 332,
           "w": 128,
           "h": 54
         },
@@ -52154,7 +52172,7 @@
       "selection_gasha_base_unit_confirm_button.png": {
         "frame": {
           "x": 133,
-          "y": 374,
+          "y": 390,
           "w": 128,
           "h": 54
         },
@@ -52163,7 +52181,7 @@
       "selection_gasha_off_button.png": {
         "frame": {
           "x": 1,
-          "y": 342,
+          "y": 302,
           "w": 128,
           "h": 62
         },
@@ -52171,8 +52189,8 @@
       },
       "selection_gasha_on_button.png": {
         "frame": {
-          "x": 285,
-          "y": 300,
+          "x": 1,
+          "y": 368,
           "w": 128,
           "h": 62
         },
@@ -52181,7 +52199,7 @@
       "step_text.png": {
         "frame": {
           "x": 1,
-          "y": 282,
+          "y": 71,
           "w": 444,
           "h": 14
         },
@@ -52190,7 +52208,7 @@
       "step_text_small.png": {
         "frame": {
           "x": 1,
-          "y": 251,
+          "y": 121,
           "w": 336,
           "h": 27
         },
@@ -52198,8 +52216,8 @@
       },
       "unit_logo_001.png": {
         "frame": {
-          "x": 305,
-          "y": 1,
+          "x": 261,
+          "y": 185,
           "w": 63,
           "h": 35
         },
@@ -52207,8 +52225,8 @@
       },
       "unit_logo_002.png": {
         "frame": {
-          "x": 313,
-          "y": 109,
+          "x": 261,
+          "y": 152,
           "w": 76,
           "h": 29
         },
@@ -52216,8 +52234,8 @@
       },
       "unit_logo_003.png": {
         "frame": {
-          "x": 393,
-          "y": 41,
+          "x": 328,
+          "y": 218,
           "w": 52,
           "h": 35
         },
@@ -52225,8 +52243,8 @@
       },
       "unit_logo_004.png": {
         "frame": {
-          "x": 393,
-          "y": 1,
+          "x": 384,
+          "y": 218,
           "w": 41,
           "h": 36
         },
@@ -52234,8 +52252,8 @@
       },
       "unit_logo_005.png": {
         "frame": {
-          "x": 133,
-          "y": 109,
+          "x": 347,
+          "y": 114,
           "w": 92,
           "h": 15
         },
@@ -52243,8 +52261,8 @@
       },
       "unit_logo_006.png": {
         "frame": {
-          "x": 153,
-          "y": 43,
+          "x": 347,
+          "y": 89,
           "w": 102,
           "h": 21
         },
@@ -52252,17 +52270,26 @@
       },
       "unit_logo_007.png": {
         "frame": {
-          "x": 305,
-          "y": 40,
+          "x": 328,
+          "y": 189,
           "w": 79,
           "h": 25
         },
         "rotated": false
       },
+      "unit_logo_008.png": {
+        "frame": {
+          "x": 341,
+          "y": 133,
+          "w": 82,
+          "h": 34
+        },
+        "rotated": false
+      },
       "unit_name_base.png": {
         "frame": {
-          "x": 133,
-          "y": 75,
+          "x": 1,
+          "y": 152,
           "w": 256,
           "h": 30
         },
@@ -79099,6 +79126,48 @@
     "name": "images/tips/game_event/80024/001",
     "ext": ".jpg",
     "url": "/assets/4faea02b21e1a7b815d096a229de1b6ea8501ce45f7ff521bd837d77345e9c01?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/143/001": {
+    "name": "images/tips/game_event/143/001",
+    "ext": ".jpg",
+    "url": "/assets/d6824e734efbe19a8ed59b4c788c8cad0cd452ec80618ae4d4af1bb5a9e3fc48?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/143/002": {
+    "name": "images/tips/game_event/143/002",
+    "ext": ".jpg",
+    "url": "/assets/b5c01a295d5d05c717913c6c5c2e7b5b09d372181c839f3b7e2317ba44732d60?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/143/003": {
+    "name": "images/tips/game_event/143/003",
+    "ext": ".jpg",
+    "url": "/assets/1fc8303b03b47e6ae56c38e02dc5a152be670116a5f1f8734a445d2832d6e919?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60043/001": {
+    "name": "images/tips/game_event/60043/001",
+    "ext": ".jpg",
+    "url": "/assets/04c5b23d1586f7f6a79bbd8485ab16c71ca4765939603557d504175e4eac8eb0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60043/002": {
+    "name": "images/tips/game_event/60043/002",
+    "ext": ".jpg",
+    "url": "/assets/49764173882c0857bbe40e6af5568f4864de0486168f36b18f963d199ec6f846?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60043/003": {
+    "name": "images/tips/game_event/60043/003",
+    "ext": ".jpg",
+    "url": "/assets/daeaea3559d8d9199f848ffb150208aec598cda05e5bd2b94a310856884e5602?v=1",
     "v": 1,
     "frames": null
   }
