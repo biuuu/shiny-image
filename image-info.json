@@ -79170,5 +79170,58 @@
     "url": "/assets/daeaea3559d8d9199f848ffb150208aec598cda05e5bd2b94a310856884e5602?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/ui/produce_action/parts_tab_3_02": {
+    "name": "images/ui/produce_action/parts_tab_3_02",
+    "ext": ".png",
+    "url": "/assets/b0cb642a95569161a0e27db341a995db7f7ec8bc75923d176e7919fa4cf5657f?v=1",
+    "v": 1,
+    "frames": {
+      "tab_3_lock_audition_live.png": {
+        "frame": {
+          "x": 1,
+          "y": 1,
+          "w": 214,
+          "h": 150
+        },
+        "rotated": false
+      },
+      "tab_3_off_audition_live.png": {
+        "frame": {
+          "x": 238,
+          "y": 255,
+          "w": 195,
+          "h": 95
+        },
+        "rotated": false
+      },
+      "tab_3_off_lesson_work.png": {
+        "frame": {
+          "x": 238,
+          "y": 153,
+          "w": 188,
+          "h": 98
+        },
+        "rotated": false
+      },
+      "tab_3_on_audition_live.png": {
+        "frame": {
+          "x": 219,
+          "y": 1,
+          "w": 214,
+          "h": 148
+        },
+        "rotated": false
+      },
+      "tab_3_on_lesson_work.png": {
+        "frame": {
+          "x": 1,
+          "y": 155,
+          "w": 233,
+          "h": 148
+        },
+        "rotated": false
+      }
+    }
   }
 }
