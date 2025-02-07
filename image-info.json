@@ -79520,5 +79520,54 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/20043/001": {
+    "name": "images/tips/game_event/20043/001",
+    "ext": ".jpg",
+    "url": "/assets/8d2b03c5c84d7da5f11f99a4e19d4b68483d4753d54ed344249953c1c8c6022c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20043/002": {
+    "name": "images/tips/game_event/20043/002",
+    "ext": ".jpg",
+    "url": "/assets/cd2913704d58bf0fdd9475f3b829305b7e86f5e52aa926f262099482c103098f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20043/003": {
+    "name": "images/tips/game_event/20043/003",
+    "ext": ".jpg",
+    "url": "/assets/c434cb411b2d99e7d9f91f948f10675bdc93b61992d7c487d23abb5b0ba15387?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/20043/005": {
+    "name": "images/tips/game_event/20043/005",
+    "ext": ".jpg",
+    "url": "/assets/cc5848996efcc8df8152c11a0562fc67afaf060a9ce8d8c07330199e715b4734?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50047/001": {
+    "name": "images/tips/game_event/50047/001",
+    "ext": ".jpg",
+    "url": "/assets/cfe6e6f8fef28d8852b82749950659cecec4e3f447f3edd4e9e64b6fa3d2e6c4?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50047/002": {
+    "name": "images/tips/game_event/50047/002",
+    "ext": ".jpg",
+    "url": "/assets/5c1e516ba5fc8eb5c0905f744f2687bf170cf19546a8f2210ef2f8724b9d4434?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50047/003": {
+    "name": "images/tips/game_event/50047/003",
+    "ext": ".jpg",
+    "url": "/assets/56aeaddcc11e0e346c64a73342711bfc2697c18bb18c770079fe40eec14eaed2?v=1",
+    "v": 1,
+    "frames": null
   }
 }
