@@ -30384,13 +30384,13 @@
   "images/ui/common/parts": {
     "name": "images/ui/common/parts",
     "ext": ".png",
-    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=47",
-    "v": 47,
+    "url": "/assets/b8b217f02f13f03ca762b5efcbd12f4caf5a3348bd30bd4332e909029fb00144?v=48",
+    "v": 48,
     "frames": {
       "active_select_base.png": {
         "frame": {
-          "x": 903,
-          "y": 704,
+          "x": 880,
+          "y": 602,
           "w": 34,
           "h": 34
         },
@@ -30398,8 +30398,8 @@
       },
       "active_select_base_on.png": {
         "frame": {
-          "x": 892,
-          "y": 742,
+          "x": 880,
+          "y": 640,
           "w": 34,
           "h": 34
         },
@@ -30407,8 +30407,8 @@
       },
       "area_lock_small.png": {
         "frame": {
-          "x": 855,
-          "y": 735,
+          "x": 879,
+          "y": 517,
           "w": 33,
           "h": 38
         },
@@ -30416,8 +30416,8 @@
       },
       "arrow_decrease.png": {
         "frame": {
-          "x": 923,
-          "y": 514,
+          "x": 343,
+          "y": 909,
           "w": 20,
           "h": 16
         },
@@ -30425,8 +30425,8 @@
       },
       "arrow_increase.png": {
         "frame": {
-          "x": 930,
-          "y": 742,
+          "x": 935,
+          "y": 870,
           "w": 20,
           "h": 16
         },
@@ -30434,8 +30434,8 @@
       },
       "arrow_next.png": {
         "frame": {
-          "x": 895,
-          "y": 314,
+          "x": 901,
+          "y": 222,
           "w": 54,
           "h": 69
         },
@@ -30443,8 +30443,8 @@
       },
       "arrow_prev.png": {
         "frame": {
-          "x": 832,
-          "y": 851,
+          "x": 901,
+          "y": 295,
           "w": 54,
           "h": 69
         },
@@ -30452,8 +30452,8 @@
       },
       "badge_base.png": {
         "frame": {
-          "x": 890,
-          "y": 881,
+          "x": 912,
+          "y": 559,
           "w": 32,
           "h": 34
         },
@@ -30461,8 +30461,8 @@
       },
       "badge_base_blue.png": {
         "frame": {
-          "x": 917,
-          "y": 780,
+          "x": 918,
+          "y": 597,
           "w": 32,
           "h": 34
         },
@@ -30470,8 +30470,8 @@
       },
       "base_achievement.png": {
         "frame": {
-          "x": 832,
-          "y": 924,
+          "x": 792,
+          "y": 458,
           "w": 76,
           "h": 26
         },
@@ -30479,8 +30479,8 @@
       },
       "base_posession_count.png": {
         "frame": {
-          "x": 644,
-          "y": 666,
+          "x": 1,
+          "y": 913,
           "w": 194,
           "h": 40
         },
@@ -30497,8 +30497,8 @@
       },
       "bonus_arrow_s_up.png": {
         "frame": {
-          "x": 511,
-          "y": 929,
+          "x": 347,
+          "y": 885,
           "w": 16,
           "h": 20
         },
@@ -30506,8 +30506,8 @@
       },
       "character_content_base.png": {
         "frame": {
-          "x": 776,
-          "y": 925,
+          "x": 933,
+          "y": 37,
           "w": 23,
           "h": 25
         },
@@ -30533,8 +30533,8 @@
       },
       "check_icon_base.png": {
         "frame": {
-          "x": 747,
-          "y": 925,
+          "x": 926,
+          "y": 432,
           "w": 25,
           "h": 25
         },
@@ -30542,8 +30542,8 @@
       },
       "check_icon_base_l.png": {
         "frame": {
-          "x": 914,
-          "y": 534,
+          "x": 748,
+          "y": 673,
           "w": 36,
           "h": 36
         },
@@ -30551,8 +30551,8 @@
       },
       "check_icon_pink.png": {
         "frame": {
-          "x": 901,
-          "y": 253,
+          "x": 493,
+          "y": 929,
           "w": 33,
           "h": 27
         },
@@ -30560,8 +30560,8 @@
       },
       "common_diamond_s.png": {
         "frame": {
-          "x": 909,
-          "y": 818,
+          "x": 935,
+          "y": 890,
           "w": 18,
           "h": 16
         },
@@ -30587,8 +30587,8 @@
       },
       "common_header_parallel_scene_label.png": {
         "frame": {
-          "x": 245,
-          "y": 885,
+          "x": 644,
+          "y": 673,
           "w": 100,
           "h": 36
         },
@@ -30596,8 +30596,8 @@
       },
       "common_menu_badge_new.png": {
         "frame": {
-          "x": 809,
-          "y": 710,
+          "x": 684,
+          "y": 919,
           "w": 60,
           "h": 21
         },
@@ -30605,8 +30605,8 @@
       },
       "common_menu_badge_sale.png": {
         "frame": {
-          "x": 855,
-          "y": 817,
+          "x": 859,
+          "y": 936,
           "w": 50,
           "h": 20
         },
@@ -30614,8 +30614,8 @@
       },
       "content_group_list_base.png": {
         "frame": {
-          "x": 823,
-          "y": 38,
+          "x": 681,
+          "y": 509,
           "w": 112,
           "h": 112
         },
@@ -30632,8 +30632,8 @@
       },
       "dot_white.png": {
         "frame": {
-          "x": 864,
-          "y": 593,
+          "x": 872,
+          "y": 474,
           "w": 3,
           "h": 2
         },
@@ -30641,8 +30641,8 @@
       },
       "down_arrow.png": {
         "frame": {
-          "x": 719,
-          "y": 919,
+          "x": 926,
+          "y": 368,
           "w": 24,
           "h": 28
         },
@@ -30650,8 +30650,8 @@
       },
       "expire_datetime_base.png": {
         "frame": {
-          "x": 819,
-          "y": 284,
+          "x": 823,
+          "y": 192,
           "w": 129,
           "h": 26
         },
@@ -30659,8 +30659,8 @@
       },
       "fes_ticket_base.png": {
         "frame": {
-          "x": 823,
-          "y": 186,
+          "x": 245,
+          "y": 885,
           "w": 98,
           "h": 20
         },
@@ -30705,7 +30705,7 @@
       "hanamaru_clear_stamp.png": {
         "frame": {
           "x": 814,
-          "y": 599,
+          "y": 625,
           "w": 62,
           "h": 58
         },
@@ -30713,8 +30713,8 @@
       },
       "header_produce_mode_icon_beginner.png": {
         "frame": {
-          "x": 855,
-          "y": 777,
+          "x": 916,
+          "y": 517,
           "w": 33,
           "h": 36
         },
@@ -30722,8 +30722,8 @@
       },
       "header_produce_mode_icon_master.png": {
         "frame": {
-          "x": 890,
-          "y": 841,
+          "x": 876,
+          "y": 562,
           "w": 32,
           "h": 36
         },
@@ -30740,8 +30740,8 @@
       },
       "hexagon_mask.png": {
         "frame": {
-          "x": 901,
-          "y": 210,
+          "x": 879,
+          "y": 474,
           "w": 46,
           "h": 39
         },
@@ -30749,8 +30749,8 @@
       },
       "icol_label_base_l.png": {
         "frame": {
-          "x": 239,
-          "y": 925,
+          "x": 245,
+          "y": 909,
           "w": 94,
           "h": 20
         },
@@ -30758,8 +30758,8 @@
       },
       "icol_label_base_s.png": {
         "frame": {
-          "x": 151,
-          "y": 913,
+          "x": 244,
+          "y": 933,
           "w": 84,
           "h": 20
         },
@@ -30776,8 +30776,8 @@
       },
       "idol_foil_label.png": {
         "frame": {
-          "x": 1,
-          "y": 913,
+          "x": 343,
+          "y": 929,
           "w": 146,
           "h": 24
         },
@@ -30785,8 +30785,8 @@
       },
       "indicator_off.png": {
         "frame": {
-          "x": 349,
-          "y": 885,
+          "x": 572,
+          "y": 603,
           "w": 15,
           "h": 15
         },
@@ -30794,8 +30794,8 @@
       },
       "indicator_on.png": {
         "frame": {
-          "x": 931,
-          "y": 818,
+          "x": 940,
+          "y": 488,
           "w": 16,
           "h": 16
         },
@@ -30821,8 +30821,8 @@
       },
       "know_how_individuality_more_than_lv5_icon.png": {
         "frame": {
-          "x": 551,
-          "y": 603,
+          "x": 809,
+          "y": 709,
           "w": 42,
           "h": 14
         },
@@ -30831,7 +30831,7 @@
       "label_shortage_base.png": {
         "frame": {
           "x": 823,
-          "y": 154,
+          "y": 160,
           "w": 110,
           "h": 28
         },
@@ -30848,8 +30848,8 @@
       },
       "list_content_check_frame.png": {
         "frame": {
-          "x": 681,
-          "y": 509,
+          "x": 750,
+          "y": 851,
           "w": 105,
           "h": 105
         },
@@ -30866,8 +30866,8 @@
       },
       "loading_indicator_amcgmark.png": {
         "frame": {
-          "x": 874,
-          "y": 388,
+          "x": 859,
+          "y": 842,
           "w": 72,
           "h": 66
         },
@@ -30902,8 +30902,8 @@
       },
       "next_arrow.png": {
         "frame": {
-          "x": 926,
-          "y": 838,
+          "x": 929,
+          "y": 730,
           "w": 16,
           "h": 16
         },
@@ -30929,8 +30929,8 @@
       },
       "page_first_button.png": {
         "frame": {
-          "x": 750,
-          "y": 851,
+          "x": 819,
+          "y": 222,
           "w": 78,
           "h": 70
         },
@@ -30938,8 +30938,8 @@
       },
       "page_next_button.png": {
         "frame": {
-          "x": 819,
-          "y": 210,
+          "x": 792,
+          "y": 384,
           "w": 78,
           "h": 70
         },
@@ -30947,8 +30947,8 @@
       },
       "page_prev_button.png": {
         "frame": {
-          "x": 813,
-          "y": 314,
+          "x": 797,
+          "y": 488,
           "w": 78,
           "h": 70
         },
@@ -30956,8 +30956,8 @@
       },
       "page_skip_button.png": {
         "frame": {
-          "x": 792,
-          "y": 388,
+          "x": 819,
+          "y": 296,
           "w": 78,
           "h": 70
         },
@@ -30966,7 +30966,7 @@
       "possession_base.png": {
         "frame": {
           "x": 644,
-          "y": 618,
+          "y": 625,
           "w": 166,
           "h": 44
         },
@@ -30974,8 +30974,8 @@
       },
       "result_arrow.png": {
         "frame": {
-          "x": 873,
-          "y": 708,
+          "x": 929,
+          "y": 461,
           "w": 26,
           "h": 23
         },
@@ -30992,8 +30992,8 @@
       },
       "sale_exp_gauge.png": {
         "frame": {
-          "x": 337,
-          "y": 929,
+          "x": 788,
+          "y": 687,
           "w": 144,
           "h": 18
         },
@@ -31010,8 +31010,8 @@
       },
       "select_check_box_off.png": {
         "frame": {
-          "x": 871,
-          "y": 482,
+          "x": 874,
+          "y": 370,
           "w": 48,
           "h": 48
         },
@@ -31019,8 +31019,8 @@
       },
       "select_check_box_on.png": {
         "frame": {
-          "x": 887,
-          "y": 652,
+          "x": 874,
+          "y": 422,
           "w": 48,
           "h": 48
         },
@@ -31028,8 +31028,8 @@
       },
       "select_frame.png": {
         "frame": {
-          "x": 684,
-          "y": 919,
+          "x": 918,
+          "y": 635,
           "w": 31,
           "h": 31
         },
@@ -31037,8 +31037,8 @@
       },
       "setting_badge.png": {
         "frame": {
-          "x": 880,
-          "y": 458,
+          "x": 859,
+          "y": 912,
           "w": 70,
           "h": 20
         },
@@ -31062,10 +31062,19 @@
         },
         "rotated": false
       },
+      "skill_panel_lock_heart.png": {
+        "frame": {
+          "x": 823,
+          "y": 38,
+          "w": 106,
+          "h": 118
+        },
+        "rotated": false
+      },
       "speaker.png": {
         "frame": {
-          "x": 349,
-          "y": 904,
+          "x": 929,
+          "y": 709,
           "w": 14,
           "h": 17
         },
@@ -31073,8 +31082,8 @@
       },
       "speaker_volume_1.png": {
         "frame": {
-          "x": 871,
-          "y": 462,
+          "x": 332,
+          "y": 933,
           "w": 5,
           "h": 13
         },
@@ -31091,8 +31100,8 @@
       },
       "speaker_volume_3.png": {
         "frame": {
-          "x": 938,
-          "y": 253,
+          "x": 929,
+          "y": 488,
           "w": 7,
           "h": 25
         },
@@ -31109,8 +31118,8 @@
       },
       "status_up_arrow_s.png": {
         "frame": {
-          "x": 925,
-          "y": 186,
+          "x": 913,
+          "y": 936,
           "w": 18,
           "h": 20
         },
@@ -31118,8 +31127,8 @@
       },
       "stretch_black_outline.png": {
         "frame": {
-          "x": 803,
-          "y": 925,
+          "x": 933,
+          "y": 66,
           "w": 23,
           "h": 23
         },
@@ -31127,8 +31136,8 @@
       },
       "stretch_text_input_base.png": {
         "frame": {
-          "x": 790,
-          "y": 599,
+          "x": 551,
+          "y": 603,
           "w": 17,
           "h": 15
         },
@@ -31136,8 +31145,8 @@
       },
       "stretch_white_round_10.png": {
         "frame": {
-          "x": 912,
-          "y": 919,
+          "x": 933,
+          "y": 93,
           "w": 22,
           "h": 22
         },
@@ -31145,8 +31154,8 @@
       },
       "switch_arrow.png": {
         "frame": {
-          "x": 792,
-          "y": 462,
+          "x": 797,
+          "y": 562,
           "w": 75,
           "h": 59
         },
@@ -31163,8 +31172,8 @@
       },
       "text_box_base.png": {
         "frame": {
-          "x": 892,
-          "y": 780,
+          "x": 935,
+          "y": 842,
           "w": 21,
           "h": 24
         },
@@ -31172,8 +31181,8 @@
       },
       "trade_arrow.png": {
         "frame": {
-          "x": 842,
-          "y": 661,
+          "x": 199,
+          "y": 913,
           "w": 41,
           "h": 43
         },
@@ -31181,8 +31190,8 @@
       },
       "Twitter_Social_Icon_Rounded_Square_Color.png": {
         "frame": {
-          "x": 790,
-          "y": 525,
+          "x": 855,
+          "y": 709,
           "w": 70,
           "h": 70
         },
@@ -31190,8 +31199,8 @@
       },
       "up_arrow.png": {
         "frame": {
-          "x": 923,
-          "y": 482,
+          "x": 926,
+          "y": 400,
           "w": 24,
           "h": 28
         },
@@ -31208,8 +31217,8 @@
       },
       "vertical_list_arrow_down.png": {
         "frame": {
-          "x": 864,
-          "y": 534,
+          "x": 855,
+          "y": 783,
           "w": 46,
           "h": 55
         },
@@ -31217,8 +31226,8 @@
       },
       "vertical_list_arrow_up.png": {
         "frame": {
-          "x": 880,
-          "y": 593,
+          "x": 905,
+          "y": 783,
           "w": 46,
           "h": 55
         },
@@ -31226,8 +31235,8 @@
       },
       "white_opaque_base_texture.png": {
         "frame": {
-          "x": 485,
-          "y": 929,
+          "x": 933,
+          "y": 119,
           "w": 22,
           "h": 21
         },
@@ -74887,13 +74896,13 @@
   "images/ui/character_question_and_answer/parts": {
     "name": "images/ui/character_question_and_answer/parts",
     "ext": ".png",
-    "url": "/assets/01762a1d8ba546503016a29f7fbe1f09ee32a866cd12ed67acbeb80bc63c94d3?v=1",
-    "v": 1,
+    "url": "/assets/01762a1d8ba546503016a29f7fbe1f09ee32a866cd12ed67acbeb80bc63c94d3?v=2",
+    "v": 2,
     "frames": {
       "answer_base_bottom.png": {
         "frame": {
           "x": 525,
-          "y": 666,
+          "y": 750,
           "w": 488,
           "h": 13
         },
@@ -74902,7 +74911,7 @@
       "answer_base_center.png": {
         "frame": {
           "x": 525,
-          "y": 635,
+          "y": 719,
           "w": 488,
           "h": 27
         },
@@ -74911,7 +74920,7 @@
       "answer_base_top.png": {
         "frame": {
           "x": 525,
-          "y": 578,
+          "y": 662,
           "w": 498,
           "h": 53
         },
@@ -74929,7 +74938,7 @@
       "held_at_icon.png": {
         "frame": {
           "x": 1027,
-          "y": 606,
+          "y": 690,
           "w": 99,
           "h": 25
         },
@@ -74940,14 +74949,23 @@
           "x": 1,
           "y": 578,
           "w": 520,
-          "h": 252
+          "h": 237
+        },
+        "rotated": false
+      },
+      "idol_vote_confirm_gift_base.png": {
+        "frame": {
+          "x": 525,
+          "y": 578,
+          "w": 520,
+          "h": 80
         },
         "rotated": false
       },
       "interviewer_icon.png": {
         "frame": {
-          "x": 1017,
-          "y": 635,
+          "x": 1049,
+          "y": 578,
           "w": 45,
           "h": 45
         },
@@ -74955,8 +74973,8 @@
       },
       "jewel_area_base.png": {
         "frame": {
-          "x": 127,
-          "y": 834,
+          "x": 887,
+          "y": 844,
           "w": 229,
           "h": 55
         },
@@ -74964,8 +74982,8 @@
       },
       "jewel_status_base.png": {
         "frame": {
-          "x": 153,
-          "y": 893,
+          "x": 350,
+          "y": 1094,
           "w": 197,
           "h": 34
         },
@@ -74973,8 +74991,8 @@
       },
       "open_answer_base_inner.png": {
         "frame": {
-          "x": 1066,
-          "y": 635,
+          "x": 1098,
+          "y": 578,
           "w": 23,
           "h": 23
         },
@@ -74982,8 +75000,8 @@
       },
       "open_answer_button.png": {
         "frame": {
-          "x": 941,
-          "y": 833,
+          "x": 321,
+          "y": 964,
           "w": 148,
           "h": 61
         },
@@ -74991,8 +75009,8 @@
       },
       "open_answer_by_item_button.png": {
         "frame": {
-          "x": 1,
-          "y": 898,
+          "x": 350,
+          "y": 1029,
           "w": 148,
           "h": 61
         },
@@ -75000,8 +75018,8 @@
       },
       "open_answer_by_jewel_button.png": {
         "frame": {
-          "x": 360,
-          "y": 834,
+          "x": 473,
+          "y": 949,
           "w": 148,
           "h": 61
         },
@@ -75009,8 +75027,8 @@
       },
       "open_answer_confirm_by_jewel_button.png": {
         "frame": {
-          "x": 977,
-          "y": 684,
+          "x": 169,
+          "y": 964,
           "w": 148,
           "h": 71
         },
@@ -75018,8 +75036,8 @@
       },
       "open_answer_confirm_by_point_button.png": {
         "frame": {
-          "x": 967,
-          "y": 759,
+          "x": 198,
+          "y": 1039,
           "w": 148,
           "h": 70
         },
@@ -75028,7 +75046,7 @@
       "open_answer_currency_base.png": {
         "frame": {
           "x": 1027,
-          "y": 578,
+          "y": 662,
           "w": 110,
           "h": 24
         },
@@ -75036,8 +75054,8 @@
       },
       "point_area_base.png": {
         "frame": {
-          "x": 525,
-          "y": 757,
+          "x": 445,
+          "y": 825,
           "w": 438,
           "h": 54
         },
@@ -75045,8 +75063,8 @@
       },
       "point_status_base.png": {
         "frame": {
-          "x": 525,
-          "y": 815,
+          "x": 1,
+          "y": 835,
           "w": 412,
           "h": 30
         },
@@ -75054,8 +75072,8 @@
       },
       "question_area_header.png": {
         "frame": {
-          "x": 1,
-          "y": 849,
+          "x": 390,
+          "y": 903,
           "w": 122,
           "h": 42
         },
@@ -75063,8 +75081,8 @@
       },
       "question_base_bottom.png": {
         "frame": {
-          "x": 525,
-          "y": 741,
+          "x": 1,
+          "y": 819,
           "w": 440,
           "h": 12
         },
@@ -75073,7 +75091,7 @@
       "question_base_center.png": {
         "frame": {
           "x": 525,
-          "y": 720,
+          "y": 804,
           "w": 440,
           "h": 17
         },
@@ -75082,9 +75100,54 @@
       "question_base_top.png": {
         "frame": {
           "x": 525,
-          "y": 683,
+          "y": 767,
           "w": 448,
           "h": 33
+        },
+        "rotated": false
+      },
+      "vote_gift_base.png": {
+        "frame": {
+          "x": 1,
+          "y": 869,
+          "w": 385,
+          "h": 91
+        },
+        "rotated": false
+      },
+      "vote_gift_button.png": {
+        "frame": {
+          "x": 1,
+          "y": 964,
+          "w": 164,
+          "h": 89
+        },
+        "rotated": false
+      },
+      "vote_gift_gauge.png": {
+        "frame": {
+          "x": 516,
+          "y": 903,
+          "w": 172,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "vote_gift_icons.png": {
+        "frame": {
+          "x": 1,
+          "y": 1057,
+          "w": 193,
+          "h": 74
+        },
+        "rotated": false
+      },
+      "vote_gift_limit.png": {
+        "frame": {
+          "x": 977,
+          "y": 767,
+          "w": 149,
+          "h": 73
         },
         "rotated": false
       }
@@ -80725,6 +80788,132 @@
     "name": "images/tips/game_event/80026/001",
     "ext": ".jpg",
     "url": "/assets/496cf1670a64b506da396b358a9e9abafbf848371b9f4ac4dd035ca51b66dc5f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/152/001": {
+    "name": "images/tips/game_event/152/001",
+    "ext": ".jpg",
+    "url": "/assets/59a29c978db8bb45155d8feab63b701d7a311e0da875bb480f13c506cf10c1ab?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/152/002": {
+    "name": "images/tips/game_event/152/002",
+    "ext": ".jpg",
+    "url": "/assets/826dcbb5e7245a6d47476216de84dcf9e1d344f463b80ebb5494b2b91dd2e52d?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/152/003": {
+    "name": "images/tips/game_event/152/003",
+    "ext": ".jpg",
+    "url": "/assets/30d7ceabfb9367a75c04cf62d7f53a355b53c3bcbf54330ae61aeb87c00343ad?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/001": {
+    "name": "images/tips/game_event/50052/001",
+    "ext": ".jpg",
+    "url": "/assets/b50ae59eb24eaace61851613615d48ced0cf22ebb58f99510d1ac87b79e8454f?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/002": {
+    "name": "images/tips/game_event/50052/002",
+    "ext": ".jpg",
+    "url": "/assets/760454314f08fd743db06b82ae8a29b5180b8e79b5fff7215ad11a8160baa190?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/003": {
+    "name": "images/tips/game_event/50052/003",
+    "ext": ".jpg",
+    "url": "/assets/c3734d9f01541d1b2b2d88a37c1e6c726a030a6e7c3fa701d4b275f49a108861?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/004": {
+    "name": "images/tips/game_event/50052/004",
+    "ext": ".jpg",
+    "url": "/assets/a4e8d64633597544c143c36f21abb8a217687a43f11936f996b5225d479d363c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/005": {
+    "name": "images/tips/game_event/50052/005",
+    "ext": ".jpg",
+    "url": "/assets/acd08e9cce112bd772b4e458935f364b89845acd3c206fba8473bc61f8f59b39?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/006": {
+    "name": "images/tips/game_event/50052/006",
+    "ext": ".jpg",
+    "url": "/assets/a7dee026b971c7da3be4948a9259baed31cd286e76e90cb2985fb345f3d5137a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/007": {
+    "name": "images/tips/game_event/50052/007",
+    "ext": ".jpg",
+    "url": "/assets/ceb0967a1d281faed77c75ccba32dd8e847beee1821a3e8a678f79be38e959ee?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/008": {
+    "name": "images/tips/game_event/50052/008",
+    "ext": ".jpg",
+    "url": "/assets/a56fb1e3db9294906e6da1fe037851e3dcee0cc1684dbd4e0376f3a796d6b4b0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50052/009": {
+    "name": "images/tips/game_event/50052/009",
+    "ext": ".jpg",
+    "url": "/assets/4c6bee905678661ea35c6dbee1f823749653dfefbd2aef92d6f906cbca0cf7ba?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/001": {
+    "name": "images/tips/game_event/50055/001",
+    "ext": ".jpg",
+    "url": "/assets/d59ac1a7b33f53fa1f8744b72e6bd626dd66e359d7511aa9ce00d99ed169b392?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/002": {
+    "name": "images/tips/game_event/50055/002",
+    "ext": ".jpg",
+    "url": "/assets/7c99960b306309416fd55d1fd84ce2a81d64522466bacae85706b0caaa61b0ab?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/003": {
+    "name": "images/tips/game_event/50055/003",
+    "ext": ".jpg",
+    "url": "/assets/45599b2456defd0ee58e3156b177163adc5ba61c351fd56e314696db7493a34e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/004": {
+    "name": "images/tips/game_event/50055/004",
+    "ext": ".jpg",
+    "url": "/assets/4ed37c10daf6f44b892b2914ea6c43ebb028d723a250bf493fb6ef152afc4971?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/005": {
+    "name": "images/tips/game_event/50055/005",
+    "ext": ".jpg",
+    "url": "/assets/a01ed5fe34406906cf98cdc4ccca3e3de8d48b61311fdb3eae2190cc0efe6c8c?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/50055/006": {
+    "name": "images/tips/game_event/50055/006",
+    "ext": ".jpg",
+    "url": "/assets/cb35c61d09a4081ab112e429751a03428514b4bc3dfdd822f41b68bb06f4b620?v=1",
     "v": 1,
     "frames": null
   }
