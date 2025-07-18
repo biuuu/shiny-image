@@ -34730,13 +34730,13 @@
   "images/ui/gasha/parts_narrow_gasha_button": {
     "name": "images/ui/gasha/parts_narrow_gasha_button",
     "ext": ".png",
-    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=15",
-    "v": 15,
+    "url": "/assets/ce0b535ceea46201981e5332eccc73182fe1761074f873220620984491ee8af5?v=16",
+    "v": 16,
     "frames": {
       "all_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 485,
+          "x": 176,
+          "y": 303,
           "w": 158,
           "h": 31
         },
@@ -34744,8 +34744,8 @@
       },
       "costume_ticket_text.png": {
         "frame": {
-          "x": 501,
-          "y": 211,
+          "x": 166,
+          "y": 338,
           "w": 140,
           "h": 31
         },
@@ -34753,8 +34753,8 @@
       },
       "discount_gasha_button.png": {
         "frame": {
-          "x": 1,
-          "y": 392,
+          "x": 229,
+          "y": 1,
           "w": 198,
           "h": 89
         },
@@ -34762,8 +34762,8 @@
       },
       "gasha_new_costume_text.png": {
         "frame": {
-          "x": 485,
-          "y": 246,
+          "x": 1,
+          "y": 326,
           "w": 161,
           "h": 29
         },
@@ -34771,8 +34771,8 @@
       },
       "last2_limited_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 322,
+          "x": 213,
+          "y": 129,
           "w": 204,
           "h": 31
         },
@@ -34781,7 +34781,7 @@
       "last3_limited_ssr_txt.png": {
         "frame": {
           "x": 1,
-          "y": 357,
+          "y": 154,
           "w": 204,
           "h": 31
         },
@@ -34789,8 +34789,8 @@
       },
       "last_limited_p_ssr_txt.png": {
         "frame": {
-          "x": 458,
-          "y": 279,
+          "x": 209,
+          "y": 164,
           "w": 194,
           "h": 31
         },
@@ -34798,8 +34798,8 @@
       },
       "last_limited_s_ssr_txt.png": {
         "frame": {
-          "x": 458,
-          "y": 314,
+          "x": 1,
+          "y": 189,
           "w": 194,
           "h": 31
         },
@@ -34807,8 +34807,8 @@
       },
       "last_limited_ssr_txt.png": {
         "frame": {
-          "x": 209,
-          "y": 372,
+          "x": 421,
+          "y": 146,
           "w": 204,
           "h": 31
         },
@@ -34816,8 +34816,8 @@
       },
       "last_p_ssr_higher_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 215,
+          "x": 431,
+          "y": 1,
           "w": 238,
           "h": 34
         },
@@ -34825,8 +34825,8 @@
       },
       "last_p_ssr_txt.png": {
         "frame": {
-          "x": 458,
-          "y": 349,
+          "x": 199,
+          "y": 199,
           "w": 190,
           "h": 31
         },
@@ -34834,8 +34834,8 @@
       },
       "last_pickup_limited_ssr_txt.png": {
         "frame": {
-          "x": 257,
-          "y": 181,
+          "x": 429,
+          "y": 111,
           "w": 240,
           "h": 31
         },
@@ -34844,7 +34844,7 @@
       "last_pickup_ssr_txt.png": {
         "frame": {
           "x": 1,
-          "y": 287,
+          "y": 119,
           "w": 208,
           "h": 31
         },
@@ -34852,8 +34852,8 @@
       },
       "last_pickup_twilight_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 253,
+          "x": 431,
+          "y": 77,
           "w": 225,
           "h": 30
         },
@@ -34861,8 +34861,8 @@
       },
       "last_s_ssr_higher_txt.png": {
         "frame": {
-          "x": 243,
-          "y": 216,
+          "x": 431,
+          "y": 39,
           "w": 238,
           "h": 34
         },
@@ -34870,8 +34870,8 @@
       },
       "last_s_ssr_txt.png": {
         "frame": {
-          "x": 203,
-          "y": 407,
+          "x": 1,
+          "y": 224,
           "w": 190,
           "h": 31
         },
@@ -34879,8 +34879,8 @@
       },
       "last_sr_txt.png": {
         "frame": {
-          "x": 203,
-          "y": 476,
+          "x": 186,
+          "y": 268,
           "w": 168,
           "h": 31
         },
@@ -34888,8 +34888,8 @@
       },
       "last_ssr_higher_txt.png": {
         "frame": {
-          "x": 417,
-          "y": 384,
+          "x": 229,
+          "y": 94,
           "w": 196,
           "h": 31
         },
@@ -34897,8 +34897,8 @@
       },
       "last_ssr_txt.png": {
         "frame": {
-          "x": 445,
-          "y": 486,
+          "x": 354,
+          "y": 637,
           "w": 122,
           "h": 27
         },
@@ -34906,8 +34906,8 @@
       },
       "last_twilight_or_pickup_sr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 1,
+          "x": 310,
+          "y": 361,
           "w": 342,
           "h": 32
         },
@@ -34915,8 +34915,8 @@
       },
       "last_twilight_p_txt.png": {
         "frame": {
-          "x": 397,
-          "y": 419,
+          "x": 195,
+          "y": 234,
           "w": 181,
           "h": 30
         },
@@ -34924,8 +34924,8 @@
       },
       "last_twilight_s_txt.png": {
         "frame": {
-          "x": 203,
-          "y": 442,
+          "x": 1,
+          "y": 259,
           "w": 181,
           "h": 30
         },
@@ -34933,8 +34933,8 @@
       },
       "last_twilight_txt.png": {
         "frame": {
-          "x": 388,
-          "y": 453,
+          "x": 1,
+          "y": 293,
           "w": 171,
           "h": 29
         },
@@ -34942,8 +34942,8 @@
       },
       "limited_discount_gasha_button.png": {
         "frame": {
-          "x": 230,
-          "y": 254,
+          "x": 1,
+          "y": 1,
           "w": 224,
           "h": 114
         },
@@ -34951,8 +34951,8 @@
       },
       "limited_per_day_label.png": {
         "frame": {
-          "x": 563,
-          "y": 109,
+          "x": 1,
+          "y": 359,
           "w": 70,
           "h": 63
         },
@@ -34960,8 +34960,8 @@
       },
       "press_limited_last1_label.png": {
         "frame": {
-          "x": 582,
-          "y": 419,
+          "x": 75,
+          "y": 359,
           "w": 70,
           "h": 63
         },
@@ -34969,8 +34969,8 @@
       },
       "press_limited_last2_label.png": {
         "frame": {
-          "x": 1,
-          "y": 520,
+          "x": 149,
+          "y": 373,
           "w": 70,
           "h": 63
         },
@@ -34978,8 +34978,8 @@
       },
       "press_limited_last3_label.png": {
         "frame": {
-          "x": 1,
-          "y": 587,
+          "x": 223,
+          "y": 373,
           "w": 70,
           "h": 63
         },
@@ -34987,8 +34987,8 @@
       },
       "press_limited_last4_label.png": {
         "frame": {
-          "x": 75,
-          "y": 520,
+          "x": 1,
+          "y": 426,
           "w": 70,
           "h": 63
         },
@@ -34997,7 +34997,7 @@
       "press_limited_last5_label.png": {
         "frame": {
           "x": 75,
-          "y": 587,
+          "y": 426,
           "w": 70,
           "h": 63
         },
@@ -35006,7 +35006,7 @@
       "press_limited_last6_label.png": {
         "frame": {
           "x": 149,
-          "y": 520,
+          "y": 440,
           "w": 70,
           "h": 63
         },
@@ -35014,8 +35014,8 @@
       },
       "press_limited_last7_label.png": {
         "frame": {
-          "x": 149,
-          "y": 587,
+          "x": 223,
+          "y": 440,
           "w": 70,
           "h": 63
         },
@@ -35023,8 +35023,8 @@
       },
       "press_limited_last8_label.png": {
         "frame": {
-          "x": 223,
-          "y": 511,
+          "x": 1,
+          "y": 493,
           "w": 70,
           "h": 63
         },
@@ -35032,8 +35032,8 @@
       },
       "press_limited_last9_label.png": {
         "frame": {
-          "x": 223,
-          "y": 578,
+          "x": 75,
+          "y": 493,
           "w": 70,
           "h": 63
         },
@@ -35041,8 +35041,8 @@
       },
       "press_limited_last10_label.png": {
         "frame": {
-          "x": 297,
-          "y": 511,
+          "x": 590,
+          "y": 469,
           "w": 70,
           "h": 63
         },
@@ -35050,8 +35050,8 @@
       },
       "sr_txt.png": {
         "frame": {
-          "x": 545,
-          "y": 176,
+          "x": 257,
+          "y": 631,
           "w": 93,
           "h": 31
         },
@@ -35059,8 +35059,8 @@
       },
       "ssr_double_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 347,
-          "y": 1,
+          "x": 358,
+          "y": 289,
           "w": 291,
           "h": 32
         },
@@ -35068,17 +35068,35 @@
       },
       "ssr_double_and_last_p_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 109,
+          "x": 393,
+          "y": 217,
           "w": 277,
           "h": 32
         },
         "rotated": false
       },
+      "ssr_double_and_last_pickup_ssr_higher_txt.png": {
+        "frame": {
+          "x": 149,
+          "y": 507,
+          "w": 290,
+          "h": 30
+        },
+        "rotated": false
+      },
+      "ssr_double_and_last_pickup_ssr_txt.png": {
+        "frame": {
+          "x": 297,
+          "y": 469,
+          "w": 289,
+          "h": 30
+        },
+        "rotated": false
+      },
       "ssr_double_and_last_s_ssr_txt.png": {
         "frame": {
-          "x": 282,
-          "y": 109,
+          "x": 380,
+          "y": 253,
           "w": 277,
           "h": 32
         },
@@ -35086,8 +35104,8 @@
       },
       "ssr_double_and_last_sr_txt.png": {
         "frame": {
-          "x": 280,
-          "y": 145,
+          "x": 407,
+          "y": 181,
           "w": 261,
           "h": 32
         },
@@ -35096,7 +35114,7 @@
       "ssr_double_and_last_ssr_txt.png": {
         "frame": {
           "x": 1,
-          "y": 145,
+          "y": 596,
           "w": 275,
           "h": 31
         },
@@ -35104,8 +35122,8 @@
       },
       "ssr_triple_and_last_limited_p_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 73,
+          "x": 338,
+          "y": 325,
           "w": 317,
           "h": 32
         },
@@ -35113,8 +35131,8 @@
       },
       "ssr_triple_and_last_limited_s_ssr_txt.png": {
         "frame": {
-          "x": 322,
-          "y": 73,
+          "x": 297,
+          "y": 433,
           "w": 317,
           "h": 32
         },
@@ -35122,8 +35140,8 @@
       },
       "ssr_triple_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 342,
-          "y": 37,
+          "x": 1,
+          "y": 560,
           "w": 291,
           "h": 32
         },
@@ -35132,7 +35150,7 @@
       "ssr_triple_and_last_ssr_txt.png": {
         "frame": {
           "x": 1,
-          "y": 180,
+          "y": 631,
           "w": 252,
           "h": 31
         },
@@ -35140,8 +35158,8 @@
       },
       "ssr_triple_and_last_subject_s_ssr_txt.png": {
         "frame": {
-          "x": 1,
-          "y": 37,
+          "x": 297,
+          "y": 397,
           "w": 337,
           "h": 32
         },
@@ -35149,8 +35167,8 @@
       },
       "step1_label.png": {
         "frame": {
-          "x": 297,
-          "y": 578,
+          "x": 443,
+          "y": 503,
           "w": 70,
           "h": 63
         },
@@ -35158,8 +35176,8 @@
       },
       "step2_label.png": {
         "frame": {
-          "x": 371,
-          "y": 511,
+          "x": 296,
+          "y": 541,
           "w": 70,
           "h": 63
         },
@@ -35167,8 +35185,8 @@
       },
       "step3_label.png": {
         "frame": {
-          "x": 371,
-          "y": 578,
+          "x": 517,
+          "y": 536,
           "w": 70,
           "h": 63
         },
@@ -35176,8 +35194,8 @@
       },
       "step4_label.png": {
         "frame": {
-          "x": 571,
-          "y": 486,
+          "x": 591,
+          "y": 536,
           "w": 70,
           "h": 63
         },
@@ -35185,8 +35203,8 @@
       },
       "step5_label.png": {
         "frame": {
-          "x": 445,
-          "y": 553,
+          "x": 370,
+          "y": 570,
           "w": 70,
           "h": 63
         },
@@ -35194,8 +35212,8 @@
       },
       "with_lottery_label.png": {
         "frame": {
-          "x": 519,
-          "y": 553,
+          "x": 480,
+          "y": 603,
           "w": 70,
           "h": 63
         },
@@ -37323,13 +37341,13 @@
   "images/ui/gasha/parts_step_up": {
     "name": "images/ui/gasha/parts_step_up",
     "ext": ".png",
-    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=65",
-    "v": 65,
+    "url": "/assets/518a5ae6be32e4d401c98e7fe5a4dd4fa0c0280aeb3cb3457d739f984c199878?v=66",
+    "v": 66,
     "frames": {
       "4step_2_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 573,
+          "x": 1,
+          "y": 788,
           "w": 172,
           "h": 88
         },
@@ -37337,8 +37355,8 @@
       },
       "4step_3_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 665,
+          "x": 1,
+          "y": 880,
           "w": 172,
           "h": 88
         },
@@ -37346,8 +37364,8 @@
       },
       "4step_4_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 757,
+          "x": 1,
+          "y": 972,
           "w": 172,
           "h": 88
         },
@@ -37355,8 +37373,8 @@
       },
       "4step_4_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 228,
-          "y": 1377,
+          "x": 180,
+          "y": 603,
           "w": 170,
           "h": 88
         },
@@ -37364,8 +37382,8 @@
       },
       "hanamaru_stamp.png": {
         "frame": {
-          "x": 227,
-          "y": 433,
+          "x": 1,
+          "y": 463,
           "w": 136,
           "h": 136
         },
@@ -37373,8 +37391,8 @@
       },
       "last_sr_step_1_balloon.png": {
         "frame": {
-          "x": 421,
-          "y": 210,
+          "x": 756,
+          "y": 162,
           "w": 159,
           "h": 61
         },
@@ -37382,8 +37400,8 @@
       },
       "p_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 432,
-          "y": 275,
+          "x": 700,
+          "y": 1253,
           "w": 158,
           "h": 61
         },
@@ -37391,8 +37409,8 @@
       },
       "p_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 572,
-          "y": 1534,
+          "x": 729,
+          "y": 1124,
           "w": 159,
           "h": 61
         },
@@ -37400,8 +37418,8 @@
       },
       "p_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 1096,
-          "y": 1372,
+          "x": 699,
+          "y": 1189,
           "w": 159,
           "h": 60
         },
@@ -37409,8 +37427,8 @@
       },
       "p_ssr_step_4_balloon.png": {
         "frame": {
-          "x": 1095,
-          "y": 1436,
+          "x": 1025,
+          "y": 1217,
           "w": 159,
           "h": 60
         },
@@ -37418,8 +37436,8 @@
       },
       "s_ssr_step_1_balloon.png": {
         "frame": {
-          "x": 432,
-          "y": 275,
+          "x": 700,
+          "y": 1253,
           "w": 158,
           "h": 61
         },
@@ -37427,8 +37445,8 @@
       },
       "s_ssr_step_2_balloon.png": {
         "frame": {
-          "x": 1095,
-          "y": 1112,
+          "x": 700,
+          "y": 1318,
           "w": 159,
           "h": 61
         },
@@ -37436,8 +37454,8 @@
       },
       "s_ssr_step_3_balloon.png": {
         "frame": {
-          "x": 1277,
-          "y": 428,
+          "x": 1025,
+          "y": 1281,
           "w": 159,
           "h": 60
         },
@@ -37445,8 +37463,8 @@
       },
       "ssr_step_1_balloon.png": {
         "frame": {
-          "x": 1274,
-          "y": 557,
+          "x": 863,
+          "y": 1540,
           "w": 159,
           "h": 60
         },
@@ -37454,8 +37472,8 @@
       },
       "step_1_balloon.png": {
         "frame": {
-          "x": 432,
-          "y": 275,
+          "x": 700,
+          "y": 1253,
           "w": 158,
           "h": 61
         },
@@ -37463,8 +37481,8 @@
       },
       "step_1_button_off.png": {
         "frame": {
-          "x": 1440,
-          "y": 66,
+          "x": 1351,
+          "y": 1240,
           "w": 148,
           "h": 60
         },
@@ -37472,8 +37490,8 @@
       },
       "step_1_button_on.png": {
         "frame": {
-          "x": 1448,
-          "y": 130,
+          "x": 1351,
+          "y": 1304,
           "w": 148,
           "h": 60
         },
@@ -37481,8 +37499,8 @@
       },
       "step_1_last_costume_balloon.png": {
         "frame": {
-          "x": 1268,
-          "y": 621,
+          "x": 1026,
+          "y": 1540,
           "w": 159,
           "h": 60
         },
@@ -37490,8 +37508,8 @@
       },
       "step_1_pickup_decuple_balloon.png": {
         "frame": {
-          "x": 1096,
-          "y": 1177,
+          "x": 700,
+          "y": 1383,
           "w": 159,
           "h": 61
         },
@@ -37499,8 +37517,8 @@
       },
       "step_1_pickup_quintuple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 849,
+          "x": 1,
+          "y": 1064,
           "w": 172,
           "h": 88
         },
@@ -37508,8 +37526,8 @@
       },
       "step_1_ssr_10pct_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 594,
-          "y": 254,
+          "x": 669,
+          "y": 227,
           "w": 163,
           "h": 88
         },
@@ -37517,8 +37535,8 @@
       },
       "step_1_ssr_25pct_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 591,
-          "y": 346,
+          "x": 1444,
+          "y": 131,
           "w": 169,
           "h": 88
         },
@@ -37526,8 +37544,8 @@
       },
       "step_1_ssr_double_balloon.png": {
         "frame": {
-          "x": 1437,
-          "y": 514,
+          "x": 863,
+          "y": 1280,
           "w": 158,
           "h": 61
         },
@@ -37535,8 +37553,8 @@
       },
       "step_1_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 982,
+          "x": 180,
+          "y": 695,
           "w": 170,
           "h": 88
         },
@@ -37544,8 +37562,8 @@
       },
       "step_1_ssr_double_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 760,
-          "y": 162,
+          "x": 669,
+          "y": 319,
           "w": 168,
           "h": 88
         },
@@ -37553,8 +37571,8 @@
       },
       "step_1_ssr_double_balloon_and_sr_txt.png": {
         "frame": {
-          "x": 932,
-          "y": 114,
+          "x": 729,
+          "y": 1032,
           "w": 160,
           "h": 88
         },
@@ -37562,17 +37580,26 @@
       },
       "step_1_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1437,
-          "y": 579,
+          "x": 1026,
+          "y": 1345,
           "w": 158,
           "h": 61
         },
         "rotated": false
       },
+      "step_1_ssr_quadruple_balloon_and_sr_txt.png": {
+        "frame": {
+          "x": 177,
+          "y": 1431,
+          "w": 170,
+          "h": 88
+        },
+        "rotated": false
+      },
       "step_1_ssr_triple_balloon_and_sr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 1074,
+          "x": 177,
+          "y": 1523,
           "w": 170,
           "h": 88
         },
@@ -37580,8 +37607,8 @@
       },
       "step_1_subject_ur_10times_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1459,
+          "x": 354,
+          "y": 552,
           "w": 221,
           "h": 58
         },
@@ -37589,8 +37616,8 @@
       },
       "step_2_balloon.png": {
         "frame": {
-          "x": 1096,
-          "y": 1242,
+          "x": 700,
+          "y": 1448,
           "w": 159,
           "h": 61
         },
@@ -37598,8 +37625,8 @@
       },
       "step_2_button_off.png": {
         "frame": {
-          "x": 1448,
-          "y": 194,
+          "x": 1351,
+          "y": 1368,
           "w": 148,
           "h": 60
         },
@@ -37607,8 +37634,8 @@
       },
       "step_2_button_on.png": {
         "frame": {
-          "x": 1447,
-          "y": 258,
+          "x": 1352,
+          "y": 1432,
           "w": 148,
           "h": 60
         },
@@ -37616,8 +37643,8 @@
       },
       "step_2_last_p_ssr_balloon.png": {
         "frame": {
-          "x": 1431,
-          "y": 644,
+          "x": 700,
+          "y": 1578,
           "w": 159,
           "h": 60
         },
@@ -37625,8 +37652,8 @@
       },
       "step_2_last_pickup_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 549,
+          "x": 1185,
+          "y": 1,
           "w": 222,
           "h": 61
         },
@@ -37634,8 +37661,8 @@
       },
       "step_2_last_s_ssr_balloon.png": {
         "frame": {
-          "x": 1425,
-          "y": 708,
+          "x": 1189,
+          "y": 1595,
           "w": 159,
           "h": 60
         },
@@ -37643,8 +37670,8 @@
       },
       "step_2_last_ssr_balloon.png": {
         "frame": {
-          "x": 1096,
-          "y": 1307,
+          "x": 700,
+          "y": 1513,
           "w": 159,
           "h": 61
         },
@@ -37652,8 +37679,8 @@
       },
       "step_2_last_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1094,
-          "y": 1500,
+          "x": 862,
+          "y": 1215,
           "w": 159,
           "h": 61
         },
@@ -37661,8 +37688,8 @@
       },
       "step_2_last_unit_only_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 352,
+          "x": 297,
+          "y": 145,
           "w": 229,
           "h": 61
         },
@@ -37670,8 +37697,8 @@
       },
       "step_2_pickup_decuple_balloon.png": {
         "frame": {
-          "x": 1274,
-          "y": 492,
+          "x": 863,
+          "y": 1345,
           "w": 159,
           "h": 61
         },
@@ -37679,8 +37706,8 @@
       },
       "step_2_pickup_quintuple_balloon_and_last_pickup_limited_ssr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 941,
+          "x": 1,
+          "y": 1156,
           "w": 172,
           "h": 88
         },
@@ -37688,8 +37715,8 @@
       },
       "step_2_pickup_quintuple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 1033,
+          "x": 1,
+          "y": 1248,
           "w": 172,
           "h": 88
         },
@@ -37697,8 +37724,8 @@
       },
       "step_2_ssr_10pct_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 589,
-          "y": 438,
+          "x": 179,
+          "y": 787,
           "w": 171,
           "h": 88
         },
@@ -37706,8 +37733,8 @@
       },
       "step_2_ssr_25pct_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 761,
-          "y": 254,
+          "x": 1189,
+          "y": 406,
           "w": 169,
           "h": 88
         },
@@ -37715,8 +37742,8 @@
       },
       "step_2_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 764,
-          "y": 346,
+          "x": 1362,
+          "y": 407,
           "w": 168,
           "h": 88
         },
@@ -37724,8 +37751,8 @@
       },
       "step_2_ssr_double_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 764,
-          "y": 438,
+          "x": 823,
+          "y": 481,
           "w": 168,
           "h": 88
         },
@@ -37733,8 +37760,8 @@
       },
       "step_2_ssr_double_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 754,
-          "y": 897,
+          "x": 529,
+          "y": 1306,
           "w": 167,
           "h": 88
         },
@@ -37742,17 +37769,26 @@
       },
       "step_2_ssr_quadruple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 753,
-          "y": 622,
+          "x": 995,
+          "y": 492,
           "w": 168,
           "h": 88
         },
         "rotated": false
       },
+      "step_2_ssr_quadruple_balloon_and_last_ssr_higher_txt.png": {
+        "frame": {
+          "x": 353,
+          "y": 1318,
+          "w": 172,
+          "h": 84
+        },
+        "rotated": false
+      },
       "step_2_ssr_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 753,
-          "y": 714,
+          "x": 1167,
+          "y": 498,
           "w": 168,
           "h": 88
         },
@@ -37760,8 +37796,8 @@
       },
       "step_2_ssr_triple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 751,
-          "y": 989,
+          "x": 1339,
+          "y": 499,
           "w": 168,
           "h": 88
         },
@@ -37769,8 +37805,8 @@
       },
       "step_2_ssr_triple_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 227,
-          "y": 1125,
+          "x": 1,
+          "y": 1340,
           "w": 172,
           "h": 88
         },
@@ -37778,8 +37814,8 @@
       },
       "step_2_ssr_triple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 751,
-          "y": 1081,
+          "x": 593,
+          "y": 503,
           "w": 168,
           "h": 88
         },
@@ -37787,8 +37823,8 @@
       },
       "step_3_all_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 614,
+          "x": 1411,
+          "y": 1,
           "w": 222,
           "h": 61
         },
@@ -37796,8 +37832,8 @@
       },
       "step_3_all_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 679,
+          "x": 217,
+          "y": 276,
           "w": 222,
           "h": 61
         },
@@ -37805,8 +37841,8 @@
       },
       "step_3_balloon.png": {
         "frame": {
-          "x": 1262,
-          "y": 750,
+          "x": 1453,
+          "y": 656,
           "w": 159,
           "h": 60
         },
@@ -37814,8 +37850,8 @@
       },
       "step_3_button_off.png": {
         "frame": {
-          "x": 1447,
-          "y": 322,
+          "x": 1352,
+          "y": 1496,
           "w": 148,
           "h": 60
         },
@@ -37823,8 +37859,8 @@
       },
       "step_3_button_on.png": {
         "frame": {
-          "x": 1443,
-          "y": 386,
+          "x": 1352,
+          "y": 1560,
           "w": 148,
           "h": 60
         },
@@ -37832,8 +37868,8 @@
       },
       "step_3_last_limited_p_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 744,
+          "x": 197,
+          "y": 407,
           "w": 222,
           "h": 61
         },
@@ -37841,8 +37877,8 @@
       },
       "step_3_last_limited_s_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 809,
+          "x": 141,
+          "y": 472,
           "w": 222,
           "h": 61
         },
@@ -37850,8 +37886,8 @@
       },
       "step_3_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1262,
-          "y": 685,
+          "x": 863,
+          "y": 1410,
           "w": 159,
           "h": 61
         },
@@ -37859,8 +37895,8 @@
       },
       "step_3_last_pickup_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 874,
+          "x": 530,
+          "y": 162,
           "w": 222,
           "h": 61
         },
@@ -37868,8 +37904,8 @@
       },
       "step_3_last_pickup_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 939,
+          "x": 1116,
+          "y": 66,
           "w": 222,
           "h": 61
         },
@@ -37877,8 +37913,8 @@
       },
       "step_3_last_pickup_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 417,
+          "x": 217,
+          "y": 210,
           "w": 222,
           "h": 62
         },
@@ -37886,8 +37922,8 @@
       },
       "step_3_last_sr_balloon.png": {
         "frame": {
-          "x": 1425,
-          "y": 772,
+          "x": 863,
+          "y": 1475,
           "w": 159,
           "h": 61
         },
@@ -37895,8 +37931,8 @@
       },
       "step_3_last_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1263,
-          "y": 879,
+          "x": 1026,
+          "y": 1410,
           "w": 159,
           "h": 61
         },
@@ -37904,8 +37940,8 @@
       },
       "step_3_last_ssr_or_higher_balloon.png": {
         "frame": {
-          "x": 227,
-          "y": 1309,
+          "x": 351,
+          "y": 1585,
           "w": 166,
           "h": 64
         },
@@ -37913,8 +37949,8 @@
       },
       "step_3_pickup_decuple_balloon_and_last_p_ssr.png": {
         "frame": {
-          "x": 227,
-          "y": 1217,
+          "x": 1,
+          "y": 1432,
           "w": 172,
           "h": 88
         },
@@ -37922,8 +37958,8 @@
       },
       "step_3_pickup_quintuple_balloon_and_last_pickup_p_ssr_txt.png": {
         "frame": {
-          "x": 579,
-          "y": 806,
+          "x": 919,
+          "y": 208,
           "w": 170,
           "h": 87
         },
@@ -37931,8 +37967,8 @@
       },
       "step_3_pickup_quintuple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 226,
-          "y": 1469,
+          "x": 1,
+          "y": 1524,
           "w": 172,
           "h": 88
         },
@@ -37940,8 +37976,8 @@
       },
       "step_3_pickup_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 1166,
+          "x": 353,
+          "y": 1134,
           "w": 170,
           "h": 88
         },
@@ -37949,8 +37985,8 @@
       },
       "step_3_ssr_15pct_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 753,
-          "y": 1262,
+          "x": 579,
+          "y": 595,
           "w": 168,
           "h": 88
         },
@@ -37958,8 +37994,8 @@
       },
       "step_3_ssr_15pct_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 579,
-          "y": 530,
+          "x": 353,
+          "y": 1226,
           "w": 170,
           "h": 88
         },
@@ -37967,8 +38003,8 @@
       },
       "step_3_ssr_25pct_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 753,
-          "y": 530,
+          "x": 1363,
+          "y": 315,
           "w": 169,
           "h": 88
         },
@@ -37976,8 +38012,8 @@
       },
       "step_3_ssr_balloon.png": {
         "frame": {
-          "x": 1263,
-          "y": 814,
+          "x": 1189,
+          "y": 1400,
           "w": 158,
           "h": 61
         },
@@ -37985,8 +38021,8 @@
       },
       "step_3_ssr_double_balloon_and_last_antica_ssr_higher_txt.png": {
         "frame": {
-          "x": 413,
-          "y": 340,
+          "x": 1,
+          "y": 696,
           "w": 174,
           "h": 88
         },
@@ -37994,8 +38030,8 @@
       },
       "step_3_ssr_double_balloon_and_last_hokago_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 890,
+          "x": 177,
+          "y": 1339,
           "w": 171,
           "h": 88
         },
@@ -38003,8 +38039,8 @@
       },
       "step_3_ssr_double_balloon_and_last_limited_s_ssr_txt.png": {
         "frame": {
-          "x": 751,
-          "y": 1354,
+          "x": 561,
+          "y": 687,
           "w": 168,
           "h": 88
         },
@@ -38012,8 +38048,8 @@
       },
       "step_3_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 750,
-          "y": 1446,
+          "x": 561,
+          "y": 779,
           "w": 168,
           "h": 88
         },
@@ -38021,8 +38057,8 @@
       },
       "step_3_ssr_double_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 934,
-          "y": 206,
+          "x": 558,
+          "y": 871,
           "w": 168,
           "h": 88
         },
@@ -38030,8 +38066,8 @@
       },
       "step_3_ssr_double_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 936,
-          "y": 298,
+          "x": 529,
+          "y": 1398,
           "w": 167,
           "h": 88
         },
@@ -38039,17 +38075,17 @@
       },
       "step_3_ssr_quadruple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 753,
-          "y": 806,
-          "w": 168,
-          "h": 87
+          "x": 352,
+          "y": 1406,
+          "w": 172,
+          "h": 85
         },
         "rotated": false
       },
       "step_3_ssr_quadruple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 936,
-          "y": 390,
+          "x": 557,
+          "y": 963,
           "w": 168,
           "h": 88
         },
@@ -38057,17 +38093,26 @@
       },
       "step_3_ssr_quadruple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 1217,
+          "x": 1077,
+          "y": 774,
           "w": 167,
           "h": 88
         },
         "rotated": false
       },
+      "step_3_ssr_quadruple_balloon_and_last_subject_s_ssr_txt.png": {
+        "frame": {
+          "x": 557,
+          "y": 1055,
+          "w": 168,
+          "h": 87
+        },
+        "rotated": false
+      },
       "step_3_ssr_quintuple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 413,
-          "y": 432,
+          "x": 351,
+          "y": 1495,
           "w": 172,
           "h": 86
         },
@@ -38075,8 +38120,8 @@
       },
       "step_3_ssr_sextuple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 936,
-          "y": 482,
+          "x": 527,
+          "y": 1146,
           "w": 168,
           "h": 88
         },
@@ -38084,8 +38129,8 @@
       },
       "step_3_ssr_triple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 579,
-          "y": 622,
+          "x": 919,
+          "y": 116,
           "w": 170,
           "h": 88
         },
@@ -38093,8 +38138,8 @@
       },
       "step_3_ssr_triple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 926,
-          "y": 574,
+          "x": 528,
+          "y": 1490,
           "w": 168,
           "h": 88
         },
@@ -38102,8 +38147,8 @@
       },
       "step_3_ssr_triple_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 584,
-          "y": 162,
+          "x": 177,
+          "y": 879,
           "w": 172,
           "h": 88
         },
@@ -38111,8 +38156,8 @@
       },
       "step_3_ssr_triple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 666,
+          "x": 765,
+          "y": 573,
           "w": 168,
           "h": 88
         },
@@ -38120,8 +38165,8 @@
       },
       "step_4_button_off.png": {
         "frame": {
-          "x": 1440,
-          "y": 450,
+          "x": 1503,
+          "y": 1240,
           "w": 148,
           "h": 60
         },
@@ -38129,8 +38174,8 @@
       },
       "step_4_button_on.png": {
         "frame": {
-          "x": 1426,
-          "y": 1097,
+          "x": 1503,
+          "y": 1304,
           "w": 148,
           "h": 60
         },
@@ -38138,8 +38183,8 @@
       },
       "step_4_last_limited_p_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1004,
+          "x": 1342,
+          "y": 66,
           "w": 222,
           "h": 61
         },
@@ -38147,8 +38192,8 @@
       },
       "step_4_last_limited_s_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1069,
+          "x": 443,
+          "y": 227,
           "w": 222,
           "h": 61
         },
@@ -38156,8 +38201,8 @@
       },
       "step_4_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1263,
-          "y": 944,
+          "x": 1026,
+          "y": 1475,
           "w": 159,
           "h": 61
         },
@@ -38165,8 +38210,8 @@
       },
       "step_4_last_mycollection_balloon.png": {
         "frame": {
-          "x": 297,
-          "y": 145,
+          "x": 354,
+          "y": 614,
           "w": 203,
           "h": 61
         },
@@ -38174,8 +38219,8 @@
       },
       "step_4_last_parallel_balloon.png": {
         "frame": {
-          "x": 1185,
-          "y": 1,
+          "x": 354,
+          "y": 809,
           "w": 200,
           "h": 61
         },
@@ -38183,8 +38228,8 @@
       },
       "step_4_last_pickup_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 483,
+          "x": 197,
+          "y": 341,
           "w": 222,
           "h": 62
         },
@@ -38192,8 +38237,8 @@
       },
       "step_4_last_pickup_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1134,
+          "x": 443,
+          "y": 292,
           "w": 222,
           "h": 61
         },
@@ -38201,8 +38246,8 @@
       },
       "step_4_last_pickup_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1199,
+          "x": 423,
+          "y": 357,
           "w": 222,
           "h": 61
         },
@@ -38210,8 +38255,8 @@
       },
       "step_4_last_sr_balloon.png": {
         "frame": {
-          "x": 1263,
-          "y": 1009,
+          "x": 1188,
+          "y": 1221,
           "w": 159,
           "h": 61
         },
@@ -38219,8 +38264,8 @@
       },
       "step_4_last_ssr_balloon.png": {
         "frame": {
-          "x": 1263,
-          "y": 1074,
+          "x": 1188,
+          "y": 1286,
           "w": 159,
           "h": 61
         },
@@ -38228,8 +38273,8 @@
       },
       "step_4_last_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1259,
-          "y": 1139,
+          "x": 1189,
+          "y": 1465,
           "w": 159,
           "h": 61
         },
@@ -38237,8 +38282,8 @@
       },
       "step_4_last_ssr_or_higher_balloon.png": {
         "frame": {
-          "x": 402,
-          "y": 1531,
+          "x": 527,
+          "y": 1238,
           "w": 166,
           "h": 64
         },
@@ -38246,8 +38291,8 @@
       },
       "step_4_last_subject_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1264,
+          "x": 423,
+          "y": 422,
           "w": 222,
           "h": 61
         },
@@ -38255,8 +38300,8 @@
       },
       "step_4_last_twilight_balloon.png": {
         "frame": {
-          "x": 1389,
-          "y": 1,
+          "x": 354,
+          "y": 874,
           "w": 200,
           "h": 61
         },
@@ -38264,8 +38309,8 @@
       },
       "step_4_last_twilight_p_balloon.png": {
         "frame": {
-          "x": 217,
-          "y": 210,
+          "x": 353,
+          "y": 939,
           "w": 200,
           "h": 61
         },
@@ -38273,8 +38318,8 @@
       },
       "step_4_last_twilight_s_balloon.png": {
         "frame": {
-          "x": 228,
-          "y": 275,
+          "x": 353,
+          "y": 1004,
           "w": 200,
           "h": 61
         },
@@ -38282,8 +38327,8 @@
       },
       "step_4_p_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 1259,
-          "y": 1204,
+          "x": 1189,
+          "y": 1530,
           "w": 159,
           "h": 61
         },
@@ -38291,8 +38336,8 @@
       },
       "step_4_pickup_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 579,
-          "y": 714,
+          "x": 1269,
+          "y": 222,
           "w": 170,
           "h": 88
         },
@@ -38300,8 +38345,8 @@
       },
       "step_4_s_ssr_stuff_balloon.png": {
         "frame": {
-          "x": 1259,
-          "y": 1269,
+          "x": 1453,
+          "y": 591,
           "w": 159,
           "h": 61
         },
@@ -38309,8 +38354,8 @@
       },
       "step_4_ssr_15pct_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 577,
-          "y": 987,
+          "x": 1443,
+          "y": 223,
           "w": 170,
           "h": 88
         },
@@ -38318,8 +38363,8 @@
       },
       "step_4_ssr_25pct_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1108,
-          "y": 429,
+          "x": 892,
+          "y": 1125,
           "w": 161,
           "h": 86
         },
@@ -38327,8 +38372,8 @@
       },
       "step_4_ssr_balloon.png": {
         "frame": {
-          "x": 1426,
-          "y": 837,
+          "x": 1401,
+          "y": 980,
           "w": 158,
           "h": 61
         },
@@ -38336,8 +38381,8 @@
       },
       "step_4_ssr_double_balloon_and_last_limited_p_ssr_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 758,
+          "x": 937,
+          "y": 584,
           "w": 168,
           "h": 88
         },
@@ -38345,8 +38390,8 @@
       },
       "step_4_ssr_double_balloon_and_last_mycollection_limited_ssr_txt.png": {
         "frame": {
-          "x": 1108,
-          "y": 342,
+          "x": 900,
+          "y": 952,
           "w": 165,
           "h": 83
         },
@@ -38354,8 +38399,8 @@
       },
       "step_4_ssr_double_balloon_and_last_shhis_ssr_txt.png": {
         "frame": {
-          "x": 577,
-          "y": 1079,
+          "x": 649,
+          "y": 411,
           "w": 170,
           "h": 88
         },
@@ -38363,8 +38408,8 @@
       },
       "step_4_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 234,
-          "y": 340,
+          "x": 1,
+          "y": 603,
           "w": 175,
           "h": 89
         },
@@ -38372,8 +38417,8 @@
       },
       "step_4_ssr_double_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 850,
+          "x": 1109,
+          "y": 590,
           "w": 168,
           "h": 88
         },
@@ -38381,8 +38426,8 @@
       },
       "step_4_ssr_double_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 1309,
+          "x": 733,
+          "y": 849,
           "w": 167,
           "h": 87
         },
@@ -38390,8 +38435,8 @@
       },
       "step_4_ssr_double_balloon_and_last_stray_ssr_higher_txt.png": {
         "frame": {
-          "x": 577,
-          "y": 1171,
+          "x": 841,
+          "y": 299,
           "w": 170,
           "h": 88
         },
@@ -38399,17 +38444,26 @@
       },
       "step_4_ssr_quadruple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 925,
-          "y": 942,
+          "x": 1281,
+          "y": 591,
           "w": 168,
           "h": 87
         },
         "rotated": false
       },
+      "step_4_ssr_quadruple_balloon_and_last_mycollection_ssr_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 285,
+          "w": 192,
+          "h": 85
+        },
+        "rotated": false
+      },
       "step_4_ssr_quadruple_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 923,
-          "y": 1033,
+          "x": 751,
+          "y": 665,
           "w": 168,
           "h": 88
         },
@@ -38417,8 +38471,8 @@
       },
       "step_4_ssr_quintuple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 578,
-          "y": 897,
+          "x": 1093,
+          "y": 131,
           "w": 172,
           "h": 86
         },
@@ -38426,8 +38480,8 @@
       },
       "step_4_ssr_quintuple_balloon_and_last_mycollection_or_limited_ssr_txt.png": {
         "frame": {
-          "x": 577,
-          "y": 1263,
+          "x": 1093,
+          "y": 221,
           "w": 172,
           "h": 83
         },
@@ -38435,8 +38489,8 @@
       },
       "step_4_ssr_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1106,
-          "y": 158,
+          "x": 1248,
+          "y": 774,
           "w": 167,
           "h": 88
         },
@@ -38444,8 +38498,8 @@
       },
       "step_4_ssr_septuple_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 402,
-          "y": 1348,
+          "x": 1269,
+          "y": 131,
           "w": 171,
           "h": 87
         },
@@ -38453,8 +38507,8 @@
       },
       "step_4_ssr_sextuple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 522,
+          "x": 177,
+          "y": 971,
           "w": 172,
           "h": 88
         },
@@ -38462,8 +38516,8 @@
       },
       "step_4_ssr_triple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 614,
+          "x": 177,
+          "y": 1063,
           "w": 172,
           "h": 88
         },
@@ -38471,8 +38525,8 @@
       },
       "step_4_ssr_triple_balloon_and_last_mycollection_ssr_txt.png": {
         "frame": {
-          "x": 1277,
-          "y": 342,
+          "x": 1069,
+          "y": 955,
           "w": 162,
           "h": 82
         },
@@ -38480,8 +38534,8 @@
       },
       "step_4_ssr_triple_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 1258,
+          "x": 841,
+          "y": 391,
           "w": 170,
           "h": 86
         },
@@ -38489,8 +38543,8 @@
       },
       "step_4_ssr_triple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1277,
-          "y": 158,
+          "x": 904,
+          "y": 860,
           "w": 167,
           "h": 88
         },
@@ -38498,8 +38552,8 @@
       },
       "step_4_ssr_triple_balloon_and_last_subject_ssr_txt.png": {
         "frame": {
-          "x": 1108,
-          "y": 519,
+          "x": 893,
+          "y": 1039,
           "w": 162,
           "h": 82
         },
@@ -38507,8 +38561,8 @@
       },
       "step_5_button_off.png": {
         "frame": {
-          "x": 1422,
-          "y": 1161,
+          "x": 1503,
+          "y": 1368,
           "w": 148,
           "h": 60
         },
@@ -38516,8 +38570,8 @@
       },
       "step_5_button_on.png": {
         "frame": {
-          "x": 1422,
-          "y": 1225,
+          "x": 1504,
+          "y": 1432,
           "w": 148,
           "h": 60
         },
@@ -38525,8 +38579,8 @@
       },
       "step_5_last_limited_p_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1329,
+          "x": 367,
+          "y": 487,
           "w": 222,
           "h": 61
         },
@@ -38534,17 +38588,26 @@
       },
       "step_5_last_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1259,
-          "y": 1334,
+          "x": 1439,
+          "y": 720,
           "w": 159,
+          "h": 61
+        },
+        "rotated": false
+      },
+      "step_5_last_parallel_balloon.png": {
+        "frame": {
+          "x": 353,
+          "y": 1069,
+          "w": 200,
           "h": 61
         },
         "rotated": false
       },
       "step_5_last_parallel_or_twilight_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1394,
+          "x": 593,
+          "y": 97,
           "w": 223,
           "h": 61
         },
@@ -38552,8 +38615,8 @@
       },
       "step_5_last_pickup_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 1521,
+          "x": 141,
+          "y": 537,
           "w": 204,
           "h": 62
         },
@@ -38561,8 +38624,8 @@
       },
       "step_5_last_pickup_limited_ssr_balloon.png": {
         "frame": {
-          "x": 1,
-          "y": 285,
+          "x": 889,
+          "y": 49,
           "w": 223,
           "h": 63
         },
@@ -38570,8 +38633,8 @@
       },
       "step_5_last_sr_balloon.png": {
         "frame": {
-          "x": 1259,
-          "y": 1399,
+          "x": 1419,
+          "y": 785,
           "w": 159,
           "h": 61
         },
@@ -38579,8 +38642,8 @@
       },
       "step_5_last_ssr_balloon.png": {
         "frame": {
-          "x": 1258,
-          "y": 1464,
+          "x": 1419,
+          "y": 850,
           "w": 159,
           "h": 61
         },
@@ -38588,8 +38651,8 @@
       },
       "step_5_last_subject_ssr_balloon.png": {
         "frame": {
-          "x": 593,
-          "y": 97,
+          "x": 354,
+          "y": 679,
           "w": 203,
           "h": 61
         },
@@ -38606,8 +38669,8 @@
       },
       "step_5_last_subject_ur_balloon.png": {
         "frame": {
-          "x": 1098,
-          "y": 605,
+          "x": 527,
+          "y": 1582,
           "w": 166,
           "h": 64
         },
@@ -38615,8 +38678,8 @@
       },
       "step_5_last_twilight_balloon.png": {
         "frame": {
-          "x": 889,
-          "y": 49,
+          "x": 354,
+          "y": 744,
           "w": 203,
           "h": 61
         },
@@ -38624,8 +38687,8 @@
       },
       "step_5_pickup_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 402,
-          "y": 1439,
+          "x": 1015,
+          "y": 308,
           "w": 170,
           "h": 88
         },
@@ -38633,8 +38696,8 @@
       },
       "step_5_ssr_6.5times_balloon_and_last_mycollection_ssr_txt.png": {
         "frame": {
-          "x": 1097,
-          "y": 854,
+          "x": 1059,
+          "y": 1041,
           "w": 162,
           "h": 82
         },
@@ -38642,8 +38705,8 @@
       },
       "step_5_ssr_20pct_balloon_and_last_subject_ssr_txt.png": {
         "frame": {
-          "x": 577,
-          "y": 1350,
+          "x": 1015,
+          "y": 400,
           "w": 170,
           "h": 88
         },
@@ -38651,8 +38714,8 @@
       },
       "step_5_ssr_25pct_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1097,
-          "y": 673,
+          "x": 1057,
+          "y": 1127,
           "w": 161,
           "h": 86
         },
@@ -38660,8 +38723,8 @@
       },
       "step_5_ssr_balloon.png": {
         "frame": {
-          "x": 1426,
-          "y": 902,
+          "x": 1391,
+          "y": 1045,
           "w": 158,
           "h": 61
         },
@@ -38669,8 +38732,8 @@
       },
       "step_5_ssr_double_balloon_and_last_sr_txt.png": {
         "frame": {
-          "x": 923,
-          "y": 1125,
+          "x": 733,
+          "y": 757,
           "w": 168,
           "h": 88
         },
@@ -38678,8 +38741,8 @@
       },
       "step_5_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1426,
-          "y": 967,
+          "x": 1391,
+          "y": 1110,
           "w": 158,
           "h": 61
         },
@@ -38687,8 +38750,8 @@
       },
       "step_5_ssr_quadruple_balloon_and_last_mycollection_txt.png": {
         "frame": {
-          "x": 1097,
-          "y": 940,
+          "x": 1235,
+          "y": 958,
           "w": 162,
           "h": 82
         },
@@ -38697,16 +38760,25 @@
       "step_5_ssr_quadruple_balloon_and_last_subject_ssr_txt.png": {
         "frame": {
           "x": 923,
-          "y": 1400,
+          "y": 676,
           "w": 168,
           "h": 88
         },
         "rotated": false
       },
+      "step_5_ssr_quadruple_balloon_and_last_twilight_txt.png": {
+        "frame": {
+          "x": 1,
+          "y": 374,
+          "w": 192,
+          "h": 85
+        },
+        "rotated": false
+      },
       "step_5_ssr_quintuple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 922,
-          "y": 1492,
+          "x": 1095,
+          "y": 682,
           "w": 168,
           "h": 88
         },
@@ -38714,8 +38786,8 @@
       },
       "step_5_ssr_septuple_balloon_and_last_twilight_or_mycollection_or_limited_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 706,
+          "x": 177,
+          "y": 1155,
           "w": 172,
           "h": 88
         },
@@ -38723,8 +38795,8 @@
       },
       "step_5_ssr_sextuple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 403,
-          "y": 798,
+          "x": 177,
+          "y": 1247,
           "w": 172,
           "h": 88
         },
@@ -38732,8 +38804,8 @@
       },
       "step_5_ssr_triple_balloon_and_last_limited_ssr_txt.png": {
         "frame": {
-          "x": 751,
-          "y": 1173,
+          "x": 1075,
+          "y": 866,
           "w": 166,
           "h": 85
         },
@@ -38741,8 +38813,8 @@
       },
       "step_5_ssr_triple_balloon_and_last_mycollection_txt.png": {
         "frame": {
-          "x": 1097,
-          "y": 1026,
+          "x": 1225,
+          "y": 1044,
           "w": 162,
           "h": 82
         },
@@ -38750,8 +38822,8 @@
       },
       "step_5_ssr_triple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1107,
-          "y": 250,
+          "x": 1245,
+          "y": 866,
           "w": 166,
           "h": 88
         },
@@ -38759,8 +38831,8 @@
       },
       "step_5_ssr_triple_balloon_and_last_twilight_or_limited_ssr_txt.png": {
         "frame": {
-          "x": 1097,
-          "y": 763,
+          "x": 1222,
+          "y": 1130,
           "w": 158,
           "h": 87
         },
@@ -38768,8 +38840,8 @@
       },
       "step_5_twilight_quintuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1096,
-          "y": 66,
+          "x": 1267,
+          "y": 682,
           "w": 168,
           "h": 88
         },
@@ -38777,8 +38849,8 @@
       },
       "step_6_button_off.png": {
         "frame": {
-          "x": 1422,
-          "y": 1289,
+          "x": 1504,
+          "y": 1496,
           "w": 148,
           "h": 60
         },
@@ -38786,8 +38858,8 @@
       },
       "step_6_button_on.png": {
         "frame": {
-          "x": 1422,
-          "y": 1353,
+          "x": 1504,
+          "y": 1560,
           "w": 148,
           "h": 60
         },
@@ -38795,8 +38867,8 @@
       },
       "step_6_last_sr_balloon.png": {
         "frame": {
-          "x": 1257,
-          "y": 1529,
+          "x": 1415,
+          "y": 915,
           "w": 159,
           "h": 61
         },
@@ -38804,8 +38876,8 @@
       },
       "step_6_last_ssr_higher_balloon.png": {
         "frame": {
-          "x": 1426,
-          "y": 1032,
+          "x": 1384,
+          "y": 1175,
           "w": 158,
           "h": 61
         },
@@ -38813,8 +38885,8 @@
       },
       "step_6_ssr_double_balloon_and_last_ssr_higher_txt.png": {
         "frame": {
-          "x": 1268,
-          "y": 66,
+          "x": 905,
+          "y": 768,
           "w": 168,
           "h": 88
         },
@@ -38822,8 +38894,8 @@
       },
       "step_6_ssr_double_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 576,
-          "y": 1442,
+          "x": 1189,
+          "y": 314,
           "w": 170,
           "h": 88
         },
@@ -38831,8 +38903,8 @@
       },
       "step_6_ssr_sextuple_balloon_and_last_ssr_txt.png": {
         "frame": {
-          "x": 1277,
-          "y": 250,
+          "x": 730,
+          "y": 940,
           "w": 166,
           "h": 88
         },
@@ -38930,8 +39002,8 @@
       },
       "time_left_balloon.png": {
         "frame": {
-          "x": 1422,
-          "y": 1417,
+          "x": 1188,
+          "y": 1351,
           "w": 120,
           "h": 45
         },
@@ -81210,8 +81282,8 @@
   "images/ui/debug/parts_skill_notice": {
     "name": "images/ui/debug/parts_skill_notice",
     "ext": ".png",
-    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=1",
-    "v": 1,
+    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=2",
+    "v": 2,
     "frames": {
       "arrow.png": {
         "frame": {
@@ -81312,6 +81384,15 @@
         },
         "rotated": false
       },
+      "skill_notice_list_s_skill_icon.png": {
+        "frame": {
+          "x": 1119,
+          "y": 393,
+          "w": 24,
+          "h": 24
+        },
+        "rotated": false
+      },
       "skill_panel_main_text_base.png": {
         "frame": {
           "x": 1,
@@ -81344,7 +81425,7 @@
           "x": 1,
           "y": 1170,
           "w": 378,
-          "h": 30
+          "h": 29
         },
         "rotated": false
       },
@@ -81369,7 +81450,7 @@
       "title_fight_notice.png": {
         "frame": {
           "x": 1,
-          "y": 1204,
+          "y": 1203,
           "w": 285,
           "h": 25
         },
@@ -81378,7 +81459,7 @@
       "title_live_skill_notice.png": {
         "frame": {
           "x": 290,
-          "y": 1204,
+          "y": 1203,
           "w": 285,
           "h": 25
         },
@@ -81412,5 +81493,54 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/110012/001": {
+    "name": "images/tips/game_event/110012/001",
+    "ext": ".jpg",
+    "url": "/assets/e03232f27c0dc4c5ff140b3a1c54086e4394309f705e1b1cd8df6beeaa95b500?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/154/001": {
+    "name": "images/tips/game_event/154/001",
+    "ext": ".jpg",
+    "url": "/assets/382c4921f6e7ed56dfe16c28f788b0830ab34d48f917a160de9acf14d07a48b7?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/154/002": {
+    "name": "images/tips/game_event/154/002",
+    "ext": ".jpg",
+    "url": "/assets/d5c9c8e7dce22f3cb0c123eb1052772ad5cb8159403246845a1e4fbb651d8706?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/154/003": {
+    "name": "images/tips/game_event/154/003",
+    "ext": ".jpg",
+    "url": "/assets/829cfa68879fcdeae72c22c1d37a9bc80944ba5a6345faf2d2ef64e909f5d42a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60046/001": {
+    "name": "images/tips/game_event/60046/001",
+    "ext": ".jpg",
+    "url": "/assets/a447d758f9e18188a07381683bc8f2146b772505e980e52d21876d3285f788f2?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60046/002": {
+    "name": "images/tips/game_event/60046/002",
+    "ext": ".jpg",
+    "url": "/assets/36bf9795cf4658f6a6b6282bb58cb46c7963b41c33d4db4bf3e22cf088cdb26a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/60046/003": {
+    "name": "images/tips/game_event/60046/003",
+    "ext": ".jpg",
+    "url": "/assets/0de36d2ddfccef4b7fca4f1e096ca0bc67ad6778a410547bded76ac24576f98f?v=1",
+    "v": 1,
+    "frames": null
   }
 }
