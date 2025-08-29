@@ -81435,8 +81435,8 @@
   "images/ui/debug/parts_skill_notice": {
     "name": "images/ui/debug/parts_skill_notice",
     "ext": ".png",
-    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=2",
-    "v": 2,
+    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=3",
+    "v": 3,
     "frames": {
       "arrow.png": {
         "frame": {
@@ -81600,7 +81600,7 @@
         },
         "rotated": false
       },
-      "title_fight_notice.png": {
+      "title_ability_notice.png": {
         "frame": {
           "x": 1,
           "y": 1203,
@@ -81609,7 +81609,7 @@
         },
         "rotated": false
       },
-      "title_live_skill_notice.png": {
+      "title_fight_notice.png": {
         "frame": {
           "x": 290,
           "y": 1203,
@@ -81618,7 +81618,7 @@
         },
         "rotated": false
       },
-      "title_other_notice.png": {
+      "title_live_skill_notice.png": {
         "frame": {
           "x": 354,
           "y": 1062,
@@ -81627,7 +81627,7 @@
         },
         "rotated": false
       },
-      "title_passive_notice.png": {
+      "title_other_notice.png": {
         "frame": {
           "x": 354,
           "y": 1091,
@@ -81636,10 +81636,19 @@
         },
         "rotated": false
       },
-      "title_quick_skill_notice.png": {
+      "title_passive_notice.png": {
         "frame": {
           "x": 354,
           "y": 1120,
+          "w": 285,
+          "h": 25
+        },
+        "rotated": false
+      },
+      "title_quick_skill_notice.png": {
+        "frame": {
+          "x": 383,
+          "y": 1149,
           "w": 285,
           "h": 25
         },
@@ -82200,5 +82209,33 @@
         "rotated": false
       }
     }
+  },
+  "images/tips/game_event/30034/001": {
+    "name": "images/tips/game_event/30034/001",
+    "ext": ".jpg",
+    "url": "/assets/59f2a1fc21cf88bcbb0a5633d7e674815f22e15149e56e85e72ec433bd954383?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30034/002": {
+    "name": "images/tips/game_event/30034/002",
+    "ext": ".jpg",
+    "url": "/assets/fd0c06edaea4b0c8a96956fd9047db855d01893642893621888e6eed4d258554?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30034/003": {
+    "name": "images/tips/game_event/30034/003",
+    "ext": ".jpg",
+    "url": "/assets/8bed81c9f0fc04105dfdfe92768d5982b0208c9ef2960908d563d7c1443c5aa3?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30034/009": {
+    "name": "images/tips/game_event/30034/009",
+    "ext": ".jpg",
+    "url": "/assets/41a4ae7f194151c2487dab3c51599223cf005712b7a7d0f6dc34a561b725e5ad?v=1",
+    "v": 1,
+    "frames": null
   }
 }
