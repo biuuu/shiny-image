@@ -81498,22 +81498,40 @@
   "images/ui/debug/parts_skill_notice": {
     "name": "images/ui/debug/parts_skill_notice",
     "ext": ".png",
-    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=3",
-    "v": 3,
+    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=4",
+    "v": 4,
     "frames": {
       "arrow.png": {
         "frame": {
-          "x": 1015,
-          "y": 265,
+          "x": 1196,
+          "y": 618,
           "w": 169,
           "h": 96
         },
         "rotated": false
       },
-      "notice_rarity_icon_2.png": {
+      "has_charge_appeal_icon.png": {
         "frame": {
           "x": 1015,
-          "y": 486,
+          "y": 618,
+          "w": 177,
+          "h": 37
+        },
+        "rotated": false
+      },
+      "has_charge_appeal_notice_text.png": {
+        "frame": {
+          "x": 1015,
+          "y": 283,
+          "w": 241,
+          "h": 67
+        },
+        "rotated": false
+      },
+      "notice_rarity_icon_2.png": {
+        "frame": {
+          "x": 1304,
+          "y": 266,
           "w": 50,
           "h": 49
         },
@@ -81521,8 +81539,8 @@
       },
       "notice_rarity_icon_3.png": {
         "frame": {
-          "x": 1171,
-          "y": 371,
+          "x": 1304,
+          "y": 215,
           "w": 51,
           "h": 47
         },
@@ -81530,8 +81548,8 @@
       },
       "notice_rarity_icon_4.png": {
         "frame": {
-          "x": 1188,
-          "y": 318,
+          "x": 1304,
+          "y": 162,
           "w": 52,
           "h": 49
         },
@@ -81539,8 +81557,8 @@
       },
       "notice_rarity_icon_5.png": {
         "frame": {
-          "x": 1188,
-          "y": 265,
+          "x": 1304,
+          "y": 109,
           "w": 58,
           "h": 49
         },
@@ -81567,7 +81585,7 @@
       "p_idol_skill_panel_base.png": {
         "frame": {
           "x": 1015,
-          "y": 1,
+          "y": 354,
           "w": 233,
           "h": 231
         },
@@ -81575,8 +81593,17 @@
       },
       "produce_skill_panel_base.png": {
         "frame": {
-          "x": 420,
-          "y": 739,
+          "x": 1,
+          "y": 1062,
+          "w": 375,
+          "h": 319
+        },
+        "rotated": false
+      },
+      "produce_skill_panel_base_2.png": {
+        "frame": {
+          "x": 380,
+          "y": 1062,
           "w": 375,
           "h": 319
         },
@@ -81584,8 +81611,8 @@
       },
       "produce_skill_panel_focus_frame.png": {
         "frame": {
-          "x": 1119,
-          "y": 422,
+          "x": 1252,
+          "y": 412,
           "w": 89,
           "h": 81
         },
@@ -81594,7 +81621,7 @@
       "skill_list_lock_base.png": {
         "frame": {
           "x": 1015,
-          "y": 236,
+          "y": 589,
           "w": 221,
           "h": 25
         },
@@ -81602,8 +81629,8 @@
       },
       "skill_notice_list_s_skill_icon.png": {
         "frame": {
-          "x": 1119,
-          "y": 393,
+          "x": 1260,
+          "y": 283,
           "w": 24,
           "h": 24
         },
@@ -81611,8 +81638,8 @@
       },
       "skill_panel_main_text_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1062,
+          "x": 1015,
+          "y": 1,
           "w": 349,
           "h": 104
         },
@@ -81621,7 +81648,7 @@
       "skill_panel_text.png": {
         "frame": {
           "x": 1015,
-          "y": 365,
+          "y": 659,
           "w": 152,
           "h": 24
         },
@@ -81638,8 +81665,8 @@
       },
       "support_skill_list_content_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1170,
+          "x": 799,
+          "y": 739,
           "w": 378,
           "h": 29
         },
@@ -81647,7 +81674,7 @@
       },
       "support_skill_panel_base.png": {
         "frame": {
-          "x": 799,
+          "x": 420,
           "y": 739,
           "w": 375,
           "h": 319
@@ -81656,8 +81683,8 @@
       },
       "support_skill_panel_focus_frame.png": {
         "frame": {
-          "x": 1015,
-          "y": 393,
+          "x": 1260,
+          "y": 319,
           "w": 100,
           "h": 89
         },
@@ -81665,8 +81692,8 @@
       },
       "title_ability_notice.png": {
         "frame": {
-          "x": 1,
-          "y": 1203,
+          "x": 1015,
+          "y": 109,
           "w": 285,
           "h": 25
         },
@@ -81674,8 +81701,8 @@
       },
       "title_fight_notice.png": {
         "frame": {
-          "x": 290,
-          "y": 1203,
+          "x": 1015,
+          "y": 138,
           "w": 285,
           "h": 25
         },
@@ -81683,8 +81710,8 @@
       },
       "title_live_skill_notice.png": {
         "frame": {
-          "x": 354,
-          "y": 1062,
+          "x": 1015,
+          "y": 167,
           "w": 285,
           "h": 25
         },
@@ -81692,8 +81719,8 @@
       },
       "title_other_notice.png": {
         "frame": {
-          "x": 354,
-          "y": 1091,
+          "x": 1015,
+          "y": 196,
           "w": 285,
           "h": 25
         },
@@ -81701,8 +81728,8 @@
       },
       "title_passive_notice.png": {
         "frame": {
-          "x": 354,
-          "y": 1120,
+          "x": 1015,
+          "y": 225,
           "w": 285,
           "h": 25
         },
@@ -81710,8 +81737,8 @@
       },
       "title_quick_skill_notice.png": {
         "frame": {
-          "x": 383,
-          "y": 1149,
+          "x": 1015,
+          "y": 254,
           "w": 285,
           "h": 25
         },
@@ -81806,8 +81833,8 @@
   "images/ui/grade_fes_concert/parts": {
     "name": "images/ui/grade_fes_concert/parts",
     "ext": ".png",
-    "url": "/assets/1be68f2bbfae4e7bda9ace4d7042fa878e96f80f0554da99a8e9c97ac92a9d63?v=1",
-    "v": 1,
+    "url": "/assets/1be68f2bbfae4e7bda9ace4d7042fa878e96f80f0554da99a8e9c97ac92a9d63?v=2",
+    "v": 2,
     "frames": {
       "appeal_status_rival_base.png": {
         "frame": {
@@ -81830,7 +81857,7 @@
       "choose_rival_icon_base.png": {
         "frame": {
           "x": 1013,
-          "y": 476,
+          "y": 479,
           "w": 84,
           "h": 82
         },
@@ -81839,7 +81866,7 @@
       "choose_rival_icon_mask.png": {
         "frame": {
           "x": 1064,
-          "y": 374,
+          "y": 377,
           "w": 61,
           "h": 62
         },
@@ -81884,7 +81911,7 @@
       "grade_fes_concert_mental_gauge.png": {
         "frame": {
           "x": 1013,
-          "y": 440,
+          "y": 443,
           "w": 88,
           "h": 14
         },
@@ -81893,7 +81920,7 @@
       "grade_fes_concert_mental_gauge_base.png": {
         "frame": {
           "x": 1013,
-          "y": 458,
+          "y": 461,
           "w": 88,
           "h": 14
         },
@@ -81926,6 +81953,15 @@
         },
         "rotated": false
       },
+      "highlight_judge_display_star.png": {
+        "frame": {
+          "x": 1123,
+          "y": 178,
+          "w": 11,
+          "h": 12
+        },
+        "rotated": false
+      },
       "interesting_gauge_blue.png": {
         "frame": {
           "x": 912,
@@ -81953,6 +81989,33 @@
         },
         "rotated": false
       },
+      "judge_image_dance_small.png": {
+        "frame": {
+          "x": 1095,
+          "y": 178,
+          "w": 24,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "judge_image_visual_small.png": {
+        "frame": {
+          "x": 1095,
+          "y": 210,
+          "w": 23,
+          "h": 28
+        },
+        "rotated": false
+      },
+      "judge_image_vocal_small.png": {
+        "frame": {
+          "x": 1095,
+          "y": 242,
+          "w": 23,
+          "h": 27
+        },
+        "rotated": false
+      },
       "live_reset_button.png": {
         "frame": {
           "x": 912,
@@ -81965,7 +82028,7 @@
       "live_reset_square_button.png": {
         "frame": {
           "x": 1064,
-          "y": 306,
+          "y": 309,
           "w": 64,
           "h": 64
         },
@@ -81992,7 +82055,7 @@
       "select_triangle.png": {
         "frame": {
           "x": 1095,
-          "y": 178,
+          "y": 273,
           "w": 21,
           "h": 32
         },
@@ -82375,6 +82438,13 @@
     "name": "images/tips/game_event/50057/009",
     "ext": ".jpg",
     "url": "/assets/8054954d51fffe46e4627ad12bab826f1bba032890c85dedd7647fe25bc5f0ed?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80028/001": {
+    "name": "images/tips/game_event/80028/001",
+    "ext": ".jpg",
+    "url": "/assets/69d263d6211669363309e61bc976bac97ed1ef03f5f6fd078cea8051044116b4?v=1",
     "v": 1,
     "frames": null
   }
