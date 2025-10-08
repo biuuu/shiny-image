@@ -82447,5 +82447,68 @@
     "url": "/assets/69d263d6211669363309e61bc976bac97ed1ef03f5f6fd078cea8051044116b4?v=1",
     "v": 1,
     "frames": null
+  },
+  "images/tips/game_event/30035/001": {
+    "name": "images/tips/game_event/30035/001",
+    "ext": ".jpg",
+    "url": "/assets/e5bfbe0fb2293ea8f15a3f6994ea24ccf94ce91259552556cd31044ffb80ed84?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30035/002": {
+    "name": "images/tips/game_event/30035/002",
+    "ext": ".jpg",
+    "url": "/assets/fa71591107656bfe370c59f0e7f5d27a8e93c08880ddcc74c32ec809a8580815?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30035/003": {
+    "name": "images/tips/game_event/30035/003",
+    "ext": ".jpg",
+    "url": "/assets/eb0d4e6b24ab296737e103403b6cbdc108f8f66b0a4aab3498d1b484810742af?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/30035/009": {
+    "name": "images/tips/game_event/30035/009",
+    "ext": ".jpg",
+    "url": "/assets/92e7d96a57ba9eaae007655db3a798abe311e6f8cd31b3cffcedae52b4634973?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40015/001": {
+    "name": "images/tips/game_event/40015/001",
+    "ext": ".jpg",
+    "url": "/assets/11682dab464d4504b82406c37d1a971d4f5f63626e886e419b6a2d3196efb467?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40015/002": {
+    "name": "images/tips/game_event/40015/002",
+    "ext": ".jpg",
+    "url": "/assets/6c8cf065c5bfc33519881aac57c3fdb1fdc7fe4995107ce715ce8f58e1b651a1?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40015/003": {
+    "name": "images/tips/game_event/40015/003",
+    "ext": ".jpg",
+    "url": "/assets/a39ef51315c0636421794b9f8724375418ee598fe7b6ea49ded9c76f26237da2?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40015/004": {
+    "name": "images/tips/game_event/40015/004",
+    "ext": ".jpg",
+    "url": "/assets/c21011df361dfee2bc481573075ae84c8a22f5c5685862b9a86ac7a52d8ed12a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/40015/005": {
+    "name": "images/tips/game_event/40015/005",
+    "ext": ".jpg",
+    "url": "/assets/b03c551adec753b633466fcbf5c86ff53ee3e7fa7abb5cd6f7a88a3bbb20930f?v=1",
+    "v": 1,
+    "frames": null
   }
 }
