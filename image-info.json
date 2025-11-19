@@ -81894,13 +81894,13 @@
   "images/ui/debug/parts_skill_notice": {
     "name": "images/ui/debug/parts_skill_notice",
     "ext": ".png",
-    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=4",
-    "v": 4,
+    "url": "/assets/582ff8560d202b160a1ca2b34bf8a83001e59ffcb8466ed520691dca0ed9d132?v=5",
+    "v": 5,
     "frames": {
       "arrow.png": {
         "frame": {
-          "x": 1196,
-          "y": 618,
+          "x": 1015,
+          "y": 344,
           "w": 169,
           "h": 96
         },
@@ -81908,8 +81908,8 @@
       },
       "has_charge_appeal_icon.png": {
         "frame": {
-          "x": 1015,
-          "y": 618,
+          "x": 1188,
+          "y": 344,
           "w": 177,
           "h": 37
         },
@@ -81917,8 +81917,8 @@
       },
       "has_charge_appeal_notice_text.png": {
         "frame": {
-          "x": 1015,
-          "y": 283,
+          "x": 1,
+          "y": 1095,
           "w": 241,
           "h": 67
         },
@@ -81926,8 +81926,8 @@
       },
       "notice_rarity_icon_2.png": {
         "frame": {
-          "x": 1304,
-          "y": 266,
+          "x": 1303,
+          "y": 534,
           "w": 50,
           "h": 49
         },
@@ -81935,8 +81935,8 @@
       },
       "notice_rarity_icon_3.png": {
         "frame": {
-          "x": 1304,
-          "y": 215,
+          "x": 1178,
+          "y": 732,
           "w": 51,
           "h": 47
         },
@@ -81944,8 +81944,8 @@
       },
       "notice_rarity_icon_4.png": {
         "frame": {
-          "x": 1304,
-          "y": 162,
+          "x": 1314,
+          "y": 179,
           "w": 52,
           "h": 49
         },
@@ -81953,8 +81953,8 @@
       },
       "notice_rarity_icon_5.png": {
         "frame": {
-          "x": 1304,
-          "y": 109,
+          "x": 1252,
+          "y": 179,
           "w": 58,
           "h": 49
         },
@@ -81981,7 +81981,7 @@
       "p_idol_skill_panel_base.png": {
         "frame": {
           "x": 1015,
-          "y": 354,
+          "y": 1,
           "w": 233,
           "h": 231
         },
@@ -81989,8 +81989,8 @@
       },
       "produce_skill_panel_base.png": {
         "frame": {
-          "x": 1,
-          "y": 1062,
+          "x": 420,
+          "y": 739,
           "w": 375,
           "h": 319
         },
@@ -81998,8 +81998,8 @@
       },
       "produce_skill_panel_base_2.png": {
         "frame": {
-          "x": 380,
-          "y": 1062,
+          "x": 799,
+          "y": 739,
           "w": 375,
           "h": 319
         },
@@ -82008,7 +82008,7 @@
       "produce_skill_panel_focus_frame.png": {
         "frame": {
           "x": 1252,
-          "y": 412,
+          "y": 94,
           "w": 89,
           "h": 81
         },
@@ -82016,17 +82016,26 @@
       },
       "skill_list_lock_base.png": {
         "frame": {
-          "x": 1015,
-          "y": 589,
+          "x": 1,
+          "y": 1224,
           "w": 221,
           "h": 25
         },
         "rotated": false
       },
+      "skill_notice_ability_mark.png": {
+        "frame": {
+          "x": 1345,
+          "y": 94,
+          "w": 26,
+          "h": 26
+        },
+        "rotated": false
+      },
       "skill_notice_list_s_skill_icon.png": {
         "frame": {
-          "x": 1260,
-          "y": 283,
+          "x": 1345,
+          "y": 124,
           "w": 24,
           "h": 24
         },
@@ -82035,7 +82044,7 @@
       "skill_panel_main_text_base.png": {
         "frame": {
           "x": 1015,
-          "y": 1,
+          "y": 236,
           "w": 349,
           "h": 104
         },
@@ -82043,10 +82052,28 @@
       },
       "skill_panel_text.png": {
         "frame": {
-          "x": 1015,
-          "y": 659,
+          "x": 1188,
+          "y": 385,
           "w": 152,
           "h": 24
+        },
+        "rotated": false
+      },
+      "start_abilities_base.png": {
+        "frame": {
+          "x": 1015,
+          "y": 444,
+          "w": 324,
+          "h": 86
+        },
+        "rotated": false
+      },
+      "start_ability_base.png": {
+        "frame": {
+          "x": 1015,
+          "y": 534,
+          "w": 284,
+          "h": 78
         },
         "rotated": false
       },
@@ -82061,8 +82088,8 @@
       },
       "support_skill_list_content_base.png": {
         "frame": {
-          "x": 799,
-          "y": 739,
+          "x": 1,
+          "y": 1062,
           "w": 378,
           "h": 29
         },
@@ -82070,8 +82097,8 @@
       },
       "support_skill_panel_base.png": {
         "frame": {
-          "x": 420,
-          "y": 739,
+          "x": 383,
+          "y": 1062,
           "w": 375,
           "h": 319
         },
@@ -82079,8 +82106,8 @@
       },
       "support_skill_panel_focus_frame.png": {
         "frame": {
-          "x": 1260,
-          "y": 319,
+          "x": 1252,
+          "y": 1,
           "w": 100,
           "h": 89
         },
@@ -82089,7 +82116,7 @@
       "title_ability_notice.png": {
         "frame": {
           "x": 1015,
-          "y": 109,
+          "y": 616,
           "w": 285,
           "h": 25
         },
@@ -82098,7 +82125,7 @@
       "title_fight_notice.png": {
         "frame": {
           "x": 1015,
-          "y": 138,
+          "y": 645,
           "w": 285,
           "h": 25
         },
@@ -82107,7 +82134,7 @@
       "title_live_skill_notice.png": {
         "frame": {
           "x": 1015,
-          "y": 167,
+          "y": 674,
           "w": 285,
           "h": 25
         },
@@ -82116,7 +82143,7 @@
       "title_other_notice.png": {
         "frame": {
           "x": 1015,
-          "y": 196,
+          "y": 703,
           "w": 285,
           "h": 25
         },
@@ -82124,8 +82151,8 @@
       },
       "title_passive_notice.png": {
         "frame": {
-          "x": 1015,
-          "y": 225,
+          "x": 1,
+          "y": 1166,
           "w": 285,
           "h": 25
         },
@@ -82133,8 +82160,8 @@
       },
       "title_quick_skill_notice.png": {
         "frame": {
-          "x": 1015,
-          "y": 254,
+          "x": 1,
+          "y": 1195,
           "w": 285,
           "h": 25
         },
@@ -83851,6 +83878,34 @@
     "name": "images/tips/game_event/30036/009",
     "ext": ".jpg",
     "url": "/assets/11056ee4f29033226a73a6cbfbf9934deafa5e1c170f3ae4d5529e43f1644b75?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/159/001": {
+    "name": "images/tips/game_event/159/001",
+    "ext": ".jpg",
+    "url": "/assets/90e229a8ffde1ef7e0c7814a0589e5930340c56b46e048d5f55049517de04e8e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/159/002": {
+    "name": "images/tips/game_event/159/002",
+    "ext": ".jpg",
+    "url": "/assets/38734bcb44ecc76d49c0086388cb50e0df3ee2308a94564b0765c7ef6648f64e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/159/003": {
+    "name": "images/tips/game_event/159/003",
+    "ext": ".jpg",
+    "url": "/assets/8fc65b15d449ddd24d71f37297f9187d82b16440e0980f6a966952664e6bf2e0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80029/001": {
+    "name": "images/tips/game_event/80029/001",
+    "ext": ".jpg",
+    "url": "/assets/ce146180e45aa4bf43759af8ef3ab5e0c7d8e27d372b4e20fddf6643d9672379?v=1",
     "v": 1,
     "frames": null
   }
