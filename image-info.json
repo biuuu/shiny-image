@@ -52555,60 +52555,24 @@
   "images/ui/produce_action/parts_tab_2": {
     "name": "images/ui/produce_action/parts_tab_2",
     "ext": ".png",
-    "url": "/assets/c8909eebc32e09095718d7edf0d4113210d16b544ae352c2488052449875bb1d?v=3",
-    "v": 3,
+    "url": "/assets/c8909eebc32e09095718d7edf0d4113210d16b544ae352c2488052449875bb1d?v=4",
+    "v": 4,
     "frames": {
-      "tab_2_off_lesson.png": {
-        "frame": {
-          "x": 239,
-          "y": 323,
-          "w": 180,
-          "h": 57
-        },
-        "rotated": false
-      },
       "tab_2_off_lesson_work.png": {
         "frame": {
-          "x": 239,
+          "x": 1,
           "y": 228,
           "w": 197,
           "h": 91
         },
         "rotated": false
       },
-      "tab_2_off_work.png": {
-        "frame": {
-          "x": 239,
-          "y": 384,
-          "w": 164,
-          "h": 57
-        },
-        "rotated": false
-      },
-      "tab_2_on_lesson.png": {
-        "frame": {
-          "x": 1,
-          "y": 229,
-          "w": 234,
-          "h": 223
-        },
-        "rotated": false
-      },
       "tab_2_on_lesson_work.png": {
         "frame": {
-          "x": 235,
+          "x": 1,
           "y": 1,
           "w": 232,
           "h": 223
-        },
-        "rotated": false
-      },
-      "tab_2_on_work.png": {
-        "frame": {
-          "x": 1,
-          "y": 1,
-          "w": 230,
-          "h": 224
         },
         "rotated": false
       }
@@ -84276,6 +84240,27 @@
     "name": "images/tips/game_event/80030/001",
     "ext": ".jpg",
     "url": "/assets/bc1c53bf7ab7b6a4e9be9a01fef42b8f01928f02a8a88de6220eae3278c74607?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/165/001": {
+    "name": "images/tips/game_event/165/001",
+    "ext": ".jpg",
+    "url": "/assets/c060f80eaf5a83e08f5bcd0e3f0cd51a05ec078a945354c3afcd68e7a240ddf8?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/165/002": {
+    "name": "images/tips/game_event/165/002",
+    "ext": ".jpg",
+    "url": "/assets/978d4a6837ab26d910f8589e4555c1d21859bb9f387fda9d1e21ad437db88aa0?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/165/003": {
+    "name": "images/tips/game_event/165/003",
+    "ext": ".jpg",
+    "url": "/assets/1e50123a08f6fb6e72de6de0433e6357c4145e1c536cbb3a034cdc3590e659db?v=1",
     "v": 1,
     "frames": null
   }
