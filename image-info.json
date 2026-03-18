@@ -82790,8 +82790,8 @@
   "images/ui/music_player/parts": {
     "name": "images/ui/music_player/parts",
     "ext": ".png",
-    "url": "/assets/0e9a0b0b4afb0740332665ce9b36559b63c55d0fedcb2404ab01011efa9399a0?v=1",
-    "v": 1,
+    "url": "/assets/0e9a0b0b4afb0740332665ce9b36559b63c55d0fedcb2404ab01011efa9399a0?v=2",
+    "v": 2,
     "frames": {
       "bg_bottom_gradation.png": {
         "frame": {
@@ -82804,8 +82804,8 @@
       },
       "music_time_base.png": {
         "frame": {
-          "x": 261,
-          "y": 221,
+          "x": 709,
+          "y": 423,
           "w": 153,
           "h": 29
         },
@@ -82813,8 +82813,8 @@
       },
       "repeat_type_all_button.png": {
         "frame": {
-          "x": 885,
-          "y": 370,
+          "x": 866,
+          "y": 423,
           "w": 70,
           "h": 60
         },
@@ -82822,8 +82822,8 @@
       },
       "repeat_type_none_button.png": {
         "frame": {
-          "x": 959,
-          "y": 370,
+          "x": 940,
+          "y": 426,
           "w": 70,
           "h": 60
         },
@@ -82831,8 +82831,8 @@
       },
       "repeat_type_one_button.png": {
         "frame": {
-          "x": 1033,
-          "y": 370,
+          "x": 1014,
+          "y": 426,
           "w": 70,
           "h": 60
         },
@@ -82840,7 +82840,7 @@
       },
       "seek_handle.png": {
         "frame": {
-          "x": 418,
+          "x": 1005,
           "y": 221,
           "w": 28,
           "h": 28
@@ -82849,7 +82849,7 @@
       },
       "seek_select_time_base.png": {
         "frame": {
-          "x": 1,
+          "x": 417,
           "y": 221,
           "w": 128,
           "h": 44
@@ -82878,15 +82878,15 @@
         "frame": {
           "x": 1,
           "y": 277,
-          "w": 444,
+          "w": 481,
           "h": 433
         },
         "rotated": false
       },
       "track_list_button.png": {
         "frame": {
-          "x": 934,
-          "y": 301,
+          "x": 968,
+          "y": 357,
           "w": 167,
           "h": 65
         },
@@ -82894,17 +82894,17 @@
       },
       "track_list_content_base.png": {
         "frame": {
-          "x": 449,
-          "y": 423,
-          "w": 378,
-          "h": 53
+          "x": 1,
+          "y": 221,
+          "w": 412,
+          "h": 52
         },
         "rotated": false
       },
       "track_list_play_button.png": {
         "frame": {
-          "x": 225,
-          "y": 221,
+          "x": 1084,
+          "y": 277,
           "w": 32,
           "h": 32
         },
@@ -82912,7 +82912,7 @@
       },
       "track_list_playing_mark.png": {
         "frame": {
-          "x": 448,
+          "x": 1005,
           "y": 253,
           "w": 26,
           "h": 19
@@ -82930,8 +82930,8 @@
       },
       "track_prev_button.png": {
         "frame": {
-          "x": 831,
-          "y": 434,
+          "x": 486,
+          "y": 440,
           "w": 69,
           "h": 70
         },
@@ -82939,8 +82939,8 @@
       },
       "track_skip_button.png": {
         "frame": {
-          "x": 904,
-          "y": 434,
+          "x": 559,
+          "y": 440,
           "w": 69,
           "h": 70
         },
@@ -82948,8 +82948,8 @@
       },
       "track_stop_button.png": {
         "frame": {
-          "x": 934,
-          "y": 221,
+          "x": 1005,
+          "y": 277,
           "w": 75,
           "h": 76
         },
@@ -82957,7 +82957,7 @@
       },
       "track_title_base.png": {
         "frame": {
-          "x": 478,
+          "x": 549,
           "y": 221,
           "w": 452,
           "h": 116
@@ -82975,8 +82975,8 @@
       },
       "volume_down_button.png": {
         "frame": {
-          "x": 133,
-          "y": 221,
+          "x": 486,
+          "y": 269,
           "w": 42,
           "h": 42
         },
@@ -82984,8 +82984,8 @@
       },
       "volume_gauge.png": {
         "frame": {
-          "x": 225,
-          "y": 257,
+          "x": 486,
+          "y": 423,
           "w": 219,
           "h": 13
         },
@@ -82993,7 +82993,7 @@
       },
       "volume_gauge_base.png": {
         "frame": {
-          "x": 449,
+          "x": 532,
           "y": 341,
           "w": 432,
           "h": 78
@@ -83002,8 +83002,8 @@
       },
       "volume_up_button.png": {
         "frame": {
-          "x": 179,
-          "y": 221,
+          "x": 486,
+          "y": 315,
           "w": 42,
           "h": 42
         },
@@ -84525,6 +84525,34 @@
     "name": "images/tips/game_event/30038/009",
     "ext": ".jpg",
     "url": "/assets/7849e0c6c55dfd4bd4ce38d601c58152572dcf374ba20dc95a16a4407fc77e2e?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/168/001": {
+    "name": "images/tips/game_event/168/001",
+    "ext": ".jpg",
+    "url": "/assets/7d02099fcb8d2fbd034848307720efcff39e8ca70370bbf71b385f0f9f5bd985?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/168/002": {
+    "name": "images/tips/game_event/168/002",
+    "ext": ".jpg",
+    "url": "/assets/36ec873df5f161a98c00f04dbb656edbbafa9fd800ca2b9260f206a3d02315a9?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/168/003": {
+    "name": "images/tips/game_event/168/003",
+    "ext": ".jpg",
+    "url": "/assets/b94e62e3bedbf55d3ba258462c68fd274e8fb1624124eaf1a69cbec197ed0b0a?v=1",
+    "v": 1,
+    "frames": null
+  },
+  "images/tips/game_event/80031/001": {
+    "name": "images/tips/game_event/80031/001",
+    "ext": ".jpg",
+    "url": "/assets/cfaed225c0041d028e01d95fb9f40ea6806983705a976273d9c0d10706220c44?v=1",
     "v": 1,
     "frames": null
   }
